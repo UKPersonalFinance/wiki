@@ -152,7 +152,7 @@ We recommend that you use the professional body search engines as your starting 
 
 - [https://www.thepfs.org/membership/find-an-adviser/](https://www.thepfs.org/membership/find-an-adviser/)- The Personal Finance Society (23,000 or so registered advisers)
 - [https://financialplanning.cisi.org/cisiweb2/wayfinder/home](https://financialplanning.cisi.org/cisiweb2/wayfinder/home) - CISI Wayfinder, around 1,000 registered Certified Finance Professionals (see below for more information)
-- The London Institute of Banking and Finance, the smalles of the three bodies when it comes to professional financial advisers, doesn't offer a postcode search function.
+- The London Institute of Banking and Finance, the smallest of the three bodies when it comes to professional financial advisers, doesn't offer a postcode search function.
 
 ### Find further information with Unbiased and VouchedFor
 

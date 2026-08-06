@@ -71,7 +71,7 @@ We have a complete [LISA article](/lisa/) with much more detail.
 ### Innovative Finance ISA (IFISA) 🤝
 
 :::danger[Your capital is fully at risk in an IFISA!]
-There is currently no [Financial Services Compensation Scheme](https://www.fscs.org.uk/) protection for peer-to-peer lending. In the event that your platform goes bust or the underlying borrowers default you will not recieve compensation.
+There is currently no [Financial Services Compensation Scheme](https://www.fscs.org.uk/) protection for peer-to-peer lending. In the event that your platform goes bust or the underlying borrowers default you will not receive compensation.
 :::
 
 This is an ISA specifically intended for [peer-to-peer (P2P) lending](https://www.moneyhelper.org.uk/en/savings/investing/peer-to-peer-lending-what-you-need-to-know).
