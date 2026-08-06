@@ -17,7 +17,7 @@
     "astro": "7.2.0",
     "remark-custom-heading-id": "^2.0.0",
     "sharp": "^0.35.3",
-    "typescript": "6.0.3"
+    "typescript": "7.0.2"
   },
   "devDependencies": {
     "wrangler": "^4.119.0"
