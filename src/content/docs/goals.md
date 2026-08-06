@@ -1,0 +1,188 @@
+---
+title: Defining your goals
+description: How to quantify what you want to save for.
+---
+
+We all have goals: things we'd like to do. Often these are going to require
+at least some amount of money to achieve.
+
+If you have already:
+
+- ✅ Made a [budget](../budgeting/) 🧮
+- ✅ Paid off any short-term debts 💳
+- ✅ Sorted an [emergency fund](../emergency-fund/) ☔
+
+…then the next step is to think about your goals. As you start to save, it
+is helpful to quantify what you want to save for.
+
+## What are your goals? ✏️
+
+While you may already have a detailed life plan, it's also totally normal
+not to have an answer prepared for this question!
+
+Start by simply listing everything you think you might be interested in.
+Don't worry at this stage about how to achieve or prioritise them – this is
+an exploratory step and you can refine your list as you go over it.
+
+Examples of goals could be:
+
+- Large purchases such as electronics, appliances, furniture, equipment for
+  hobbies, etc
+- Holidays and travel
+- Training, lessons, courses, post-graduate study, etc
+- Vehicles
+- A wedding
+- Buying a home
+- A year off from work
+- Parental leave
+- Refurbishing your home
+- Paying off your mortgage
+- Planning for your retirement
+- Retiring early
+- A future investment such as a buy to let property or starting a business
+- Saving for your children
+
+## How much will it cost? 🎯
+
+For some goals, you may be able to put a cost and date on them with
+relative confidence. For example:
+
+- 🏖️ Summer holiday: £900, August
+- 📱 New phone: £400, in six months
+- 🚗 Car: £5,000, likely around 2 years from now
+
+For other goals, the time and cost may be uncertain, or open-ended. For
+example, you may know you want to save a house deposit so you can buy a
+house one day, but not yet know when you're likely to end up buying or
+what it's likely to cost.
+
+For these goals, record any other markers you have for your goals'
+success. For example, 'deposit for a 2-bed house in my area', or 'a total
+retirement income of £25,000'.
+
+You can then begin to calculate how much money you are likely to need to
+fulfil this goal. Don't worry if it's really approximate. We have some
+guides to help you:
+
+- For saving to buy a home, see our page on mortgages, which will help you
+  calculate how much you can expect to borrow, and thus how large a
+  deposit you require.
+- For retirement savings, see our [pensions](../pensions/)
+  page for an explanation of how pensions work, and links to calculators
+  that will show how much income you are predicted to receive in
+  retirement based on your contribution levels.
+
+## How much do you need to start putting aside? 🧮
+
+Your next step is to turn each goal into a monthly payment. Then you can
+see what they all add up to, and if necessary, adjust them to fit your
+budget.
+
+For goals that are short term and well defined, simply divide your target
+amount by the number of months left until you need the money. In the above
+example that would be:
+
+- 🏖️ Holiday: £900 ÷ 9 Months = £100 needed to save per month
+- 📱 Phone: £400 ÷ 6 months = £66 needed per month
+- 🚗 Car: £5,000 ÷ 24 Months = £210 per month
+
+If you don't have an exact date or amount, use an estimate.
+
+If your goal is more than 5 years away, you are likely to want to invest
+your savings to benefit from some growth. You can use a compound interest
+calculator to see what monthly payments of £50, £100, etc will add up to
+in your expected timeframe.
+
+## Review and adjust ⚖️
+
+Looking at all your goals and their monthly payments together, you may
+realise that you can't afford to save for everything you want all at once.
+If so, you may have to make some adjustments to your plans, especially to
+costs or timeframes.
+
+⚠️ Note it may be tempting to assume that once your current short term goals
+are over, you will then be able to attend to your long term goals, with
+£££ per month freed up to do so. This can make sense with very large goals
+like saving for a deposit for a home. But for smaller goals, our
+experience is there's always something. It's safer to assume that you will
+continue to spend as much on electronics, vehicles, holidays etc in the
+future as you do now.
+
+Prioritising how to use your financial resources is a tricky exercise, so
+take your time. There is no 'right' answer for how much you should save
+for what goals. It's up to you how you use your time and money.
+
+## I don't have any particular goals – I'm just saving
+
+Much of this page is about how to prioritise your goals within your
+ability to save for them, as that is often the limiting factor. But you
+may find the opposite: that you have more money coming in than you
+generally spend, even including larger purchases such holidays. Perhaps
+you have already accomplished bigger picture items like buying a home. Or
+alternatively, they may be still so far in the future that you can't
+really plan for them in any detail.
+
+In this situation, it can be tempting to skip this goal-setting exercise,
+or to come up with a 'goal' like 'I want to build wealth' or 'I want my
+money to work for me'.
+
+However, the next steps of the flowchart will all rely on you having some
+idea about what your savings are ultimately for, and importantly when you
+might need to access them. That's because without this, it will be
+difficult to know what to do with your savings. Cash savings, investments,
+ISAs, LISAs and pensions can all offer significant advantages, but also
+limitations and risks. There's no single best option – it depends on when
+you are likely to want to use the money.
+
+So even if you feel like you're saving by default rather than towards
+anything in particular, it's still important to give some thought to what
+you're likely to end up using your savings for one day, and especially
+when. This doesn't have to be detailed, but you will want to distinguish
+between money you want to have ready to use within the next few years,
+longer term savings, and retirement savings.
+
+## Set up savings or investment accounts 🏦
+
+In terms of your savings strategy, the most important factor is when you
+will need the money by.
+
+For goals within 5 years, see our page on savings accounts. You can earn
+some interest while you save, and make steady progress towards your goals.
+
+For goals more than five years away, you should consider investing the
+money to achieve greater growth than is possible using savings accounts.
+The further away your goal is, the more valuable investment returns will
+be as their growth will compound over time.
+
+Start with [Investing 101](../investing-101/), and from there
+ISA, LISA or [Pension](../pensions/) to choose the
+most appropriate and cost effective account type for your situation.
+
+🏠 If you're saving for your first home, check if you're eligible to use a
+LISA to boost your savings by up to £1,000 per year. LISAs can be either
+cash or investment accounts.
+
+## Are you sure I shouldn't invest for my short term goals? 📉
+
+The important thing to understand is that savings held with a bank (or
+NS&I) are risk-free. There's no scenario in which you save £1,000, then
+your account goes down to £900 on its own.
+
+In contrast, investments can be very volatile in the short term. Market
+fluctuations happen regularly and the value of your investments can rise
+or fall daily.
+
+The shorter the time period you invest for, the higher the chances that
+the final value of your investments could end up below the amount you put
+in. Meanwhile, the longer you invest for, the more confident you can be
+that your investment returns will approach expected averages, as the good
+and bad years even out. This Monevator post has some useful statistics.
+
+Five years is around the minimum length of time where investing starts to
+make sense, i.e. the chances of ending up with less than you put in become
+low enough to assume you will be able to proceed as planned.
+
+## More resources 🎬
+
+Check out the video below by Meaningful Money for more information on
+setting your financial goals.

@@ -1,0 +1,27 @@
+{
+  "files.exclude": {
+    "node_modules": true,
+    "dist": true,
+    ".astro": true
+  },
+  "search.exclude": {
+    "node_modules": true,
+    "dist": true,
+    ".astro": true,
+    "bun.lock": true
+  },
+  "files.trimTrailingWhitespace": true,
+  "files.insertFinalNewline": true,
+  "[markdown]": {
+    "editor.wordWrap": "on",
+    "editor.quickSuggestions": {
+      "comments": "off",
+      "strings": "off",
+      "other": "off"
+    }
+  },
+  "[mdx]": {
+    "editor.wordWrap": "on"
+  },
+  "harper.dialect": "British"
+}

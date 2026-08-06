@@ -1,0 +1,9 @@
+{
+  "recommendations": [
+    "astro-build.astro-vscode",
+    "unifiedjs.vscode-mdx",
+    "editorconfig.editorconfig",
+    "elijah-potter.harper"
+  ],
+  "unwantedRecommendations": []
+}

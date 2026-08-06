@@ -1,0 +1,41 @@
+---
+---
+
+<footer class="sl-flex">
+	<div class="site-footer">
+		<a href="/">UKPersonalFinance Wiki</a>
+		<span aria-hidden="true">/</span>
+		<a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" title="Creative Commons Attribution-NonCommercial-ShareAlike 4.0">
+			CC BY-NC-SA
+		</a>
+		<span aria-hidden="true">/</span>
+		<a href="https://ukpersonal.finance/this-wiki-is-not-advice/">This wiki is not financial advice</a>
+		<span aria-hidden="true">/</span>
+		<a href="https://ukpersonal.finance/privacy-policy/">Privacy Policy</a>
+	</div>
+</footer>
+
+<style>
+	@layer starlight.core {
+		footer {
+			flex-direction: column;
+			gap: 1.5rem;
+		}
+	}
+	.site-footer {
+		margin-top: 1.5rem;
+		padding-top: 1.5rem;
+		border-top: 1px solid var(--sl-color-gray-5);
+		font-size: var(--sl-text-sm);
+		color: var(--sl-color-gray-3);
+		display: flex;
+		flex-wrap: wrap;
+		gap: 0.5rem;
+	}
+	.site-footer a {
+		color: var(--sl-color-gray-3);
+	}
+	.site-footer a:hover {
+		color: var(--sl-color-white);
+	}
+</style>

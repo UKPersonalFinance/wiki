@@ -1,0 +1,210 @@
+---
+title: ISA vs LISA vs Pension
+description: Working out what type of account to use to save and invest.
+---
+
+With all the different contribution, withdrawal and taxation rules, it can
+be daunting to work out what type of account to use to save and invest. We
+hope this page helps you find an allocation that works for your
+circumstances.
+
+## ISAs vs Pensions
+
+### Tax differences
+
+You pay into an ISA from your net pay – you've already paid income tax and
+National Insurance on the money before it arrives in your bank account. All
+growth and dividends within the ISA are completely tax-free, and
+withdrawing from your ISA is also completely tax-free (you do not need to
+pay income tax on withdrawals).
+
+Pensions work the other way around. Money contributed to your pension
+receives tax relief, meaning it comes straight from your gross pay and you
+do not pay income tax on it. This makes it very cost effective to
+contribute to a pension – you get more inside your pension than you would
+in your pocket if you'd chosen to take it as pay. As with an ISA, all
+growth and dividends within the pension are completely tax free, however
+when you retire and take an income from your pension, you do pay income tax
+on money you withdraw from your pension.
+
+If the tax paid was a consistent %, it wouldn't make any difference whether
+it's taken out at the start or end of the process and these two approaches
+would work out exactly the same. (No really!).
+
+However, in reality there are more factors which affect the rates at which
+you are taxed, and make pensions more financially efficient for building
+wealth – with the limitation of course that they cannot be accessed until
+age 55+.
+
+- Your employer may match your contributions to your pension scheme. This
+  is essentially 'free money', a portion of your salary which can only be
+  accessed by saving it in to a pension, and should never be turned down.
+- If you pay into your pension scheme via 'salary sacrifice', you will
+  avoid National Insurance Contributions of 8% on pension contributions, in
+  addition to the income tax relief. By using salary sacrifice, your
+  employer also saves on NI, and some employers will contribute some or all
+  of these savings to your pension.
+- If you are a higher rate taxpayer or above, you could receive 40% income
+  tax relief (or more) on the way in, but pay only 20% tax on the way out.
+- You also have a personal allowance which means you do not have to pay any
+  income tax on the first £12,570 of income you receive per year (the same
+  as you do when earning).
+- When you withdraw money from your pension, 25% of it is tax free, and
+  income tax is only paid on the remaining 75%.
+- You do not pay National Insurance on income from a pension.
+
+As you can see, from a purely financial point of view, pensions are
+generally more tax-efficient than ISAs for saving for retirement. Even as a
+basic rate taxpayer with maxed out employer contributions and no salary
+sacrifice, pensions give you a tax discount compared to ISAs.
+
+But this advantage has to be weighed against their access age limitations.
+
+### Calculating how much to contribute to your pension vs your ISA
+
+The deciding factor is generally when you think you'll want to be able to
+use your savings. If you know you'll definitely need the money sooner than
+you can access your pension, there's no difficulty in deciding to save in
+an ISA. And conversely, if you know for sure you won't need it until aged
+55+, you can use your pension without worry.
+
+But of course none of us are able to predict the future with absolute
+certainty, so it comes down to an assessment of your individual situation,
+goals, and preferences.
+
+A good start would be to visit our [pensions](../pensions/) page to
+calculate what retirement income you can expect at your current level of
+pension contributions. It's important to ensure that you're on track for a
+pension income that is acceptable to you.
+
+For any long term savings beyond this amount, you may want to take the time
+to calculate just how much the pension tax advantages are worth in your
+specific situation. Putting a number on the expected outcomes from either
+type of savings may help you decide which you prefer.
+
+One of our wiki contributors has written a post providing percentages for
+the most common scenarios [here](https://www.reddit.com/r/UKPersonalFinance/comments/1dyiniy/psa_pension_tax_efficiency_return_on_investment/).
+
+If you're still uncertain, remember that you can't guarantee an 'optimal'
+allocation choice in advance. Instead think about whether you would prefer
+to err on the side of contributing more to your pension (maximising your
+money's ability to support you at age 55+, but at the cost of locking funds
+away inaccessibly should your plans change) or if you would prefer to lean
+towards your ISAs (keeping money accessible at any age, but potentially
+having to save for longer to reach the same amount of future income).
+
+## Pensions vs Lifetime ISAs
+
+Lifetime ISAs were designed to be a hybrid savings vehicle – save up for
+your deposit, then save up for retirement. For more info on using a LISA to
+buy your first home see our dedicated page on that.
+
+As pensions and LISAs have similar access ages for retirement income,
+choosing between them for retirement savings is a relatively
+straightforward comparison.
+
+### The 25% LISA bonus is equivalent to 20% pension tax relief
+
+It's a common (and very understandable) mistake for people to assume that
+the 25% LISA 'bonus' is higher than 20% 'tax relief' – but in fact it's the
+same money looked at from another direction.
+
+For £1000 of money earned:
+
+- Contributed directly to pension: £1000 in pension.
+- Contributed to a LISA: £200 income tax paid. £800 is then deposited in a
+  LISA, receiving a 25% 'bonus' of £200, taking it to £1000.
+
+The percentages look different because the same £200 is being compared to
+the gross pay (£1000, so 20%) and to the net pay (£800, so 25%).
+
+### Differences between pension and LISA (for retirement)
+
+There are no employer contributions available for LISAs. You should always
+max out your employer contributions.
+
+The LISA bonus is fixed regardless of your tax situation. If you are a
+higher or additional rate taxpayer, the LISA bonus will be lower than your
+pension tax relief.
+
+However, when you withdraw money from a LISA, you do not need to pay any
+income tax. When you withdraw money from a pension, you get 25% of it
+tax-free, and the remaining 75% is taxed as income.
+
+So in summary, if (and only if):
+
+- You are already maxing out available employer pension contributions
+- You are a basic rate taxpayer (or don't pay income tax at all), and
+  expect to remain so
+- You don't have access to a salary sacrifice pension scheme where your
+  employer also contributes their NI savings
+- You're on track for enough pension income (from State Pension and private
+  pensions) to use all your Personal Allowance in retirement
+
+Then yes, a LISA is more cost effective for you, as you will pay £0 income
+tax on withdrawals.
+
+You can refer to the reddit post linked to above for the exact
+calculations.
+
+### Pension vs ISA vs LISA comparison table
+
+|  | Pension | Stocks & Shares ISA | LISA |
+|---|---|---|---|
+| Annual savings limit | Lower of £60,000 or annual salary\* | £20,000 | £4,000 (part of ISA allowance) |
+| Lifetime limit | None (abolished in 2023) | None | None |
+| Tax relief on contributions | Highest marginal rate (20%, 40%, 45%) up to annual limit\* | None | 25% bonus (max £1,000 per year), equivalent to 20% rate relief. |
+| Tax on investment growth and dividends | Tax-free | Tax-free | Tax-free |
+| Tax on withdrawal | 25% tax-free up to a maximum of £268,275, remainder subject to income tax | Tax-free | Tax-free |
+| Age funds can be withdrawn | Age 55-57 (check with your pension provider for specific terms) | Any time | Age 60, or earlier with a penalty. |
+| Treatment for means-tested benefits | Not assessed until age available, and even then are assessed as income only – you are not expected to spend down the capital | Considered when assessing benefit applications, may need to be spent down | Considered when assessing benefit applications, may need to be spent down |
+| Death treatment | 100% tax free if death before 75, liable to income tax on recipient if death after 75\* | Can't be inherited in-situ, forms part of deceased's estate | Can't be inherited in-situ, forms part of deceased's estate |
+
+\*The treatment is actually far more complicated, but for most people this
+is correct. Also note, this is changing in April 2027
+
+### Treatment for means-tested benefits
+
+Money in an ISA or LISA might need to be spent down before you are eligible
+for certain means-tested benefits. Money in a pension is not counted at all
+if you are too young to access it, and even after you are able to access
+your pension, you are assessed based on the income it provides, not on the
+full capital. For more information see [this page from EntitledTo for under
+60s](https://www.moneyhelper.org.uk/en/benefits/problems-with-benefits/how-do-savings-and-lump-sum-pay-outs-affect-benefits),
+and [this page for over 60s](https://www.entitledto.co.uk/help/savings).
+
+### Treatment on death
+
+ISAs, including LISAs, are treated as estate assets on death, and could be
+liable to inheritance tax. They would also need to be liquidated and passed
+on as cash.
+
+Pensions have very attractive treatment on death, with no tax payable by
+the recipient whatsoever if death occurs before age 75, and taxed as income
+on the recipient after 75. Pension benefits are not ordinarily included in
+estate assets and so shouldn't attract inheritance tax.
+
+Please note that new tax rules due to come into force in April 2027 will
+mean pensions will be considered part of the estate when calculating
+inheritance tax. Whilst most estates are not currently subject to
+inheritance tax, it is worth bearing this rule change in mind for any
+future planning if it might be relevant to you.
+
+## Why timing of tax relief doesn't matter
+
+A common misconception is that getting your tax relief at the start of the
+process is more effective than at the end because the money has time to
+compound.
+
+In fact the timing of tax relief makes no difference. If we look at £1000
+of savings:
+
+- **Pension**: you put £1000 in your pension. Over the years the investment
+  grows ten-fold giving £10,000. If taxed at 20%, £8000 remains.
+- **ISA**: after paying income tax you have £800 to invest in your ISA.
+  Over the years the investment grows ten-fold leaving you with £8000.
+
+What makes a difference is the differences in the rates of taxation, such
+as getting 40% tax relief but paying 20% income tax on withdrawal, paying
+lower National Insurance using salary sacrifice, and the 25% discount for
+withdrawals from a pension.
