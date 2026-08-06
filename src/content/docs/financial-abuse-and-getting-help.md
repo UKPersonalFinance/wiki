@@ -1,0 +1,74 @@
+---
+title: Financial Abuse and Getting Help
+description: How to spot the signs of financial abuse and where to get support.
+draft: true
+---
+
+## What is financial abuse?
+
+Financial abuse is a form of [domestic abuse](https://www.legislation.gov.uk/ukpga/2021/17/contents/enacted) which describes a pattern of controlling, degrading or threatening behaviour in the financial affairs of the victim. Often this abusive behaviour is not isolated and may involve other abusive behaviours which reinforce the financial abuse.
+
+The abuser, or perpetrator, will use the victim's money or encourage the misuse of money by limiting or controlling finances which restricts the freedom of choice of the victim. This may involve the use of loans or credit cards, placing contractual obligations on the victim, and making them feel trapped.
+
+### Spot the signs
+
+Some of the signs which suggest you might be experiencing financial abuse are:
+
+- Forced to or coerced to take credit (with or without your knowledge, see below)
+- No control of your accounts - abuser knows or changes logins
+- Adding the abuser's name to the account
+- Cashing cheques without your permission
+- Controls what you can and cannot spend your money on
+- Pressures you to get benefit payments paid to an account which is not yours
+- Sets up direct debits to pay bills which are not yours
+- ... any other controlling behaviours around your finances.
+
+There is a [guide available from the charity Surviving Economic Abuse](https://survivingeconomicabuse.org/i-need-help/understanding-economic-abuse/spotting-the-signs/) which outlines what you can do if you think a friend or family member is suffering from financial or economic abuse.
+
+### Economic abuse
+
+Financial abuse can develop into economic abuse, where the victim may experience:
+
+- Restrictions on working or studying.
+- Loss of benefits, not allowing attendance to appointments.
+- No control over clothing, food, transport or other essentials.
+
+### Identity theft and fraud
+
+Often an abuser will gain access to identifying information which they can use to commit fraud - this can occur during abuse or after separation from an abuser. You should always report identity theft and fraud as this can have a severe impact on your personal finances - making it difficult to get a loan, mortgage or other forms of credit.
+
+Abusers may use identity information to commit identity fraud by:
+
+- Opening bank accounts
+- Obtaining loans, credit cards, or claiming benefits
+- Ordering goods in your name
+- Taking over existing accounts
+- Obtaining other documents, such as a passport or driving licence
+
+Sign up to the credit reference agencies and report any activity which you do not recognise - check each report from [Experian](https://www.experian.co.uk/consumer/identity/what-to-do-if-victim.html), [Equifax](https://www.equifax.co.uk/resources/identity-protection/reporting-identity-theft.html) and [TransUnion](https://www.transunion.co.uk/consumer/credit-education/identity-theft-fraud). Furthermore, you may need to contact [Royal Mail](https://personal.help.royalmail.com/app/contact) if you suspect your mail is being redirected.
+
+> [SaltyD87's comment in r/legaladvice](https://www.reddit.com/r/legaladvice/comments/115gulb/comment/j92cuvm/?utm_source=share&utm_medium=web2x&context=3) has some thought-provoking narrative on a case of identity fraud, where a father was found taking out credit using another family member's identity. An SSN in America is similar to the National Insurance number in the UK.
+
+The above focuses on a parent-child relationship but the premise applies to any victim-abuser relationship, it is important to report identity theft and fraud to protect yourself from the abuser and prevent further abuse.
+
+## Support
+
+It can be difficult and uncomfortable to recognise when you are being abused. It can happen to anyone. Remember...
+
+*Breaking free from financial abuse is scary but you are not alone.*
+
+**If you or your children are in immediate danger, dial 999 to call the police. If you cannot talk, dial 999 followed by 55.**
+
+There are many different organisations which can provide you with support.
+
+[Money Advice Plus - Financial Support Line for Victims of Domestic Abuse](https://www.moneyadviceplus.org.uk/fsl/): call for dedicated support on [0808 196 8845](tel:08081968845).
+
+[Surviving Economic Abuse](https://survivingeconomicabuse.org/i-need-help/): a charity organisation which works with Money Advice Plus to support victims of economic abuse.
+
+[NHS](https://www.nhs.uk/live-well/getting-help-for-domestic-violence/): speak to your GP in confidence about abuse and the support available.
+
+[Action Fraud](https://www.actionfraud.police.uk/): an important step in protection even after separation from the abuser. Report identity fraud to the police - an abuser might have your identity information which gives them the ability to open fraudulent accounts or take over existing accounts.
+
+[Report benefit fraud](https://www.gov.uk/report-benefit-fraud): the government departments take fraud seriously and will look into the information you can provide to them.
+
+[Identity fraud](https://www.experian.co.uk/consumer/identity/what-to-do-if-victim.html): protecting credit and disputing fraudulent debts is an important step in recovering from financial abuse.

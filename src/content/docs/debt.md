@@ -95,7 +95,7 @@ they have.
 - Undebt.it avalanche calculator – this calculator gives a really
   detailed breakdown of every payment per month
 
-## If you can't afford your debt, get help from a debt charity 🆘
+## If you can't afford your debt, get help from a debt charity 🆘 {#If_you_cant_afford_your_debt_get_help_from_a_debt_charity}
 
 If you:
 
