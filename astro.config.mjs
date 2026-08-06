@@ -4,12 +4,13 @@ import starlight from "@astrojs/starlight";
 import mdx from "@astrojs/mdx";
 import sitemap from "@astrojs/sitemap";
 import { remarkHeadingId } from "remark-custom-heading-id";
+import { unified } from "@astrojs/markdown-remark";
 
 // https://astro.build/config
 export default defineConfig({
   site: "https://new.ukpersonal.finance",
   markdown: {
-    remarkPlugins: [remarkHeadingId],
+    processor: unified({ remarkPlugins: [remarkHeadingId] }),
   },
   integrations: [
     starlight({
