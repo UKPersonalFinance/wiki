@@ -264,6 +264,35 @@ higher level of advice, but they take meaningful time, effort and
 investment to obtain, so generally attract a more professionally-minded
 adviser.
 
+#### A note on corporate accreditations
+
+The above qualifications all refer to individuals. Confusingly, it is
+also possible for a financial advice business to have corporate
+accreditations.
+
+The most common is "Chartered Financial Planners" awarded by CII/PFS.
+Around 800 businesses hold this accreditation, and whilst the firm has
+to adhere to [a specific set of rules and
+standards](https://www.cii.co.uk/membership/join-us/chartered/corporate-chartered/eligibility-criteria/eligibility-criteria-financial-planning/),
+there is no guarantee that the individual is as well-qualified.
+
+The other major accreditation is "Accredited financial planning firm",
+awarded by CISI. [Only around 60 businesses have this
+accreditation](https://www.cisi.org/cisiweb2/cisi-website/about-us/accredited-financial-planning-firms),
+and the requirements are stricter and more financial planning-focused
+than the Chartered accreditation. Again though, this doesn't guarantee
+that the individual you work with is suitably qualified.
+
+Finally, there is the "Pension Transfer Gold Standard" accreditation,
+which is an "honour-based" opt-in for businesses who believe they meet
+the standards when it comes to defined benefit pension transfers (a
+high-risk area with some [high-profile systemic
+failures](https://www.bbc.co.uk/news/uk-wales-politics-62241997)).
+
+This will, again, not guarantee the firm is any good, but if you or
+somebody you know requires advice in this area, do not go anywhere near
+a firm that doesn't subscribe to the standard.
+
 ### Make sure they're working for you
 
 A few areas to watch out for:
@@ -305,3 +334,11 @@ required, or long notice periods.
 Try to speak to at least two potential advisers so that you can compare
 and contrast their services and fees. Don't pick an adviser after
 speaking only to them, even if they seem fantastic.
+
+## Other resources
+
+- [https://www.fca.org.uk/consumers/what-ask-adviser](https://www.fca.org.uk/consumers/what-ask-adviser)
+- [https://www.unbiased.co.uk/news/financial-advice/the-best-questions-to-ask-your-adviser](https://www.unbiased.co.uk/news/financial-advice/the-best-questions-to-ask-your-adviser)
+- [https://occaminvesting.co.uk/how-to-choose-a-financial-adviser/](https://occaminvesting.co.uk/how-to-choose-a-financial-adviser/)
+- [https://moneytothemasses.com/saving-for-your-future/investing/what-are-the-best-questions-to-ask-a-financial-adviser](https://moneytothemasses.com/saving-for-your-future/investing/what-are-the-best-questions-to-ask-a-financial-adviser)
+- [https://paullewismoney.blogspot.com/2018/06/find-good-financial-advice.html](https://paullewismoney.blogspot.com/2018/06/find-good-financial-advice.html)

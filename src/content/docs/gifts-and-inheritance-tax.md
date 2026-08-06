@@ -222,3 +222,8 @@ to 14 years. This would only happen if a sizeable Chargeable Lifetime
 Transfer was given 7 years before a 'failed Potentially Exempt
 Transfer', and could really only happen as part of a gifting strategy
 under tax advice from a professional.
+
+## Further resources
+
+- [https://www.gov.uk/inheritance-tax](https://www.gov.uk/inheritance-tax)
+- [https://techzone.abrdn.com/public/iht-est-plan/Pract-guide-gifting-order](https://techzone.abrdn.com/public/iht-est-plan/Pract-guide-gifting-order)

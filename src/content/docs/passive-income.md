@@ -165,6 +165,8 @@ dividends reinvested or taken as income:
 | FTSE All-World High Dividend Yield index – dividends reinvested | £227,839 |
 | FTSE All-World High Dividend Yield index – dividends taken as income | £163,070 final value + £41,533 dividends taken = £207,570 total |
 
+![Growth chart from March 2015 to March 2025 comparing iShares MSCI ACWI ETF (with dividends reinvested, +187.20%; without, +135.18%) against Vanguard FTSE All World High Dividend Yield UCITS ETF (with dividends reinvested, +124.27%; without, +60.52%).](../../assets/images/passive-income-dividend-vs-growth-chart.png)
+
 ### Starting a business
 
 Owning a profitable business certainly has a higher possible income

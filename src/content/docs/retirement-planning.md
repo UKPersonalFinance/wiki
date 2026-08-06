@@ -230,6 +230,10 @@ As you approach retirement, you may find it useful to build a basic
 A properly qualified financial planner can model this for you using
 software.
 
+An example of a simple visual cashflow forecast:
+
+![Cashflow chart showing income sources by age: employment income until 55, then a mix of ISA withdrawals, pension withdrawals, DB pension and state pension gradually replacing it, staying close to an estimated £30,000/year spending need throughout.](../../assets/images/retirement-planning-cashflow-example.png)
+
 ## Notes on parameters/assumptions used for calculations
 
 The most important thing to remember is that the parameters you use in

@@ -24,6 +24,8 @@ contributed): cash savings averaging 1% below inflation would be worth
 £21,857 in real terms, while investments averaging 4% above-inflation
 growth would be worth £35,734.
 
+![Chart comparing saving £100/month for 20 years as investments (+4% after inflation, final result £35,734), cumulative contributions (total £24,000), and real cash returns (-1% after inflation, final result £21,851).](../../assets/images/investing-for-children-chart.png)
+
 In general, if you are saving for goals more than 5 years in the future,
 it's worth considering investing. If you're new to investing, don't be
 daunted! Start with our [Investing 101](../investing-101/)

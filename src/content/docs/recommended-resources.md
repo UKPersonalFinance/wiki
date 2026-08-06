@@ -15,7 +15,7 @@ books, podcasts and videos below.
 
 ## Useful websites
 
-This wiki! We have [**pages on many topics**](https://ukpersonal.finance/all-pages/).
+This wiki! We have [**pages on many topics**](../).
 
 **[MoneySavingExpert](https://www.moneysavingexpert.com/)**: When it comes to
 keeping track of the best savings accounts or credit cards, and great money

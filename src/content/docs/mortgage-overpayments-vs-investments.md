@@ -130,6 +130,18 @@ considering:
 - **Scenario 3**: Invest £250 per month in an equities based portfolio
   with an expected return of 7%.
 
+| Year (end) | Mortgage balance – normal payments | Mortgage balance – with overpayments (Scenario 1) | Savings balance at 4% (Scenario 2) | Investment balance at 7% (Scenario 3) |
+| --- | --- | --- | --- | --- |
+| 0 | -£200,000 | -£200,000 | £0 | £0 |
+| 5 | -£174,098 | -£158,336 | £16,575 | £17,898 |
+| 10 | -£145,475 | -£112,295 | £36,812 | £43,271 |
+| 15 | -£113,843 | -£61,415 | £61,523 | £79,241 |
+| 20 | -£78,888 | -£5,189 | £91,694 | £130,232 |
+| 25 | -£40,260 | £0 | £128,532 | £202,518 |
+| 30 | £0 | £0 | £173,512 | £304,993 |
+
+*Spreadsheet available at: [https://docs.google.com/spreadsheets/d/1dXM_XboaNauv0ag_V3HxSyRXAy2Jjt86p75-0qxFv-M/](https://docs.google.com/spreadsheets/d/1dXM_XboaNauv0ag_V3HxSyRXAy2Jjt86p75-0qxFv-M/)*
+
 As you can see:
 
 - Overpaying the mortgage saves tens of thousands of pounds and ends the
