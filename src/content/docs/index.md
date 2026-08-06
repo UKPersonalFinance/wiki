@@ -17,14 +17,14 @@ New here? Start with these two:
 <div class="home-links">
 <div class="home-link-card">
 
-### [The Flowchart ⤵️](flowchart/)
+### [The Flowchart ⤵️](/flowchart/)
 
 Follow it step by step to get your finances in order.
 
 </div>
 <div class="home-link-card">
 
-### [Recommended Resources 📖](recommended-resources/)
+### [Recommended Resources 📖](/recommended-resources/)
 
 Books, videos and sites the community rates.
 

@@ -5,6 +5,7 @@ import mdx from "@astrojs/mdx";
 import sitemap from "@astrojs/sitemap";
 import { remarkHeadingId } from "remark-custom-heading-id";
 import { unified } from "@astrojs/markdown-remark";
+import starlightLinksValidator from "starlight-links-validator";
 
 // https://astro.build/config
 export default defineConfig({
@@ -17,6 +18,7 @@ export default defineConfig({
       title: "UKPersonalFinance Wiki",
       favicon: "/favicon.png",
       customCss: ["./src/styles/custom.css"],
+      plugins: [starlightLinksValidator()],
       head: [
         {
           tag: "link",

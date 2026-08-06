@@ -57,7 +57,7 @@ account with a broker, check it offers the investments you want.
 Notably:
 
 - Some brokers, such as Trading212 and InvestEngine, don't offer 'funds'
-  – see our [funds vs ETFs](/index-funds/#fund-vs-etf)
+  – see our [funds vs ETFs](/index-funds/#fund_vs_etf)
   explanation.
 - Most brokers won't permit you to buy 'fractional shares' of individual
   company stocks or ETFs. This means you won't necessarily be able to
