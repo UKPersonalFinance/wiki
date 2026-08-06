@@ -10,14 +10,19 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v7
-      - uses: jdx/mise-action@v4
-      - run: bun install --frozen-lockfile
+      - uses: ./.github/actions/setup
       - run: bunx astro check
       - run: bun run build
+      - uses: actions/upload-artifact@v7
+        if: github.event_name == 'push'
+        with:
+          name: dist-production
+          path: dist
+          retention-days: 1
 
   pre-commit:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v7
-      - uses: jdx/mise-action@v4
+      - uses: ./.github/actions/setup
       - run: prek run --all-files

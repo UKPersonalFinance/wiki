@@ -14,7 +14,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v7
-      - uses: jdx/mise-action@v4
-      - run: bun install --frozen-lockfile
+      - uses: ./.github/actions/setup
       - run: bunx astro build
       - run: lychee --no-progress --root-dir "$PWD/dist" dist
