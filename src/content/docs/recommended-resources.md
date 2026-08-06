@@ -36,7 +36,7 @@ Lessons for Beginners](https://monevator.com/tag/investing-lessons/).
 
 ## Videos
 
-:::caution[⚠️ YouTube warning]
+:::caution[️YouTube warning]
 Like most social media sites, when it comes to financial content YouTube is
 plagued with [scams, bogus get-rich-quick
 schemes](/scams/), and misinformation – be careful

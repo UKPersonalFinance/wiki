@@ -55,7 +55,7 @@ Your deposit is not limited to what you have in the LISA. You can use
 additional money from other savings or bank accounts towards your home
 purchase alongside the LISA balance.
 
-:::caution[Do not withdraw funds yourself!]
+:::danger[Do not withdraw funds yourself!]
 Your conveyancer will need to arrange the use of your LISA to ensure
 you keep the bonus – the funds will be paid directly to them.
 :::
