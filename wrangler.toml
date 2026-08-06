@@ -16,6 +16,7 @@ routes = [
 directory = "./dist"
 not_found_handling = "404-page"
 binding = "ASSETS"
+run_worker_first = true
 
 [env.production]
 name = "ukpf-wiki-production"
