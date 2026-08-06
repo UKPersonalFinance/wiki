@@ -1,6 +1,7 @@
 {
   "config": {
     "MD001": false, // heading levels inside Starlight's card-layout HTML don't increment linearly
+    "MD010": false, // JSX component props (e.g. LinkCard) are tab-indented by convention
     "MD013": false, // long lines are fine in prose
     "MD025": false, // same card-layout HTML also has more than one top-level heading
     "MD026": false, // some headings intentionally end in "!"
