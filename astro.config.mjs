@@ -60,7 +60,6 @@ export default defineConfig({
       sidebar: [
         {
           label: "✨ Follow the Flowchart ✨",
-          collapsed: true,
           items: [
             { label: "⤵️ The UKPF flowchart", slug: "flowchart" },
             { label: "🧮 Make a budget", slug: "budgeting" },
@@ -75,11 +74,8 @@ export default defineConfig({
         {
           label: "The Basics",
           items: [
-            { label: "Budgeting", slug: "budgeting" },
             { label: "Living Costs", slug: "living-costs" },
-            { label: "Defining your goals", slug: "goals" },
             { label: "Should I Buy This?", slug: "spending" },
-            { label: "Emergency Fund", slug: "emergency-fund" },
             {
               label: "Helping family and friends",
               slug: "helping-family-and-friends",
@@ -106,6 +102,7 @@ export default defineConfig({
         },
         {
           label: "Investing",
+          collapsed: true,
           items: [
             { label: "Investing 101", slug: "investing-101" },
             { label: "Index Funds", slug: "index-funds" },
@@ -120,6 +117,7 @@ export default defineConfig({
         },
         {
           label: "Investment Accounts",
+          collapsed: true,
           items: [
             { label: "ISAs", slug: "isa" },
             { label: "Lifetime ISAs (LISAs)", slug: "lisa" },
@@ -142,6 +140,7 @@ export default defineConfig({
         },
         {
           label: "Tax",
+          collapsed: true,
           items: [
             { label: "Income Tax – The Basics", slug: "income-tax" },
             {
@@ -157,6 +156,7 @@ export default defineConfig({
         },
         {
           label: "Additional Pages",
+          collapsed: true,
           items: [
             { label: "Recommended Resources", slug: "recommended-resources" },
             { label: "UK income and wealth statistics", slug: "statistics" },
