@@ -3,13 +3,13 @@ title: Help Us Help You
 description: How to ask a good question on the subreddit so people can actually help.
 ---
 
-When posting a question to the [ukpersonalfinance subreddit](../community/), it really helps if you give us all the information we need.
+When posting a question to the [ukpersonalfinance subreddit](/community/), it really helps if you give us all the information we need.
 
 In short, please tell us:
 
 - What do you need help with? Be as specific as you can about your question(s) and your situation - use numbers
 - What's the big picture? What is the root of the problem you are trying to solve?
-- What research have you already done? Have you checked the [flowchart](../flowchart/) and [wiki](../)?
+- What research have you already done? Have you checked the [flowchart](/flowchart/) and [wiki](/)?
 
 ## Focus on your personal situation
 
@@ -45,14 +45,14 @@ Below are some examples of common types of question and the minimum information 
 
 ### Debt repayment questions
 
-We have a [guide to handling debt](../debt/) which explains what information you need to gather to assess your situation and make a plan. The more of the information from that page you can give us the better, especially:
+We have a [guide to handling debt](/debt/) which explains what information you need to gather to assess your situation and make a plan. The more of the information from that page you can give us the better, especially:
 
 - A list of all the debts, their interest rates and minimum payments
 - A budget outlining your income and outgoings
 
 ### Can I afford this car/phone/holiday?
 
-We have a guide to this in our [budgeting](../budgeting/#plan) page. If you want outside input, we'll want to see:
+We have a guide to this in our [budgeting](/budgeting/#plan) page. If you want outside input, we'll want to see:
 
 - A budget outlining your income and outgoings
 - What alternatives are available to the purchase you're considering
@@ -61,11 +61,11 @@ Note there is no universal standard for what a good amount to pay is on a car/ph
 
 ### Can I afford to move out/live alone?
 
-Please see our [living costs](../living-costs/) page and give us a draft plan for your income and outgoings that we can provide feedback on.
+Please see our [living costs](/living-costs/) page and give us a draft plan for your income and outgoings that we can provide feedback on.
 
 ### Mortgage and house buying questions
 
-To learn more about how much you can borrow see [our mortgages page](../mortgages/). And please tell us:
+To learn more about how much you can borrow see [our mortgages page](/mortgages/). And please tell us:
 
 - The price or price range of the property/properties you're considering
 - Your gross income, and the income of anyone you're buying with
@@ -80,7 +80,7 @@ If you are concerned with mortgage payment affordability, please also tell us:
 
 ### Retirement planning questions
 
-We have a [page on this](../retirement-planning/). Please read it and include details such as:
+We have a [page on this](/retirement-planning/). Please read it and include details such as:
 
 - Whether you're planning for retirement alone, or together with someone (if the latter we will need their information too)
 - Your age

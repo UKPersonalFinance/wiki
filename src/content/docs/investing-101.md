@@ -14,11 +14,11 @@ steady.
 
 This page covers some basic concepts in order to make it easier to
 understand more detailed resources. For more in-depth books, videos and
-articles, see our [Recommended Resources](../recommended-resources/).
+articles, see our [Recommended Resources](/recommended-resources/).
 
 ## Before we start… ⏯️
 
-Check our [flowchart](../flowchart/) to make sure you're at the
+Check our [flowchart](/flowchart/) to make sure you're at the
 stage where you're ready to invest. This means having:
 
 - Sufficient income to cover your needs
@@ -144,7 +144,7 @@ provide higher returns, such as:
 
 ## What funds can I invest in?
 
-See our page on [index funds](https://ukpersonal.finance/index-funds/).
+See our page on [index funds](/index-funds/).
 
 ## What type of investment account should I use?
 
@@ -171,16 +171,16 @@ the funds you invest in them.
   allowance left.
 
 If you're not sure what type of account to use, see our page on [ISA vs
-LISA vs Pension](../isa-vs-lisa-vs-pension/)
+LISA vs Pension](/isa-vs-lisa-vs-pension/)
 for detailed calculations.
 
 ## Who should I open an account with?
 
 See our page on [which broker to
-use](https://ukpersonal.finance/which-broker-should-i-use/).
+use](/which-broker-should-i-use/).
 
 ## Where can I learn more about investing?
 
-See our [Recommended Resources](../recommended-resources/) for
+See our [Recommended Resources](/recommended-resources/) for
 recommended books, blogs, podcasts and YouTube channels. (There is a lot of
 rubbish out there!).

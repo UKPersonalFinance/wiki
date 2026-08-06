@@ -47,7 +47,7 @@ forgotten about?
 
 ## Does this fit into my budget?
 
-If you've checked out our [budgeting](../budgeting/) guide and use some
+If you've checked out our [budgeting](/budgeting/) guide and use some
 form of envelope system, or software like YNAB, you'll know that buying
 something takes money away from something else. The money in your account
 is finite, so be aware of what you're sacrificing to make this purchase.

@@ -100,7 +100,7 @@ possible uses for the money.
 ## Prioritise: Do you have more urgent goals (e.g. saving for a deposit)? 🏠
 
 It is important to look at your finances in context. Our famous
-[flowchart](../flowchart/) is designed to walk you through this, and
+[flowchart](/flowchart/) is designed to walk you through this, and
 going through it properly is highly recommended.
 
 In summary though, if you have any expensive consumer debt such as
@@ -138,7 +138,7 @@ This will depend mostly on the interest rate. Different loan types will
 have different rates. The higher the interest rate on your loan is, the
 more likely it is to be worth paying off faster.
 
-As our intro to [investing](../investing-101/) page says,
+As our intro to [investing](/investing-101/) page says,
 since 1950, investing in equities has produced an annual after-inflation
 return of 5.2%. This is not a guaranteed or consistent annual return, but
 rather an average for long term investors.

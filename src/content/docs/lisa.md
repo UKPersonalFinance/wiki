@@ -26,7 +26,7 @@ LISAs can be either cash (getting paid interest by a bank or building
 society) or Stocks & Shares (where you aim to make returns on your
 chosen investments). Both will receive the government bonus.
 
-The £4,000 annual LISA allowance comes within the overall [ISA](../isa/)
+The £4,000 annual LISA allowance comes within the overall [ISA](/isa/)
 annual contribution limit of £20,000. Like all ISAs the money within it
 is sheltered from income and capital gains tax.
 
@@ -65,7 +65,7 @@ you keep the bonus – the funds will be paid directly to them.
 If you are considering saving in a LISA for your retirement, you will
 want to compare this to using a pension. For a detailed list of the
 pros and cons see our page on [ISA vs LISA vs
-Pension](../isa-vs-lisa-vs-pension/).
+Pension](/isa-vs-lisa-vs-pension/).
 
 ## Withdrawing with a penalty {#when-can-i-access-the-money}
 
@@ -103,7 +103,7 @@ If you're uncertain, here are some things to consider:
 
 - What are the current prices of properties you would be interested in?
 - What's the maximum you could afford on your income and savings? See
-  our page on [mortgages](../mortgages/). As a quick
+  our page on [mortgages](/mortgages/). As a quick
   illustration, to buy a £450,000 property with a £50,000 deposit and
   £400,000 mortgage you would generally need an income of about £90,000
   (by yourself, or combined with a partner).

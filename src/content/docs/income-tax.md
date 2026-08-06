@@ -177,13 +177,13 @@ are:
   £125,140.
 
 We go into more detail about tax traps in our [Tax Traps and Tax
-Efficiency](../tax-traps-and-tax-efficiency/) page.
+Efficiency](/tax-traps-and-tax-efficiency/) page.
 
 ### Do I need to complete a Self Assessment Tax Return?
 
 Most employees with straightforward tax affairs do not need to complete
 a tax return. As we mention in our [Savings
-Accounts](../savings/) page, if your taxable savings
+Accounts](/savings/) page, if your taxable savings
 income exceeds £10,000 you will need to.
 
 Other times that you may need to are detailed on [this gov.uk help
@@ -250,7 +250,7 @@ enough otherwise.
 ## Tax on Savings and Investments
 
 We go into lots of detail about tax on cash savings on the [Savings
-Accounts](../savings/) page.
+Accounts](/savings/) page.
 
 You may also receive interest or dividends from stocks and shares that
 you own. If these are owned outside of ISAs or Pensions, they are taxed

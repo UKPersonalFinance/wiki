@@ -117,7 +117,7 @@ Actions you can take to minimise risk:
 - Read [Monevator's post on FSCS
   protection](https://monevator.com/investor-compensation-scheme/) for
   their take on the topic and more ways to protect yourself.
-- See the [Scams](../scams/) page for more information on
+- See the [Scams](/scams/) page for more information on
   spotting red flags.
 - Deal only with large and reputable brokers/platforms. This isn't an
   exact science, but dealing with a publicly traded company or

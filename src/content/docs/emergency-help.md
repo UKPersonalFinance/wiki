@@ -15,7 +15,7 @@ quickly grow and make your financial situation worse.
 
 It's vital that as well as getting the immediate help you need, you also
 take stock of what you can do to prepare for the coming weeks and months.
-Our [flowchart](../flowchart/) can help you organise your finances,
+Our [flowchart](/flowchart/) can help you organise your finances,
 and deal with any budget shortfalls and debt.
 
 ## Talk to your creditors
@@ -160,7 +160,7 @@ can use:
   directly, but it may be faster than waiting for a buyer.
 - eBay and depop for online sales
 
-Beware of common [scams](../scams/) for both in person and
+Beware of common [scams](/scams/) for both in person and
 online sales.
 
 ## Buy Now Pay Later

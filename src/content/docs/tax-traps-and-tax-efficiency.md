@@ -28,7 +28,7 @@ Income inside these bands is therefore taxed at a higher marginal rate.
 
 Note – These figures only refer to income tax, and do not include National
 Insurance contributions. See our [Income Tax – The
-Basics](https://ukpersonal.finance/income-tax/) primer for more info on tax.
+Basics](/income-tax/) primer for more info on tax.
 
 ## What is 'Adjusted Net Income'? {#Adjusted_Net_Income}
 
@@ -60,7 +60,7 @@ you will withdraw at a lower marginal rate.
 
 You have an annual allowance for pension contributions, and any contribution
 within this allowance attracts tax relief at your marginal tax rate (see
-[Income Tax – The Basics](https://ukpersonal.finance/income-tax/) for more
+[Income Tax – The Basics](/income-tax/) for more
 on this). This allowance applies to both your own and your employer's
 contributions.
 
@@ -104,9 +104,9 @@ reduction.
 If you are in doubt over what type of pension scheme your employer operates,
 ask them. If they don't know the answer, ask the pension provider.
 
-See our [Pensions](https://ukpersonal.finance/pensions/) page for further
+See our [Pensions](/pensions/) page for further
 reading, specifically the section [How do I claim higher rate tax
-relief?](https://ukpersonal.finance/pensions/#How_do_I_claim_higher-rate_tax_relief)
+relief?](/pensions/#claiming-tax-relief)
 
 ## Tax Trap 1: Removal of Personal Allowance at £100,000 earnings
 

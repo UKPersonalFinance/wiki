@@ -72,7 +72,7 @@ But of course none of us are able to predict the future with absolute
 certainty, so it comes down to an assessment of your individual situation,
 goals, and preferences.
 
-A good start would be to visit our [pensions](../pensions/) page to
+A good start would be to visit our [pensions](/pensions/) page to
 calculate what retirement income you can expect at your current level of
 pension contributions. It's important to ensure that you're on track for a
 pension income that is acceptable to you.

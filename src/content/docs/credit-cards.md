@@ -146,7 +146,7 @@ While card companies have some legal obligations not to lend
 irresponsibly, it's also your own responsibility to manage your finances
 and ensure you don't borrow more than you can afford to repay.
 
-If you're struggling with credit card debt, see our [debt](../debt/)
+If you're struggling with credit card debt, see our [debt](/debt/)
 page.
 
 ## Advantages of credit cards
@@ -187,7 +187,7 @@ time to move money out of savings, or have an unexpected emergency.
 
 Having and using a credit card can improve your credit rating by
 demonstrating your credit worthiness. See our [Credit
-Ratings](../credit-ratings/) page for more detail.
+Ratings](/credit-ratings/) page for more detail.
 
 ### Paying for hotels and car hire (especially abroad)
 

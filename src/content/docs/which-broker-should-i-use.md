@@ -25,9 +25,9 @@ decisions, and instruct your broker on what you would like to buy or
 sell and when. It is up to you to decide on your preferred asset
 allocation, research which fund(s) to use, and make transactions
 according to your plan. To learn more, start with our [Investing
-101](../investing-101/) page then move on to some more in
+101](/investing-101/) page then move on to some more in
 depth books or videos from our [Recommended
-Resources](../recommended-resources/).
+Resources](/recommended-resources/).
 
 Some brokers will also offer managed accounts in which you invest
 directly into a pre-made fund. The platform will first ask you some
@@ -57,7 +57,7 @@ account with a broker, check it offers the investments you want.
 Notably:
 
 - Some brokers, such as Trading212 and InvestEngine, don't offer 'funds'
-  – see our [funds vs ETFs](../index-funds/#fund-vs-etf)
+  – see our [funds vs ETFs](/index-funds/#fund-vs-etf)
   explanation.
 - Most brokers won't permit you to buy 'fractional shares' of individual
   company stocks or ETFs. This means you won't necessarily be able to
@@ -106,7 +106,7 @@ yourself.
 ## How safe are my investments?
 
 Please see our page on [FSCS
-protection](../fscs-protection-for-investments/) for more information on
+protection](/fscs-protection-for-investments/) for more information on
 how to assess this.
 
 ## What is the app/website like?

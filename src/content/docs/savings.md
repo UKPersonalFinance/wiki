@@ -196,8 +196,8 @@ As with other areas of tax, your liability can be decreased and your
 allowances increased by reducing your taxable income through pension
 contributions and salary sacrifice schemes like Cycle to Work. Our page on
 [Tax Traps and Tax
-Efficiency](../tax-traps-and-tax-efficiency/) and our page on
-[pensions](../pensions/) cover this in more detail.
+Efficiency](/tax-traps-and-tax-efficiency/) and our page on
+[pensions](/pensions/) cover this in more detail.
 
 You may pay less tax on your savings if your "earned income" is less than
 £17,570.
@@ -210,7 +210,7 @@ may be wondering how to make the most of it.
 Firstly – double check that the amount of cash you're holding is
 necessary for your circumstances. If you don't think you will need to use
 the money within the next 5 years, you may wish to consider investing it
-for better long term returns. Use our [flowchart](../flowchart/) to
+for better long term returns. Use our [flowchart](/flowchart/) to
 determine how much cash you should hold.
 
 If your circumstances require you to have large amounts of cash savings

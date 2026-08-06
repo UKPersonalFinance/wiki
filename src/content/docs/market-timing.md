@@ -27,7 +27,7 @@ consistently in the long term. There is no system that can reliably
 predict future stock prices.
 
 This has been extensively studied and written about. Check out our
-[Recommended Resources](../recommended-resources/) for some
+[Recommended Resources](/recommended-resources/) for some
 book-length explanations.
 
 Note that these principles don't only apply to active or day traders
@@ -114,7 +114,7 @@ cheapest in retrospect.
 
 So this becomes a question of personal circumstances and preferences: do
 you prefer to go for the cheapest rate, or to pay a premium for a longer
-fix? See our [mortgages](../mortgages/) page for more
+fix? See our [mortgages](/mortgages/) page for more
 information about all this.
 
 ## Exchange Rate timing ✈️
@@ -196,7 +196,7 @@ small part of your portfolio.
 Note that there is no shortage of unscrupulous people ready to take
 advantage of excitement over a single stock. You should beware anyone
 trying to sell you courses, tips and strategies, etc. These are common
-[scams](../scams/), and in the unlikely event that the
+[scams](/scams/), and in the unlikely event that the
 person running them is actually well-intentioned, it's still not
 possible for them to deliver genuinely reliable tips on what prices will
 do next.

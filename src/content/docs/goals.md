@@ -8,9 +8,9 @@ at least some amount of money to achieve.
 
 If you have already:
 
-- ✅ Made a [budget](../budgeting/) 🧮
+- ✅ Made a [budget](/budgeting/) 🧮
 - ✅ Paid off any short-term debts 💳
-- ✅ Sorted an [emergency fund](../emergency-fund/) ☔
+- ✅ Sorted an [emergency fund](/emergency-fund/) ☔
 
 …then the next step is to think about your goals. As you start to save, it
 is helpful to quantify what you want to save for.
@@ -67,7 +67,7 @@ guides to help you:
 - For saving to buy a home, see our page on mortgages, which will help you
   calculate how much you can expect to borrow, and thus how large a
   deposit you require.
-- For retirement savings, see our [pensions](../pensions/)
+- For retirement savings, see our [pensions](/pensions/)
   page for an explanation of how pensions work, and links to calculators
   that will show how much income you are predicted to receive in
   retirement based on your contribution levels.
@@ -154,8 +154,8 @@ money to achieve greater growth than is possible using savings accounts.
 The further away your goal is, the more valuable investment returns will
 be as their growth will compound over time.
 
-Start with [Investing 101](../investing-101/), and from there
-ISA, LISA or [Pension](../pensions/) to choose the
+Start with [Investing 101](/investing-101/), and from there
+ISA, LISA or [Pension](/pensions/) to choose the
 most appropriate and cost effective account type for your situation.
 
 🏠 If you're saving for your first home, check if you're eligible to use a

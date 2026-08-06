@@ -9,6 +9,6 @@ who try to write helpful articles about your personal finances), and
 cannot be held responsible if you act on the information contained
 within.
 
-Our [page on financial advice](../financial-advice/) provides more
+Our [page on financial advice](/financial-advice/) provides more
 information about what constitutes financial advice and how to get
 professional advice.

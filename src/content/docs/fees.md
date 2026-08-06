@@ -138,6 +138,6 @@ be costly. Others have complex tax affairs that don't fit a standard ISA
 & pension structure. Others just like paying more for better service.
 
 Many people are happy to pay for professional [Financial
-Advice](../financial-advice/) because they lack the confidence, time, or
+Advice](/financial-advice/) because they lack the confidence, time, or
 inclination to manage their finances alone. These fees are worth paying
 if they result in better financial outcomes.

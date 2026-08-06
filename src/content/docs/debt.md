@@ -44,7 +44,7 @@ informal borrowing from friends and family, etc.
 Next, you need to work out how much you have available for debt
 repayment each month, after paying for bills and other necessities.
 
-See our guide to [making a budget](../budgeting/), based on
+See our guide to [making a budget](/budgeting/), based on
 your current spending.
 
 Think about any changes you could make to save money. These could be
@@ -201,7 +201,7 @@ if you used credit because you felt you 'couldn't afford' the original
 The higher the interest rate on your debt, the more worthwhile it is to
 make drastic budget cuts to pay it back faster.
 
-In our famous [flowchart](../flowchart/), we suggest that you pay off
+In our famous [flowchart](/flowchart/), we suggest that you pay off
 any debt at 10% APR or above before progressing to building up savings.
 That's because with high interest debt, it is better to pay it off than
 to keep money in savings, even for an emergency.
@@ -262,7 +262,7 @@ No, this is a myth. Owing money on a loan will not improve your credit
 worthiness to future lenders. To improve your credit history, you are
 better off having a credit card that you pay off in full every month –
 plus this won't cost you interest! More about this on our [Credit
-Ratings](../credit-ratings/) page.
+Ratings](/credit-ratings/) page.
 
 ## Useful Resources 🔗
 

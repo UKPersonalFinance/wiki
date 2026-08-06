@@ -14,9 +14,9 @@ for all manner of reasons – you may just not get along.
 
 ## Why do people take financial advice?
 
-If you've followed the [flowchart](../flowchart/), read our wiki, and
+If you've followed the [flowchart](/flowchart/), read our wiki, and
 watched and read some of our [Recommended
-Resources](../recommended-resources/), you might wonder why people
+Resources](/recommended-resources/), you might wonder why people
 bother paying for financial advice at all, given it's possible to manage
 everything yourself and additional fees can have a big impact on your
 investments' performance.

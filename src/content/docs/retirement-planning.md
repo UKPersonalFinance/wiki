@@ -18,8 +18,8 @@ research and calculation. If you are ready to start putting together a
 more detailed retirement savings plan, this page is for you.
 
 This page assumes you have already addressed everything from our
-[pensions](../pensions/) page, and have spent some time [setting
-financial goals](../goals/).
+[pensions](/pensions/) page, and have spent some time [setting
+financial goals](/goals/).
 
 ## How much should you save per month for retirement?
 
@@ -141,7 +141,7 @@ Savings don't have to be placed inside a pension to be used for
 retirement. If you have savings in an ISA, LISA, GIA, or bank account,
 and you intend to leave them until retirement, you can include these in
 your planning. Please see our [ISA vs LISA vs
-Pension](../isa-vs-lisa-vs-pension/) page to learn more about the
+Pension](/isa-vs-lisa-vs-pension/) page to learn more about the
 differences in access age and taxation.
 
 ### Don't forget to account for tax!
@@ -189,7 +189,7 @@ against relying entirely on future pay rises to fund your retirement.
 Another common reason for putting off increasing pension contributions
 is concentrating on mortgage payoff. Please see our [mortgage
 overpayments vs
-investments](../mortgage-overpayments-vs-investments/) page
+investments](/mortgage-overpayments-vs-investments/) page
 for an explanation of why this isn't always as good an idea as it may
 seem – the logic applies even more so to pensions, given the extra tax
 relief.
@@ -338,7 +338,7 @@ guidance appointment to over-50s.
 
 ### Getting professional advice {#advice}
 
-See our page on [Financial Advice](../financial-advice/)
+See our page on [Financial Advice](/financial-advice/)
 for more info. If you are looking for a professional cash-flow forecast,
 look for advisers and planners that offer this service specifically,
 particularly those who hold the Certified Financial Planner

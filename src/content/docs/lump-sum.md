@@ -63,7 +63,7 @@ account with NS&I, which has a limit of £2m.
 In order to decide what to do with this lump sum, you will need a good
 understanding of your current financial situation and future goals.
 
-Our [flowchart](../flowchart/) provides a step by step guide to
+Our [flowchart](/flowchart/) provides a step by step guide to
 organising your budget and spending decisions, savings goals, and
 retirement planning. As boring as it sounds, all this windfall will do is
 accelerate your progress along the flowchart.
@@ -81,7 +81,7 @@ to best try and achieve this?".
 For any goals within the next 5 years, the safest option is to keep the
 money in risk-free savings accounts.
 
-Our guide to [savings accounts](../savings/) explains how
+Our guide to [savings accounts](/savings/) explains how
 to find the highest interest rates, taking tax into account.
 
 ## For long term goals: consider investing
@@ -92,10 +92,10 @@ to invest money for any longer term goals.
 If this is the first time you are going to be investing, make sure you
 take some time to educate yourself first. Check out:
 
-- [Investing 101](../investing-101/) for the very basic context
-- [Recommended Resources](../recommended-resources/) for more in
+- [Investing 101](/investing-101/) for the very basic context
+- [Recommended Resources](/recommended-resources/) for more in
   depth resources
-- [ISA vs LISA vs Pension](../isa-vs-lisa-vs-pension/)
+- [ISA vs LISA vs Pension](/isa-vs-lisa-vs-pension/)
   to compare the specific types of tax-advantaged accounts available in
   the UK
 
@@ -105,7 +105,7 @@ If you already invest, then remember investing a lump sum should be no
 different to your normal investing strategy. However it can certainly be
 more daunting! You may feel more comfortable slowly moving your money
 into your investments by pound cost averaging (see our [market
-timing](../market-timing/) page). This protects you from the possibility
+timing](/market-timing/) page). This protects you from the possibility
 of a sharp drop in the market the day after you've invested. Although you
 are statistically likelier to see a higher return by making a lump sum
 investment, the lower risk approach of pound cost averaging may help you
@@ -145,7 +145,7 @@ interest rate you will no longer pay. It can carry a big psychological
 benefit.
 
 We have an article about [overpaying your mortgage vs
-investing](../mortgage-overpayments-vs-investments/).
+investing](/mortgage-overpayments-vs-investments/).
 Whilst it is aimed at regular overpayments, the thought process is the
 same for lump-sums.
 
@@ -160,18 +160,18 @@ ends.
 
 This is often one of the first ideas people think of for using a lump
 sum, but it's not necessarily the best use of your money. See our page
-on [buy to let](../buy-to-let/) for some of the factors you should
+on [buy to let](/buy-to-let/) for some of the factors you should
 consider.
 
 ## Should my savings provide passive income? 💷
 
 Not necessarily. Taking income from your savings always comes at the
 expense of long term growth. See our page on [passive
-income](../passive-income/).
+income](/passive-income/).
 
 ## Should I pay off my student loan? 🎓
 
-See our [student loans](../student-loans/) page.
+See our [student loans](/student-loans/) page.
 
 ## Professional help 👩‍🏫
 

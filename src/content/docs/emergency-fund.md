@@ -3,7 +3,7 @@ title: Emergency Fund
 description: How to build a pot of money to cover a financial emergency.
 ---
 
-Use your [budget](../budgeting/) to work out how much money you need to
+Use your [budget](/budgeting/) to work out how much money you need to
 cover your essential expenses each month. Your goal is to create a pot of
 money which can cover these costs in a financial emergency (such as a loss
 of income).

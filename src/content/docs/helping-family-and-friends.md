@@ -104,7 +104,7 @@ not be comfortable talking openly about.
 The more you can give them the tools to make their own decisions and
 compromises based on their own priorities, the better.
 
-Our [flowchart](../flowchart/) is designed to help people work through
+Our [flowchart](/flowchart/) is designed to help people work through
 the process of allocating their money to their goals, and to find
 suitable accounts and investments for those funds. There is also
 additional guidance in the lump sums page.

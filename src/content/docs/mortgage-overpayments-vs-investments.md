@@ -15,11 +15,11 @@ There isn't one right answer to this question. As always with personal
 finance it depends on your individual circumstances and future goals.
 
 Before considering either option, make sure you've checked the
-[flowchart](../flowchart/) and:
+[flowchart](/flowchart/) and:
 
-- you have a full [emergency fund](../emergency-fund/)
+- you have a full [emergency fund](/emergency-fund/)
 - your short term goals are funded
-- your [pension](../pensions/) is on track for a
+- your [pension](/pensions/) is on track for a
   comfortable retirement
 
 If any of these are not yet in place, it's not even a contest!

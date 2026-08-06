@@ -17,7 +17,7 @@ These statistics are population-level averages collected for the purpose
 of policymaking and research. Please don't fixate on any specific
 numbers on this page, and do not stress about where you are in relation
 to them! Your time is much better spent working on your own
-[goals](../goals/).
+[goals](/goals/).
 
 There are also many nuances to these reports which require careful
 thought if you're trying to work out where you fit into them, or even to
@@ -32,7 +32,7 @@ and data sources.
 The data in the tables below are taken directly from the described
 sources, but we've picked out only the most relevant parts, and have
 reworded some labels and headings for clarity. Please [let us
-know](../community/) if you find any errors, or if more recent data
+know](/community/) if you find any errors, or if more recent data
 sets become available.
 
 You'll see the term '**percentile**' used a lot. [This is a great
@@ -224,4 +224,4 @@ report and learn how to interpret it. Always read through the detail
 carefully to understand what the numbers mean.
 
 If you find something cool and useful, [tell us and we can add it to
-the page 🙂](../community/)
+the page 🙂](/community/)

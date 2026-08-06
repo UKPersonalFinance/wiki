@@ -33,8 +33,8 @@ growth would be worth £35,734.
 
 In general, if you are saving for goals more than 5 years in the future,
 it's worth considering investing. If you're new to investing, don't be
-daunted! Start with our [Investing 101](../investing-101/)
-page and try our [Recommended Resources](../recommended-resources/)
+daunted! Start with our [Investing 101](/investing-101/)
+page and try our [Recommended Resources](/recommended-resources/)
 for more in depth guides.
 
 ## Account types

@@ -50,8 +50,8 @@ This makes S&S ISA the starting point for investing in the UK. It only
 makes sense to invest in a General (taxable) Investment Account if you
 have already filled your ISA for the year.
 
-See further information on: [Investing 101](../investing-101/),
-[index funds](../index-funds/), and choosing a broker to
+See further information on: [Investing 101](/investing-101/),
+[index funds](/index-funds/), and choosing a broker to
 open an account with.
 
 ### My portfolio is too small to pay Capital Gains Tax – should I still use an ISA?
@@ -73,7 +73,7 @@ Use GIAs as overflow if you run out of ISA allowance.
 
 Cash ISAs work like any savings account, with the advantage that all
 interest earned is tax-free. This can work out better than a higher rate
-that is taxed. See our [savings](../savings/) page for
+that is taxed. See our [savings](/savings/) page for
 more information on tax on interest.
 
 Cash ISAs can be 'easy access', meaning there's no penalty to withdraw
@@ -192,7 +192,7 @@ it's put back into the same ISA within the same tax year.
 
 ### Should I use an ISA, LISA or a pension?
 
-See our [ISA vs LISA vs pension](../isa-vs-lisa-vs-pension/) comparison
+See our [ISA vs LISA vs pension](/isa-vs-lisa-vs-pension/) comparison
 for more details.
 
 ### What happens to an ISA if I move to another country?

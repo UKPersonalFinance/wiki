@@ -83,7 +83,7 @@ what exactly will you do to achieve this. Will you change which
 supermarkets you use, what type of food you eat, or how often you cook?
 
 If you shop for 'stuff' more often than you'd like, have a look at our
-["Should I Buy This?"](https://ukpersonal.finance/spending/) guide.
+["Should I Buy This?"](/spending/) guide.
 
 Reviewing your fixed costs is also worthwhile. Bills come every month, so
 even a small saving on a regular bill adds up. Moneysavingexpert is a great

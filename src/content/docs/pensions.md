@@ -54,14 +54,14 @@ whole £100.
 For money earned in the higher rate (40% tax) bracket or higher, the
 effective tax-relief is at least 40%. In some cases it can be as much as
 85% (see our [Tax Traps and Tax
-Efficiency](../tax-traps-and-tax-efficiency/) page for more
+Efficiency](/tax-traps-and-tax-efficiency/) page for more
 information).
 
 In some cases this additional tax relief is not automatic and needs to be
 claimed.
 
 - Which: [Tax relief on pension contributions explained](https://www.which.co.uk/money/pensions-and-retirement/personal-pensions/contributing-to-a-private-pension-explained/tax-relief-on-pension-contributions-explained-a27f53z7qg3f)
-- Our wiki: [Pension, ISA or LISA – which is best?](../isa-vs-lisa-vs-pension/)
+- Our wiki: [Pension, ISA or LISA – which is best?](/isa-vs-lisa-vs-pension/)
 - Pensions Advisory Service: [Tax relief and contributions](https://www.pensionsadvisoryservice.org.uk/about-pensions/saving-into-a-pension/pensions-and-tax/tax-relief-and-contributions)
 
 ### National Insurance and Salary Sacrifice {#salary-sacrifice}
@@ -194,7 +194,7 @@ work just fine and there's no need to adjust. However, if you're interested
 in optimising it as much as possible, there may be scope to do that, both
 within your current scheme and by transferring out to another provider if
 necessary. Take a look at our pages on [investing
-101](../investing-101/) and index funds if you want to
+101](/investing-101/) and index funds if you want to
 get more hands-on.
 
 ### How do I claim higher-rate tax relief? {#claiming-tax-relief}
@@ -328,7 +328,7 @@ allowance from the previous 3 tax years.
 You can't contribute more than you earned in a (tax) year.
 
 Very high earners (£200,000+) have a reduced allowance – see our [tax traps
-and tax efficiency](../tax-traps-and-tax-efficiency/) page.
+and tax efficiency](/tax-traps-and-tax-efficiency/) page.
 
 If you exceed these allowances, you will be charged tax.
 

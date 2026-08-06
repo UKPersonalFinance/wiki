@@ -9,7 +9,7 @@ This article was originally written a few years ago, when low-cost world index t
 
 You may have read threads in the subreddit, or other sources such as [Monevator](http://monevator.com/) or Tim Hale's Smarter Investing, about passive investing and decided that the best thing for you to invest your money in is a global equity tracker.
 
-That's easy, since there are funds out there that do exactly that, and they are the best path for 99% of investors. [You can read about them here](../index-funds/). The following article shows a much more complex approach which might save a small amount of money for those with over £100k of investments.
+That's easy, since there are funds out there that do exactly that, and they are the best path for 99% of investors. [You can read about them here](/index-funds/). The following article shows a much more complex approach which might save a small amount of money for those with over £100k of investments.
 
 ## Why build your own global equity tracker?
 

@@ -15,7 +15,7 @@ books, podcasts and videos below.
 
 ## Useful websites
 
-This wiki! We have [**pages on many topics**](../).
+This wiki! We have [**pages on many topics**](/).
 
 **[MoneySavingExpert](https://www.moneysavingexpert.com/)**: When it comes to
 keeping track of the best savings accounts or credit cards, and great money
@@ -39,7 +39,7 @@ Lessons for Beginners](https://monevator.com/tag/investing-lessons/).
 :::caution[⚠️ YouTube warning]
 Like most social media sites, when it comes to financial content YouTube is
 plagued with [scams, bogus get-rich-quick
-schemes](https://ukpersonal.finance/scams/), and misinformation – be careful
+schemes](/scams/), and misinformation – be careful
 when searching for things to watch. However there is also some great quality
 content available. We have some recommendations below.
 :::
@@ -245,4 +245,4 @@ Open University have free courses you can take:
 </div>
 
 Want to discuss your finances, investment strategies or contribute to this
-wiki? [Join our Discord server!](https://ukpersonal.finance/community/)
+wiki? [Join our Discord server!](/community/)

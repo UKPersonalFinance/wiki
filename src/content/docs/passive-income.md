@@ -87,8 +87,8 @@ spending £500 of your savings, or £500 of your employment income. (For
 those interested in digging deeper into this topic, it is called the
 fungibility of money).
 
-Take the time to work through our [flowchart](../flowchart/) and
-[lump sum](../lump-sum/) guide and make a financial plan that takes into
+Take the time to work through our [flowchart](/flowchart/) and
+[lump sum](/lump-sum/) guide and make a financial plan that takes into
 account your income, savings, and goals.
 
 ## Common passive income suggestions
@@ -123,7 +123,7 @@ to be true, it probably is.
 
 ### Buy to let
 
-Our [Buy to Let](../buy-to-let/) page compares BTL to investing in
+Our [Buy to Let](/buy-to-let/) page compares BTL to investing in
 stocks and shares. For many people, BTL is not very tax efficient, or
 particularly "passive". It tends to take more time and effort than
 people guess, and may not provide the best post tax returns.

@@ -213,10 +213,10 @@ such as:
 - Weddings
 - Birthdays and Christmas
 
-See our [goals](../goals/) page for more thoughts on how to incorporate
+See our [goals](/goals/) page for more thoughts on how to incorporate
 these larger expenses into your budget.
 
 ## Recording your spend against budget
 
-See our [budgeting](../budgeting/) page for more information on how to do
+See our [budgeting](/budgeting/) page for more information on how to do
 this.

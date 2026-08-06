@@ -33,7 +33,7 @@ Books, videos and sites the community rates.
 
 If you have any questions, spot anything on the wiki that's incorrect, or
 just want to chat finances, join us on [Reddit or
-Discord](https://ukpersonal.finance/community/) 🙂
+Discord](/community/) 🙂
 
 ---
 

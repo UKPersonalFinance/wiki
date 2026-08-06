@@ -25,7 +25,7 @@ This will help you understand each other's financial habits and make informed de
 
 ### Your financial goals
 
-What are your short-term and long-term [financial goals](../goals/)?
+What are your short-term and long-term [financial goals](/goals/)?
 
 This might just be paying your bills and rent each month, with a little extra put aside for a holiday or Christmas. You may also be thinking about longer-term goals, such as saving for a deposit on a house, for a wedding, for parental leave, taking a year off work to retrain, retiring, etc.
 
@@ -125,7 +125,7 @@ Once you have decided on how you will split your expenses, you need to establish
 
 *These risks are similar to any other joint accounts, including mortgages.*
 
-- When you set up a joint account with someone, they will appear as a 'Financial Association' on your [credit report](../credit-ratings/). If either of you has a poor credit history, it may be better to keep your accounts separate.
+- When you set up a joint account with someone, they will appear as a 'Financial Association' on your [credit report](/credit-ratings/). If either of you has a poor credit history, it may be better to keep your accounts separate.
 - Money in a joint account is owned equally by both of you, and either partner can spend or transfer out all of it, regardless of who deposited what. If you break up, you risk losing money you have pooled.
 - Similarly, any overdraft is also owed by both of you. If your partner runs up an overdraft, the bank can come after you for it even if you split up.
 - You might disagree about which transactions to use the joint account for, vs which to pay for out of your personal funds
@@ -156,11 +156,11 @@ If you don't want a joint account, services like [Splitwise](https://www.splitwi
 
 It is worth noting that even when sharing a current account, most savings accounts are in individual names rather than joint. Pensions and ISAs especially cannot be held as a couple, only an individual.
 
-How you divide savings between you may depend on your tax brackets, marital status, and how much of your [ISA allowances](../isa/) you've each used. It is helpful if each party has at least some savings in their name in case of emergency, for instance if one party is incapacitated or dies.
+How you divide savings between you may depend on your tax brackets, marital status, and how much of your [ISA allowances](/isa/) you've each used. It is helpful if each party has at least some savings in their name in case of emergency, for instance if one party is incapacitated or dies.
 
 ## Create a budget 📝
 
-We would always recommend [budgeting](../budgeting/), but this is especially important when you are combining finances to ensure everyone is on the same page. A budget helps you track your income, expenses, and savings and ensures that you're spending and saving wisely. You and your partner should sit down and [create a budget](../budgeting/) that works for both of you, clarifying which expenses you consider joint vs individual.
+We would always recommend [budgeting](/budgeting/), but this is especially important when you are combining finances to ensure everyone is on the same page. A budget helps you track your income, expenses, and savings and ensures that you're spending and saving wisely. You and your partner should sit down and [create a budget](/budgeting/) that works for both of you, clarifying which expenses you consider joint vs individual.
 
 The issues for budget creation are similar to the issues discussed already - you could choose to have separate budgets for personal spending, and just a 'house' budget, if you choose to combine that way. Alternatively, you may both prefer sight of the entire budget, and combine everything.
 
@@ -183,7 +183,7 @@ As with any sharing of finances, what matters most is that both parties involved
 
 ## Seek professional advice
 
-If you're having trouble combining your finances or aren't sure where to start, consider seeking the advice of a financial professional. A [financial adviser](../financial-advice/) can help you create a plan for managing your finances as a couple and provide guidance on reaching your financial goals.
+If you're having trouble combining your finances or aren't sure where to start, consider seeking the advice of a financial professional. A [financial adviser](/financial-advice/) can help you create a plan for managing your finances as a couple and provide guidance on reaching your financial goals.
 
 ## Revisit regularly
 
@@ -201,7 +201,7 @@ There are two main risk areas - abuse via financial control, and financial infid
 
 Financial abuse is a serious issue, and can form part of an otherwise abusive relationship or stand in isolation. It can range from preventing a partner from being able to earn their own money and therefore have financial independence from the abuser, to forcibly obtaining credit cards or loans in a partner's name, or to controlling spending patterns.
 
-See our page on [financial abuse and getting help](../financial-abuse-and-getting-help/), or [Moneyhelper's thorough guide on spotting financial abuse and leaving a financially abusive relationship safely](https://www.moneyhelper.org.uk/en/family-and-care/talk-money/financial-abuse-spotting-the-signs-and-leaving-safely).
+See our page on [financial abuse and getting help](/financial-abuse-and-getting-help/), or [Moneyhelper's thorough guide on spotting financial abuse and leaving a financially abusive relationship safely](https://www.moneyhelper.org.uk/en/family-and-care/talk-money/financial-abuse-spotting-the-signs-and-leaving-safely).
 
 ### Financial Infidelity
 

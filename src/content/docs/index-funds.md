@@ -29,7 +29,7 @@ advance is very hard, even for professional fund managers. It is so hard
 that almost all of them fail to beat the market consistently in the long
 run (especially after their hefty fees). This has been well studied and
 proven time and time again – see our [Recommended
-Resources](../recommended-resources/) for some books on the topic.
+Resources](/recommended-resources/) for some books on the topic.
 
 It's entirely possible for stock picks (whether your own or that of a
 fund manager) to beat the index. In fact, given the number of stocks and
@@ -240,5 +240,5 @@ periodically re-balance as some will grow faster than others.
 ## Setting up an account
 
 See our pages on [what type of investment account to
-open](../investing-101/#what-type-of-investment-account-should-i-use) and
+open](/investing-101/#what-type-of-investment-account-should-i-use) and
 which broker to open an account with.
