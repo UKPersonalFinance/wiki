@@ -19,49 +19,6 @@ export default defineConfig({
       title: "UKPersonalFinance Wiki",
       description:
         "A starting point for your financial planning journey in 8 steps. The UKPF Flowchart from Reddit's /r/ukpersonalfinance",
-      favicon: "/favicon.png",
-      customCss: ["./src/styles/custom.css"],
-      logo: {
-        src: "./src/assets/coin.png",
-      },
-      plugins: [starlightLinksValidator(), starWarp()],
-      head: [
-        {
-          tag: "link",
-          attrs: { rel: "sitemap", href: "/sitemap-index.xml" },
-        },
-        {
-          tag: "script",
-          attrs: {
-            src: "https://www.googletagmanager.com/gtag/js?id=G-TYXK2X3WJT",
-            async: true,
-          },
-        },
-        {
-          tag: "script",
-          content: `
-            window.dataLayer = window.dataLayer || [];
-            function gtag(){dataLayer.push(arguments);}
-            gtag('js', new Date());
-            gtag('config', 'G-TYXK2X3WJT');
-          `,
-        },
-      ],
-      components: {
-        Footer: "./src/components/Footer.astro",
-      },
-      social: [
-        {
-          icon: "reddit",
-          label: "Reddit",
-          href: "https://reddit.com/r/UKPersonalFinance",
-        },
-        {
-          icon: "discord",
-          label: "Discord",
-          href: "https://discord.gg/kaetMg8",
-        },
-      ],
       sidebar: [
         {
           label: "✨ Follow the Flowchart ✨",
@@ -179,6 +136,49 @@ export default defineConfig({
             },
             { label: "Benefit Entitlement", slug: "benefit-entitlement" },
           ],
+        },
+      ],
+      favicon: "/favicon.png",
+      customCss: ["./src/styles/custom.css"],
+      logo: {
+        src: "./src/assets/coin.png",
+      },
+      plugins: [starlightLinksValidator(), starWarp()],
+      head: [
+        {
+          tag: "link",
+          attrs: { rel: "sitemap", href: "/sitemap-index.xml" },
+        },
+        {
+          tag: "script",
+          attrs: {
+            src: "https://www.googletagmanager.com/gtag/js?id=G-TYXK2X3WJT",
+            async: true,
+          },
+        },
+        {
+          tag: "script",
+          content: `
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', 'G-TYXK2X3WJT');
+          `,
+        },
+      ],
+      components: {
+        Footer: "./src/components/Footer.astro",
+      },
+      social: [
+        {
+          icon: "reddit",
+          label: "Reddit",
+          href: "https://reddit.com/r/UKPersonalFinance",
+        },
+        {
+          icon: "discord",
+          label: "Discord",
+          href: "https://discord.gg/kaetMg8",
         },
       ],
     }),
