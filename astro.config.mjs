@@ -21,6 +21,19 @@ export default defineConfig({
           tag: 'link',
           attrs: { rel: 'sitemap', href: '/sitemap-index.xml' },
         },
+        {
+          tag: 'script',
+          attrs: { src: 'https://www.googletagmanager.com/gtag/js?id=G-TYXK2X3WJT', async: true },
+        },
+        {
+          tag: 'script',
+          content: `
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', 'G-TYXK2X3WJT');
+          `,
+        },
       ],
 			components: {
 				Footer: './src/components/Footer.astro',
