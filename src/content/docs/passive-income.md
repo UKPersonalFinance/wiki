@@ -1,6 +1,11 @@
 ---
 title: Passive Income
 description: Why chasing "passive income" can be counter-productive.
+head:
+  - tag: meta
+    attrs:
+      property: og:image
+      content: https://new.ukpersonal.finance/social/passive-income.png
 ---
 
 Whether you're thinking about what to do with your savings or your time,

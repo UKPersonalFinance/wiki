@@ -1,6 +1,11 @@
 ---
 title: Investing for your children
 description: JISAs, your own accounts, and other options for saving for children.
+head:
+  - tag: meta
+    attrs:
+      property: og:image
+      content: https://new.ukpersonal.finance/social/investing-for-your-children.png
 ---
 
 Having a kid? Thinking about saving money for their future needs such as

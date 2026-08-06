@@ -5,7 +5,7 @@ head:
   - tag: meta
     attrs:
       property: og:image
-      content: https://ukpersonalfinance.github.io/wiki-poc/astro/social/recommended-resources.png
+      content: https://new.ukpersonal.finance/social/recommended-resources.png
 ---
 
 ![Recommended Resources](../../assets/images/recommended-resources-hero.png)

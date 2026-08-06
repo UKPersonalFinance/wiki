@@ -1,6 +1,11 @@
 ---
 title: Mortgage overpayments vs investments
 description: Whether to overpay your mortgage or save/invest instead.
+head:
+  - tag: meta
+    attrs:
+      property: og:image
+      content: https://new.ukpersonal.finance/social/mortgage-overpayments-vs-investments.png
 ---
 
 If you have savings available, is it better to overpay your mortgage, or

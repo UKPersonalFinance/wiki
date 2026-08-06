@@ -1,6 +1,11 @@
 ---
 title: Pensions
 description: A high level overview of how UK pensions work.
+head:
+  - tag: meta
+    attrs:
+      property: og:image
+      content: https://new.ukpersonal.finance/social/pensions.png
 ---
 
 This page provides a very high level overview of how pensions work. It's a

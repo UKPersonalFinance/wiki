@@ -1,6 +1,11 @@
 ---
 title: Retirement Planning
 description: Working out how much you need to save for a comfortable retirement.
+head:
+  - tag: meta
+    attrs:
+      property: og:image
+      content: https://new.ukpersonal.finance/social/retirement-planning.png
 ---
 
 In the previous pension stage on the flowchart you made sure that you
