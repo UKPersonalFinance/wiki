@@ -2,3 +2,6 @@
 bun = "latest"
 just = "latest"
 prek = "latest"
+gitleaks = "latest"
+markdownlint-cli2 = "latest"
+prettier = "latest"

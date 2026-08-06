@@ -25,6 +25,14 @@ install:
 lint:
     prek run --all-files
 
+# Format code with Prettier
+format:
+    mise exec -- prettier --write .
+
+# Lint markdown content
+mdlint:
+    mise exec -- markdownlint-cli2 "src/**/*.md" "src/**/*.mdx"
+
 # Remove build output and caches
 clean:
     rm -rf dist .astro node_modules/.astro

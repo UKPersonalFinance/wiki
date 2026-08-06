@@ -1,0 +1,16 @@
+{
+  "config": {
+    "MD001": false, // heading levels inside Starlight's card-layout HTML don't increment linearly
+    "MD013": false, // long lines are fine in prose
+    "MD025": false, // same card-layout HTML also has more than one top-level heading
+    "MD026": false, // some headings intentionally end in "!"
+    "MD033": false, // inline HTML is used in some pages
+    "MD034": false, // some bare URLs remain in existing prose
+    "MD036": false, // bold text is used as a pseudo-heading in several pages
+    "MD040": false, // some fenced code blocks don't specify a language
+    "MD041": false, // Starlight pages set their title via frontmatter, not an H1
+    "MD045": false, // some existing images don't have alt text
+    "MD059": false, // some existing links use non-descriptive text like "here"
+    "MD060": false  // table pipe-spacing style doesn't match existing tables
+  }
+}
