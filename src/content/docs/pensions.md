@@ -13,7 +13,7 @@ there are two very important things you must know:
 - Due to the magic of compound interest, the sooner you start your pension,
   the less you need to contribute to it yourself.
 
-## Always auto-enrol in your pension ✅
+## Always auto-enrol in your pension ✅ {#auto-enroll}
 
 You should make sure you are enrolled in your employer's pension scheme.
 This is a minimum of 3% extra pay in exchange for you contributing 5% of
@@ -35,9 +35,9 @@ common in the public sector (although some do also exist in the private
 sector too!). If you have a 'Defined Benefit' scheme your pension works
 differently.
 
-## Tax relief on pension contributions explained 💸
+## Tax relief on pension contributions explained 💸 {#tax-relief}
 
-### Income tax
+### Income tax {#income-tax}
 
 You don't pay income tax on money you put into your pension.
 
@@ -59,7 +59,7 @@ claimed.
 - Our wiki: [Pension, ISA or LISA – which is best?](../isa-vs-lisa-vs-pension/)
 - Pensions Advisory Service: [Tax relief and contributions](https://www.pensionsadvisoryservice.org.uk/about-pensions/saving-into-a-pension/pensions-and-tax/tax-relief-and-contributions)
 
-### National Insurance and Salary Sacrifice
+### National Insurance and Salary Sacrifice {#salary-sacrifice}
 
 Some employers offer a 'salary sacrifice' pension arrangement. This means
 that instead of you earning £100 and putting it in the pension, they reduce
@@ -76,7 +76,7 @@ into your pension too.
 - Pensions Advisory Service: [Salary sacrifice](https://www.pensionsadvisoryservice.org.uk/about-pensions/saving-into-a-pension/salary-sacrifice)
 - MoneyHelper: [Workplace pension contribution calculator](https://www.moneyhelper.org.uk/en/pensions-and-retirement/auto-enrolment/use-our-workplace-pension-calculator)
 
-## The magic of compound growth 🪄
+## The magic of compound growth 🪄 {#compound-growth}
 
 The earlier you start saving, the more time is on your side. The growth of
 your savings and investments will compound over time.
@@ -119,7 +119,7 @@ For more illustrations of the power of compound interest, see:
 - Business Insider: [Here's The Difference Between Someone Who Starts Saving
   At 25 Vs. Someone Who Starts At 35](http://www.businessinsider.com/saving-at-25-vs-saving-at-35-2014-3)
 
-## Pension calculators 📊
+## Pension calculators 📊 {#calculators}
 
 You can use the calculators below to forecast your future pension income at
 different contribution rates. Your pension doesn't need to be invested with
@@ -133,7 +133,7 @@ these companies to use their calculators.
 Note different calculators will use different assumptions. Take the time to
 read them to understand how the numbers they provide have been calculated.
 
-## The state pension 👴🏽
+## The state pension 👴🏽 {#state-pension}
 
 As of the 2025-26 financial year, the full state pension is £230.25 per
 week, paid four-weekly, which comes to £11,973 per year. State pension age
@@ -182,7 +182,7 @@ If you've received correspondence about your pension to your work email
 address, make sure to forward it on to somewhere you can still access after
 you leave.
 
-### Should I change what my pension is invested in?
+### Should I change what my pension is invested in? {#change-funds}
 
 For the most part, the default funds your pension provider selects will
 work just fine and there's no need to adjust. However, if you're interested
@@ -192,7 +192,7 @@ necessary. Take a look at our pages on [investing
 101](../investing-101/) and index funds if you want to
 get more hands-on.
 
-### How do I claim higher-rate tax relief?
+### How do I claim higher-rate tax relief? {#claiming-tax-relief}
 
 This depends on the type of scheme you are enrolled in. If you're not sure
 what type you have, ask your payroll or pension provider.
@@ -215,7 +215,7 @@ cheque you'll receive once you get in touch with them!
 - Hargreaves Lansdown: [How to claim higher-rate tax relief](https://www.hl.co.uk/help/sipp,-drawdown-and-annuity/sipp/tax-relief/how-do-i-claim-higher-rate-tax-relief)
 - MoneyHelper: [Tax Relief on Pension Contributions](https://www.moneyhelper.org.uk/en/pensions-and-retirement/tax-and-pensions/tax-relief-and-your-pension)
 
-### Should I transfer and merge old pensions?
+### Should I transfer and merge old pensions? {#merge-old-pensions}
 
 If you have multiple pension pots from different jobs, you may prefer to
 combine them into one of your existing pensions (or a SIPP) so there are
@@ -253,7 +253,7 @@ find out exactly what you have. To find the name of the provider:
 
 ## Frequently Asked Questions ℹ️
 
-### 'Half your age' rule ➗
+### 'Half your age' rule ➗ {#half-your-age-rule}
 
 The most common recommendation for retirement saving is that you should
 save half your starting age as a percentage of your income – if you start
@@ -270,7 +270,7 @@ a general idea of how much you might need to contribute if you're starting
 from scratch. For a more accurate basis for planning, use the calculators
 provided above.
 
-### When can I access my pension? ⌛
+### When can I access my pension? ⌛ {#access-age}
 
 State pension age is currently 66, and increasing to 67 by 2028,
 anticipated to increase again to 68 by 2039. You cannot start taking a
@@ -282,7 +282,7 @@ Currently, most personal and occupational pensions can be accessed at age
 pension access changes. You will need to check your specific scheme to be
 sure of what it permits, as they may vary.
 
-### If I opt out, how much money will I lose out on? 💰
+### If I opt out, how much money will I lose out on? 💰 {#opt-out}
 
 If you're considering opting out of a pension, the short answer is 'don't',
 but the longer answer is 'calculate how much money you'd be giving up on
@@ -345,7 +345,7 @@ Any used carry over is allocated to the earliest tax year possible.
 You can find a detailed explanation of carry-forward, along with examples,
 at the MoneyHelper page.
 
-### I want to retire early. Do I still need a pension if I'll retire before I can access it? 🔥
+### I want to retire early. Do I still need a pension if I'll retire before I can access it? 🔥 {#FIRE}
 
 Absolutely!
 
@@ -359,7 +359,7 @@ savings required much faster if you use them efficiently.
   quicker than ISAs alone](https://monevator.com/how-pensions-will-help-you-reach-financial-independence-quicker-than-isas-alone/)
 - Monevator: [SIPPs vs ISAs – Pensions win if you're saving for retirement](https://monevator.com/sipps-vs-isas-best-pension-vehicle/)
 
-### I'm on track to hit the Lifetime Allowance (LTA), should I stop contributing to my pension? ⏳
+### I'm on track to hit the Lifetime Allowance (LTA), should I stop contributing to my pension? ⏳ {#LTA}
 
 The lifetime allowance is in the process of being removed as of 2024, with
 full removal planned from April 2024. This section has been left here for
@@ -390,18 +390,18 @@ allowance.
 Meaningful Money have a very thorough video about the LTA:
 [https://www.youtube.com/watch?v=7kErytIUmeo](https://www.youtube.com/watch?v=7kErytIUmeo)
 
-### Why am I not automatically enrolled? 🤷
+### Why am I not automatically enrolled? 🤷 {#not-enrolled}
 
 If you're employed but haven't been automatically enrolled, it means you're
 either too young or don't earn enough. You're almost certainly still
 eligible to join, but will have to opt-in. Speak to your employer.
 
-### What if I'm self-employed? 🖥️
+### What if I'm self-employed? 🖥️ {#self-employed}
 
 If you're self-employed you will need to arrange your own pension scheme.
 This is a higher priority than it would be otherwise.
 
-### I'm in a Defined Benefit pension scheme 🦄
+### I'm in a Defined Benefit pension scheme 🦄 {#defined-benefit}
 
 Lucky you! Just don't opt out and you're good to go.
 
@@ -418,7 +418,7 @@ value (and price) of a guaranteed income that a DB pension provides.
 
 - MoneyHelper: [Defined Benefit pension schemes explained](https://www.moneyhelper.org.uk/en/pensions-and-retirement/pensions-basics/defined-benefit-or-final-salary-pensions-schemes-explained)
 
-## Helpful resources 📚
+## Helpful resources 📚 {#resources}
 
 - MoneyHelper: [Pensions and Retirement](https://www.moneyhelper.org.uk/en/pensions-and-retirement?source=mas) – includes explanations of different
   pension types, saving for retirement, how to take your pensions, getting

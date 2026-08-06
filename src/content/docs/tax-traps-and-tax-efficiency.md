@@ -30,7 +30,7 @@ Note – These figures only refer to income tax, and do not include National
 Insurance contributions. See our [Income Tax – The
 Basics](https://ukpersonal.finance/income-tax/) primer for more info on tax.
 
-## What is 'Adjusted Net Income'?
+## What is 'Adjusted Net Income'? {#Adjusted_Net_Income}
 
 Your "Adjusted Net Income" is your total taxable income from all sources
 (e.g. salary, bonus, any interest and dividends earned outside of ISAs, any

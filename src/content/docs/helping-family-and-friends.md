@@ -233,7 +233,7 @@ Office of the Public Guardian (the government department responsible for
 dealing with LPAs) has lots of information for attorneys on their website,
 and Citizens Advice offer independent guidance too.
 
-## How to find professional help
+## How to find professional help {#guidance}
 
 Pointing your friend or family member in the right direction could be all
 the help they need.

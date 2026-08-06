@@ -12,7 +12,7 @@ you build your savings faster. However, if you want to use your LISA
 savings for anything other than those two purposes, you will be charged
 a penalty.
 
-## How do Lifetime ISAs work?
+## How do Lifetime ISAs work? {#what-is-a-lifetime-isa}
 
 You can save up to £4,000 in a LISA per tax year. The government will
 give you a 25% bonus on any contributions, for example:
@@ -35,7 +35,7 @@ day before your 40th birthday) who is resident in the UK. You cannot pay
 into a LISA once you turn 50 (again the cut off is the day before your
 50th birthday).
 
-## Using a LISA to buy your first home
+## Using a LISA to buy your first home {#using-a-lisa-to-buy-your-first-home}
 
 To use your LISA to buy a house:
 
@@ -60,14 +60,14 @@ Your conveyancer will need to arrange the use of your LISA to ensure
 you keep the bonus – the funds will be paid directly to them.
 :::
 
-## Using a LISA to save for retirement
+## Using a LISA to save for retirement {#using-a-lisa-to-save-for-retirement}
 
 If you are considering saving in a LISA for your retirement, you will
 want to compare this to using a pension. For a detailed list of the
 pros and cons see our page on [ISA vs LISA vs
 Pension](../isa-vs-lisa-vs-pension/).
 
-## Withdrawing with a penalty
+## Withdrawing with a penalty {#when-can-i-access-the-money}
 
 You can withdraw money from your LISA at any time. However, if it is not
 done as part of an eligible house purchase, or at over age 60, the
@@ -128,7 +128,7 @@ Martin Lewis, of Money Saving Expert fame, has been campaigning for the
 government to make changes, as he believes LISAs are now a "dead duck
 product".
 
-## Help to Buy (H2B) ISA – no longer available to new savers
+## Help to Buy (H2B) ISA – no longer available to new savers {#help-to-buy-h2b-isa-no-longer-available-to-new-savers}
 
 The Help to Buy ISA was replaced by the Lifetime ISA (LISA). This
 section has been kept as a reference for those still holding them. They
@@ -147,7 +147,7 @@ differ from LISAs in the following ways:
   transfer uses your LISA contribution limit, but not your overall
   £20,000 ISA contribution limit.
 
-### What if I have a H2B ISA and a LISA?
+### What if I have a H2B ISA and a LISA? {#how-do-htb-isas-and-lisas-interact}
 
 If you have savings in both a H2B ISA and a LISA, you cannot get both
 bonuses during a house purchase. You can use your LISA (with bonus), and
@@ -155,7 +155,7 @@ withdraw your H2B without penalty. Alternatively you can apply for the
 H2B bonus, and either withdraw your LISA savings with the 25% penalty,
 or leave them for retirement.
 
-## Other resources 📚
+## Other resources 📚 {#other-resources}
 
 - The [government guide to LISAs](https://lifetimeisa.campaign.gov.uk/)
 - The [MoneySavingExpert guide to LISAs](http://www.moneysavingexpert.com/savings/lifetime-ISAs)

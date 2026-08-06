@@ -162,7 +162,7 @@ most appropriate and cost effective account type for your situation.
 LISA to boost your savings by up to £1,000 per year. LISAs can be either
 cash or investment accounts.
 
-## Are you sure I shouldn't invest for my short term goals? 📉
+## Are you sure I shouldn't invest for my short term goals? 📉 {#short_term_invest}
 
 The important thing to understand is that savings held with a bank (or
 NS&I) are risk-free. There's no scenario in which you save £1,000, then

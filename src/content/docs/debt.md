@@ -182,7 +182,7 @@ cut your budget (or work longer hours, or sell things you own) will
 depend on your individual circumstances. It's always a balancing act with
 your quality of life.
 
-## Why interest is a killer 🚒
+## Why interest is a killer 🚒 {#interest}
 
 When you borrow at 0% interest, you can end up spending more than you
 earn, but you only need to pay back what you actually spent.
@@ -206,7 +206,7 @@ any debt at 10% APR or above before progressing to building up savings.
 That's because with high interest debt, it is better to pay it off than
 to keep money in savings, even for an emergency.
 
-## Should I pay off low interest debt?
+## Should I pay off low interest debt? {#lowinterest}
 
 If your debt is at a lower interest rate, and the monthly minimum
 payments are affordable, it is less urgent to pay off. You can

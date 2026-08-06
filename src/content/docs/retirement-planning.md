@@ -203,7 +203,7 @@ to plan accordingly. Large pension pots (typically over £1M) have been
 subject to an ever-changing tax regime, and the way pensions are taxed
 on death is likely to change from 2027.
 
-### Sequence of returns
+### Sequence of returns {#SORR}
 
 Bad years have a much higher impact on your retirement savings as you
 approach your target age, as you have less time for your investments to
@@ -255,7 +255,7 @@ annual, after-inflation return of 4.9%. The caveats:
   introducing bonds as an alternative to equities, which will reduce
   average returns (in exchange for reducing the risk of disasters).
 
-## Withdrawal strategies & safe withdrawal rates
+## Withdrawal strategies & safe withdrawal rates {#SWR}
 
 ### Background
 
@@ -327,7 +327,7 @@ strategy, you'll encounter a whole new set of questions and terminology
 page. Government-backed service [PensionWise](https://www.moneyhelper.org.uk/en/pensions-and-retirement/pension-wise) offer one free pension
 guidance appointment to over-50s.
 
-### Getting professional advice
+### Getting professional advice {#advice}
 
 See our page on [Financial Advice](../financial-advice/)
 for more info. If you are looking for a professional cash-flow forecast,

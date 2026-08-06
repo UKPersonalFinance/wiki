@@ -138,7 +138,7 @@ manually as it saves you the hassle and delays (and fees if applicable).
 However if you are investing in a taxable account, using income funds
 makes tracking your tax liabilities easier.
 
-#### Fund vs ETF
+#### Fund vs ETF {#fund_vs_etf}
 
 Index funds can be either open-ended funds (generally referred to simply
 as "funds"), or Exchange-Traded funds ("ETFs"). You will also see

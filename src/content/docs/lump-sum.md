@@ -34,7 +34,7 @@ Buffett!
 Equally, don't be pressured by deadlines such as the tax year ending or
 FOMO to make decisions quickly. Take your time.
 
-## Where to safely store large sums of money 🏦
+## Where to safely store large sums of money 🏦 {#FSCS}
 
 The most important first step is to ensure your money is held safely.
 You can then plan your next steps without feeling anxious that something

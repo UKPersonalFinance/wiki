@@ -126,7 +126,7 @@ help:
   scarcity? Are there different ways you can think about your needs and
   goals to remind yourself of why it's worthwhile spending money on them?
 
-## Step 3: Record and adjust over time 🔄
+## Step 3: Record and adjust over time 🔄 {#monitor}
 
 Having thought about what you want your spending and saving to look like in
 future, you will want to record this somewhere so you can have some way to
@@ -160,7 +160,7 @@ Alternatives that offer something similar:
   of YNAB, requires some technical knowledge to self-host.
 - **Goodbudget** (Free basic tier, $80/year for unlimited tier)
 
-### Open banking apps
+### Open banking apps {#openbanking}
 
 The introduction of open banking has allowed companies to develop account
 aggregation and budgeting software. Open banking-capable apps can track

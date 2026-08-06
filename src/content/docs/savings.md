@@ -123,7 +123,7 @@ another person.
   after year. For more information on how this works, see our ISAs page.
 - If you are saving for a house, consider a cash Lifetime ISA (LISA).
 
-## How much tax will I pay on my savings interest?
+## How much tax will I pay on my savings interest? {#tax}
 
 Interest on cash savings (held outside of ISAs or Premium Bonds) is
 classed as income, and is subject to income tax, except that you have
