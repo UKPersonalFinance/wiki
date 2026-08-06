@@ -79,44 +79,6 @@ body::before {
 	font-weight: 600;
 }
 
-.home-links {
-	display: grid;
-	grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
-	gap: 1rem;
-	margin: 1.5rem 0 2rem;
-}
-
-.home-link-card {
-	margin-top: 0;
-	border: 2px solid var(--sl-color-hairline);
-	border-radius: 0.125rem;
-	padding: 1rem 1.25rem;
-	transition: border-color 0.15s ease;
-}
-
-.home-link-card:hover {
-	border-color: var(--sl-color-accent);
-}
-
-.home-link-card h3 {
-	margin: 0 0 0.5rem;
-	font-size: var(--sl-text-xl);
-}
-
-.home-link-card h3 a {
-	text-decoration: none;
-}
-
-.home-link-card .sl-anchor-link {
-	display: none;
-}
-
-.home-link-card p {
-	margin: 0;
-	font-size: var(--sl-text-base);
-	color: var(--sl-color-gray-2);
-}
-
 /* Reset Starlight's global typography inside the embedded flowchart SVG —
    its foreignObject text boxes rely on browser-default line-height/margin,
    which our page's own CSS otherwise overrides. */
