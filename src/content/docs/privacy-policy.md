@@ -5,7 +5,7 @@ description: What data this site collects and why.
 
 ## Who we are
 
-Our website address is: https://ukpersonal.finance.
+Our website address is: <https://ukpersonal.finance>.
 
 ## What personal data we collect and why we collect it
 
@@ -18,7 +18,7 @@ string to help spam detection.
 An anonymized string created from your email address (also called a hash)
 may be provided to the Gravatar service to see if you are using it. The
 Gravatar service privacy policy is available here:
-https://automattic.com/privacy/. After approval of your comment, your
+<https://automattic.com/privacy/>. After approval of your comment, your
 profile picture is visible to the public in the context of your comment.
 
 ### Media
@@ -93,4 +93,4 @@ service.
 
 ## Your contact information
 
-You can contact us at ukpfmods@protonmail.com
+You can contact us at <ukpfmods@protonmail.com>
