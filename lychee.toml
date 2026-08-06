@@ -1,0 +1,5 @@
+accept = "100..=103,200..=299,403"
+
+exclude = [
+  "^https://new\\.ukpersonal\\.finance",
+]

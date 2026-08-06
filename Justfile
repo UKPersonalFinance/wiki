@@ -33,6 +33,10 @@ format:
 mdlint:
     mise exec -- markdownlint-cli2 "src/**/*.md" "src/**/*.mdx"
 
+# Check for broken links (requires a production build)
+linkcheck: build
+    mise exec -- lychee --root-dir "$(pwd)/dist" dist
+
 # Remove build output and caches
 clean:
     rm -rf dist .astro node_modules/.astro
