@@ -22,7 +22,20 @@ export default defineConfig({
         { icon: 'discord', label: 'Discord', href: 'https://discord.gg/kaetMg8' },
       ],
 			sidebar: [
-				{ label: '✨ Follow the Flowchart ✨', slug: 'flowchart' },
+				{
+					label: '✨ Follow the Flowchart ✨',
+					collapsed: true,
+					items: [
+						{ label: '⤵️ The UKPF flowchart', slug: 'flowchart' },
+						{ label: '🧮 Make a budget', slug: 'budgeting' },
+						{ label: '☔️ Start emergency fund', slug: 'emergency-fund' },
+						{ label: '📚 Read more', slug: 'recommended-resources' },
+						{ label: '🏖 Autoenroll in pension', slug: 'pensions' },
+						{ label: '💳 Pay expensive debts', slug: 'debt' },
+						{ label: '🚨 Fill emergency fund', slug: 'emergency-fund' },
+						{ label: '🚗 Save for future goals', slug: 'goals' },
+					],
+				},
 				{
 					label: 'The Basics',
 					items: [
@@ -90,7 +103,15 @@ export default defineConfig({
 					items: [
 						{ label: 'Recommended Resources', slug: 'recommended-resources' },
 						{ label: 'UK income and wealth statistics', slug: 'statistics' },
-						{ label: 'UKPF community', slug: 'community' },
+						{
+							label: 'UKPF community',
+							collapsed: true,
+							items: [
+								{ label: 'UKPF community', slug: 'community' },
+								{ label: 'Help Us Help You', slug: 'help-us-help-you' },
+								{ label: 'Is this wiki advice?', slug: 'this-wiki-is-not-advice' },
+							],
+						},
 						{ label: 'Benefit Entitlement', slug: 'benefit-entitlement' },
 					],
 				},
