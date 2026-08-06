@@ -16,9 +16,9 @@ The statement will list the transactions you made in the past month, along with 
 
 Statements used to be sent in the post, but nowadays they will usually be sent electronically via your banking app.
 
-- If you pay the statement balance in full and on time each month, you will not owe **any**interest on your purchases, regardless of the rate on the card.
+- If you pay the statement balance in full and on time each month, you will not owe **any** interest on your purchases, regardless of the rate on the card.
 - If you repay less than the full statement balance, you will accrue interest.
-  - Interest is calculated from the day you made each transaction, not from the day the statement is due. This interest is not charged to you if you pay in full, but if you make a partial payment, you will have interest from **all**of that month's transactions added to your balance.
+  - Interest is calculated from the day you made each transaction, not from the day the statement is due. This interest is not charged to you if you pay in full, but if you make a partial payment, you will have interest from **all** of that month's transactions added to your balance.
 - If you fail to make the minimum payment, this is considered a missed payment.
 
 Missed payments will damage your [credit rating](/credit-ratings/), your card issuer may charge you fees, and in extreme situations may take legal measures to recover the debt you owe.
@@ -54,7 +54,7 @@ It used to be common for credit cards to charge an annual fee regardless of usag
 Most cards will charge you in these circumstances:
 
 - If you do not pay at least the minimum balance on a credit card by the due date, or exceed your credit limit, you will be charged a fee (typically £12).
-- Using your credit card to withdraw cash is called a 'cash advance' and you will be charged a fee (typically around 2-3% of the transaction) **and**start accruing interest immediately (often at a higher rate than the usual interest rate of the card). Never use your credit card to withdraw cash.
+- Using your credit card to withdraw cash is called a 'cash advance' and you will be charged a fee (typically around 2-3% of the transaction) **and** start accruing interest immediately (often at a higher rate than the usual interest rate of the card). Never use your credit card to withdraw cash.
 - Some transactions are considered 'cash equivalent' and are treated the same way as cash advances. Examples can include transferring money from the credit card to a bank account, online trading such as buying stocks and shares, and gambling transactions.
 - Using your card to make purchases in other currencies will typically cost a 2-3% fee.
 
@@ -129,7 +129,7 @@ Having and using a credit card can improve your [credit rating](/credit-ratings/
 If you're getting a card for this purpose:
 
 - Use it for your normal expenses only - e.g. food shops or petrol. Don't let having a card affect your spending
-- Pay it off in full each month, using a direct debit. **Never**pay interest
+- Pay it off in full each month, using a direct debit. **Never** pay interest
 - Don't exceed your credit limit
 - Never take cash advances
 

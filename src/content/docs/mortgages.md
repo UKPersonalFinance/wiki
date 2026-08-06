@@ -69,7 +69,7 @@ There are three main ceilings on how much you can borrow: your gross income, you
 
 The most you can generally borrow on a mortgage is 4.5 times your gross income. So e.g. if you earn £25,000 per year, you would expect to be able to borrow up to £112,500.
 
-If you're buying with someone, you can use your **joint**gross income.
+If you're buying with someone, you can use your **joint** gross income.
 
 In some cases lenders will be able to lend more than 4.5x your income, but the regulator requires this sort of lending to be less than 15% of loans granted, so it is an exception rather than the rule and usually reserved for above-average incomes.
 

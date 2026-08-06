@@ -142,7 +142,7 @@ You may be able to get recommendations from friends, family or colleagues to sta
 
 Many guides/subreddit threads also suggest using websites like unbiased.co.uk or vouchedfor.co.uk to find possible advisers.
 
-Whilst these websites can be useful to research potential advisers, they are **not**as independent as they first appear. They are both "lead generation services" for advisers, and their business model is to charge advisers fees to appear on listings and to contact potential clients who find them via the site.
+Whilst these websites can be useful to research potential advisers, they are **not** as independent as they first appear. They are both "lead generation services" for advisers, and their business model is to charge advisers fees to appear on listings and to contact potential clients who find them via the site.
 
 ### Where should I look first?
 
@@ -156,13 +156,13 @@ We recommend that you use the professional body search engines as your starting 
 
 ### Find further information with Unbiased and VouchedFor
 
-**Unbiased**pushes you towards its matching services, which promises to find the best adviser for you, but in reality this sends your enquiry to all paying advisers within a certain radius of your postcode and the first to pay an additional fee will receive exclusive rights to contact you.
+**Unbiased** pushes you towards its matching services, which promises to find the best adviser for you, but in reality this sends your enquiry to all paying advisers within a certain radius of your postcode and the first to pay an additional fee will receive exclusive rights to contact you.
 
 If you do use unbiased to help find potential options, make sure to use [their directory](https://www.unbiased.co.uk/advisers?service=financial-adviser) rather than their matching service, and be aware that they do little vetting of legitimacy.
 
 Their "ratings"only measure speed of response, rather than reviews of service. They also allow advisers to pay extra fees to appear at the top of certain postcodes, even if they don't have offices or advisers in the area.
 
-**[Vouchedfor](https://www.vouchedfor.co.uk/)**offer a little more by way of vetting and checking, and don't charge advisers extra for appearing at the top of search results. Their differentiator is that customers leave reviews for their advisers, which you can use to help inform a decision.
+**[Vouchedfor](https://www.vouchedfor.co.uk/)** offer a little more by way of vetting and checking, and don't charge advisers extra for appearing at the top of search results. Their differentiator is that customers leave reviews for their advisers, which you can use to help inform a decision.
 
 They still charge advisers to appear on the site, and to respond to enquiries. They encourage advisers to ask their customers for reviews, and their search algorithms heavily favour advisers with larger numbers of recent reviews.
 
@@ -181,7 +181,7 @@ All authorised and regulated financial advisers must have an "appropriate NQF le
 Anybody claiming their Level 4 qualification differentiates them from other advisers should be treated with caution. There are higher levels of qualification that should be prioritised:
 
 - **"Chartered Financial Planner" status**, (NQF Level 6, awarded by CII/PFS). This is the highest level of general-purpose financial advice qualification that can be achieved in the UK. It should be sought as an absolute minimum as it demonstrates high-quality technical knowledge and skills. Despite the name, it is not a 'financial planning' qualification, and you should seek an adviser with it regardless of whether you want a 'financial planning service' or not. Around 20,000 individuals hold Chartered status.
-- **CFP™** **or "Certified Financial Planner" status** (NQF level 7, awarded by the Chartered Institute of Securities and Investments (CISI)). This qualification is specifically focused on the practice of financial planning. All CFP planners are listed on their [Wayfinder site](https://financialplanning.cisi.org/cisiweb2/wayfinder/home). Around 900 individuals hold the CFP status.
+- **CFP™ or "Certified Financial Planner" status** (NQF level 7, awarded by the Chartered Institute of Securities and Investments (CISI)). This qualification is specifically focused on the practice of financial planning. All CFP planners are listed on their [Wayfinder site](https://financialplanning.cisi.org/cisiweb2/wayfinder/home). Around 900 individuals hold the CFP status.
 
 There are also specialist accreditations that may be helpful if you have particular planning needs, for example:
 

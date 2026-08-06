@@ -36,7 +36,7 @@ By waiting for the perfect time to invest, you can end up [missing periods with 
 
 If you're nervous about investing because the market appears to be too high, you could consider Pound Cost Averaging (also known as Dollar Cost Averaging) - drip feeding your investment into the market at pre-determined times and amounts. For example, if you had £10,000 to invest, you could choose to invest £1000 each month for 10 months.
 
-That means if the market does drop, some of your money will be going in at those lower prices. On the flip side, if the market rises, your money will be going in at higher prices. By buying over a period of time , you are purchasing stocks at the **average**price over the period you're drip feeding, instead of one specific point at the start of that time period.
+That means if the market does drop, some of your money will be going in at those lower prices. On the flip side, if the market rises, your money will be going in at higher prices. By buying over a period of time , you are purchasing stocks at the **average** price over the period you're drip feeding, instead of one specific point at the start of that time period.
 
 [This article from Vanguard](https://www.vanguard.co.uk/professional/vanguard-365/financial-planning/financial-well-being/cost-averaging) provides more information about the pros and cons of lump sums vs averaging. *TL;DR:* statistically, if you have the money available upfront, you're more likely to be better off investing it all rather than keeping some back. The market goes up more than it goes down (that's why we invest!), so the average price over the course of a year is more likely to be higher than the price at the start of the year period.
 

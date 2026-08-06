@@ -19,7 +19,9 @@ You can save up to £4,000 in a LISA per tax year. The government will give you 
 - Put £2,000 into the LISA and get a **£500** bonus
 - Put the full £4,000 get a **£1,000** bonus
 
-ℹ️　The bonus is paid within two months of your contributions.
+:::note
+The bonus is paid within two months of your contributions.
+:::
 
 LISAs can be either cash ([getting paid interest by a bank or building society](/savings/)) or Stocks & Shares ([where you aim to make returns on your chosen investments](/investing-101/)). Both will receive the government bonus.
 
@@ -42,8 +44,9 @@ If only one of you is a first time buyer, that person can still put money from t
 
 Your deposit is not limited to what you have in the LISA. You can use additional money from other savings or bank accounts towards your home purchase alongside the LISA balance.
 
-**⚠️　Do not withdraw funds yourself!**
+:::caution[Do not withdraw funds yourself!]
 Your conveyancer will need to arrange the use of your LISA to ensure you keep the bonus - the funds will be paid directly to them.
+:::
 
 ## Using a LISA to save for retirement {#using-a-lisa-to-save-for-retirement}
 
@@ -86,8 +89,9 @@ Martin Lewis, of Money Saving Expert fame, has been campaigning for the governme
 
 ## Help to Buy (H2B) ISA – no longer available to new savers {#help-to-buy-h2b-isa-no-longer-available-to-new-savers}
 
-**ℹ️　The Help to Buy ISA was replaced by the Lifetime ISA (LISA).**
+:::note[The Help to Buy ISA was replaced by the Lifetime ISA (LISA)]
 This section has been kept as a reference for those still holding them.
+:::
 
 They're a little bit different from LISAs in the following ways:
 

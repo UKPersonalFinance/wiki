@@ -45,7 +45,7 @@ Many banks and building societies offer [savings accounts for children](https://
 
 Interest earned in savings accounts is subject to tax. Whilst most children do not earn enough money themselves to [pay income tax on their savings interest](/savings/), money given to children under the age of 18 by their parents or step-parents (but not other family members) earning £100 or more interest per year is subject to tax as if it was that parent's savings. This is to prevent parents from avoiding paying tax on their savings interest by storing their savings in their children's names.
 
-As a parent saving for your children, there is **no tax advantage**to savings in your child's account rather than your own. The only financial benefit is if the child's account pays a better interest rate. This is sometimes the case, but tends to be limited to introductory offers. You may find you get better rates in your own savings accounts, and that it's less hassle to stay on top of the best interest rates this way.
+As a parent saving for your children, there is **no tax advantage** to savings in your child's account rather than your own. The only financial benefit is if the child's account pays a better interest rate. This is sometimes the case, but tends to be limited to introductory offers. You may find you get better rates in your own savings accounts, and that it's less hassle to stay on top of the best interest rates this way.
 
 Older children may benefit from having a savings account they can transfer pocket money, gifts or income to to save up for things they want to buy, the same way adults use a savings account.
 
@@ -61,7 +61,7 @@ Not suitable for:
 
 Junior ISAs come in 'Cash' and 'Stocks & Shares' (investment) variants, much like [regular ISAs](/isa/), and follow similar rules.
 
-Saving into a Junior ISA will not use any of your personal ISA allowance - your child has their own allowance, of £9,000 per year. In the tax year in which the child turns 18, they can use both their £9,000 JISA allowance **and**the standard £20,000 ISA allowance.
+Saving into a Junior ISA will not use any of your personal ISA allowance - your child has their own allowance, of £9,000 per year. In the tax year in which the child turns 18, they can use both their £9,000 JISA allowance **and** the standard £20,000 ISA allowance.
 
 Only a parent or guardian can set up a JISA, but once it's set up, other family members or friends can contribute money to it. The parent who opened it remains responsible for managing the account (keeping contact details up to date and making investment decisions) but they cannot withdraw money from the JISA.
 
@@ -125,7 +125,7 @@ If you want to give your child a head start on retirement savings, you can contr
 
 When your child turns 18 this will become a regular SIPP and will follow the normal [personal pension rules](/pensions/) regarding income tax on withdrawals and access age restrictions. It therefore can't be used to help your child with university costs, to buy their first home, or any other goals before retirement age.
 
-Calculating the effect of 50+ years of compounding certainly gives impressive results, and at first glance this can give a JSIPP the appearance of providing the best possible value for your children's savings, as it results in the largest return. However it's important to understand that the money does not compound any faster or better in your child's JSIPP compared to your own SIPP, your ISA, or your child's ISA. These savings will be worth similar amounts when your child is 20, 40 and 60 years old. It is only that they remain **inaccessible**for the longest possible period of time if placed in your child's JSIPP.
+Calculating the effect of 50+ years of compounding certainly gives impressive results, and at first glance this can give a JSIPP the appearance of providing the best possible value for your children's savings, as it results in the largest return. However it's important to understand that the money does not compound any faster or better in your child's JSIPP compared to your own SIPP, your ISA, or your child's ISA. These savings will be worth similar amounts when your child is 20, 40 and 60 years old. It is only that they remain **inaccessible** for the longest possible period of time if placed in your child's JSIPP.
 
 While many people worry about giving an 18 year old access to savings, it doesn't therefore follow that locking them away until they are retired is the next best option. It's worth remembering that your child will have several decades to prepare for their own retirement, and will be incentivised to do so with employer pension contributions and tax relief. Access to some savings at an earlier age may actually provide more value to their life trajectory than a larger amount when retired - and if given money at e.g. 30 years old, they will still have the option to put these savings in their pension if that is still preferred. There is no specific advantage to setting up a JSIPP while they are under 18 rather than doing so when they are an adult.
 

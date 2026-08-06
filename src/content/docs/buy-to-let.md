@@ -180,7 +180,7 @@ In the following example, you will see how this change affects a basic-rate taxp
 | Net Profit | £    820.00 |  |
 | Interest Costs | £3,750.00 | The interest costs are no longer tax deductible so are added back. |
 | Taxable Profit | £4,570.00 |  |
-| **Income Tax Calculation:** | **Basic Rate (20%)** | **Higher rate**   **(40%)** |
+| **Income Tax Calculation:** | **Basic Rate (20%)** | **Higher rate (40%)** |
 | Taxable Profit | £4,570.00 | £4,570.00 |
 | Income Tax | £    914.00 | £1,828.00 |
 | [Interest Tax Relief](https://www.gov.uk/guidance/changes-to-tax-relief-for-residential-landlords-how-its-worked-out-including-case-studies) (20%) | -£750.00 | -£750.00 |

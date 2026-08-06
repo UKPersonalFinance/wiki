@@ -84,7 +84,7 @@ Most workplace and personal pensions are Defined Contribution ('DC') pensions. T
 
 This money is invested, and over time, investment returns as well as new contributions from yourself and your employer will build up the value of the pot. You can then use this money when you retire, by taking out a regular income and/or lump sums. You can access this money from 'normal minimum pension age', which is currently 55-57 depending on your age.
 
-To estimate how much **income**this pot could provide at your target retirement age, you can use an online calculator.
+To estimate how much **income** this pot could provide at your target retirement age, you can use an online calculator.
 
 - We particularly like this PensionBee calculator as it offers a good visual illustration of a range of possible outcomes: [https://www.pensionbee.com/uk/pension-calculator](https://www.pensionbee.com/uk/pension-calculator)
 - Many other pension providers will offer calculators. Functionality and assumptions may differ between them so it's worth trying a few. See e.g. [Aviva](https://www.aviva.co.uk/retirement/tools/my-retirement-planner/), [Fidelity](https://www.fidelity.co.uk/retirement/calculators/retirement-calculator/), [Hargreaves Lansdown](https://www.hl.co.uk/pensions/pension-calculator/about-you/), [Royal London](https://www.royallondon.com/guides-tools/pension-guides/pension-tools/pension-calculator/), [Vanguard](https://www.vanguardinvestor.co.uk/what-we-offer/personal-pension/pension-calculator)
@@ -241,7 +241,7 @@ So which number should you use? Again, discussing this would easily be a page in
 
 ## Retirement age
 
-When estimating your retirement income, you will quickly notice that the age at which you plan to retire makes a **huge**difference to the amount of retirement income you can expect.
+When estimating your retirement income, you will quickly notice that the age at which you plan to retire makes a **huge** difference to the amount of retirement income you can expect.
 
 This is because of the triple impact for each earlier year:
 

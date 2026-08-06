@@ -14,7 +14,7 @@ amount.
 
 ## Do I pay Tax on Gifts I Receive?
 
-You do not need to pay **income or capital gains tax**on gifts that you receive. Gifts are not classed as income or capital gains.
+You do not need to pay **income or capital gains tax** on gifts that you receive. Gifts are not classed as income or capital gains.
 
 This is true even for large sums such as house deposits, and when receiving gifts from overseas.
 
@@ -30,7 +30,7 @@ This could only happen if the person who gave you the gift subsequently dies wit
 
 ### Inheritance tax allowances
 
-For the [vast majority of people](https://www.gov.uk/government/statistics/inheritance-tax-statistics-commentary/inheritance-tax-statistics-commentary), **no**Inheritance Tax is due on their estate when they die. This is because every person has an Inheritance Tax*'Nil-rate band*’ of £325,000 (they can leave £325,000 tax-free) and an additional '*Residence Nil-rate Band*’ of £175,000 (tax-free amount when leaving their primary residence to their children or grandchildren).
+For the [vast majority of people](https://www.gov.uk/government/statistics/inheritance-tax-statistics-commentary/inheritance-tax-statistics-commentary), **no** Inheritance Tax is due on their estate when they die. This is because every person has an Inheritance Tax*'Nil-rate band*’ of £325,000 (they can leave £325,000 tax-free) and an additional '*Residence Nil-rate Band*’ of £175,000 (tax-free amount when leaving their primary residence to their children or grandchildren).
 
 The Residence Nil-rate Band is removed progressively on estates between £2M and £2.7M in value. If this is a meaningful concern for you, the person involved should seek professional tax and/or [financial advice](/financial-advice/).
 
@@ -58,7 +58,7 @@ It's important to understand that even when gifts do end up included in this tot
 
 Not all gifts given in the 7 years before death are included in the total value of the estate. There are some additional exemptions.
 
-The best known of these is the 'annual exemption' of £3,000 – each year you can gift up to £3,000, and those gifts will **not**potentially be counted towards the value of your estate on your death.
+The best known of these is the 'annual exemption' of £3,000 – each year you can gift up to £3,000, and those gifts will **not** potentially be counted towards the value of your estate on your death.
 
 There are other exemptions too. The main ones are:
 
@@ -108,7 +108,7 @@ If the gifts hadn't been given, the estate would be worth £800,000, and the £3
 
 ### Doesn't the 'seven year rule' reduce the values of gifts?
 
-*Taper relief* is applied to**tax due**on gifts made more than 3 years prior to death - the rate of tax owed reduces with each year.
+*Taper relief* is applied to**tax due** on gifts made more than 3 years prior to death - the rate of tax owed reduces with each year.
 
 It is not applied to gifts given within the nil-rate band.
 

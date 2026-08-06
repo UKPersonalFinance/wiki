@@ -53,7 +53,7 @@ For any goals within the next 5 years, the safest option is to keep the money in
 
 ## For long term goals: consider investing
 
-Once your short term goals are covered, then you will likely be looking to **invest**money for any longer term goals.
+Once your short term goals are covered, then you will likely be looking to **invest** money for any longer term goals.
 
 If this the the first time you are going to be investing, make sure you take some time to educate yourself first. Check out:
 

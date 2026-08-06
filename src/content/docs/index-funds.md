@@ -67,7 +67,7 @@ At the end of the fund name you'll see either 'Acc' (accumulation) or 'Inc' (inc
 
 Some of the companies held by a fund pay out dividends - cash payments to investors. If you're investing via a fund, the dividends are paid to the fund.
 
-An **Accumulation**fund uses the dividends to buy more of the companies within the fund. As the dividend payment has stayed within the fund, its unit price is not affected.
+An **Accumulation** fund uses the dividends to buy more of the companies within the fund. As the dividend payment has stayed within the fund, its unit price is not affected.
 
 An **Income** fund will pay those dividends out to you, as cash which you can spend or invest. Since the money is leaving the fund, the unit price goes down by a corresponding amount. (The same applies when investing in companies directly - after a dividend payment, the price of the share generally drops by the value of the dividend, reflecting the value of the money that has left the company).
 

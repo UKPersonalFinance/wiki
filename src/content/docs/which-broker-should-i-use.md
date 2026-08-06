@@ -22,7 +22,7 @@ website.
 
 When you use a broker for **DIY investing**, you make all your own investing decisions, and instruct your broker on what you would like to buy or sell and when. It is up to you to decide on your preferred asset allocation, research which fund(s) to use, and make transactions according to your plan. To learn more about this, start with our [investing 101](/investing-101/) page then move on to some more in depth books or videos from our [recommended resources](/recommended-resources/).
 
-Some brokers will also offer **managed accounts**in which you invest directly into a pre-made fund. The platform will first ask you some questions about yourself - for example about your age, investment horizon, and risk tolerance, and match you up with the appropriate fund from their portfolio. These funds will likely have a higher charge than ones used by cost-conscious DIY investors, but can be an easy way to start investing if you're not confident.
+Some brokers will also offer **managed accounts** in which you invest directly into a pre-made fund. The platform will first ask you some questions about yourself - for example about your age, investment horizon, and risk tolerance, and match you up with the appropriate fund from their portfolio. These funds will likely have a higher charge than ones used by cost-conscious DIY investors, but can be an easy way to start investing if you're not confident.
 
 ## Account type
 

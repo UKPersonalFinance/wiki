@@ -100,13 +100,15 @@ realise that you can't afford to save for everything you want all at once.
 If so, you may have to make some adjustments to your plans, especially to
 costs or timeframes.
 
-⚠️ Note it may be tempting to assume that once your current short term goals
+:::caution
+It may be tempting to assume that once your current short term goals
 are over, you will then be able to attend to your long term goals, with
 £££ per month freed up to do so. This can make sense with very large goals
 like saving for a deposit for a home. But for smaller goals, our
 experience is there's always something. It's safer to assume that you will
 continue to spend as much on electronics, vehicles, holidays etc in the
 future as you do now.
+:::
 
 Prioritising how to use your financial resources is a tricky exercise, so
 take your time. There is no 'right' answer for how much you should save

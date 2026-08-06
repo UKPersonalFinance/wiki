@@ -10,7 +10,7 @@ withdraw the money.
 
 ## Overview
 
-There are multiple different **types**of ISAs available. The most relevant ones are usually:
+There are multiple different **types** of ISAs available. The most relevant ones are usually:
 
 - **Stocks & Shares ISAs****(for investments)
 - **Cash ISAs** (like bank savings accounts)
@@ -25,7 +25,9 @@ Because ISAs offer significant tax perks, there are some limits on how much you 
 - Transfers between ISAs do not use up your allowance.
 - You can keep the same ISA open and contribute to it for **multiple tax years**.
 
-ℹ️　Putting money into an ISA, from anywhere other than an ISA, is known as 'contributing' or 'subscribing' to an ISA.
+:::note
+Putting money into an ISA, from anywhere other than an ISA, is known as 'contributing' or 'subscribing' to an ISA.
+:::
 
 ## ISA types explained
 
@@ -68,8 +70,9 @@ We have a complete [LISA article](/lisa/) with much more detail.
 
 ### Innovative Finance ISA (IFISA) 🤝
 
-**⚠️ 　Your capital is fully at risk in a IFISA!**
+:::danger[Your capital is fully at risk in an IFISA!]
 There is currently no [Financial Services Compensation Scheme](https://www.fscs.org.uk/) protection for peer-to-peer lending. In the event that your platform goes bust or the underlying borrowers default you will not recieve compensation.
+:::
 
 This is an ISA specifically intended for [peer-to-peer (P2P) lending](https://www.moneyhelper.org.uk/en/savings/investing/peer-to-peer-lending-what-you-need-to-know).
 
@@ -114,11 +117,11 @@ If transferring a S&S ISA or LISA, you can choose to do so either
 
 You can transfer between different types of ISA, as detailed below.
 
-| **ISA type** | **Contribution Limits per tax year**    (as at 2025/26) | **Can transfer to...** |
+| **ISA type** | **Contribution Limits per tax year** (as at 2025/26) | **Can transfer to...** |
 |---|---|---|
 | Stocks & Shares ISA | £20,000 | S&S ISA   Cash ISA   IFISA   LISA (up to £4000) |
 | Cash ISA | £20,000 | S&S ISA   Cash ISA   IFISA   LISA (up to £4000)      Note - if transferring from a "Fixed" cash ISA before the account maturity date, a penalty fee may apply. |
-| LISA (cash **or**Stocks & Shares) | £4,000 excluding bonus | LISA (cash or Stocks & Shares)   S&S ISA (subject to 25% exit charge)   Cash ISA (subject to 25% exit charge) |
+| LISA (cash **or** Stocks & Shares) | £4,000 excluding bonus | LISA (cash or Stocks & Shares)   S&S ISA (subject to 25% exit charge)   Cash ISA (subject to 25% exit charge) |
 | H2B ISA | £1,200 on opening account, then £200 per month. | LISA ([up to £4000](https://www.moneyhelper.org.uk/en/savings/types-of-savings/a-guide-to-help-to-buy-isas#managingyourhelptobuyisa)) |
 | IFISA | £20,000 | Cash ISA   S&S ISA   LISA (up to £4000) |
 | Junior ISA (cash or Stocks & Shares) | £9,000 per year until the tax year in which the child turns 18.    That tax year they will have the full £20,000 ISA allowance in addition to their £9,000 JISA allowance. | None. Automatically converts to Cash or S&S ISA on child's 18th birthday. |

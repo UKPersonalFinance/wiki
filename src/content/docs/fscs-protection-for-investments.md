@@ -11,9 +11,9 @@ of protection you have as an investor in the UK.
 
 ## How brokers hold client funds
 
-When you hold **cash**with an investment broker, this money should be held in ring-fenced client accounts with UK-regulated banks. (Usually for a short period before being invested). It should not be available to the broker to pay their business costs, or to the broker's creditors in the event of an insolvency.
+When you hold **cash** with an investment broker, this money should be held in ring-fenced client accounts with UK-regulated banks. (Usually for a short period before being invested). It should not be available to the broker to pay their business costs, or to the broker's creditors in the event of an insolvency.
 
-**Investments**in funds, ETFs, shares and bonds that you buy through a broker are held 'in trust' on your behalf, and are themselves regulated instruments. In the event of a platform/broker failure, the company who manages the fund (e.g. Vanguard, iShares, etc.) still has an obligation to you, the client. Whilst it would potentially be an administrative pain to sort out, your investments still belong to you and you should get access to them eventually through a new broker.
+**Investments** in funds, ETFs, shares and bonds that you buy through a broker are held 'in trust' on your behalf, and are themselves regulated instruments. In the event of a platform/broker failure, the company who manages the fund (e.g. Vanguard, iShares, etc.) still has an obligation to you, the client. Whilst it would potentially be an administrative pain to sort out, your investments still belong to you and you should get access to them eventually through a new broker.
 
 ### Caveat: fraudulent activity
 
