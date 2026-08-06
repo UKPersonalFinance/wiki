@@ -2,10 +2,12 @@
 import { defineConfig } from 'astro/config';
 import starlight from '@astrojs/starlight';
 import mdx from '@astrojs/mdx';
+import sitemap from '@astrojs/sitemap';
 import { remarkHeadingId } from 'remark-custom-heading-id';
 
 // https://astro.build/config
 export default defineConfig({
+	site: 'https://ukpersonal.finance',
 	markdown: {
 		remarkPlugins: [remarkHeadingId]
 	},
@@ -14,6 +16,12 @@ export default defineConfig({
 			title: 'UKPersonalFinance Wiki',
       favicon: '/favicon.png',
       customCss: ['./src/styles/custom.css'],
+      head: [
+        {
+          tag: 'link',
+          attrs: { rel: 'sitemap', href: '/sitemap-index.xml' },
+        },
+      ],
 			components: {
 				Footer: './src/components/Footer.astro',
 			},
@@ -118,5 +126,6 @@ export default defineConfig({
 			],
 		}),
 		mdx(),
+		sitemap(),
 	],
 });
