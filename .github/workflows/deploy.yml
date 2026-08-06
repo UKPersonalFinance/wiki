@@ -10,6 +10,9 @@ jobs:
   deploy-staging:
     if: github.event.workflow_run.conclusion == 'success'
     runs-on: ubuntu-latest
+    concurrency:
+      group: deploy-staging
+      cancel-in-progress: true
     environment:
       name: staging
       url: https://staging.ukpersonal.finance
@@ -36,6 +39,9 @@ jobs:
     needs: deploy-staging
     if: github.event.workflow_run.conclusion == 'success'
     runs-on: ubuntu-latest
+    concurrency:
+      group: deploy-production
+      cancel-in-progress: true
     environment:
       name: production
       url: https://new.ukpersonal.finance
