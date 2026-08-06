@@ -17,6 +17,8 @@ export default defineConfig({
   integrations: [
     starlight({
       title: "UKPersonalFinance Wiki",
+      description:
+        "A starting point for your financial planning journey in 8 steps. The UKPF Flowchart from Reddit's /r/ukpersonalfinance",
       favicon: "/favicon.png",
       customCss: ["./src/styles/custom.css"],
       logo: {
