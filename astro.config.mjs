@@ -19,6 +19,9 @@ export default defineConfig({
       title: "UKPersonalFinance Wiki",
       favicon: "/favicon.png",
       customCss: ["./src/styles/custom.css"],
+      logo: {
+        src: "./src/assets/coin.png",
+      },
       plugins: [starlightLinksValidator(), starWarp()],
       head: [
         {
