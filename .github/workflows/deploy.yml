@@ -5,10 +5,11 @@ on:
     workflows: [CI]
     types: [completed]
     branches: [main]
+  workflow_dispatch:
 
 jobs:
   deploy-staging:
-    if: github.event.workflow_run.conclusion == 'success'
+    if: github.event_name == 'workflow_dispatch' || github.event.workflow_run.conclusion == 'success'
     runs-on: ubuntu-latest
     concurrency:
       group: deploy-staging
@@ -19,7 +20,7 @@ jobs:
     steps:
       - uses: actions/checkout@v7
         with:
-          ref: ${{ github.event.workflow_run.head_sha }}
+          ref: ${{ github.event.workflow_run.head_sha || github.sha }}
       - uses: ./.github/actions/setup
       - run: bunx astro build --mode staging
       - name: Keep staging out of search engines
@@ -37,7 +38,7 @@ jobs:
 
   deploy-production:
     needs: deploy-staging
-    if: github.event.workflow_run.conclusion == 'success'
+    if: github.event_name == 'workflow_dispatch' || github.event.workflow_run.conclusion == 'success'
     runs-on: ubuntu-latest
     concurrency:
       group: deploy-production
@@ -48,8 +49,13 @@ jobs:
     steps:
       - uses: actions/checkout@v7
         with:
-          ref: ${{ github.event.workflow_run.head_sha }}
+          ref: ${{ github.event.workflow_run.head_sha || github.sha }}
+      - uses: ./.github/actions/setup
+        if: github.event_name == 'workflow_dispatch'
+      - run: bun run build
+        if: github.event_name == 'workflow_dispatch'
       - uses: actions/download-artifact@v4
+        if: github.event_name != 'workflow_dispatch'
         with:
           name: dist-production
           path: dist
