@@ -1,0 +1,33 @@
+# --- Existing WordPress Redirection plugin rules ---
+/set-your-saving-goals/ /goals/ 301
+/savings-goals/ /goals/ 301
+/financial-goals/ /goals/ 301
+/financial-goals-2/ /goals/ 301
+/should-i-buy-this/ /spending/ 301
+/how-to-invest-a-lump-sum-in-the-uk/ /lump-sum/ 301
+/lump-sum-investment/ /lump-sum/ 301
+/windfall/ /lump-sum/ 301
+/isas/ /isa/ 301
+/btl/ /buy-to-let/ 301
+/restricted-stock-units-rsus/ /rsu/ 301
+/timing/ /market-timing/ 301
+/exchange-rates-and-market-timing/ /market-timing/ 301
+/ukpf-flowchart/ /flowchart/ 301
+/mortgage-overpayments/ /mortgage-overpayments-vs-investments/ 301
+/ukpf-community/ /community/ 301
+/compound-interest/ /pensions/ 301
+/financial-advice-financial-planning-wealth-management/ /financial-advice/ 301
+/budget-help/ /living-costs/ 301
+/work-in-progress/ /savings/ 301
+/income-tax-the-basics/ /income-tax/ 301
+/pension-planning/ /retirement-planning/ 301
+
+# --- Old wp_redirects table entries ---
+/problem-debt/ /debt/#If_you_cant_afford_your_debt_get_help_from_a_debt_charity 301
+/tax-efficiency-for-high-earners/ /tax-traps-and-tax-efficiency/ 301
+
+# --- New rules for content reorganised/renamed during migration ---
+/national-insurance/ /income-tax/#national-insurance 301
+/all-pages/ / 301
+/temporary-page/ /pensions/ 301
+/test-flowchart/ /flowchart/ 301
