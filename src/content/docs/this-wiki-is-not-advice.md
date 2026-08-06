@@ -1,6 +1,7 @@
 ---
 title: Is this wiki advice?
 description: This wiki provides information, not regulated financial advice.
+tableOfContents: false
 ---
 
 The wiki provides information, not advice. It is not a regulated entity

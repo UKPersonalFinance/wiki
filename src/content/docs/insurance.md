@@ -1,6 +1,7 @@
 ---
 title: Insurance
 description: Life insurance and income protection basics.
+tableOfContents: false
 ---
 
 Life insurance is important if you have a young family or are the main

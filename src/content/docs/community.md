@@ -1,6 +1,7 @@
 ---
 title: UKPF community
 description: Join the Reddit and Discord communities behind this wiki.
+tableOfContents: false
 ---
 
 The flowchart and wiki were written by members of the UKPF community on

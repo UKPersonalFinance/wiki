@@ -1,6 +1,7 @@
 ---
 title: Benefit Entitlement
 description: Checking your entitlement to state-funded benefits and other support.
+tableOfContents: false
 ---
 
 This page will become a resource on checking your entitlement to
