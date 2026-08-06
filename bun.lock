@@ -9,6 +9,7 @@
         "@astrojs/mdx": "^7.0.5",
         "@astrojs/sitemap": "^3.7.3",
         "@astrojs/starlight": "^0.41.7",
+        "@inox-tools/star-warp": "^2.0.0",
         "astro": "7.2.0",
         "remark-custom-heading-id": "^2.0.0",
         "sharp": "^0.35.3",
@@ -250,6 +251,10 @@
     "@img/sharp-win32-ia32": ["@img/sharp-win32-ia32@0.35.3", "", { "os": "win32", "cpu": "ia32" }, "sha512-r53mXsBN6lFUDiST764SvgwUdHAqM4rPAiDzAmf4fLoB6X/rkfyTrLCg6+g17wJJiCmB3JYgHuUldCWUIRFSXw=="],
 
     "@img/sharp-win32-x64": ["@img/sharp-win32-x64@0.35.3", "", { "os": "win32", "cpu": "x64" }, "sha512-D4y1vNeZrIIJCN+uHaWVtH86B+aCrdMYYjicy9pXHvbGZeGYLLSd3wdVuC37FxVXlU1ARsk84eKWfWMXGYEqvA=="],
+
+    "@inox-tools/star-warp": ["@inox-tools/star-warp@2.0.0", "", { "dependencies": { "@inox-tools/utils": "^1.1.1" }, "peerDependencies": { "@astrojs/starlight": "^0.41.0", "astro": "^7" }, "optionalPeers": ["@astrojs/starlight"] }, "sha512-cotWN0LWJ4M5VdEeK6xhJxasJiQfmB3JPwxvp7ZAZtUfL2haFGfm7ihrQiknEpXem18wbsvGSJS7qfMIc0PchA=="],
+
+    "@inox-tools/utils": ["@inox-tools/utils@1.1.1", "", { "peerDependencies": { "nanostores": "^1.1.0" }, "optionalPeers": ["nanostores"] }, "sha512-EwbddV6XBPbLmPOJm1GisFPKzuF2o58o0YPufnYYLwjYeoIldCpm875hHKGtHjnpUQSgZJ3z/WFREr7FX+PqTg=="],
 
     "@jridgewell/resolve-uri": ["@jridgewell/resolve-uri@3.1.2", "", {}, "sha512-bRISgCIjP20/tbWSPWMEi54QVPRZExkuD9lJL+UIxUKtwVJA8wW1Trb1jMs1RFXo1CBTNZ/5hpC9QvmKWdopKw=="],
 
