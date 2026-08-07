@@ -29,7 +29,6 @@ export default defineConfig({
             { label: "📚 Read more", slug: "recommended-resources" },
             { label: "🏖 Autoenroll in pension", slug: "pensions" },
             { label: "💳 Pay expensive debts", slug: "debt" },
-            { label: "🚨 Fill emergency fund", slug: "emergency-fund" },
             { label: "🚗 Save for future goals", slug: "goals" },
           ],
         },
