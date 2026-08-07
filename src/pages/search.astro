@@ -1,0 +1,52 @@
+---
+import StarlightPage from "@astrojs/starlight/components/StarlightPage.astro";
+---
+
+<StarlightPage frontmatter={{ title: "Search" }}>
+  <ul id="search-results"></ul>
+  <p id="search-status"></p>
+</StarlightPage>
+
+<script is:inline>
+  const query = new URLSearchParams(window.location.search).get("q") ?? "";
+  const list = document.getElementById("search-results");
+  const status = document.getElementById("search-status");
+
+  async function runSearch() {
+    if (!list || !status) return;
+
+    if (query) {
+      document.title = `Search results for "${query}" | ${document.title}`;
+    }
+
+    if (!query) {
+      status.textContent = "Enter a search term using the ?q= parameter.";
+      return;
+    }
+
+    // @ts-expect-error pagefind.js is generated at build time
+    const pagefind = await import("/pagefind/pagefind.js");
+    const { results } = await pagefind.search(query);
+
+    if (results.length === 0) {
+      status.textContent = `No results for "${query}".`;
+      return;
+    }
+
+    status.textContent = `${results.length} result${results.length === 1 ? "" : "s"} for "${query}"`;
+
+    for (const result of results) {
+      const data = await result.data();
+      const li = document.createElement("li");
+      const a = document.createElement("a");
+      a.href = data.url;
+      a.textContent = data.meta?.title ?? data.url;
+      const excerpt = document.createElement("p");
+      excerpt.innerHTML = data.excerpt;
+      li.append(a, excerpt);
+      list.append(li);
+    }
+  }
+
+  runSearch();
+</script>
