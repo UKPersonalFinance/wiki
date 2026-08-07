@@ -7,10 +7,14 @@ on:
     branches: [main]
   workflow_dispatch:
 
+permissions:
+  contents: read
+
 jobs:
   deploy-staging:
     if: github.event_name == 'workflow_dispatch' || github.event.workflow_run.conclusion == 'success'
     runs-on: ubuntu-latest
+    timeout-minutes: 15
     concurrency:
       group: deploy-staging
       cancel-in-progress: true
@@ -40,6 +44,10 @@ jobs:
     needs: deploy-staging
     if: github.event_name == 'workflow_dispatch' || github.event.workflow_run.conclusion == 'success'
     runs-on: ubuntu-latest
+    timeout-minutes: 15
+    permissions:
+      contents: read
+      actions: read
     concurrency:
       group: deploy-production
       cancel-in-progress: true
@@ -53,7 +61,7 @@ jobs:
       - uses: ./.github/actions/setup
       - run: bun run build
         if: github.event_name == 'workflow_dispatch'
-      - uses: actions/download-artifact@v4
+      - uses: actions/download-artifact@v8
         if: github.event_name != 'workflow_dispatch'
         with:
           name: dist-production
