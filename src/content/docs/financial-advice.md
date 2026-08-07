@@ -26,8 +26,6 @@ There are lots of possibilities, but here are a few:
 
 The key point is that people who take financial advice tend to make better decisions than those that don't ([source 1](https://www.vanguard.co.uk/content/dam/intl/europe/documents/en/quantifying-vanguards-advisers-alpha.pdf), [source 2](https://www.morningstar.com/articles/918226/gamma-in-action), [source 3](https://www.prnewswire.com/news-releases/investors-experience-devastating-investor-performance-gap-301514676.html)). Paying for financial advice may not be right for you, and that's fine, but be careful not to judge others for their choices.
 
-/
-
 ## What exactly is financial advice?
 
 Financial advice has a specific definition in the UK, thanks to [legislation and regulation](https://www.handbook.fca.org.uk/handbook/PERG/8/28.html). This is in contrast to financial 'guidance', which is unregulated.
