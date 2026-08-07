@@ -1,6 +1,7 @@
 ---
 title: Copyright
 description: The licence this wiki and flowchart are published under.
+tableOfContents: false
 ---
 
 The UKPF Flowchart and Wiki are licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
