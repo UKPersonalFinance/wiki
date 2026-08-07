@@ -1,27 +1,45 @@
-name: Preview
+name: Preview Deploy
 
 on:
-  pull_request:
-    branches: [main]
+  workflow_run:
+    workflows: [Preview Build]
+    types: [completed]
+
+permissions:
+  contents: read
 
 jobs:
   deploy-preview:
+    if: github.event.workflow_run.conclusion == 'success'
     runs-on: ubuntu-latest
     timeout-minutes: 15
     permissions:
       contents: read
+      actions: read
       pull-requests: write
     steps:
       - uses: actions/checkout@v7
-      - uses: ./.github/actions/setup
-      - run: bunx astro build --mode staging
-      - name: Keep preview out of search engines
-        run: |
-          cat >> dist/_headers <<'EOF'
-          /*
-            X-Robots-Tag: noindex, nofollow
-          EOF
-      - name: Upload preview version
+
+      - name: Download PR number
+        uses: actions/download-artifact@v8
+        with:
+          name: preview-pr-number
+          path: .
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          run-id: ${{ github.event.workflow_run.id }}
+      - name: Read PR number
+        id: pr
+        run: echo "number=$(cat pr_number.txt)" >> "$GITHUB_OUTPUT"
+
+      - name: Download preview build
+        uses: actions/download-artifact@v8
+        with:
+          name: preview-dist
+          path: dist
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          run-id: ${{ github.event.workflow_run.id }}
+
+      - name: Deploy to Cloudflare Workers (preview)
         id: preview
         uses: cloudflare/wrangler-action@v4
         with:
@@ -33,6 +51,7 @@ jobs:
         uses: actions/github-script@v7
         env:
           COMMAND_OUTPUT: ${{ steps.preview.outputs.command-output }}
+          PR_NUMBER: ${{ steps.pr.outputs.number }}
         with:
           script: |
             const output = process.env.COMMAND_OUTPUT || '';
@@ -42,10 +61,11 @@ jobs:
               ? `Preview deployed: ${url}`
               : 'Preview build finished, but no preview URL was found — check the workflow logs.';
             const marker = '<!-- preview-url-comment -->';
+            const issue_number = Number(process.env.PR_NUMBER);
             const { data: comments } = await github.rest.issues.listComments({
               owner: context.repo.owner,
               repo: context.repo.repo,
-              issue_number: context.issue.number,
+              issue_number,
             });
             const existing = comments.find(c => c.body.includes(marker));
             const commentBody = `${marker}\n${body}`;
@@ -60,7 +80,7 @@ jobs:
               await github.rest.issues.createComment({
                 owner: context.repo.owner,
                 repo: context.repo.repo,
-                issue_number: context.issue.number,
+                issue_number,
                 body: commentBody,
               });
             }

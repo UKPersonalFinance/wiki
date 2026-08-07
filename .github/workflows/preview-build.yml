@@ -1,0 +1,35 @@
+name: Preview Build
+
+on:
+  pull_request:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v7
+      - uses: ./.github/actions/setup
+      - run: bunx astro build --mode staging
+      - name: Keep preview out of search engines
+        run: |
+          cat >> dist/_headers <<'EOF'
+          /*
+            X-Robots-Tag: noindex, nofollow
+          EOF
+      - uses: actions/upload-artifact@v7
+        with:
+          name: preview-dist
+          path: dist
+          retention-days: 1
+      - name: Save PR number
+        run: echo "${{ github.event.pull_request.number }}" > pr_number.txt
+      - uses: actions/upload-artifact@v7
+        with:
+          name: preview-pr-number
+          path: pr_number.txt
+          retention-days: 1
