@@ -119,7 +119,7 @@ personal allowance is fully lost at £125,140 of annual earnings.
 At earnings of £100,000 access to Tax-Free Childcare is also removed, and
 some free childcare hours, so it can mean a disproportionately high tax
 burden for parents at this income threshold, [where they may actually end up
-pay more than £1 tax per pound earnt](https://new.reddit.com/r/UKPersonalFinance/comments/1936szv/how_much_the_new_childcare_subsidy_is_worth_when/).
+pay more than £1 tax per pound earnt](https://reddit.com/r/UKPersonalFinance/comments/1936szv/how_much_the_new_childcare_subsidy_is_worth_when/).
 
 ### Example: £100k tax trap + Salary Sacrifice pension
 
