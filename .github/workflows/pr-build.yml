@@ -1,4 +1,4 @@
-name: Preview Build
+name: PR Build
 
 on:
   pull_request:
@@ -11,11 +11,14 @@ jobs:
   build:
     runs-on: ubuntu-latest
     timeout-minutes: 15
+    concurrency:
+      group: pr-build-${{ github.ref }}
+      cancel-in-progress: true
     steps:
       - uses: actions/checkout@v7
       - uses: ./.github/actions/setup
       - run: bunx astro build --mode staging
-      - name: Keep preview out of search engines
+      - name: Keep PR preview out of search engines
         run: |
           cat >> dist/_headers <<'EOF'
           /*
@@ -23,13 +26,13 @@ jobs:
           EOF
       - uses: actions/upload-artifact@v7
         with:
-          name: preview-dist
+          name: pr-dist
           path: dist
           retention-days: 1
       - name: Save PR number
         run: echo "${{ github.event.pull_request.number }}" > pr_number.txt
       - uses: actions/upload-artifact@v7
         with:
-          name: preview-pr-number
+          name: pr-number
           path: pr_number.txt
           retention-days: 1
