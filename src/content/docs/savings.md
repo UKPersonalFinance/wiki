@@ -3,13 +3,13 @@ title: Savings Accounts
 description: Picking the best savings accounts for your circumstances.
 ---
 
-For financial goals within 5 years, and for your emergency funds, you will
+For financial [goals](/goals/) within 5 years, and for your [emergency funds](/emergency-fund/), you will
 be looking at saving in cash. Picking the best savings accounts for your
 circumstances will help you make the most of your savings by earning some
 interest!
 
 Note: if you are saving for a deposit on your first home, please also see
-our page on LISAs.
+our page on [LISAs](/lisa/).
 
 ## What kinds of accounts count as 'cash'?
 
@@ -17,7 +17,7 @@ Saving 'in cash' doesn't mean keeping notes under the mattress. 'Cash' in
 this context covers any type of account where your savings amount (known
 as 'capital') is not at risk.
 
-This is in contrast to investments, which can be volatile – meaning their
+This is in contrast to [investments](/investing-101/), which can be volatile – meaning their
 value can fluctuate up and down. In the long term they trend upwards, but
 for short term goals, this volatility adds too much risk, and the
 stability of cash is more valuable than chasing higher possible returns.
@@ -46,7 +46,7 @@ access accounts. They also act as a barrier against spending your savings
 on unnecessary purchases. But be cautious when locking money away – you
 risk not being able to get at it when you need it! Make sure you've looked
 at your financial situation as a whole and always keep enough accessible
-cash to cover your expected needs and potential emergencies.
+cash to cover your expected needs and potential [emergencies](/emergency-fund/).
 
 ## How do interest rates work?
 
@@ -58,7 +58,7 @@ regardless of whether interest is paid monthly, annually, or at the end of
 a longer fixed term.
 
 For more information on how interest is calculated see
-MoneySavingExpert's guide to interest rates. But the great thing about the
+[MoneySavingExpert's guide to interest rates](https://www.moneysavingexpert.com/banking/interest-rates/). But the great thing about the
 AER is that you don't need to get in the weeds if you don't want to –
 simply go for the highest AER.
 
@@ -81,7 +81,7 @@ money in an easy access account and move it to the regular saver monthly.
 
 ### Premium bond prizes
 
-NS&I, the UK government's bank, offer various types of savings accounts. A
+[NS&I](https://www.nsandi.com/), the UK government's bank, offer various types of savings accounts. A
 popular one is called 'premium bonds'.
 
 Premium bond savings don't pay interest at a set rate, but instead each £1
@@ -92,7 +92,7 @@ save up to a maximum of £50,000 in premium bonds and winnings are
 tax-free.
 
 For smaller savings amounts, the chances of winning anything at all are
-relatively low and you're probably better off saving elsewhere (unless you
+relatively low and you're [probably better off saving elsewhere](https://www.moneysavingexpert.com/savings/premium-bonds/) (unless you
 are really excited about the lottery aspect!). However for larger savings
 amounts the prize wins become more statistically reliable, so more
 comparable to a savings account.
@@ -108,20 +108,20 @@ and cannot earn any prizes.
 Money Saving Expert do a great job of keeping their lists of top-paying
 accounts up to date:
 
-- MSE Best Savings Accounts covers easy access, notice, and fixed rate
+- [MSE Best Savings Accounts](https://www.moneysavingexpert.com/savings/savings-accounts-best-interest/) covers easy access, notice, and fixed rate
   savings accounts. This is the best place to start for most people.
 
-Many of the savings accounts on that page can also be opened jointly with
-another person.
+Many of the savings accounts on that page can also be opened [jointly with
+another person](https://www.moneysavingexpert.com/savings/joint-savings-account/).
 
-- MSE also have a list of Best Regular Savings Accounts. Regular savers
+- MSE also have a list of [Best Regular Savings Accounts](https://www.moneysavingexpert.com/savings/best-regular-savings-accounts/). Regular savers
   offer a high interest rate but with some limitations – you can only
   deposit a set amount per month, and there may be restrictions on
   withdrawals.
-- For tax free savings, see MSE's list of Best Cash ISAs. You can save up
+- For tax free savings, see MSE's list of [Best Cash ISAs](https://www.moneysavingexpert.com/savings/best-cash-isa/). You can save up
   to £20,000 per year using ISAs, and your savings stay tax free year
-  after year. For more information on how this works, see our ISAs page.
-- If you are saving for a house, consider a cash Lifetime ISA (LISA).
+  after year. For more information on how this works, see [our ISAs page](/isa/).
+- If you are saving for a house, consider a [cash Lifetime ISA (LISA)](/lisa/).
 
 ## How much tax will I pay on my savings interest? {#tax}
 
@@ -129,7 +129,7 @@ Interest on cash savings (held outside of ISAs or Premium Bonds) is
 classed as income, and is subject to income tax, except that you have
 some additional allowances.
 
-The main allowance is the tax free Personal Savings Allowance ('PSA') of:
+The main allowance is the tax free [Personal Savings Allowance](https://www.gov.uk/apply-tax-free-interest-on-savings) ('PSA') of:
 
 - £1,000 (basic rate taxpayers)
 - £500 (higher rate)
@@ -178,7 +178,7 @@ free account.
 
 To establish which allowance is applicable, you need to establish your
 gross income before allowances, but after some reliefs such as gift aid
-and pensions. This is known by HMRC as adjusted net income.
+and pensions. This is known by HMRC as [adjusted net income](https://www.gov.uk/guidance/adjusted-net-income).
 
 A quick note – the PSA doesn't actually use adjusted net income directly,
 but it's the easiest way to establish your PSA. Technically, pension tax
@@ -209,7 +209,7 @@ may be wondering how to make the most of it.
 
 Firstly – double check that the amount of cash you're holding is
 necessary for your circumstances. If you don't think you will need to use
-the money within the next 5 years, you may wish to consider investing it
+the money within the next 5 years, you may wish to consider [investing](/investing-101/) it
 for better long term returns. Use our [flowchart](/flowchart/) to
 determine how much cash you should hold.
 
@@ -220,7 +220,7 @@ highest post tax returns.
 
 Remember you can split your money across different accounts. If you have
 more than £120k, you will definitely want to do this to ensure you have
-FSCS protection. But you can also split it up to make full use of your PSA
+[FSCS protection](/lump-sum/#FSCS). But you can also split it up to make full use of your PSA
 in a taxable savings account, then find the best returns after that.
 
 If you will exceed your PSA, your main options are:
@@ -229,13 +229,13 @@ If you will exceed your PSA, your main options are:
 
 - ✅ Putting savings in a Cash ISA keeps them tax free year after year
 - ✅ Interest rates are often competitive with savings accounts
-- ⚠️ Your £20,000 ISA allowance may be more valuable for a S&S ISA
+- ⚠️ Your [£20,000 ISA allowance](/isa/) may be more valuable for a S&S ISA
 
 **Premium bonds**
 
 - ✅ Save up to £50,000, fully insured by the UK Government
 - ✅ At higher balances, you are more likely to get close to the
-  advertised interest rate (see calculator)
+  advertised interest rate (see [calculator](https://premiumbondsprizes.com/))
 - ✅ Prizes are tax free
 - ⚠️ You may get unlucky and receive less than average
 - ⚠️ You won't win the £1,000,000 jackpot so don't factor that in!
@@ -248,7 +248,7 @@ If you will exceed your PSA, your main options are:
 
 For most people, if you are paid PAYE, there is nothing you need to do. At
 the end of the tax year all the banks report the interest you have earned
-on your savings to HMRC, and HMRC will adjust your tax code to recover any
+on your savings to HMRC, and HMRC will adjust your [tax code](/income-tax/) to recover any
 tax that's due on interest earned. This usually happens between June and
 October after the tax year has ended, and you will be notified of the tax
 code change.
@@ -256,8 +256,8 @@ code change.
 With that said, while it should all happen automatically, it is an
 individual's responsibility to inform HMRC of any tax they owe. If you
 aren't sure whether HMRC have been made aware, you can check the
-information in your "Annual tax summary", and if you need to correct any
-errors, use the contact details in their "income tax on savings" page.
+information in your ["Annual tax summary"](https://www.gov.uk/guidance/annual-tax-summary), and if you need to correct any
+errors, use the contact details in their ["income tax on savings"](https://www.gov.uk/apply-tax-free-interest-on-savings) page.
 
 ### Do I need to complete a Self Assessment to report savings interest?
 

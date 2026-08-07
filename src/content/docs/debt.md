@@ -53,8 +53,8 @@ like getting a cheaper car or moving in with family. Make a note of how
 much money you could potentially free up if you needed to.
 
 If you have any savings, note those down as well. If you have any high
-interest debt, using your savings to pay it down is likely to be the most
-cost effective route.
+interest debt, using your savings to pay it down [is likely to be the most
+cost effective route](https://www.moneysavingexpert.com/savings/pay-off-debts/).
 
 If you have any ways you can increase your income, such as working
 overtime, taking an evening or weekend job, or selling items you don't
@@ -64,7 +64,7 @@ taxes).
 ### Record your 'statement of affairs'
 
 This is optional, but the record will be very useful, whether for your
-own reference, to get informal help online, or to share with debt
+own reference, to get [informal help online](/community/), or to share with debt
 advisors like StepChange. You can use one of these tools:
 
 - [stoozing.com](https://www.stoozing.com/soa.php) – a nice simple online
@@ -76,8 +76,8 @@ advisors like StepChange. You can use one of these tools:
 
 ### Double check you haven't missed anything
 
-- Some debts may be eligible for a refund – always worth checking.
-- Are you entitled to any benefits you're not getting?
+- Some debts may be [eligible for a refund](https://debtcamel.co.uk/refunds-catalogue-credit-card/) – always worth checking.
+- [Are you entitled to any benefits you're not getting?](https://benefits-calculator.turn2us.org.uk/)
 - Money Saving Expert's debt help page has a list of possible grants and
   refunds you may be able to claim.
 
@@ -90,9 +90,9 @@ your debts, and how much it will cost.
 You may want to run the numbers for different budgets to see the impact
 they have.
 
-- Calculator.net Debt Payoff Calculator – gives an overall payoff time,
+- [Calculator.net Debt Payoff Calculator](https://www.calculator.net/debt-payoff-calculator.html) – gives an overall payoff time,
   and a breakdown by each card/loan
-- Undebt.it avalanche calculator – this calculator gives a really
+- [Undebt.it avalanche calculator](https://undebt.it/debt-avalanche-calculator.php) – this calculator gives a really
   detailed breakdown of every payment per month
 
 ## If you can't afford your debt, get help from a debt charity 🆘 {#If_you_cant_afford_your_debt_get_help_from_a_debt_charity}
@@ -106,10 +106,10 @@ If you:
 - Or just aren't sure about your situation
 
 Then we really recommend getting some professional advice from
-StepChange, the UK's largest debt charity.
+[StepChange](https://www.stepchange.org/), the UK's largest debt charity.
 
-Other excellent services include National Debtline, Citizen's Advice, and
-Christians Against Poverty.
+Other excellent services include [National Debtline](https://www.nationaldebtline.org/), [Citizen's Advice](https://www.citizensadvice.org.uk/about-us/contact-us/contact-us/search-for-your-local-citizens-advice/), and
+[Christians Against Poverty](https://capuk.org/get-help).
 
 There are many potential routes for dealing with problem debt, from
 negotiating with creditors to different types of insolvency. It is really
@@ -127,9 +127,9 @@ You can also learn more about debt solutions at:
 
 - DebtCamel.co.uk – this site can't be recommended enough. It is
   accurate, thorough and approachable.
-- MoneySavingExpert: Debt Help
-- MoneyHelper: Dealing with Debt
-- Citizen's Advice: Help with Debt
+- [MoneySavingExpert: Debt Help](https://www.moneysavingexpert.com/loans/debt-help-plan/#step3)
+- [MoneyHelper: Dealing with Debt](https://www.moneyhelper.org.uk/en/money-troubles/dealing-with-debt)
+- [Citizen's Advice: Help with Debt](https://www.citizensadvice.org.uk/debt-and-money/help-with-debt/)
 
 ## If you can afford to pay off your debts, do it efficiently 📉
 
@@ -144,7 +144,7 @@ whether you can move it to a lower interest card or loan. Interest is
 really expensive, so if it's possible to reduce the interest rate on your
 debt, that will help each debt repayment you make go much further.
 
-Use an eligibility checker to see what cards and personal loans you may
+Use an [eligibility checker](/credit-cards/#applying-for-a-credit-card) to see what cards and personal loans you may
 be accepted for. If you don't see any good options, check back in a
 couple of months.
 
@@ -203,15 +203,15 @@ make drastic budget cuts to pay it back faster.
 
 In our famous [flowchart](/flowchart/), we suggest that you pay off
 any debt at 10% APR or above before progressing to building up savings.
-That's because with high interest debt, it is better to pay it off than
-to keep money in savings, even for an emergency.
+That's because with high interest debt, it is [better to pay it off than
+to keep money in savings](https://www.moneysavingexpert.com/savings/pay-off-debts/), even for an emergency.
 
 ## Should I pay off low interest debt? {#lowinterest}
 
 If your debt is at a lower interest rate, and the monthly minimum
 payments are affordable, it is less urgent to pay off. You can
 potentially keep a more relaxed spending budget, and work on building up
-your savings for emergencies and for future goals at the same time as
+your savings for [emergencies](/emergency-fund/) and for [future goals](/goals/) at the same time as
 paying off your debt.
 
 How to balance repaying debt and accumulating savings will depend on the
@@ -246,21 +246,21 @@ because:
   interest, which can turn an inexpensive debt into an expensive one.
 
 If your debt is at 0%, keeping your debt going while holding savings at a
-higher rate is known as stoozing.
+higher rate is known as [stoozing](/credit-cards/#stoozing).
 
 ## Should I pay off my student loan? 🎓
 
-Our student loans page is dedicated to this question.
+[Our student loans page is dedicated to this question.](/student-loans/)
 
 ## Should I pay off my mortgage? 🏠
 
-See our mortgage overpayments page.
+[See our mortgage overpayments page.](/mortgage-overpayments-vs-investments/)
 
 ## Should I stretch out a loan to improve my credit score? 💳
 
 No, this is a myth. Owing money on a loan will not improve your credit
 worthiness to future lenders. To improve your credit history, you are
-better off having a credit card that you pay off in full every month –
+better off having a [credit card](/credit-cards/) that you pay off in full every month –
 plus this won't cost you interest! More about this on our [Credit
 Ratings](/credit-ratings/) page.
 
@@ -269,7 +269,7 @@ Ratings](/credit-ratings/) page.
 - [Money Saving Expert's debt help page](https://www.moneysavingexpert.com/loans/debt-help-plan/)
 - [Money Saving Expert forums 'debt-free wannabe' sticky thread](https://forums.moneysavingexpert.com/discussion/6027800/debt-free-wannabe-sticky-provit-statute-barred-letters-defaults-help-and-guidance-all-here)
 - [Debt Camel](https://debtcamel.co.uk/)
-- Stepchange
-- National Debtline
-- Citizens Advice
-- Christians Against Poverty
+- [Stepchange](https://www.stepchange.org/)
+- [National Debtline](https://www.nationaldebtline.org/)
+- [Citizens Advice](https://www.citizensadvice.org.uk/debt-and-money/)
+- [Christians Against Poverty](https://capuk.org/i-want-help/our-services/cap-debt-help/introduction)

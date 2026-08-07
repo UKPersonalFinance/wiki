@@ -40,7 +40,7 @@ contributions, Gift Aid payments, and any other allowable reliefs.
 Even if non-employment income is under your respective allowance and not
 taxed directly, it still forms part of your 'adjusted net income'.
 
-HMRC use your adjusted net income to determine whether you need to pay the
+[HMRC use your adjusted net income](https://www.gov.uk/guidance/adjusted-net-income#when-your-tax-liability-can-be-affected-by-adjusted-net-income) to determine whether you need to pay the
 High Income Child Benefit charge or whether your Personal Allowance is
 reduced. So if you can reduce your adjusted net income enough, you can
 escape these traps.
@@ -50,7 +50,7 @@ before tax – not your 'net income' after income tax and National Insurance!
 
 ## Using your pension to reduce your adjusted net income
 
-If you've followed the flowchart and have money set aside for an emergency
+If you've followed the [flowchart](/flowchart/) and have money set aside for an emergency
 fund and for any short term goals, you're in a great position to benefit
 from the tax savings of putting money away in a pension.
 
@@ -67,7 +67,7 @@ contributions.
 Your pension allowance is the lower of £60,000 or your annual income (unless
 you earn over £260,000, in which case your allowance is tapered down).
 
-You can also potentially 'carry forward' unused annual allowances from the
+You can also [potentially 'carry forward' unused annual allowances](/pensions/#carry-forward) from the
 last three tax years for use in the current tax year.
 
 ### Is a pension the right choice?
@@ -79,7 +79,7 @@ much to save for them as a result. However, in the situations below, the tax
 cost of the trap is so high that it makes pension contributions even more
 valuable than usual. With that said, please ensure you have enough in
 'spare' funds before making any decisions – you should still be at the
-"long-term goals" section of the flowchart before considering this route.
+"long-term goals" section of [the flowchart](/flowchart/) before considering this route.
 
 ### Tax relief in the examples – relief at source vs salary sacrifice/net pay
 
@@ -118,8 +118,8 @@ personal allowance is fully lost at £125,140 of annual earnings.
 
 At earnings of £100,000 access to Tax-Free Childcare is also removed, and
 some free childcare hours, so it can mean a disproportionately high tax
-burden for parents at this income threshold, where they may actually end up
-pay more than £1 tax per pound earnt.
+burden for parents at this income threshold, [where they may actually end up
+pay more than £1 tax per pound earnt](https://new.reddit.com/r/UKPersonalFinance/comments/1936szv/how_much_the_new_childcare_subsidy_is_worth_when/).
 
 ### Example: £100k tax trap + Salary Sacrifice pension
 
@@ -146,7 +146,7 @@ of £10,056.
 
 In order to retain your full personal allowance, you make a gross
 contribution of £25,140 to bring your income to £100,000. To get £25,140
-into a Self Invested Pension Plan (SIPP), you will need to make a
+into a Self Invested Pension Plan ([SIPP](/pensions/#personal-pensions-sipps-️)), you will need to make a
 contribution of £20,112. The SIPP provider will automatically reclaim £5,028
 (20% tax relief) from HMRC. You could also make an additional contribution
 to your workplace pension with the same effect.
@@ -226,7 +226,7 @@ yours may not be the same!).
 
 In order to retain child benefit, you make an additional gross contribution
 of £10,000 to bring your income to £60,000. To get £10,000 into a Self
-Invested Pension Plan (SIPP), you will need to make a contribution of
+Invested Pension Plan ([SIPP](/pensions/#personal-pensions-sipps-️)), you will need to make a contribution of
 £8,000. The SIPP provider will automatically reclaim £2,000 (20% tax relief)
 from HMRC.
 
@@ -264,7 +264,7 @@ There is guidance provided by [HMRC](https://www.gov.uk/guidance/pension-schemes
 and further information on
 [MoneyHelper](https://www.moneyhelper.org.uk/en/pensions-and-retirement/tax-and-pensions/tapered-annual-allowance).
 We won't provide examples here due to the complexities involved – if you are
-affected you should consider seeking financial advice or speaking to a tax
+affected you should consider seeking [financial advice](/financial-advice/) or speaking to a tax
 accountant.
 
 ## Other ways to reduce your adjusted net income
@@ -428,7 +428,7 @@ read more about them
 If you enter either of these tax traps you may be required to complete a
 Self Assessment Tax Return to ensure you are taxed appropriately.
 
-HMRC have a guidance page on who should fill in a tax return, with one of
+HMRC have a guidance page on [who should fill in a tax return](https://www.gov.uk/self-assessment-tax-returns/who-must-send-a-tax-return), with one of
 the triggers being "earnings over £100,000" (changing to £150,000 in
 2024/2025 tax year), although accountants and tax experts argue that there
 is no requirement in law to do so unless HMRC specifically request it.
@@ -447,14 +447,14 @@ can contact them directly if the tax owed is straightforward). This applies
 to your earnings from other income or gains. This includes but is not
 limited to income such as:
 
-- Gains made outside of an ISA
-- Rental income from properties or the rent-a-room scheme
-- Savings interest
-- Dividends
+- Gains made outside of an [ISA](https://www.gov.uk/individual-savings-accounts)
+- [Rental income from properties](https://www.gov.uk/renting-out-a-property/paying-tax) or [the rent-a-room scheme](https://www.gov.uk/rent-room-in-your-home/the-rent-a-room-scheme)
+- [Savings interest](https://www.gov.uk/apply-tax-free-interest-on-savings)
+- [Dividends](https://www.gov.uk/tax-on-dividends)
 
 This is not an exhaustive list and if you have any other income which is
 taxable HMRC must be informed. You can use the gov.uk website as a guide to
-finding out if you might need to submit a tax return. If you are unsure seek
+[finding out if you might need to submit a tax return](https://www.gov.uk/check-if-you-need-tax-return). If you are unsure seek
 professional tax advice.
 
 ## Should I claim child benefit if I have to pay it back?

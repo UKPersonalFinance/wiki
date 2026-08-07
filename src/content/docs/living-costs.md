@@ -3,7 +3,7 @@ title: Living Costs
 description: How much does it cost to live in the UK?
 ---
 
-This is a common question we get in the subreddit, from people moving out
+This is a common question we get [in the subreddit](/community/), from people moving out
 from their parents' place for the first time, leaving a shared housing
 situation or a cohabitating relationship, or coming to the UK from abroad.
 
@@ -17,14 +17,14 @@ This will obviously depend on your desired location, property size, and
 whether you live alone or share with others. Use these sites to search
 current rental ads and work out how much you might need to pay:
 
-- spareroom.co.uk for room lettings and short-term sublets
-- rightmove.co.uk and zoopla.co.uk for whole flats/houses
+- [spareroom.co.uk](https://www.spareroom.co.uk/) for room lettings and short-term sublets
+- [rightmove.co.uk](https://www.rightmove.co.uk/) and [zoopla.co.uk](https://www.zoopla.co.uk/) for whole flats/houses
 
 You will probably need to pay a deposit upfront of about 1 month's rent.
 
 If you plan to buy your home, you will of course need to know how much your
-mortgage payments will be (bearing in mind rates can also change over
-time). You will need to allow some extra room in your budget for
+[mortgage payments](/mortgages/) will be (bearing in mind [rates can also change over
+time](/market-timing/#mortgage-interest-rates)). You will need to allow some extra room in your budget for
 maintenance and repairs. Leasehold properties will usually have additional
 ground rent and/or service charges (or factor fees in Scotland).
 
@@ -34,10 +34,10 @@ Don't forget any moving costs if applicable.
 
 Each property listing should tell you the 'council tax band', and the
 prices for each band will be published on the council's website. They're
-easy to google (e.g. 'Birmingham council tax') and can also be found at
-gov.uk.
+easy to google (e.g. 'Birmingham council tax') and can also be [found at
+gov.uk](https://www.gov.uk/council-tax-bands).
 
-There are some discounts and exemptions:
+There are some [discounts and exemptions](https://www.gov.uk/council-tax/who-has-to-pay):
 
 - Full time students don't pay council tax.
 - If you live alone, or only with people who don't pay council tax, you can
@@ -112,7 +112,7 @@ need to pay a bit more for sufficient bandwidth (but hopefully you'll be
 sharing the bill as well).
 
 If you're claiming Universal Credit or other benefits, you may be able to
-get your internet via a 'social tariff' with reduced rates.
+get your internet via a ['social tariff' with reduced rates](https://www.ofcom.org.uk/phones-telecoms-and-internet/advice-for-consumers/costs-and-billing/social-tariffs).
 
 ### Phone
 
@@ -170,7 +170,7 @@ the following expenses must be considered on top of the cost of the
 vehicle itself:
 
 - Fuel
-- Insurance – see MoneySavingExpert's page on car insurance
+- Insurance – see [MoneySavingExpert's page on car insurance](https://www.moneysavingexpert.com/insurance/car-insurance/)
 - Maintenance – MOTs, tyres, brakes, unexpected mechanical failures
 - Consumables and cleanliness – screen wash, car washing equipment or fees
 - Tolls

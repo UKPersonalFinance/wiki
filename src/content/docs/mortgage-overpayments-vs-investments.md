@@ -9,7 +9,7 @@ head:
 ---
 
 If you have savings available, is it better to overpay your mortgage, or
-use the money to save or invest?
+use the money to save or [invest](/investing-101/)?
 
 There isn't one right answer to this question. As always with personal
 finance it depends on your individual circumstances and future goals.
@@ -18,7 +18,7 @@ Before considering either option, make sure you've checked the
 [flowchart](/flowchart/) and:
 
 - you have a full [emergency fund](/emergency-fund/)
-- your short term goals are funded
+- your [short term goals](/goals/) are funded
 - your [pension](/pensions/) is on track for a
   comfortable retirement
 
@@ -31,7 +31,7 @@ If any of these are not yet in place, it's not even a contest!
 Mortgage overpayments provide a guaranteed, risk-free return of the
 interest rate on your loan.
 
-Cash savings (in a bank savings account or cash ISA) also provide a
+Cash savings (in a [bank savings account or cash ISA](/savings/)) also provide a
 risk-free, guaranteed return.
 
 This makes them directly comparable to each other. In fact, if you had a
@@ -48,18 +48,18 @@ holding savings.
 The bigger the difference between the two rates, the bigger the
 difference in your return.
 
-When you're comparing the rates, bear in mind that you may need to pay
-tax on interest earned from savings. If so, you'll want to compare the
+When you're comparing the rates, bear in mind that you [may need to pay
+tax](/savings/#tax) on interest earned from savings. If so, you'll want to compare the
 rates after tax.
 
 ### Mortgage overpayments vs investments 📈
 
 In practice, to substantially beat your mortgage's rate, you would
-usually have to invest in assets which carry some risk.
+usually have to [invest in assets which carry some risk](/investing-101/).
 
 This 'risk' applies to both short term fluctuations in value, and the
 fact that investment returns are not guaranteed the way a bank account
-interest rate is. Historically, long term investments have provided an
+interest rate is. Historically, [long term investments](/investing-101/) have provided an
 after-inflation return of 1.6%-5.1% per year (that's 1.6% for bonds and
 5.1% for equities. Most portfolios will have a blend, to balance
 investors' requirements for stability vs growth). So as an approximation,
@@ -97,12 +97,12 @@ your mortgage.
 
 ### Mortgage overpayments are tax-free 💰
 
-Interest you receive from a savings or investment account may be subject
-to tax. But there's no tax on the 'savings' you make by overpaying a
+Interest you receive from a savings or investment account may be [subject
+to tax](/savings/#tax). But there's no tax on the 'savings' you make by overpaying a
 loan.
 
-In practice, between the ISA allowance, Personal Savings Allowance and
-Capital Gains Tax allowance, most people in the UK won't pay tax on
+In practice, between the [ISA allowance](/isa/), [Personal Savings Allowance](/savings/#tax) and
+[Capital Gains Tax allowance](https://www.gov.uk/capital-gains-tax/allowances), most people in the UK won't pay tax on
 savings interest or investment growth. However if you do, you should
 factor this in to your calculations.
 
@@ -197,7 +197,7 @@ were to happen, you could change your strategy then.
 
 If you have received a lump-sum, the decision-making process is the
 same as with regular overpayments. You may also be interested in reading
-our page on lump sums and windfalls.
+our [page on lump sums and windfalls](/lump-sum/).
 
 ## Never pay fees to overpay ❌
 

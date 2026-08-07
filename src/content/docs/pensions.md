@@ -47,7 +47,7 @@ differently.
 You don't pay income tax on money you put into your pension.
 
 This means that while you would normally pay £20 in income tax for every
-£100 earned (for money earned within the basic rate tax bracket), and
+£100 earned (for money earned within the [basic rate tax bracket](https://www.gov.uk/income-tax-rates)), and
 receive £80 in your pay to spend or save, in a pension you can keep the
 whole £100.
 
@@ -71,8 +71,8 @@ that instead of you earning £100 and putting it in the pension, they reduce
 your salary by £100 and increase their contributions to your pension by
 £100.
 
-This saves you another tax – national insurance, which for most people is
-charged at 8%. Your employer will also save on their national insurance
+This saves you another tax – national insurance, which [for most people is
+charged at 8%](https://www.gov.uk/national-insurance/how-much-you-pay). Your employer will also save on their national insurance
 contributions, and some employers will even pay some or all of that saving
 into your pension too.
 
@@ -142,7 +142,7 @@ read them to understand how the numbers they provide have been calculated.
 
 As of the 2025-26 financial year, the full state pension is £230.25 per
 week, paid four-weekly, which comes to £11,973 per year. State pension age
-is about 10 years later than private pension access age.
+is [about 10 years later than private pension access age](/pensions/#access-age).
 
 State pension entitlement is based on your National Insurance
 contributions. You need a minimum of ten years of contributions (or
@@ -155,7 +155,7 @@ requires 35 years of contributions.
 ## Personal Pensions (SIPPs) 🏛️
 
 A SIPP (Self Invested Personal Pension) is a pension you can open yourself,
-and manage the investments yourself directly or via a financial adviser.
+and manage the investments yourself directly or via a [financial adviser](/financial-advice/).
 They can often have a wider range of investments available than a typical
 workplace pension scheme.
 
@@ -194,7 +194,7 @@ work just fine and there's no need to adjust. However, if you're interested
 in optimising it as much as possible, there may be scope to do that, both
 within your current scheme and by transferring out to another provider if
 necessary. Take a look at our pages on [investing
-101](/investing-101/) and index funds if you want to
+101](/investing-101/) and [index funds](/index-funds/) if you want to
 get more hands-on.
 
 ### How do I claim higher-rate tax relief? {#claiming-tax-relief}
@@ -209,12 +209,12 @@ what type you have, ask your payroll or pension provider.
 - **Relief at Source**: this means contributions are paid to the pension
   provider after income tax is paid, and they claim it back from HMRC. They
   will do so automatically for basic rate tax relief, but higher rate
-  taxpayers will need to claim the additional relief through HMRC's web
-  service. All SIPPs and personal pensions operate on this basis, and some
+  taxpayers will need to claim the additional relief through [HMRC's web
+  service](https://www.gov.uk/guidance/claim-tax-relief-on-your-private-pension-payments). All SIPPs and personal pensions operate on this basis, and some
   workplace schemes will also.
 
 If you are a higher-rate taxpayer and reading this is news to you, head to
-the HMRC guidance page, and come thank us on the Discord for the tax relief
+the [HMRC guidance](https://www.gov.uk/tax-on-your-private-pension/pension-tax-relief) page, and come thank us [on the Discord](/community/) for the tax relief
 cheque you'll receive once you get in touch with them!
 
 - Hargreaves Lansdown: [How to claim higher-rate tax relief](https://www.hl.co.uk/help/sipp,-drawdown-and-annuity/sipp/tax-relief/how-do-i-claim-higher-rate-tax-relief)
@@ -227,7 +227,7 @@ combine them into one of your existing pensions (or a SIPP) so there are
 fewer accounts to keep track of.
 
 Your pots will not grow any faster when they are combined. But if your
-providers have different fund choices and fees, those will have an effect
+providers have different fund choices and [fees](/fees/), those will have an effect
 on the outcome. Pay attention to these when working out where to transfer
 to/from.
 
@@ -295,7 +295,7 @@ before you decide'. For example:
 If you earn £25,000 per year and you auto-enroll in a pension where you pay
 5% with a 3% employer match (the legal minimum), you will pay £78.16 into
 your pension per month and your employer will pay £46.90. This is
-calculated using your 'qualifying earnings', which is your gross salary
+calculated using your '[qualifying earnings](https://www.thepensionsregulator.gov.uk/en/employers/new-employers/im-an-employer-who-has-to-provide-a-pension/declare-your-compliance/ongoing-duties-for-employers-/earnings-thresholds)', which is your gross salary
 minus £6,240 (this number can change each tax year):
 
 - Your qualifying earnings are: £25,000 – £6,240 = £18,760
@@ -329,7 +329,7 @@ You can't contribute more than you earned in a (tax) year.
 Very high earners (£200,000+) have a reduced allowance – see our [tax traps
 and tax efficiency](/tax-traps-and-tax-efficiency/) page.
 
-If you exceed these allowances, you will be charged tax.
+If you exceed these allowances, [you will be charged tax](https://www.gov.uk/guidance/who-must-pay-the-pensions-annual-allowance-tax-charge).
 
 - HMRC: [Annual allowance](https://www.gov.uk/tax-on-your-private-pension/annual-allowance)
 
@@ -347,7 +347,7 @@ your annual allowance if the following are true:
 Any used carry over is allocated to the earliest tax year possible.
 
 You can find a detailed explanation of carry-forward, along with examples,
-at the MoneyHelper page.
+at the [MoneyHelper page](https://www.moneyhelper.org.uk/en/pensions-and-retirement/tax-and-pensions/carry-forward).
 
 ### I want to retire early. Do I still need a pension if I'll retire before I can access it? 🔥 {#FIRE}
 
@@ -373,11 +373,11 @@ The LTA is currently £1.073 million and is intended to rise with inflation,
 although it has been frozen until 2026. If your pension value is higher
 than the LTA you will pay tax for breaching the allowance. Working out the
 amount of additional tax you will need to pay can become very complicated
-due to the way pension funds are 'crystallised', but you will never end up
+due to the way pension funds are '[crystallised](https://professionalparaplanner.co.uk/techzone/13-benefit-crystallisation-events-what-they-are-and-how-they-apply/)', but you will never end up
 'worse off' as your pension value grows.
 
 If you are close to retirement and the LTA is a concern you may (read:
-will) want to get professional advice on how to organise your pension
+will) want to get [professional advice](/financial-advice/) on how to organise your pension
 drawdown to minimise your tax burden. A fixed fee advisor is well worth
 paying for here to ensure things are in order.
 

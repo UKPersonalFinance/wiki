@@ -14,7 +14,7 @@ and are nothing more than a rough indication of your credit-worthiness.
 
 ## Your credit history only matters if you need more credit 💳
 
-If you're not applying for a credit card, personal loan, or overdraft,
+If you're not applying for a [credit card](/credit-cards/), personal loan, or overdraft,
 your credit history will have little to no impact on your life.
 
 Even when you are, the numbered score you see doesn't necessarily tell
@@ -96,9 +96,9 @@ typically include the agency's credit score they've calculated for you –
 as discussed above, scores aren't especially useful. The links below will
 take you direct to the relevant statutory report request form:
 
-- TransUnion
-- Equifax
-- Experian
+- [TransUnion](https://www.transunionstatreport.co.uk/)
+- [Equifax](https://www.equifax.co.uk/Products/credit/statutory-report.html)
+- [Experian](https://www.experian.co.uk/consumer/statutory-report.html)
 
 ### Free 'Credit Checking Services' 💸
 
@@ -108,9 +108,9 @@ product is free, you are the product", and be aware that they may use
 your data to market to you, or sell to third parties. Check their
 privacy policies carefully!
 
-- Transunion's Creditkarma (previously Noddle) or Money Saving Expert's
-  Credit Club
-- Equifax's Clearscore
+- Transunion's [Creditkarma](https://www.creditkarma.co.uk/) (previously Noddle) or Money Saving Expert's
+  [Credit Club](https://clubs.moneysavingexpert.com/creditclub/register)
+- Equifax's [Clearscore](https://www.clearscore.com/)
 - Experian
 
 ## How to improve your credit worthiness 🤝
@@ -121,7 +121,7 @@ privacy policies carefully!
   the necessary minimum repayments are taken automatically.
 - Never take out payday loans. They're dangerous in their own right, but
   some mortgage underwriters simply won't lend to anyone who's had one.
-- Never withdraw cash on credit cards. It's expensive and is evidence of
+- Never withdraw cash on [credit cards](/credit-cards/). It's expensive and is evidence of
   poor money management.
 - Check for address errors. An old, unused but technically active mobile
   phone contract registered to your old address could potentially cause a
@@ -137,7 +137,7 @@ lenders may struggle to evaluate the risk in lending to you. After all,
 would you lend to someone you knew nothing about?
 
 The typical solution to bad or non-existent credit history is to get a
-credit card, do a small amount of your normal spending on it each month,
+[credit card](/credit-cards/), do a small amount of your normal spending on it each month,
 being sure to stick within the credit limit, and to repay in full each
 month so that there's no interest due. To do this, you should set up a
 direct debit to pay off the full amount automatically each month, to
@@ -165,8 +165,8 @@ If you're not on the electoral roll, getting credit can be tough, as it
 causes ID and tracing issues, making it harder to verify your address.
 Don't worry about getting lots of junk mail though – you can opt out of
 the 'open register' element, which stops this but still means you count
-for credit scoring purposes. You register online using the gov.uk
-register to vote service.
+for credit scoring purposes. You register online using the [gov.uk
+register to vote service](https://www.gov.uk/register-to-vote).
 
 ### Avoid lots of applications in a short space of time 🐌
 

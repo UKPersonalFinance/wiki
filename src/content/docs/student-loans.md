@@ -9,11 +9,11 @@ your student loan early is not a good plan.
 
 ## Understand: What makes student loans different to 'normal' debt? ✨
 
-Student loans work very differently to consumer debt such as credit cards
+Student loans work very differently to [consumer debt](/debt/) such as credit cards
 or personal loans.
 
 If you (somehow!) took out a £50k personal loan, you would pay it back by
-making monthly payments to the bank for the time period you signed up
+making [monthly payments](https://www.thecalculatorsite.com/finance/calculators/loancalculator.php) to the bank for the time period you signed up
 for. You would owe this money each month regardless of your personal
 circumstances, until it was fully paid off. In this situation, the faster
 you pay it off, the cheaper the loan will be.
@@ -103,11 +103,11 @@ It is important to look at your finances in context. Our famous
 [flowchart](/flowchart/) is designed to walk you through this, and
 going through it properly is highly recommended.
 
-In summary though, if you have any expensive consumer debt such as
+In summary though, if you have any expensive consumer [debt](/debt/) such as
 credit cards, you'll definitely want to work on this before thinking
 about your student loan.
 
-If you have any short or medium term goals, such as saving up for a
+If you have any [short or medium term goals](/goals/), such as saving up for a
 deposit on a home, for a break from work to travel, for a wedding, or
 anything else important to you – please do not delay these life plans in
 favour of paying down your student loan a bit faster.
@@ -119,7 +119,7 @@ flexibility is itself a benefit.
 
 If you make a student loan overpayment, you cannot borrow more money
 back on the same terms. In contrast, money that you keep in a savings
-account or ISA could be used for any purpose, including student loan
+account or [ISA](/isa/) could be used for any purpose, including student loan
 payoff in the future.
 
 You should only overpay student loans with excess money that you are

@@ -11,7 +11,7 @@ selling an asset.
 We regularly get questions asking if now is a good/bad time to buy/sell
 stocks, currency, property, crypto, and other asset types, usually when
 something is making headlines. The answer is universally that nobody
-knows, which is why we don't allow these posts in the subreddit.
+knows, which is why we don't allow these posts in [the subreddit](https://www.reddit.com/r/UKPersonalFinance/).
 
 The idea that future prices can't be predicted is a surprisingly
 difficult one to accept – surely the experts and professionals must

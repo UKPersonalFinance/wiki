@@ -4,7 +4,7 @@ description: Questions to ask yourself before making a purchase.
 ---
 
 Do you struggle with buying things you later regret? A good place to start
-could be Money Saving Expert's Money Mantras. If those aren't enough for
+could be Money Saving Expert's [Money Mantras](https://www.moneysavingexpert.com/shopping/money-mantras/). If those aren't enough for
 you to change your way of thinking, here are some questions to ask
 yourself.
 

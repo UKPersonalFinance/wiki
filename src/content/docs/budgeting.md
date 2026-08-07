@@ -86,12 +86,12 @@ If you shop for 'stuff' more often than you'd like, have a look at our
 ["Should I Buy This?"](/spending/) guide.
 
 Reviewing your fixed costs is also worthwhile. Bills come every month, so
-even a small saving on a regular bill adds up. Moneysavingexpert is a great
+even a small saving on a regular bill adds up. [Moneysavingexpert](https://www.moneysavingexpert.com/) is a great
 resource to find the best deals.
 
 ### Plan for future goals
 
-Go through your savings goals and calculate how much you need to save per
+Go through your [savings goals](/goals/) and calculate how much you need to save per
 month to afford your goals. Try to work within what you have left to cover
 your remaining spending categories. It may take a few drafts to come up
 with a balance you're happy with between current spending and future goals.
@@ -143,41 +143,41 @@ cash into different envelopes labelled for a specific purpose e.g. food,
 bills, clothing, etc. It's a popular system which is very effective for
 both over- and under-spenders.
 
-**YNAB** (34 day free trial, $109/year) – The original (and arguably best)
+**[YNAB](http://www.youneedabudget.com/)** (34 day free trial, $109/year) – The original (and arguably best)
 digital envelope budgeting software. Commonly recommended, loved by its
-users and has a friendly and encouraging subreddit. It can automatically
+users and has a friendly and encouraging [subreddit](https://reddit.com/r/ynab/). It can automatically
 connect to UK banks to import your transactions. However, it is pricey
-although students can get 1 free year.
+although [students can get 1 free year](https://www.ynab.com/college).
 
 Alternatives that offer something similar:
 
-- **Aspire Budget** (Free of charge) – Excel or Google Sheets-based budget
-  with an active Reddit community
-- **Yet Another Budgeting Spreadsheet (YABS)** (free of charge) – Excel or
+- **[Aspire Budget](https://aspirebudget.com/)** (Free of charge) – Excel or Google Sheets-based budget
+  with an active [Reddit community](https://reddit.com/r/aspirebudgeting/)
+- **[Yet Another Budgeting Spreadsheet (YABS)](https://www.reddit.com/r/personalfinance/comments/ozz674/yabs_or_yet_another_budgeting_spreadsheet_modeled/)** (free of charge) – Excel or
   Google Sheets spreadsheet, modelled on an old version of YNAB. Best used
   by people already familiar with YNAB.
-- **Actual Budget** – Open source desktop app similar to previous versions
+- **[Actual Budget](https://actualbudget.org)** – Open source desktop app similar to previous versions
   of YNAB, requires some technical knowledge to self-host.
-- **Goodbudget** (Free basic tier, $80/year for unlimited tier)
+- **[Goodbudget](https://goodbudget.com/)** (Free basic tier, $80/year for unlimited tier)
 
 ### Open banking apps {#openbanking}
 
-The introduction of open banking has allowed companies to develop account
+The introduction of [open banking](https://www.moneysavingexpert.com/banking/open-banking/) has allowed companies to develop account
 aggregation and budgeting software. Open banking-capable apps can track
 your spending across multiple different bank accounts/credit cards, and
 set a target spend for each category.
 
 Apps available are:
 
-- **Monzo Extra** (£3/month, allows you to make custom categories and
+- **[Monzo Extra](https://monzo.com/)** (£3/month, allows you to make custom categories and
   connect multiple bank accounts)
-- **Emma** (Free basic tier supports 2 bank accounts, £5/month and
+- **[Emma](https://emma-app.com/)** (Free basic tier supports 2 bank accounts, £5/month and
   £10/month paid tiers permit more accounts and custom category names)
 - **LifeStage Money** (formerly Moneyhub) (6 month free trial, £15/year) –
   Targeted at advanced users, boasts the largest selection of banks and
   institutions to import from.
-- **MoneyWiz** ($50/year, iOS and macOS only)
-- **Snoop** (Free basic tier, £5/month paid to create custom categories and
+- **[MoneyWiz](https://www.wiz.money/)** ($50/year, iOS and macOS only)
+- **[Snoop](https://snoop.app/)** (Free basic tier, £5/month paid to create custom categories and
   export reports)
 
 ### Spreadsheets
@@ -185,17 +185,17 @@ Apps available are:
 Here at UKPF we love a spreadsheet. Take inspiration from these examples
 and adapt them to create your own bespoke budgeting tool!
 
-- MoneySavingExpert's Budget Planner
-- u/CompiledSanity's template
-- u/ChocolateChouxCream's template
-- r/personalfinance tools wiki page (US-centric)
-- r/pftools
-- u/Comfortable_Leek_781's Finance/Budget tracker
+- [MoneySavingExpert's Budget Planner](https://www.moneysavingexpert.com/banking/budget-planning/#planner)
+- [u/CompiledSanity's template](https://docs.google.com/spreadsheets/d/1v9ENzdoSIVlfAA2SFVFz6KKVAAu5Knv8klde7bN2Qqo/)
+- [u/ChocolateChouxCream's template](https://docs.google.com/spreadsheets/d/1IPopS5NhfnzemcWgDtMruEo0HrqSAQsPBeP1hPA2Ffk)
+- [r/personalfinance tools wiki page](https://reddit.com/r/personalfinance/wiki/tools) (US-centric)
+- [r/pftools](https://reddit.com/r/PFtools/)
+- [u/Comfortable_Leek_781's Finance/Budget tracker](https://www.reddit.com/r/UKPersonalFinance/comments/xjiohm/i_made_a_finance_tracker_in_google_sheets_free/)
 
 ## Step 4: Spending dilemma? Use your budget 🔮 {#plan}
 
 Your budget is an incredibly powerful tool to help you make financial
-decisions. While some goals may be easy decisions, other times the right
+decisions. While some [goals](/goals/) may be easy decisions, other times the right
 decision isn't as obvious. For example:
 
 - Is it worth paying £90/month for a really nice gym?
@@ -228,7 +228,7 @@ Make sure you're considering all additional costs, not just the most
 obvious headline payments. For example, cars and houses require
 maintenance, and hobbies can get more expensive than you think! Or if you
 plan to delay buying your dream house for another 5-10 years, bear in mind
-prices could move over that time.
+[prices could move over that time](/market-timing/).
 
 Now that you know what each scenario could look like, imagine yourself
 years in the future having gone either way. Which route do you think you

@@ -22,8 +22,8 @@ Check our [flowchart](/flowchart/) to make sure you're at the
 stage where you're ready to invest. This means having:
 
 - Sufficient income to cover your needs
-- A full emergency fund saved
-- Savings for any financial goals for the next 5 years either fully funded
+- A full [emergency fund](/emergency-fund/) saved
+- Savings for any [financial goals](/goals/) for the next 5 years either fully funded
   or on track to be completed in time
 
 If you're not there yet, you can of course keep reading and learning, in
@@ -33,7 +33,7 @@ fact we recommend it. Just don't invest any money you need for essentials!
 
 Investing is the process of buying an asset, like shares in a company, with
 the expectation of profiting over time. Almost everybody holds investments,
-even if they don't realise it. If you have a workplace pension, you are an
+even if they don't realise it. If you have a [workplace pension](/pensions/), you are an
 investor!
 
 Investing is necessary because the spending power of money reduces over
@@ -49,7 +49,7 @@ retirement using cash savings. Investing your money allows your savings to
 grow faster than inflation.
 
 Since 1900, investing in equities for a long term has produced an annual,
-after-inflation return of 4.9% (see page 93, 'Long-term asset returns').
+after-inflation return of 4.9% (see [page 93, 'Long-term asset returns'](https://am.jpmorgan.com/gb/en/asset-management/adv/insights/market-insights/guide-to-the-markets/)).
 However over the short-term the values can fluctuate wildly – for example,
 global stock markets fell by over 20% in a single month between February
 and March 2020 as the COVID pandemic hit. For this reason it is incredibly
@@ -78,9 +78,9 @@ These can result in significant short-term fluctuations in the value of
 your capital and income, meaning that if money is withdrawn at the wrong
 time losses may be crystallised.
 
-This is why it's important to have a full emergency fund before you
+This is why it's important to have a [full emergency fund](/emergency-fund/) before you
 consider investing your money, and not invest any money you expect to need
-within the next 5 years. Remember, you can't always control when you need
+[within the next 5 years](/goals/). Remember, you can't always control when you need
 access to your money.
 
 For a more detailed examination of volatility and what it means for your
@@ -140,7 +140,7 @@ provide higher returns, such as:
 - Picking funds which cover specific sectors or regions you think will
   perform well, e.g. tech, renewable energy, large US companies, emerging
   markets
-- Market timing: attempting to buy low and sell high to make a profit
+- [Market timing](/market-timing/): attempting to buy low and sell high to make a profit
 
 ## What funds can I invest in?
 
@@ -155,12 +155,12 @@ the funds you invest in them.
 - **A Stocks & Shares ISA**: all growth and dividends within an ISA are
   tax-free, and you can withdraw your money tax-free at any age. This is the
   place to start for long term savings other than for retirement.
-- **A pension**: all growth and dividends within a pension are tax-free. The
+- **A [pension](/pensions/)**: all growth and dividends within a pension are tax-free. The
   money can be withdrawn from age 55+ onwards (the exact age will depend on
   your scheme and age). Pensions receive income tax relief on your
   contributions, and are usually the most efficient way to save for
   retirement.
-- **A Stocks & Shares Lifetime ISA (LISA)**: these accounts are primarily
+- **A [Stocks & Shares Lifetime ISA (LISA)](/lisa/)**: these accounts are primarily
   aimed at people saving up for their first home, and provide an extra bonus
   of up to £1k/year to help your deposit grow. If you intend to buy more
   than 5 years in the future, a S&S LISA can be a great choice. They can

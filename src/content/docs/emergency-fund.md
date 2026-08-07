@@ -15,7 +15,7 @@ touch except for financial emergencies. The money is for situations where
 you face a loss of income or sudden necessary expenditure, such as
 redundancy or emergency home maintenance. The idea of the emergency fund
 is to give yourself the time and means to resolve the situation. It is not
-for facilitating large purchases, but for genuine emergencies.
+for facilitating [large purchases](/goals/), but for genuine emergencies.
 
 If you draw from your emergency fund for any reason, your first priority
 once you get back on your feet should be to replenish it. Treat your
@@ -23,7 +23,7 @@ emergency fund right and it will return the favour.
 
 ## How many months of expenses should I keep? 📅
 
-If you're in the process of paying off high interest debts, we suggest you
+If you're in the process of [paying off high interest debts](/debt/), we suggest you
 build an emergency fund of one month of essential expenses. Achieving this
 is an accomplishment to be proud of, and will give you a bit of cushion to
 absorb any unexpected problems.
@@ -63,11 +63,11 @@ can access instantly, and which does not carry risk. See our savings
 accounts page on how to find the best interest rates for your cash
 savings.
 
-Anything with risk is a bad choice, for example equity investments, P2P
+Anything with risk is a bad choice, for example [equity investments](/investing-101/), P2P
 lending, or crypto. You don't want require your emergency fund only to
 discover it has lost value.
 
-Anything with access restrictions, such as savings accounts that lock your
+Anything with access restrictions, such as [savings accounts](/savings/) that lock your
 money away for 12 months or require some months of notice to withdraw, are
 also a bad choice – it's no use having a notice period for access if your
 emergency is happening now.
