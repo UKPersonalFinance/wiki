@@ -107,7 +107,7 @@ If you have any questions about how your DB pension works, it's really worth see
 
 ### Other savings (e.g. LISAs or ISAs)
 
-Savings don't have to be placed inside a pension to be used for retirement. If you have savings in an ISA, LISA, GIA, or bank account, *and you intend to leave them until retirement*, you can include these in your planning.
+Savings don't have to be placed inside a pension to be used for retirement. If you have savings in an ISA, LISA, GIA, or bank account, _and you intend to leave them until retirement_, you can include these in your planning.
 
 To work out how much income these savings may provide in retirement, you can treat them similarly to a DC pension. However, the age you can access them and the way they are taxed is different. Please see our [ISA vs LISA vs Pension](/isa-vs-lisa-vs-pension/) page to learn more about this, and think about where you may want to direct ongoing contributions to.
 
@@ -135,7 +135,7 @@ The calculators you used above should help you work out how much of each will be
 
 We've mentioned a few times on this page that you'll have more information the closer to retirement you get. That applies to your desired retirement budget, how long you want to work for, how much you have earned and saved over your career, how your investments have performed, any changes the government may make to state pension or tax bands/rate, and so on.
 
-It's unavoidable that the further away you are from retirement, the harder it is to plan with any accuracy. The problem with this is that the *closer* to retirement you are, the harder it will be to **make up any shortfall** in your savings.
+It's unavoidable that the further away you are from retirement, the harder it is to plan with any accuracy. The problem with this is that the _closer_ to retirement you are, the harder it will be to **make up any shortfall** in your savings.
 
 For this reason, you can't wait until everything is decided to start planning and saving. We'd also suggest erring on the side of caution in your assumptions, and reviewing your plan regularly. This needs to happen less frequently when you're younger (perhaps every few years, or following major changes like a new job or home), but as you approach retirement this should be reviewed annually. This will give you a chance to adjust as things change, and allow your plans to become more and more concrete over time.
 
@@ -233,11 +233,11 @@ Methods for calculating 'safe withdrawal rates' have been argued about for as lo
 
 So which number should you use? Again, discussing this would easily be a page in itself. Some strategies to consider about include:
 
-- Consider a range of withdrawal rates, instead of banking your whole retirement planning on a single rate. As yourself '*could I survive on 2.5% withdrawals?*' - *'how would my retirement change if I could withdraw at 4.5%?'*
+- Consider a range of withdrawal rates, instead of banking your whole retirement planning on a single rate. As yourself '_could I survive on 2.5% withdrawals?_' - _'how would my retirement change if I could withdraw at 4.5%?'_
 - You could purchase an annuity with your saved retirement funds, rather than (or in combination with) drawing from them flexibly. This sort of decision is outside of this page's scope, and [professional advice](/financial-advice/) should be sought.
 - You could use current "annuity rates" as a proxy for safe withdrawal levels. Just be aware that these rates can fluctuate significantly over time.
 - Seek help from a [professional financial planner](/financial-advice/) with expertise in building variable models. Terms you want to ask about are "monte carlo forecasting", "bootstrapping/backtesting" or "stochastic modelling".
-- If you want to learn more yourself, consider some specialist resources such as [Beyond the 4% Rule by Abraham Okusanya](https://www.amazon.co.uk/Beyond-4-Rule-retirement-portfolios/dp/1985721643), or by searching for and learning more about  withdrawal strategies such as Bengen's 4% fixed rule, Guyton-Klinger guardrails, or the Boglehead Variable Percentage Withdrawal Approach.
+- If you want to learn more yourself, consider some specialist resources such as [Beyond the 4% Rule by Abraham Okusanya](https://www.amazon.co.uk/Beyond-4-Rule-retirement-portfolios/dp/1985721643), or by searching for and learning more about withdrawal strategies such as Bengen's 4% fixed rule, Guyton-Klinger guardrails, or the Boglehead Variable Percentage Withdrawal Approach.
 
 ## Retirement age
 
@@ -269,7 +269,7 @@ You can also consider paying someone for advice on this if you're not confident 
 
 See our page on [financial advice](/financial-advice/) for more info on getting professional advice.
 
-If you are looking for a professional cash-flow forecast, look for advisers and planners that offer this service specifically, particularly those who hold the *Certified Financial Planner* qualification.
+If you are looking for a professional cash-flow forecast, look for advisers and planners that offer this service specifically, particularly those who hold the _Certified Financial Planner_ qualification.
 
 ### Inheritance tax
 

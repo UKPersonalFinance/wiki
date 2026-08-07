@@ -50,7 +50,7 @@ It makes sense to want to see some tangible benefit from your savings. But the i
 
 Taking money out to spend now means having less money available in future. The more you take, the bigger the impact. It sounds obvious when stated that way but it's easy to miss.
 
-Gains from interest, dividends or growth are not 'free money' - they are ultimately no different to any other money you have or earn. Spending £500 of savings interest has exactly the same effect on your finances as spending £500 of your savings, or £500 of your employment income. (For those interested in digging deeper into this topic, it is called *[the fungibility of money](https://en.wikipedia.org/wiki/Fungibility)*).
+Gains from interest, dividends or growth are not 'free money' - they are ultimately no different to any other money you have or earn. Spending £500 of savings interest has exactly the same effect on your finances as spending £500 of your savings, or £500 of your employment income. (For those interested in digging deeper into this topic, it is called _[the fungibility of money](https://en.wikipedia.org/wiki/Fungibility)_).
 
 Take the time to work through our [flowchart](/flowchart/) and [lump sum guide](/lump-sum/) and make a financial plan that takes into account your income, savings, and goals. This will help you work out how much of your savings you may wish to spend when, and at what age you might have enough saved to live off (i.e., retire).
 
@@ -80,7 +80,7 @@ This area is particularly rife with [scams](/scams/). If something sounds too go
 
 Living off savings and investments is very much possible - it's called retirement! The difficulty is that it takes far more in savings than you might expect. This is why it takes most people several decades to save enough to retire safely.
 
-Exactly how much income you can take from your investments to avoid running out within your lifetime is not a simple question, and depends on many factors. However for *very* quick (napkin level) calculations, [a reasonable number to use is 4%](https://www.fidelity.co.uk/markets-insights/personal-finance/saving-for-retirement/the-4-percent-rule-the-basics/). That means an investment of £100,000 could return an income of £4,000 per year, or £333 per month. Replacing a full income therefore requires a very hefty sum.
+Exactly how much income you can take from your investments to avoid running out within your lifetime is not a simple question, and depends on many factors. However for _very_ quick (napkin level) calculations, [a reasonable number to use is 4%](https://www.fidelity.co.uk/markets-insights/personal-finance/saving-for-retirement/the-4-percent-rule-the-basics/). That means an investment of £100,000 could return an income of £4,000 per year, or £333 per month. Replacing a full income therefore requires a very hefty sum.
 
 If you are still earning and saving, you are better off letting your savings grow than taking income from them to spend. The longer you can leave them alone (and the more you can add to them) the sooner you will build enough savings to make the switch to living off them.
 
@@ -96,12 +96,12 @@ The example chart below shows the results of investing £100,000 10 years ago in
 
 ![Growth chart from March 2015 to March 2025 comparing iShares MSCI ACWI ETF (with dividends reinvested, +187.20%; without, +135.18%) against Vanguard FTSE All World High Dividend Yield UCITS ETF (with dividends reinvested, +124.27%; without, +60.52%).](../../assets/images/passive-income-dividend-vs-growth-chart.png)
 
-| Investment | Results of investing £100,000 from March 2015-March 2025 |
-|---|---|
-| MSCI All-World index - dividends reinvested | **£289,549** |
-| MSCI All-World index - dividends taken as income | £237,103 final value   £40,109 dividends taken   Total **£277,212** |
-| FTSE All-World High Dividend Yield index - dividends reinvested | **£227,839** |
-| FTSE All-World High Dividend Yield index - dividends taken as income | £163,070 final value   £41,533 dividends taken   Total **£207,570** |
+| Investment                                                           | Results of investing £100,000 from March 2015-March 2025        |
+| -------------------------------------------------------------------- | --------------------------------------------------------------- |
+| MSCI All-World index - dividends reinvested                          | **£289,549**                                                    |
+| MSCI All-World index - dividends taken as income                     | £237,103 final value £40,109 dividends taken Total **£277,212** |
+| FTSE All-World High Dividend Yield index - dividends reinvested      | **£227,839**                                                    |
+| FTSE All-World High Dividend Yield index - dividends taken as income | £163,070 final value £41,533 dividends taken Total **£207,570** |
 
 ### Starting a business
 
@@ -109,6 +109,6 @@ Owning a profitable business certainly has a higher possible income ceiling than
 
 There is also no one business that anyone can reliably succeed at, even if you have start up capital to spend. Someone who can run a restaurant can't necessarily run a marketing agency or a construction business.
 
-If you have an idea that you think you could develop into a successful, scalable business, we're not here to tell you otherwise! But do plan carefully and realistically, and consider whether the time and effort spent on a project like this will be worth the returns. Start-up costs, running costs, time costs, and *opportunity costs* (what else could you be doing with this time, effort and money?), all need to be weighed up.
+If you have an idea that you think you could develop into a successful, scalable business, we're not here to tell you otherwise! But do plan carefully and realistically, and consider whether the time and effort spent on a project like this will be worth the returns. Start-up costs, running costs, time costs, and _opportunity costs_ (what else could you be doing with this time, effort and money?), all need to be weighed up.
 
 If your starting point is not that you have a potentially viable business idea, but rather that you have money and are looking to get the best returns from it, searching for business ideas is unlikely to be the way to go.

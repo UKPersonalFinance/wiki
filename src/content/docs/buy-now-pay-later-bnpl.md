@@ -44,13 +44,13 @@ Consider:
 
 ## 💳 BNPL vs. Credit Cards
 
-| Feature | BNPL | Credit Card |
-| --- | --- | --- |
-| Interest | None (if paid on time) | Often charged |
-| Late Fees | Yes | No, but interest payable |
-| Credit Check | Usually soft | Usually hard |
-| Credit Reporting | Sometimes | Yes |
-| Section 75 Protection | No | Yes |
+| Feature               | BNPL                   | Credit Card              |
+| --------------------- | ---------------------- | ------------------------ |
+| Interest              | None (if paid on time) | Often charged            |
+| Late Fees             | Yes                    | No, but interest payable |
+| Credit Check          | Usually soft           | Usually hard             |
+| Credit Reporting      | Sometimes              | Yes                      |
+| Section 75 Protection | No                     | Yes                      |
 
 ## 🛡️ Regulation
 

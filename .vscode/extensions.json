@@ -3,7 +3,8 @@
     "astro-build.astro-vscode",
     "unifiedjs.vscode-mdx",
     "editorconfig.editorconfig",
-    "elijah-potter.harper"
+    "elijah-potter.harper",
+    "esbenp.prettier-vscode"
   ],
   "unwantedRecommendations": []
 }

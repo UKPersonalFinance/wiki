@@ -35,7 +35,7 @@ If you're new to investing, don't be daunted! Investing can be done very simply 
 ### Children's Savings Accounts
 
 > Suitable for:
-✅ Short term savings for spending before age 18
+> ✅ Short term savings for spending before age 18
 
 Not suitable for:
 ⛔ Longer term savings (>5 years)
@@ -52,9 +52,9 @@ Older children may benefit from having a savings account they can transfer pocke
 ### JISA (Junior ISA)
 
 > Suitable for:
-✅ Tax-free savings interest and investment growth
-✅ Money for your child to receive when they turn 18
-✅ Family members who want to save for a child's future directly
+> ✅ Tax-free savings interest and investment growth
+> ✅ Money for your child to receive when they turn 18
+> ✅ Family members who want to save for a child's future directly
 
 Not suitable for:
 ⛔ Money you want to reserve for a specific purpose (e.g. a house deposit)
@@ -72,7 +72,7 @@ As such, you should consider how much money you would like to give your child ac
 ### Your own ISA (or pension)
 
 > Suitable for:
-✅ Flexible help with education, home deposit, and other costs
+> ✅ Flexible help with education, home deposit, and other costs
 
 If you'd like to save money for your child's future but not necessarily for them to have full access to spend at 18, you will need to keep the savings in your own name. This allows you to gift the money to your child at whatever point(s) you consider to be appropriate, such as to pay for living costs during University or to buy a home.
 
@@ -88,7 +88,7 @@ If you are saving for your own financial plans and your children in your own nam
 
 - Open a separate ISA or pension for your child's savings
 - Invest in different funds for your and your child's savings. For example, if you are using [index funds](/index-funds/) you can pick two different ones (they can still track the same index).
-- If using a single fund, you can make a note of how many units were purchased each time you invest for yourself or your child (your broker will provide this information with each transaction). That way when you end up with a holding of *n* units, you'll know how many were purchased for yourself and how many for your child/children.
+- If using a single fund, you can make a note of how many units were purchased each time you invest for yourself or your child (your broker will provide this information with each transaction). That way when you end up with a holding of _n_ units, you'll know how many were purchased for yourself and how many for your child/children.
 - Some platforms have functionality for dividing up your investments into 'pots' and tracking them separately.
 
 ### Mix and match
@@ -99,7 +99,7 @@ You don't have to keep all your savings in the same 'pot', you can make use of a
 
 This is a commonly asked question, and understandable too. Perhaps you would prefer to hold your child's savings in their own name (whether for personal or tax reasons), but feel that 18 is too young for unrestricted access to the entire amount.
 
-Unfortunately, there is no easy and inexpensive way to put savings in your child's name that do not become accessible to them when they become a legal adult. Any arrangement in which your child is the *beneficial owner* of these savings, but unable to access them at 18, is known as a *relevant property trust* in law. These have complicated legal and tax arrangements.
+Unfortunately, there is no easy and inexpensive way to put savings in your child's name that do not become accessible to them when they become a legal adult. Any arrangement in which your child is the _beneficial owner_ of these savings, but unable to access them at 18, is known as a _relevant property trust_ in law. These have complicated legal and tax arrangements.
 
 The simplest thing is to either save in your own name (paying any applicable taxes), or to give the gift outright (via JISAs or other children's savings accounts). Or of course some combination of the two.
 
@@ -116,7 +116,7 @@ The account types below are unlikely to be useful in most situations - we've lis
 ### Junior SIPP
 
 > Suitable for:
-✅ Helping your child save for retirement
+> ✅ Helping your child save for retirement
 
 Not suitable for:
 ⛔ Living expenses, higher education, home deposit, etc
@@ -134,7 +134,7 @@ However if you are maxing out your own ISA and pension allowances, and already h
 ### LISAs
 
 > Suitable for:
-✅ Adult children saving for a deposit
+> ✅ Adult children saving for a deposit
 
 Not suitable for:
 ⛔ Children under 18

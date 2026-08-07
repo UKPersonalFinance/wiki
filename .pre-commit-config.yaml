@@ -3,6 +3,7 @@ repos:
     rev: v6.0.0
     hooks:
       - id: trailing-whitespace
+        args: ["--markdown-linebreak-ext=md,mdx"]
       - id: end-of-file-fixer
       - id: check-yaml
       - id: check-toml
@@ -18,9 +19,9 @@ repos:
     rev: v3.9.6
     hooks:
       - id: prettier
+        entry: prettier --check --ignore-unknown
         additional_dependencies:
           - prettier-plugin-astro
-        files: \.(astro|mjs|ts|json|ya?ml)$
 
   - repo: https://github.com/DavidAnson/markdownlint-cli2
     rev: v0.23.2

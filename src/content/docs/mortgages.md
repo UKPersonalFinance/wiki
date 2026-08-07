@@ -18,7 +18,7 @@ The balance of your loan is independent of the value of your property. It doesn'
 
 ### Mortgages are 'secured' borrowing 🔐
 
-The most important thing to understand is that a mortgage is *secured* against a property. The mortgage company takes a legal charge against the property, that   gives them the right to repossess and take ownership if the loan isn't repaid.
+The most important thing to understand is that a mortgage is _secured_ against a property. The mortgage company takes a legal charge against the property, that gives them the right to repossess and take ownership if the loan isn't repaid.
 
 This makes a mortgage the most serious borrowing most people will have in their lifetime, and it is incredibly important to keep up with repayments for this reason.
 
@@ -41,7 +41,7 @@ Payments are calculated using a [formula](https://en.wikipedia.org/wiki/Amortiza
 
 **Interest-only mortgages** only require you to satisfy the interest payments over the term of the mortgage (in the example above, £375 per month), with the entire balance of the mortgage to pay when the term comes to an end (£150,000 in this example).
 
-Interest-only mortgages are popular with [Buy-to-Let purchases](/buy-to-let/), but are hard to obtain for normal residential borrowing. To qualify for an interest-only mortgage you must demonstrate that you will have the ability to pay back the entire capital at the end of the term (known as a *repayment vehicle*). This requires you to either have a similar amount saved already, or to have a very high income.
+Interest-only mortgages are popular with [Buy-to-Let purchases](/buy-to-let/), but are hard to obtain for normal residential borrowing. To qualify for an interest-only mortgage you must demonstrate that you will have the ability to pay back the entire capital at the end of the term (known as a _repayment vehicle_). This requires you to either have a similar amount saved already, or to have a very high income.
 
 ### Loan-To-Value ratio (LTV)
 
@@ -75,7 +75,7 @@ In some cases lenders will be able to lend more than 4.5x your income, but the r
 
 ### What counts as 'income'?
 
-The rule of thumb is to assume that 'income' meant specifically *guaranteed* income. Lenders may additionally look at bonus, overtime, and so on, if there is good evidence of this occurring over time, but each lender will have a different method of calculating (such as taking half your overtime income, or an average of the last x months/years, etc).
+The rule of thumb is to assume that 'income' meant specifically _guaranteed_ income. Lenders may additionally look at bonus, overtime, and so on, if there is good evidence of this occurring over time, but each lender will have a different method of calculating (such as taking half your overtime income, or an average of the last x months/years, etc).
 
 For self-employed people or company owners, lenders will typically work on two or three years of past tax returns/company accounts. Lending multiples tend to be lower as self-employed earnings are generally considered higher risk.
 
@@ -209,7 +209,7 @@ There are online tools which will do a quick comparison for you.
 
 [https://www.moneysavingexpert.com/mortgages/compare-mortgage-rates/](https://www.moneysavingexpert.com/mortgages/compare-mortgage-rates/)
 
-Note that these calculators generally focus on which deal costs you the least *in total* over the fixed period. However, it's often preferable to calculate which deal costs you least *in fees and interest*over the fixed period. You might not mind paying a little more per month if a larger share is going towards the principal, improving your long term financial position.
+Note that these calculators generally focus on which deal costs you the least _in total_ over the fixed period. However, it's often preferable to calculate which deal costs you least *in fees and interest*over the fixed period. You might not mind paying a little more per month if a larger share is going towards the principal, improving your long term financial position.
 
 There don't seem to be online calculators available which do this. We have a [quick and easy spreadsheet](https://docs.google.com/spreadsheets/d/1dXM_XboaNauv0ag_V3HxSyRXAy2Jjt86p75-0qxFv-M#gid=1990449055) you can use to compare two fixes. If you fancy a more thorough and complex version, we recommend [this one from Locoblade on the MSE forums](http://www.locostfireblade.co.uk/spreadsheet/Index.html). Or ask your broker to provide these numbers.
 
@@ -217,7 +217,7 @@ There don't seem to be online calculators available which do this. We have a [qu
 
 Mortgage brokers can be free to use, or they might charge a small fee. Even if they do, this fee is usually payable when they arrange a mortgage deal for you - you should be able to speak to them for free to assess whether you want to work together and maybe get some quick advice.
 
-Whether or not you pay your broker a fee, the majority of their payment will be from the lender they arrange a mortgage with.**These are known as *proposal fees* and should be disclosed to you by the broker.
+Whether or not you pay your broker a fee, the majority of their payment will be from the lender they arrange a mortgage with.**These are known as _proposal fees_ and should be disclosed to you by the broker.
 
 If you know people who have bought recently, ask for personal recommendations - you can also try local sites and noticeboards.
 

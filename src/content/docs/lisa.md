@@ -25,7 +25,7 @@ The bonus is paid within two months of your contributions.
 
 LISAs can be either cash ([getting paid interest by a bank or building society](/savings/)) or Stocks & Shares ([where you aim to make returns on your chosen investments](/investing-101/)). Both will receive the government bonus.
 
-The £4,000 annual LISA allowance come within the *overall ISA annual contribution limit* of £20,000. [More info on ISAs](/isa/). Like all ISAs the money within it is sheltered from income and capital gains tax.
+The £4,000 annual LISA allowance come within the _overall ISA annual contribution limit_ of £20,000. [More info on ISAs](/isa/). Like all ISAs the money within it is sheltered from income and capital gains tax.
 
 LISAs can be opened by anyone aged between 18 and 39 (the cut off is the day before your 40th birthday) who is resident in the UK. You cannot pay in to a LISA once you turn 50 (again the cut off is the day before your 50th birthday).
 

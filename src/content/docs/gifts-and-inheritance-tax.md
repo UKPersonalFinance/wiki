@@ -24,13 +24,13 @@ There is an incredibly rare circumstance where you, as a recipient of a gift *ma
 
 This could only happen if the person who gave you the gift subsequently dies within 7 years, and had given away more than the Inheritance Tax allowance (currently £325,000) in those 7 years.
 
-*In some exceptionally rare cases, the "clock" may go back 14 years. See the "Limitations and Edge-cases" section at the end of this page for more information.*
+_In some exceptionally rare cases, the "clock" may go back 14 years. See the "Limitations and Edge-cases" section at the end of this page for more information._
 
 ## How Inheritance Tax works
 
 ### Inheritance tax allowances
 
-For the [vast majority of people](https://www.gov.uk/government/statistics/inheritance-tax-statistics-commentary/inheritance-tax-statistics-commentary), **no** Inheritance Tax is due on their estate when they die. This is because every person has an Inheritance Tax*'Nil-rate band*’ of £325,000 (they can leave £325,000 tax-free) and an additional '*Residence Nil-rate Band*’ of £175,000 (tax-free amount when leaving their primary residence to their children or grandchildren).
+For the [vast majority of people](https://www.gov.uk/government/statistics/inheritance-tax-statistics-commentary/inheritance-tax-statistics-commentary), **no** Inheritance Tax is due on their estate when they die. This is because every person has an Inheritance Tax*'Nil-rate band*’ of £325,000 (they can leave £325,000 tax-free) and an additional '_Residence Nil-rate Band_’ of £175,000 (tax-free amount when leaving their primary residence to their children or grandchildren).
 
 The Residence Nil-rate Band is removed progressively on estates between £2M and £2.7M in value. If this is a meaningful concern for you, the person involved should seek professional tax and/or [financial advice](/financial-advice/).
 
@@ -69,7 +69,7 @@ There are other exemptions too. The main ones are:
 
 You can read more about all of these exemptions on [this reader-friendly page on gov.uk](https://www.gov.uk/inheritance-tax/gifts) or in the more detailed [HMRC guidance](https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm14231).
 
-**Remember that these 'exemptions' are *not* limits on what can be given "tax-free".** Rather that gifts beyond these exemptions could *potentially* count as part of a deceased person's estate if they die within 7 years, for the purposes of calculating whether (and if so how much) IHT is due.
+**Remember that these 'exemptions' are _not_ limits on what can be given "tax-free".** Rather that gifts beyond these exemptions could _potentially_ count as part of a deceased person's estate if they die within 7 years, for the purposes of calculating whether (and if so how much) IHT is due.
 
 ### Paying Inheritance Tax
 
@@ -85,7 +85,7 @@ Because of a lack of understanding over these rules, people often make mistakes 
 
 - Not giving gifts at all for fear of tax (when it's almost always better from a tax perspective to give gifts while you're still alive)
 - Structuring gifts as "loans" because they think this avoids the tax issues (it actually makes things worse, as these loans are typically forgiven by the estate, and count as a gift on the day of death, rather than earlier when they could have become exempt from the tax)
-- Giving big gifts away whilst relatively young, but retaining use of them. This most often relates to people giving away ownership of the house they continue to live in. If they don't truly give the benefit of the gift away (by moving out so the giftee can live there or rent it out, or paying their giftees a market rent themselves), it is known as a *gift with reservation* and [causes all sorts of problems](https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm04071).
+- Giving big gifts away whilst relatively young, but retaining use of them. This most often relates to people giving away ownership of the house they continue to live in. If they don't truly give the benefit of the gift away (by moving out so the giftee can live there or rent it out, or paying their giftees a market rent themselves), it is known as a _gift with reservation_ and [causes all sorts of problems](https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm04071).
 
 Inheritance Tax planning can be a complex area and one where it is potentially worth getting [professional advice](/financial-advice/).
 
@@ -108,7 +108,7 @@ If the gifts hadn't been given, the estate would be worth £800,000, and the £3
 
 ### Doesn't the 'seven year rule' reduce the values of gifts?
 
-*Taper relief* is applied to**tax due** on gifts made more than 3 years prior to death - the rate of tax owed reduces with each year.
+_Taper relief_ is applied to**tax due** on gifts made more than 3 years prior to death - the rate of tax owed reduces with each year.
 
 It is not applied to gifts given within the nil-rate band.
 
@@ -134,7 +134,7 @@ Gifting an asset that has appreciated in value will crystallise its capital gain
 
 ### Chargeable Lifetime Transfers
 
-This article only discusses gifts from one person to another, which is known as a "Potentially Exempt Transfer". Another type of gift is called a Chargeable Lifetime Transfer. They are usually gifts to a *discretionary trust* or *Family Investment Company*. These are transfers which are *not* potentially exempt.
+This article only discusses gifts from one person to another, which is known as a "Potentially Exempt Transfer". Another type of gift is called a Chargeable Lifetime Transfer. They are usually gifts to a _discretionary trust_ or _Family Investment Company_. These are transfers which are _not_ potentially exempt.
 
 They have a different set of rules, and most people won't come across them except under advice from a tax professional. If you are interested, you can read more in [HMRC's IHT Manual](https://www.gov.uk/hmrc-internal-manuals/inheritance-tax-manual/ihtm04067).
 

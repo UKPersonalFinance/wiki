@@ -33,11 +33,11 @@ You can use a brand new, anonymous account to preserve your privacy.
 
 Providing some context about what's happening and what you're trying to achieve will help people give you the best answers. Many people in the community are very experienced, and they may be able to identify solutions or suggestions that would have never occurred to you, but which help far more effectively.
 
-So rather than asking simply "How can I make £500 by tomorrow?", it's a lot more helpful to add "I am struggling to pay a council tax bill, I'm £500 short and the deadline is tomorrow". In this specific example, an experienced person might be able to suggest ways to get leniency from the council, meaning that you don't actually *need* to get £500 so quickly.
+So rather than asking simply "How can I make £500 by tomorrow?", it's a lot more helpful to add "I am struggling to pay a council tax bill, I'm £500 short and the deadline is tomorrow". In this specific example, an experienced person might be able to suggest ways to get leniency from the council, meaning that you don't actually _need_ to get £500 so quickly.
 
 Other times, different answers may be applicable if you're married, have children, are resident in Scotland, are in a Defined Benefit pension scheme, are a higher rate taxpayer, are a student, etc etc. We appreciate you may not always know what details are most relevant to include, but a quick description of your overall situation is very helpful.
 
-It doesn't have to be lengthy, usually a paragraph or two is all we need. However, a single sentence is generally *not* enough.
+It doesn't have to be lengthy, usually a paragraph or two is all we need. However, a single sentence is generally _not_ enough.
 
 ## Common scenarios
 

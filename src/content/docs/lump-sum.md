@@ -39,7 +39,7 @@ In order to decide what to do with this lump sum, you will need a good understan
 
 Thinking about your [goals](/goals/) is often the hardest step. But it's important to understand that there is no single correct way to 'make the most of' a lump sum. It completely depends on what you want to do with the money.
 
-Try to flip the question round from *"I have £x, what should I do with it?"* to *"I want x out of life, how do use the capital and income I have to best try and achieve this?"*.
+Try to flip the question round from _"I have £x, what should I do with it?"_ to _"I want x out of life, how do use the capital and income I have to best try and achieve this?"_.
 
 While some goals are so common it's assumed everyone shares them (e.g. housing and retirement), many others are more personal. You may want to take a year off work, financially assist children or other family members, do a graduate course, retire early, support a cause you care about, or any number of things that only you can know about.
 
@@ -81,7 +81,7 @@ Ultimately you know your situation and your preferences best. Do your best to as
 
 ## Should I repay some/all of my mortgage? 🏡
 
-Repaying a mortgage provides a *tax-free return* equivalent to the interest rate you will no longer pay. It can carry a big psychological benefit.
+Repaying a mortgage provides a _tax-free return_ equivalent to the interest rate you will no longer pay. It can carry a big psychological benefit.
 
 We have an article about [overpaying your mortgage vs investing](/mortgage-overpayments-vs-investments/). Whilst it is aimed at regular overpayments, the thought process is the same for lump-sums.
 

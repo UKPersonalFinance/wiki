@@ -24,7 +24,7 @@ If you are on this page because you can't afford an imminent bill, whether it's 
 
 If you're worried about managing to pay your **rent or mortgage**, speak to [Shelter](https://england.shelter.org.uk/get_help).
 
-**Energy companies** may have grants available to help you - more info available from [MoneySavingExpert](https://www.moneysavingexpert.com/utilities/how-to-get-help-if-you-re-struggling-with-your-energy-bills-/) and  [StepChange](https://www.stepchange.org/debt-info/grants-funding-for-energy-bills.aspx.aspx).
+**Energy companies** may have grants available to help you - more info available from [MoneySavingExpert](https://www.moneysavingexpert.com/utilities/how-to-get-help-if-you-re-struggling-with-your-energy-bills-/) and [StepChange](https://www.stepchange.org/debt-info/grants-funding-for-energy-bills.aspx.aspx).
 
 Creditors will ask about your income and other expenses, so make sure you have a solid [budget](/budgeting/) available to refer to. StepChange also provide [free impartial advice](https://www.stepchange.org/how-we-help/debt-advice.aspx) if you are struggling with problem debt and creating a realistic budget.
 

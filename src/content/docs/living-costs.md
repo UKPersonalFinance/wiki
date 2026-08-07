@@ -59,12 +59,12 @@ to average bills for similarly sized properties.
 
 If you're well and truly stuck, an extremely rough guide:
 
-| Description of property | Approximate annual energy usage | Approximate annual cost at Dec 2024 rates | Approximate monthly cost |
-|---|---|---|---|
-| 1-2 bed flat with no gas supply — usually electric storage heaters and hot water cylinder | 6,000kWh electricity | £1700 (electricity) | £140 |
-| 2 bed flat with gas central heating — gas used for central heating, electric showers | 2,900kWh electricity, 9,000kWh gas | £1600 (£930 electricity, £670 gas) | £130 |
-| Terraced 2-3 bed house — gas used for central heating and hot water | 3,500kWh electricity, 12,000kWh gas | £1940 (£1080 electricity, £865 gas) | £160 |
-| Detached 4-5 bed house | 4,000kWh electricity, 17,000kWh gas | £2400 (£1200 electricity, £1200 gas) | £200 |
+| Description of property                                                                   | Approximate annual energy usage     | Approximate annual cost at Dec 2024 rates | Approximate monthly cost |
+| ----------------------------------------------------------------------------------------- | ----------------------------------- | ----------------------------------------- | ------------------------ |
+| 1-2 bed flat with no gas supply — usually electric storage heaters and hot water cylinder | 6,000kWh electricity                | £1700 (electricity)                       | £140                     |
+| 2 bed flat with gas central heating — gas used for central heating, electric showers      | 2,900kWh electricity, 9,000kWh gas  | £1600 (£930 electricity, £670 gas)        | £130                     |
+| Terraced 2-3 bed house — gas used for central heating and hot water                       | 3,500kWh electricity, 12,000kWh gas | £1940 (£1080 electricity, £865 gas)       | £160                     |
+| Detached 4-5 bed house                                                                    | 4,000kWh electricity, 17,000kWh gas | £2400 (£1200 electricity, £1200 gas)      | £200                     |
 
 Prices used are the default tariff cap from 1 October to 31 December 2024,
 at standing charge of 61p per day for electricity and 31.7p per day for

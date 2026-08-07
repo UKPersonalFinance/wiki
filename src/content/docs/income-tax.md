@@ -39,12 +39,12 @@ Some people have different tax codes which allow them to earn more, or less, eac
 **Salary: £60,000**
 Assuming a 1257L tax code, you pay no tax on the first £12,570 and "some" tax on the remaining £47,430. At the time of writing, the 40% tax rate comes in at £50,270. (Current rates can be found [here](https://www.gov.uk/income-tax-rates)). This example ignores National Insurance Contributions which are usually deducted in addition to income tax (see section below for more info).
 
-|  | Income tax rate | Income tax amount |
-|---|---|---|
-| First £12,570 | 0% | £0 |
-| Next £37,700 | 20% | £7,540 |
-| Next £9,730 | 40% | £3,892 |
-| Total: £60,000 | 19.05% | £11,432 |
+|                | Income tax rate | Income tax amount |
+| -------------- | --------------- | ----------------- |
+| First £12,570  | 0%              | £0                |
+| Next £37,700   | 20%             | £7,540            |
+| Next £9,730    | 40%             | £3,892            |
+| Total: £60,000 | 19.05%          | £11,432           |
 
 In this example, personal allowance and basic rate buckets are full, but there is lots of space left in the higher-rate bucket.
 
@@ -52,7 +52,7 @@ If a bonus of £10,000 was earned, this extra would be taxed at 40% (£4,000). I
 
 ### I've found another page on HMRC with different numbers for income tax bands?
 
-Was it [this page](https://www.gov.uk/guidance/rates-and-thresholds-for-employers-2023-to-2024)? It causes a lot of confusion. It is intended for employers, and reflects the rates to be applied to your income *after* your personal allowance.
+Was it [this page](https://www.gov.uk/guidance/rates-and-thresholds-for-employers-2023-to-2024)? It causes a lot of confusion. It is intended for employers, and reflects the rates to be applied to your income _after_ your personal allowance.
 
 Please use [https://www.gov.uk/income-tax-rates](https://www.gov.uk/income-tax-rates) instead!
 
@@ -74,7 +74,7 @@ The other codes to be aware of are the "emergency codes" - BR for basic-rate and
 
 Another one that catches people out is when HMRC adjust your code and it looks like they're taking much more off you than you owe.
 
-Remember, your tax code determines how much income you pay tax on (or rather don't pay tax on). By reducing your allowance by £2,500, that's the extra income that will be *subject to tax*. For a basic rate payer, reducing your allowance by £2500 results in paying £500 more tax (20% of £2,500).
+Remember, your tax code determines how much income you pay tax on (or rather don't pay tax on). By reducing your allowance by £2,500, that's the extra income that will be _subject to tax_. For a basic rate payer, reducing your allowance by £2500 results in paying £500 more tax (20% of £2,500).
 
 ### I've had a bonus this month why have I paid more tax than I should have?
 
@@ -127,15 +127,15 @@ If you've not used the account before, you'll need to register. This does requir
 
 ## National Insurance
 
-National Insurance contributions are often seen as another tax on your income, but they work in a slightly different way to Income Tax.  The rates are the same for the whole of the UK, including Scotland.
+National Insurance contributions are often seen as another tax on your income, but they work in a slightly different way to Income Tax. The rates are the same for the whole of the UK, including Scotland.
 
 People earning through the Pay As You Earn (PAYE) system will be subject to Class 1 National Insurance contributions, and most will pay Category A contributions. The [HMRC page](https://www.gov.uk/national-insurance-rates-letters) has the full table for those with different letters (you'll find which category you are on a payslip) but for Class A (the vast majority of employees):
 
 | Weekly Income Band | Monthly Income band | National Insurance Rate |
-|---|---|---|
-| £0 - £242 | £0 - £1,048 | 0% |
-| £242 - 967 | £1,048 - £4,189 | 10% |
-| £967 and above | £4,189 and above | 2% |
+| ------------------ | ------------------- | ----------------------- |
+| £0 - £242          | £0 - £1,048         | 0%                      |
+| £242 - 967         | £1,048 - £4,189     | 10%                     |
+| £967 and above     | £4,189 and above    | 2%                      |
 
 When multiplied out, these thresholds work out the same as the standard income tax thresholds in England, however unlike income tax, National Insurance is calculated per pay period. This means that if you earn more one month, you'll pay more National Insurance, which you wont get back over the rest of the year.
 
@@ -149,4 +149,4 @@ We go into lots of detail about tax on cash savings on the [Savings Accounts](/s
 
 You may also receive interest or dividends from stocks and shares that you own. If these are owned outside of [ISAs](/isa/) or [Pensions](/pensions/), they are taxed as income.
 
-The important thing to remember in relation to overall taxation, is that savings and investment income is always added to the buckets last, after any earned income, and so always attracts the *highest marginal rate* of tax.
+The important thing to remember in relation to overall taxation, is that savings and investment income is always added to the buckets last, after any earned income, and so always attracts the _highest marginal rate_ of tax.

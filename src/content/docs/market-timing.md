@@ -38,7 +38,7 @@ If you're nervous about investing because the market appears to be too high, you
 
 That means if the market does drop, some of your money will be going in at those lower prices. On the flip side, if the market rises, your money will be going in at higher prices. By buying over a period of time , you are purchasing stocks at the **average** price over the period you're drip feeding, instead of one specific point at the start of that time period.
 
-[This article from Vanguard](https://www.vanguard.co.uk/professional/vanguard-365/financial-planning/financial-well-being/cost-averaging) provides more information about the pros and cons of lump sums vs averaging. *TL;DR:* statistically, if you have the money available upfront, you're more likely to be better off investing it all rather than keeping some back. The market goes up more than it goes down (that's why we invest!), so the average price over the course of a year is more likely to be higher than the price at the start of the year period.
+[This article from Vanguard](https://www.vanguard.co.uk/professional/vanguard-365/financial-planning/financial-well-being/cost-averaging) provides more information about the pros and cons of lump sums vs averaging. _TL;DR:_ statistically, if you have the money available upfront, you're more likely to be better off investing it all rather than keeping some back. The market goes up more than it goes down (that's why we invest!), so the average price over the course of a year is more likely to be higher than the price at the start of the year period.
 
 However, 'likely' does not mean 'certain', and if a badly timed downturn would keep you up at night, averaging your purchase over a longer period is a very reasonable strategy to help you start investing and stick to your investing plan without getting tempted to time the market.
 
@@ -86,11 +86,11 @@ In fact this pretty much applies to the entire page! :)
 
 Changing exchange rates will affect the value of any overseas investments you hold.
 
-For example, if you hold a global index tracker, which is around 95% non-UK, and the pound falls against overseas currencies, the values of 95% of your holding will rise, *because the asset is effectively held in overseas currencies, and then converted back to GBP when providing a value for you*.
+For example, if you hold a global index tracker, which is around 95% non-UK, and the pound falls against overseas currencies, the values of 95% of your holding will rise, _because the asset is effectively held in overseas currencies, and then converted back to GBP when providing a value for you_.
 
 This happens in the opposite direction too - if GBP strengthens compared to overseas currencies, the relative value in GBP will fall, without any underlying change in share price values.
 
-So, a falling value of GBP-USD generally means increasing value of a world tracker, and a rising value of GBP-USD generally means decreasing value of a world tracker, *all other things being equal**.***
+So, a falling value of GBP-USD generally means increasing value of a world tracker, and a rising value of GBP-USD generally means decreasing value of a world tracker, _all other things being equal_.
 
 **However**, currency movements are as hard to predict as any of the other examples on this page, and so it is generally recommended that you ignore the fluctuations, and invest based on your timescales, needs and objectives. In the context of a 10+ year timescale, it is unlikely that the exchange rate at the point you started investing will have a big impact on your overall returns.
 

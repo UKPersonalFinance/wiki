@@ -117,14 +117,14 @@ If transferring a S&S ISA or LISA, you can choose to do so either
 
 You can transfer between different types of ISA, as detailed below.
 
-| **ISA type** | **Contribution Limits per tax year** (as at 2025/26) | **Can transfer to...** |
-|---|---|---|
-| Stocks & Shares ISA | £20,000 | S&S ISA   Cash ISA   IFISA   LISA (up to £4000) |
-| Cash ISA | £20,000 | S&S ISA   Cash ISA   IFISA   LISA (up to £4000)      Note - if transferring from a "Fixed" cash ISA before the account maturity date, a penalty fee may apply. |
-| LISA (cash **or** Stocks & Shares) | £4,000 excluding bonus | LISA (cash or Stocks & Shares)   S&S ISA (subject to 25% exit charge)   Cash ISA (subject to 25% exit charge) |
-| H2B ISA | £1,200 on opening account, then £200 per month. | LISA ([up to £4000](https://www.moneyhelper.org.uk/en/savings/types-of-savings/a-guide-to-help-to-buy-isas#managingyourhelptobuyisa)) |
-| IFISA | £20,000 | Cash ISA   S&S ISA   LISA (up to £4000) |
-| Junior ISA (cash or Stocks & Shares) | £9,000 per year until the tax year in which the child turns 18.    That tax year they will have the full £20,000 ISA allowance in addition to their £9,000 JISA allowance. | None. Automatically converts to Cash or S&S ISA on child's 18th birthday. |
+| **ISA type**                         | **Contribution Limits per tax year** (as at 2025/26)                                                                                                                    | **Can transfer to...**                                                                                                                              |
+| ------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Stocks & Shares ISA                  | £20,000                                                                                                                                                                 | S&S ISA Cash ISA IFISA LISA (up to £4000)                                                                                                           |
+| Cash ISA                             | £20,000                                                                                                                                                                 | S&S ISA Cash ISA IFISA LISA (up to £4000) Note - if transferring from a "Fixed" cash ISA before the account maturity date, a penalty fee may apply. |
+| LISA (cash **or** Stocks & Shares)   | £4,000 excluding bonus                                                                                                                                                  | LISA (cash or Stocks & Shares) S&S ISA (subject to 25% exit charge) Cash ISA (subject to 25% exit charge)                                           |
+| H2B ISA                              | £1,200 on opening account, then £200 per month.                                                                                                                         | LISA ([up to £4000](https://www.moneyhelper.org.uk/en/savings/types-of-savings/a-guide-to-help-to-buy-isas#managingyourhelptobuyisa))               |
+| IFISA                                | £20,000                                                                                                                                                                 | Cash ISA S&S ISA LISA (up to £4000)                                                                                                                 |
+| Junior ISA (cash or Stocks & Shares) | £9,000 per year until the tax year in which the child turns 18. That tax year they will have the full £20,000 ISA allowance in addition to their £9,000 JISA allowance. | None. Automatically converts to Cash or S&S ISA on child's 18th birthday.                                                                           |
 
 ## ISA Flexibility ↔️
 

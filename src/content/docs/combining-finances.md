@@ -123,7 +123,7 @@ Once you have decided on how you will split your expenses, you need to establish
 
 ### Risks of having a joint account ⚠️
 
-*These risks are similar to any other joint accounts, including mortgages.*
+_These risks are similar to any other joint accounts, including mortgages._
 
 - When you set up a joint account with someone, they will appear as a 'Financial Association' on your [credit report](/credit-ratings/). If either of you has a poor credit history, it may be better to keep your accounts separate.
 - Money in a joint account is owned equally by both of you, and either partner can spend or transfer out all of it, regardless of who deposited what. If you break up, you risk losing money you have pooled.

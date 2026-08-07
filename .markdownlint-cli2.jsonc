@@ -11,8 +11,9 @@
     "MD040": false, // some fenced code blocks don't specify a language
     "MD041": false, // Starlight pages set their title via frontmatter, not an H1
     "MD045": false, // some existing images don't have alt text
+    "MD049": false, // prettier normalises emphasis to underscores and isn't configurable
     "MD051": false, // Starlight's {#custom-id} heading syntax isn't recognised, causing false positives
     "MD059": false, // some existing links use non-descriptive text like "here"
-    "MD060": false  // table pipe-spacing style doesn't match existing tables
-  }
+    "MD060": false, // table pipe-spacing style doesn't match existing tables
+  },
 }

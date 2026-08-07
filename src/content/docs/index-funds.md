@@ -21,7 +21,7 @@ When you buy an index fund which tracks the global market, the performance of yo
 
 In theory, it would be ideal to invest only in the best performing companies, and enjoy higher returns. However, **picking these winners in advance is very hard**, even for professional fund managers. It is so hard that almost all of them [fail to beat the market consistently in the long run](https://us.spindices.com/spiva/#/) (especially after their hefty [fees](/fees/)). This has been well studied and proven time and time again - see our [Recommended Resources](/recommended-resources/) for some books on the topic.
 
-It's entirely possible for stock picks (whether your own or that of a fund manager) to beat the index. In fact, given the number of stocks and funds out there, it's a statistical certainty that some of them will be beating the global index at any given point. However, a stock or fund beating the index over the last 3 years doesn't give you any meaningful indication about whether it will do so over the *next* 3 years, when you have your money in it. Some "superstar" active fund managers have crashed and burned spectacularly, with huge losses for investors, after years of outperforming their index benchmarks. **This is a critical point - picking winners works until it does not, and there's no knowing when that time will come**.
+It's entirely possible for stock picks (whether your own or that of a fund manager) to beat the index. In fact, given the number of stocks and funds out there, it's a statistical certainty that some of them will be beating the global index at any given point. However, a stock or fund beating the index over the last 3 years doesn't give you any meaningful indication about whether it will do so over the _next_ 3 years, when you have your money in it. Some "superstar" active fund managers have crashed and burned spectacularly, with huge losses for investors, after years of outperforming their index benchmarks. **This is a critical point - picking winners works until it does not, and there's no knowing when that time will come**.
 
 Lars Kroijer (author of [Investing Demystified](/recommended-resources/)) has a Monevator guest blog post ["Why a total world equity index tracker is the only index fund you need"](https://monevator.com/why-a-total-world-equity-index-tracker-is-the-only-index-fund-you-need/) summarising the arguments for a simple, single fund portfolio.
 
@@ -59,7 +59,7 @@ One important measure of a fund’s success is its "tracking error". This is a m
 
 One of the major sources of tracking error is the management fees charged by the fund. [You can read more about the impact of fees here](/fees/), but note that for index funds these fees are typically fairly low.
 
-Fees are usually described using the term *OCF (Ongoing Charges Figure)*, or occasionally *TER (Total Expense Ratio)*. The terms are largely interchangeable. As a general rule, index funds should have an OCF of less than 0.5%.
+Fees are usually described using the term _OCF (Ongoing Charges Figure)_, or occasionally _TER (Total Expense Ratio)_. The terms are largely interchangeable. As a general rule, index funds should have an OCF of less than 0.5%.
 
 #### Acc vs Inc
 
@@ -91,12 +91,12 @@ If you're interested in more technical detail on how funds are structured, see t
 
 Below is a list of common funds and ETFs.
 
-| Fund | Type | [OCF (fees)](#fees) | Index |
-|---|---|---|---|
-| [iShares MSCI ACWI UCITS ETF](https://www.trustnet.com/factsheets/O/0ib3/ishares-msci-acwi-ucits-etf/) | ETF | 0.20% | MSCI All Country World Index [(factsheet)](https://www.msci.com/indexes/index/892400) |
-| [Vanguard FTSE Global All Cap (Acc)](https://www.trustnet.com/factsheets/o/ngly/vanguard-ftse-global-all-cap-index) | Fund | 0.23% | FTSE Global All Cap Index [(pdf factsheet)](https://research.ftserussell.com/Analytics/Factsheets/Home/DownloadSingleIssue?issueName=GEISLMS&isManual=False) |
-| [HSBC FTSE All-World Index (Acc)](https://www.trustnet.com/factsheets/o/kldq/hsbc-ftse-all-world-index) | Fund | 0.13% | FTSE All-World Index [(pdf factsheet)](https://research.ftserussell.com/Analytics/FactSheets/Home/DownloadSingleIssue?issueName=AWORLDS&isManual=False) |
-| [Vanguard FTSE All-World UCITS ETF](https://www.trustnet.com/factsheets/e/g1xc/vanguard-ftse-all-world-ucits-etf-gbp) | ETF | 0.19% | FTSE All-World Index [(pdf factsheet)](https://research.ftserussell.com/Analytics/FactSheets/Home/DownloadSingleIssue?issueName=AWORLDS&isManual=False) |
+| Fund                                                                                                                  | Type | [OCF (fees)](#fees) | Index                                                                                                                                                        |
+| --------------------------------------------------------------------------------------------------------------------- | ---- | ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [iShares MSCI ACWI UCITS ETF](https://www.trustnet.com/factsheets/O/0ib3/ishares-msci-acwi-ucits-etf/)                | ETF  | 0.20%               | MSCI All Country World Index [(factsheet)](https://www.msci.com/indexes/index/892400)                                                                        |
+| [Vanguard FTSE Global All Cap (Acc)](https://www.trustnet.com/factsheets/o/ngly/vanguard-ftse-global-all-cap-index)   | Fund | 0.23%               | FTSE Global All Cap Index [(pdf factsheet)](https://research.ftserussell.com/Analytics/Factsheets/Home/DownloadSingleIssue?issueName=GEISLMS&isManual=False) |
+| [HSBC FTSE All-World Index (Acc)](https://www.trustnet.com/factsheets/o/kldq/hsbc-ftse-all-world-index)               | Fund | 0.13%               | FTSE All-World Index [(pdf factsheet)](https://research.ftserussell.com/Analytics/FactSheets/Home/DownloadSingleIssue?issueName=AWORLDS&isManual=False)      |
+| [Vanguard FTSE All-World UCITS ETF](https://www.trustnet.com/factsheets/e/g1xc/vanguard-ftse-all-world-ucits-etf-gbp) | ETF  | 0.19%               | FTSE All-World Index [(pdf factsheet)](https://research.ftserussell.com/Analytics/FactSheets/Home/DownloadSingleIssue?issueName=AWORLDS&isManual=False)      |
 
 ### Sharia investing
 
@@ -124,7 +124,7 @@ You can read more about this in [Vanguard's whitepaper on global equity investin
 
 The [S&P 500](https://en.wikipedia.org/wiki/S%26P_500) is an index of 500 of the largest companies in the US. If you read American personal finance resources, you'll often see this as a recommended investment.
 
-Although the US makes up around 50% of the world’s stock markets, by investing exclusively in the S&P you’re also *missing out on the other 50%.*
+Although the US makes up around 50% of the world’s stock markets, by investing exclusively in the S&P you’re also _missing out on the other 50%._
 
 YouTuber and financial planner James Shack goes into further downsides of the S&P 500 in a [video here](https://www.youtube.com/watch?v=eIUgjib_fm4).
 

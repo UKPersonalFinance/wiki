@@ -69,11 +69,11 @@ The banks bribing you to switch to their accounts are fairly well established no
 
 **Process**
 
-Once you have applied for your switch reward account and been successful you *normally* have to register for internet banking, opt-in to paperless statements and prove your ID/address either by post or in branch but not always. The switch itself is relatively easy and should just take 7 days. Reward pay-in varies from bank to bank but once you've received it you can then immediately plan your next switch. Some banks provide an extra bonus if you stay a certain amount of time so it's up to you if you wish to do this. I chose to do so as I had other accounts ready to pounce, but if you are struggling with meeting eligibility as it is it may not be worth it.
+Once you have applied for your switch reward account and been successful you _normally_ have to register for internet banking, opt-in to paperless statements and prove your ID/address either by post or in branch but not always. The switch itself is relatively easy and should just take 7 days. Reward pay-in varies from bank to bank but once you've received it you can then immediately plan your next switch. Some banks provide an extra bonus if you stay a certain amount of time so it's up to you if you wish to do this. I chose to do so as I had other accounts ready to pounce, but if you are struggling with meeting eligibility as it is it may not be worth it.
 
 **Closing accounts**
 
-- CASS requires the old account to be closed (you don't always have to use CASS), but most providers allow you to open secondary *feature-less* accounts – Santander do it instantaneously so this is recommended.
+- CASS requires the old account to be closed (you don't always have to use CASS), but most providers allow you to open secondary _feature-less_ accounts – Santander do it instantaneously so this is recommended.
 - Open a dummy account to use just for switching from one bank to the next to the next, or just keep opening secondary accounts with your original bank once the switch has completed - By never closing the last current account with a provider, even if they no longer offer any interesting products, you keep access to online banking and are able to respond quickly to new offers.
 
 Remember, this guide is focusing on the throwaway short term accounts. The next section looks at accounts you may wish to keep, that may or may not have the additional benefit of having a joining bonus.
@@ -119,7 +119,7 @@ Barclays (£1000-1st) -> ------------------------------> Club Lloyds (£750-7th)
 
 **Direct Debits**
 
-Make use of any and all *monthly* DD's you have, including credit card payments, subscriptions, bills etc. Remember also to allocate direct debits to the best accounts, for example those which give you cashback on them.
+Make use of any and all _monthly_ DD's you have, including credit card payments, subscriptions, bills etc. Remember also to allocate direct debits to the best accounts, for example those which give you cashback on them.
 
 Then, the following options in order of recommendation to fill empty slots are:
 

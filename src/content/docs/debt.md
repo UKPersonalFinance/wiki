@@ -27,13 +27,13 @@ debt advisers.
 For each debt, you will need to know the amount owed, the interest rate,
 and minimum payment. For example:
 
-| | Amount owed | Interest rate | Minimum monthly payment |
-|---|---|---|---|
-| Catalogue card | £340 | 49.9% | £15 |
-| Credit card | £980 | 0% (until October) | £25 |
-| Personal loan | £2,600 | 12% | £200 |
-| Overdraft | £1,500 max | 39.9% | n/a |
-| Family | £800 | 0% | £0 |
+|                | Amount owed | Interest rate      | Minimum monthly payment |
+| -------------- | ----------- | ------------------ | ----------------------- |
+| Catalogue card | £340        | 49.9%              | £15                     |
+| Credit card    | £980        | 0% (until October) | £25                     |
+| Personal loan  | £2,600      | 12%                | £200                    |
+| Overdraft      | £1,500 max  | 39.9%              | n/a                     |
+| Family         | £800        | 0%                 | £0                      |
 
 Make sure you list every debt, including credit cards, catalogue
 accounts, personal loans, car payments, overdrafts, arrears on bills,

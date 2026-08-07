@@ -119,21 +119,21 @@ That's the hard bit over with!
 
 We've worked out that we want to allocate our money into the following regions:
 
-| Region | Allocation |
-| --- | --- |
-| UK | 6% |
-| Emerging Markets | 10% |
-| Developed World Ex. UK | 84% |
+| Region                 | Allocation |
+| ---------------------- | ---------- |
+| UK                     | 6%         |
+| Emerging Markets       | 10%        |
+| Developed World Ex. UK | 84%        |
 
 Now we just need to find suitable funds to invest into. To compare our costs to Vanguard's Lifestrategy 100 and FTSE Global All Cap funds, we'll use Vanguard funds here as an example, but you should always look for the cheapest possible funds. At time of writing, the BlackRock UK tracker is 0.02% cheaper than Vanguard's UK tracker at 0.06%. So Vanguard is not always the cheapest.
 
 We'll invest our money into the following funds:
 
-| Fund | Cost (OCF) |
-| --- | --- |
-| [Vanguard FTSE U.K. All Share Index Unit Trust](https://www.vanguardinvestor.co.uk/investments/vanguard-ftse-uk-all-share-index-unit-trust-gbp-accumulation-shares) | 0.06% |
-| [Vanguard Emerging Markets Stock Index](https://www.vanguardinvestor.co.uk/investments/vanguard-emerging-markets-stock-index-fund-accumulation-shares) | 0.23% |
-| [Vanguard FTSE Developed World ex-U.K. Equity Index](https://www.vanguardinvestor.co.uk/investments/vanguard-ftse-developed-world-ex-uk-equity-index-fund-accumulation-shares) | 0.14% |
+| Fund                                                                                                                                                                           | Cost (OCF) |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------- |
+| [Vanguard FTSE U.K. All Share Index Unit Trust](https://www.vanguardinvestor.co.uk/investments/vanguard-ftse-uk-all-share-index-unit-trust-gbp-accumulation-shares)            | 0.06%      |
+| [Vanguard Emerging Markets Stock Index](https://www.vanguardinvestor.co.uk/investments/vanguard-emerging-markets-stock-index-fund-accumulation-shares)                         | 0.23%      |
+| [Vanguard FTSE Developed World ex-U.K. Equity Index](https://www.vanguardinvestor.co.uk/investments/vanguard-ftse-developed-world-ex-uk-equity-index-fund-accumulation-shares) | 0.14%      |
 
 How do we work out our total investment cost? We need to multiply the cost of the fund by its proportional weighting in our portfolio and add them all up to get the total cost. Like so:
 
@@ -147,11 +147,11 @@ We saw how to work out the market weightings for three different sectors. If you
 
 You can also tweak the allocations in your portfolio if you wanted to -- there's no need to stay rigidly to the default allocation. For example, if you wanted more of an emphasis on the UK, you could have
 
-| Region | Allocation |
-| --- | --- |
-| UK | 10% |
-| Emerging Markets | 10% |
-| Developed World Ex. UK | 80% |
+| Region                 | Allocation |
+| ---------------------- | ---------- |
+| UK                     | 10%        |
+| Emerging Markets       | 10%        |
+| Developed World Ex. UK | 80%        |
 
 You could also add in some bonds or REITs to diversify if you want. This guide can't help you with that though!
 

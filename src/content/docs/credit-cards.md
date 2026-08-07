@@ -135,7 +135,7 @@ If you're getting a card for this purpose:
 
 Some websites suggest keeping your credit usage to within a certain % of your credit limit - however they all disagree on what percentage to use! We suggest you don't worry too much about this, and just focus on using the card regularly, staying within the limit, and paying it off on time each month.
 
-Note you should also not pay the balance off *early*. Wait at least until the statement is generated, as this is when your usage is reported to the credit rating agencies. We truly recommend using direct debit and not worrying about it.
+Note you should also not pay the balance off _early_. Wait at least until the statement is generated, as this is when your usage is reported to the credit rating agencies. We truly recommend using direct debit and not worrying about it.
 
 ### Paying for hotels and car hire (especially abroad)
 
@@ -177,7 +177,7 @@ Always use an eligibility checker, such as:
 
 **[0% Balance Transfer](https://www.moneysavingexpert.com/credit-cards/balance-transfer-credit-cards/)**: For paying off old cards that are at a high interest rate and replacing with a 0% card. This will normally cost a fee - you will need to calculate whether this is outweighed by the savings on interest. Note the 0% interest rate applies to your balance transfer **only**. Any purchases you make on the card will be charged interest.
 
-[**0% Money Transfer**](https://www.moneysavingexpert.com/credit-cards/money-transfers/):  For transferring money from a credit card to your bank account, such as for making larger purchases that cannot be made on a credit card. Effectively gives you a time-limited 0% cash loan. Purchases on the card will usually be charged interest.
+[**0% Money Transfer**](https://www.moneysavingexpert.com/credit-cards/money-transfers/): For transferring money from a credit card to your bank account, such as for making larger purchases that cannot be made on a credit card. Effectively gives you a time-limited 0% cash loan. Purchases on the card will usually be charged interest.
 
 [**Travel cards**](https://www.moneysavingexpert.com/credit-cards/travel-credit-cards/): Cards with good exchange rates and no fees for transactions in foreign currencies.
 

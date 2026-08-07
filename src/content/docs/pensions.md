@@ -282,8 +282,7 @@ anticipated to increase again to 68 by 2039. You cannot start taking a
 state pension younger than this, but you can delay it to have higher
 payments in the future.
 
-Currently, most personal and occupational pensions can be accessed at age
-55. There are plans to raise this age to 57 in line with the proposed state
+Currently, most personal and occupational pensions can be accessed at age 55. There are plans to raise this age to 57 in line with the proposed state
 pension access changes. You will need to check your specific scheme to be
 sure of what it permits, as they may vary.
 

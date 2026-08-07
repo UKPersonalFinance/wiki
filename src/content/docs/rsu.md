@@ -58,13 +58,13 @@ calculation, minus any payments made by the employee.
 An RSU is granted with restriction of not being able to sell for 1
 Year. The restricted market value was £80 and the employee paid £50.
 
-| | £ |
-|---|---|
-| Restricted Market Value | 80 |
-| Amount Paid | (50) |
+|                                               | £      |
+| --------------------------------------------- | ------ |
+| Restricted Market Value                       | 80     |
+| Amount Paid                                   | (50)   |
 | **Amount charged to employment tax on grant** | **30** |
-| Income tax @20% | (6) |
-| Net income | 24 |
+| Income tax @20%                               | (6)    |
+| Net income                                    | 24     |
 
 At this point the employee is charged to income tax on £30 (£6 or £12
 depending on whether they are a basic or higher-rate taxpayer). If the
@@ -73,14 +73,14 @@ employee received the RSU for free the employment tax charge would be
 
 On the restriction lifting the share is now worth £200.
 
-| | £ |
-|---|---|
-| Unrestricted Market Value | 200 |
-| Amount paid | (50) |
-| Previously charged to tax | (30) |
+|                                                 | £       |
+| ----------------------------------------------- | ------- |
+| Unrestricted Market Value                       | 200     |
+| Amount paid                                     | (50)    |
+| Previously charged to tax                       | (30)    |
 | **Amount charged to employment tax on vesting** | **120** |
-| Income tax @20% | (24) |
-| Net income | 96 |
+| Income tax @20%                                 | (24)    |
+| Net income                                      | 96      |
 
 The actual income tax charged at this time would be £24 or £48
 depending on whether the employee was a basic-rate or higher-rate
@@ -94,14 +94,14 @@ An RSU is granted with restriction of having to stay in employment for
 
 On the restriction lifting the share is now worth £200.
 
-| | £ |
-|---|---|
-| Unrestricted Market Value | 200 |
-| Amount paid | Nil |
-| Previously charged to tax | Nil |
+|                                                 | £       |
+| ----------------------------------------------- | ------- |
+| Unrestricted Market Value                       | 200     |
+| Amount paid                                     | Nil     |
+| Previously charged to tax                       | Nil     |
 | **Amount charged to employment tax on vesting** | **200** |
-| Income tax @20% | (40) |
-| Net income | 160 |
+| Income tax @20%                                 | (40)    |
+| Net income                                      | 160     |
 
 The actual income tax charged at this time would be £40 or £80
 depending on whether the employee was a basic-rate or higher-rate
@@ -120,16 +120,16 @@ employee to pay the employer's national insurance. If this is the case
 the employer's NI of 13.8% is deducted from the value of the RSU first
 and then PAYE applied. Student loan deductions may also be deducted.
 
-| | £ |
-|---|---|
-| Unrestricted Market Value | 200 |
-| Employer's NIC (13.8%) | (27.60) |
-| Amount subject to Tax | 172.40 |
-| Income tax (40%) | (68.96) |
-| Employee's NIC (2%) | (3.44) |
-| Net Income | 100 |
-| Student Loan deduction | (9) |
-| **Net Income post Student Loan** | **91** |
+|                                  | £       |
+| -------------------------------- | ------- |
+| Unrestricted Market Value        | 200     |
+| Employer's NIC (13.8%)           | (27.60) |
+| Amount subject to Tax            | 172.40  |
+| Income tax (40%)                 | (68.96) |
+| Employee's NIC (2%)              | (3.44)  |
+| Net Income                       | 100     |
+| Student Loan deduction           | (9)     |
+| **Net Income post Student Loan** | **91**  |
 
 Any tax withheld by the company must be repaid by the employee within
 90 days otherwise a benefit in kind for the tax will arise. For this

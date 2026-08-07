@@ -56,7 +56,7 @@ In the opinion of the authors of this wiki, if an adviser tells you their fee is
 
 ## How much money do you need to see an adviser?
 
-In general, advice provided by human beings is a *luxury service*. It tends to be aimed at people with investable assets of at least £50,000, with a much-maligned (but not very often dealt with) "advice gap" for people with less.
+In general, advice provided by human beings is a _luxury service_. It tends to be aimed at people with investable assets of at least £50,000, with a much-maligned (but not very often dealt with) "advice gap" for people with less.
 
 There is a new generation of financial planners/advisers who are experimenting with different fee models that are less interested in how much you have invested, with the subscription model being an often-discussed option, but this still tends to be in the region of £100+ per month.
 
@@ -66,7 +66,7 @@ If paying for financial advice doesn't make sense in your circumstances, it's wo
 
 The following is a (probably non-exhaustive) list of the different types of financial advice on offer in the UK.
 
-*A note on the fees in each section below - they refer specifically to the amounts charged for the service of providing financial advice. There are [other costs of investing](/fees/), such as platform/broker fees and investment fund fees which would be paid in addition.*
+_A note on the fees in each section below - they refer specifically to the amounts charged for the service of providing financial advice. There are [other costs of investing](/fees/), such as platform/broker fees and investment fund fees which would be paid in addition._
 
 ### Robo-Adviser
 
@@ -76,7 +76,7 @@ Examples of this are Wealthify (owned by Aviva, a major insurance company and in
 
 These technology platforms are different to [online investment brokers](/which-broker-should-i-use/), because they are taking responsibility for the suitability of your investments on an ongoing basis.
 
-If you bought an unsuitable investment with an online investment broker, it would be on an *execution only basis*. Basically, you would be responsible, and have no right to complain about it. In contrast, if you felt that the investments recommended by a robo-adviser were unsuitable, you would have a right to complain about them.
+If you bought an unsuitable investment with an online investment broker, it would be on an _execution only basis_. Basically, you would be responsible, and have no right to complain about it. In contrast, if you felt that the investments recommended by a robo-adviser were unsuitable, you would have a right to complain about them.
 
 ```
 Fees: Robo-advisers tend not to charge an upfront fee, and instead charge a percentage of your invested funds each year, for ongoing use of their service.
@@ -116,7 +116,7 @@ Wealth required: Usually >£50,000 in investable assets (though the banks tend t
 
 ### Financial planner
 
-Financial planners are generally more focused on clients' situation and goals than on the products that may be suited to them.  The service will usually involve the production and regular updates of a financial plan using specialist software.
+Financial planners are generally more focused on clients' situation and goals than on the products that may be suited to them. The service will usually involve the production and regular updates of a financial plan using specialist software.
 
 At the end of a financial planning process your long-term goals and objectives should be both clarified and quantified, and financial models should have been built to determine your chances of success and plot a route forward.
 
@@ -199,7 +199,7 @@ The most common is "Chartered Financial Planners" awarded by CII/PFS. Around 800
 
 The other major accreditation is "Accredited financial planning firm", awarded by CISI. [Only around 60 businesses have this accreditation](https://www.cisi.org/cisiweb2/cisi-website/about-us/accredited-financial-planning-firms), and the requirements are stricter and more financial planning-focused than the Chartered accreditation. Again though, this doesn't guarantee that the individual you work with is suitably qualified.
 
-Finally, there is the "Pension Transfer Gold Standard" accreditation, which is an "honour-based" opt-in for businesses who believe they meet the standards when it comes to  defined benefit pension transfers (a high-risk area with some [high-profile systemic failures](https://www.bbc.co.uk/news/uk-wales-politics-62241997)).
+Finally, there is the "Pension Transfer Gold Standard" accreditation, which is an "honour-based" opt-in for businesses who believe they meet the standards when it comes to defined benefit pension transfers (a high-risk area with some [high-profile systemic failures](https://www.bbc.co.uk/news/uk-wales-politics-62241997)).
 
 This will, again, not guarantee the firm is any good, but if you or somebody you know requires advice in this area, do not go anywhere near a firm that doesn't subscribe to the standard.
 
