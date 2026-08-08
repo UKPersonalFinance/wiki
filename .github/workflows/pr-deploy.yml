@@ -62,7 +62,7 @@ jobs:
             const match = output.match(/https:\/\/\S+\.workers\.dev\S*/);
             const url = match ? match[0] : null;
             const body = url
-              ? `Preview deployed: ${url}`
+              ? `Preview deployed: ${url}\n\nUsername: any, password: \`flowchart\``
               : 'Preview build finished, but no preview URL was found — check the workflow logs.';
             const marker = '<!-- preview-url-comment -->';
             const issue_number = Number(process.env.PR_NUMBER);
