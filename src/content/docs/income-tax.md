@@ -134,7 +134,7 @@ People earning through the Pay As You Earn (PAYE) system will be subject to Clas
 | Weekly Income Band | Monthly Income band | National Insurance Rate |
 | ------------------ | ------------------- | ----------------------- |
 | £0 - £242          | £0 - £1,048         | 0%                      |
-| £242 - 967         | £1,048 - £4,189     | 10%                     |
+| £242 - 967         | £1,048 - £4,189     | 8%                      |
 | £967 and above     | £4,189 and above    | 2%                      |
 
 When multiplied out, these thresholds work out the same as the standard income tax thresholds in England, however unlike income tax, National Insurance is calculated per pay period. This means that if you earn more one month, you'll pay more National Insurance, which you wont get back over the rest of the year.
