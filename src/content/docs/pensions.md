@@ -140,8 +140,8 @@ read them to understand how the numbers they provide have been calculated.
 
 ## The state pension 👴🏽 {#state-pension}
 
-As of the 2025-26 financial year, the full state pension is £230.25 per
-week, paid four-weekly, which comes to £11,973 per year. State pension age
+As of the 2026-27 financial year, the full state pension is £241.30 per
+week, paid four-weekly, which comes to £12,547.6 per year. State pension age
 is [about 10 years later than private pension access age](/pensions/#access-age).
 
 State pension entitlement is based on your National Insurance
