@@ -116,12 +116,14 @@ negotiating with creditors to different types of insolvency. It is really
 helpful to have someone knowledgeable walk you through the options, what
 they cost, and what impact they may have in the future.
 
+::::caution
 It's extremely important that you get high quality, unbiased advice.
 There are predatory 'debt advice services' out there who are more
 interested in earning a commission from selling you a debt product (such
 as an IVA), rather than finding the solution that's best for you.
 
 These companies advertise on TV and social media. Stay away.
+::::
 
 You can also learn more about debt solutions at:
 

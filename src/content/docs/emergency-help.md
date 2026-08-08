@@ -30,7 +30,7 @@ Creditors will ask about your income and other expenses, so make sure you have a
 
 ## Ask family, friends, and colleagues for help
 
-If you have *anyone*in your life in a position to help you out with a small loan to tide you over, this is by far the best option in many cases. It's understandable to be reluctant to ask people you know personally for help, but it really is the best solution if you need money immediately.
+If you have _anyone_ in your life in a position to help you out with a small loan to tide you over, this is by far the best option in many cases. It's understandable to be reluctant to ask people you know personally for help, but it really is the best solution if you need money immediately.
 
 When asking for help, be honest and realistic about your situation. Don't promise to pay people back quickly if there's a chance you might not be able to. People are usually really willing to help someone in a tight spot if they possibly can.
 
@@ -121,7 +121,9 @@ This is a very expensive way to borrow. The loan will have a high interest rate,
 
 ## Payday loans
 
+::::danger
 Payday loans offer money quick but at an extremely high cost. We recommend you avoid them if you possibly can - you are better off not paying a bill than taking a payday loan to afford it.
+::::
 
 Interest rates on payday loans are sky-high. Borrowing £100 on a credit card for one month would cost you between £0 and £2 in interest, but a payday lender will charge around £25.
 

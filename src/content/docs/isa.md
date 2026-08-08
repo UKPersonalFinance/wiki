@@ -92,9 +92,13 @@ For more information on Junior ISAs see our page on [investing for children](/in
 
 There is an overall contribution limit of £20,000 per tax year.
 
-```
-Example:You can save:- £16,000 in a stocks and shares ISA- £4,000 in a Cash LISA (picking up an additional £1,000 bonus)For a total of £20,000 in that tax year.
-```
+**Example:**  
+You can save:
+
+- £16,000 in a Stocks and Shares (S&S) ISA
+- £4,000 in a Cash LISA (picking up an additional £1,000 bonus)
+
+For a total of £20,000 in that tax year.
 
 ### What happens when a new tax year starts?
 

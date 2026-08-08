@@ -34,12 +34,12 @@ If you're new to investing, don't be daunted! Investing can be done very simply 
 
 ### Children's Savings Accounts
 
-> Suitable for:
+> **Suitable for:**  
 > ✅ Short term savings for spending before age 18
-
-Not suitable for:
-⛔ Longer term savings (>5 years)
-⛔ Tax-free savings
+>
+> **Not suitable for:**  
+> ⛔ Longer term savings (>5 years)  
+> ⛔ Tax-free savings
 
 Many banks and building societies offer [savings accounts for children](https://www.moneysavingexpert.com/savings/child-savings-tax-free/). Money in children's savings accounts is not locked away until the child turns 18, it can be spent at any age. Account policies will vary on whether the parent or child can withdraw, and at what age. Parents withdrawing money from their children's savings accounts have an obligation to use it for the child's benefit.
 
@@ -51,13 +51,13 @@ Older children may benefit from having a savings account they can transfer pocke
 
 ### JISA (Junior ISA)
 
-> Suitable for:
-> ✅ Tax-free savings interest and investment growth
-> ✅ Money for your child to receive when they turn 18
+> **Suitable for:**  
+> ✅ Tax-free savings interest and investment growth  
+> ✅ Money for your child to receive when they turn 18  
 > ✅ Family members who want to save for a child's future directly
-
-Not suitable for:
-⛔ Money you want to reserve for a specific purpose (e.g. a house deposit)
+>
+> **Not suitable for:**  
+> ⛔ Money you want to reserve for a specific purpose (e.g. a house deposit)
 
 Junior ISAs come in 'Cash' and 'Stocks & Shares' (investment) variants, much like [regular ISAs](/isa/), and follow similar rules.
 
@@ -71,7 +71,7 @@ As such, you should consider how much money you would like to give your child ac
 
 ### Your own ISA (or pension)
 
-> Suitable for:
+> **Suitable for:**  
 > ✅ Flexible help with education, home deposit, and other costs
 
 If you'd like to save money for your child's future but not necessarily for them to have full access to spend at 18, you will need to keep the savings in your own name. This allows you to gift the money to your child at whatever point(s) you consider to be appropriate, such as to pay for living costs during University or to buy a home.
@@ -115,11 +115,11 @@ The account types below are unlikely to be useful in most situations - we've lis
 
 ### Junior SIPP
 
-> Suitable for:
+> **Suitable for:**  
 > ✅ Helping your child save for retirement
-
-Not suitable for:
-⛔ Living expenses, higher education, home deposit, etc
+>
+> **Not suitable for:**  
+> ⛔ Living expenses, higher education, home deposit, etc
 
 If you want to give your child a head start on retirement savings, you can contribute £2880 a year into a JSIPP. This will get tax relief at 20% giving a maximum total contribution of £3600 a year.
 
@@ -133,11 +133,11 @@ However if you are maxing out your own ISA and pension allowances, and already h
 
 ### LISAs
 
-> Suitable for:
+> **Suitable for:**  
 > ✅ Adult children saving for a deposit
-
-Not suitable for:
-⛔ Children under 18
+>
+> **Not suitable for:**  
+> ⛔ Children under 18
 
 [Lifetime ISAs](/lisa/) are available in cash and S&S variants, and provide a bonus top-up to savings if used for a first home or retirement. It is possible to withdraw money for other purposes, but the bonus is lost along with a small further penalty, designed to discourage this - which parents often like the sound of!However, you must be between 18 and 40 years old to open a LISA. They cannot be opened on behalf of a child.
 

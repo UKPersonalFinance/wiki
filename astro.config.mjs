@@ -72,8 +72,8 @@ export default defineConfig({
             { label: "Passive Income", slug: "passive-income" },
             { label: "Buy-To-Let", slug: "buy-to-let" },
             { label: "Fees", slug: "fees" },
-            { label: "UK Funds Q&A", slug: "uk-funds-faq" },
             { label: "Financial Advice", slug: "financial-advice" },
+            { label: "UK Funds Q&A", slug: "uk-funds-faq" },
           ],
         },
         {
