@@ -8,6 +8,7 @@ not_found_handling = "404-page"
 [env.staging]
 name = "ukpf-wiki-staging"
 main = "worker/index.ts"
+workers_dev = true
 routes = [
   { pattern = "staging.ukpersonal.finance", custom_domain = true }
 ]
