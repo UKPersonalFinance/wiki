@@ -52,7 +52,7 @@ If a bonus of £10,000 was earned, this extra would be taxed at 40% (£4,000). I
 
 ### I've found another page on HMRC with different numbers for income tax bands?
 
-Was it [this page](https://www.gov.uk/guidance/rates-and-thresholds-for-employers-2023-to-2024)? It causes a lot of confusion. It is intended for employers, and reflects the rates to be applied to your income _after_ your personal allowance.
+Was it [this page](https://www.gov.uk/guidance/rates-and-thresholds-for-employers-2026-to-2027)? It causes a lot of confusion. It is intended for employers, and reflects the rates to be applied to your income _after_ your personal allowance.
 
 Please use [https://www.gov.uk/income-tax-rates](https://www.gov.uk/income-tax-rates) instead!
 
@@ -100,7 +100,7 @@ If you stop working part way through a year, it's likely that you'll have overpa
 
 There are some levels of earnings where disproportionately high amounts of tax are paid due to the removal of allowances. The two notable ones are:
 
-1. The loss of child benefit on earnings between £50,000 and £60,000. If you have children and earn this much, the effective tax-rate on this bucket can be significantly higher than 40%, typically 70%+.
+1. The loss of child benefit on earnings between £60,000 and £80,000. If you have children and earn this much, the effective tax-rate on this bucket can be significantly higher than 40%, typically 70%+.
 2. The loss of the personal allowance on earnings between £100,000 and £125,140. The effective tax rate on this bucket is 60%.
 
 We go into more detail about tax traps in our [Tax Traps and Tax Efficiency](/tax-traps-and-tax-efficiency/) page.
