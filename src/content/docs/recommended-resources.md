@@ -97,7 +97,7 @@ You may also like:
 
 <div>
 
-**Smarter Investing by Tim Hale**: The ultimate counterpoint to attempting to
+**[Smarter Investing by Tim Hale](https://www.amazon.co.uk/Smarter-Investing-Simpler-Decisions-Results/dp/1292444401/)**: The ultimate counterpoint to attempting to
 "beat the markets" – after spending 15 years working in active fund
 management, Tim Hale concluded that the best outcomes for most investors in
 most situations would be a simple portfolio of "passive" investments.
@@ -111,7 +111,7 @@ most situations would be a simple portfolio of "passive" investments.
 
 <div>
 
-**Investing Demystified by Lars Kroijer**: How To Invest Without Speculation
+**[Investing Demystified by Lars Kroijer](https://www.amazon.co.uk/Investing-Demystified-investment-portfolio-Financial-dp-1292156120/dp/1292156120)**: How To Invest Without Speculation
 And Sleepless Nights – Simple, stress-free investing advice by former hedge
 fund manager Lars Kroijer. He also has a [youtube
 channel](https://www.youtube.com/c/LarsKroijer) of the same name.
@@ -125,7 +125,7 @@ channel](https://www.youtube.com/c/LarsKroijer) of the same name.
 
 <div>
 
-**Meaningful Money by Pete Matthew**: Straightforward approach to budgeting,
+**[Meaningful Money by Pete Matthew](https://www.amazon.co.uk/Meaningful-Money-Handbook-Everything-everything/dp/0857196510)**: Straightforward approach to budgeting,
 planning, saving and investing from the host of the [Meaningful Money
 podcast](https://meaningfulmoney.tv/mmpodcast/) and [youtube
 channel](https://www.youtube.com/c/MeaningfulMoneyUK).
@@ -139,7 +139,7 @@ channel](https://www.youtube.com/c/MeaningfulMoneyUK).
 
 <div>
 
-**The Psychology of Money by Morgan Housel**: A collection of short stories
+**[The Psychology of Money by Morgan Housel](https://www.amazon.co.uk/Psychology-Money-Timeless-lessons-happiness/dp/0857197681/)**: A collection of short stories
 about how different people think about money. The message is well delivered
 and gets you to think about money, wealth and happiness in everyday life.
 

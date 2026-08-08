@@ -30,7 +30,7 @@ The key point is that people who take financial advice tend to make better decis
 
 Financial advice has a specific definition in the UK, thanks to [legislation and regulation](https://www.handbook.fca.org.uk/handbook/PERG/8/28.html). This is in contrast to financial 'guidance', which is unregulated.
 
-Citizen's Advice explains the difference as follows:
+[Citizen's Advice](https://www.citizensadvice.org.uk/debt-and-money/getting-financial-advice/) explains the difference as follows:
 
 > Some individuals and organisations – often advice charities - offer financial **guidance**. This is different to financial advice. Guidance provides you with information about the various options available to you, but should not recommend any particular option over another. Financial advice, however, informs you which specific product would best suit your needs.
 > For example, if you have a lump sum you want to save, someone giving guidance would tell you what your saving options are in broad terms. They may tell you about the pros and cons of regular savings accounts, ISAs and investments. They won’t tell you about specific products offered by named companies or what option might suit you best. A financial adviser would look at specific savings accounts, investments and ISAs offered by various companies and recommend a specific one that best suits your personal circumstances.

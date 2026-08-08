@@ -29,7 +29,8 @@ sources of info:
 
 Each lender will use the information they have about you to see if you
 meet its requirements as a profitable customer (this is known in the
-banking profession as a 'balanced scorecard approach'). Those whose
+banking profession as a
+['balanced scorecard approach'](https://en.wikipedia.org/wiki/Credit_score#United_Kingdom)). Those whose
 history shows they're unlikely to repay at all are unlikely to be
 profitable, but low risk customers can be rejected too if the lender
 thinks you won't make it money.
@@ -79,7 +80,9 @@ mainstream lenders.
 Never pay for your credit reports! You do not need to pay for any of the
 credit reference agencies' expensive credit scoring products – you have a
 legal right to access your reports free-of-charge. If you've paid for
-Experian's "CreditExpert" service, you may have been mis-sold.
+Experian's "CreditExpert" service, you may have been mis-sold. See
+[Money Saving Expert](http://www.moneysavingexpert.com/reclaim/experian-creditexpert-reclaiming)
+for further details.
 
 Even small errors on your files at the three credit reference agencies –
 Experian, Equifax, and TransUnion (formerly Callcredit) – can cause

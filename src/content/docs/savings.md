@@ -201,6 +201,7 @@ Efficiency](/tax-traps-and-tax-efficiency/) and our page on
 
 You may pay less tax on your savings if your "earned income" is less than
 £17,570.
+[You can find more details here.](https://www.moneyhelper.org.uk/en/savings/types-of-savings/tax-on-savings-and-investments)
 
 ## How to maximise interest for lump sums
 

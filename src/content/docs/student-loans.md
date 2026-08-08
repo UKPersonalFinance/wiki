@@ -21,10 +21,12 @@ you pay it off, the cheaper the loan will be.
 Student 'loans' work differently, as monthly repayment amounts are not
 based on your loan balance and interest rate, but based on your income.
 You only make repayments on a proportion of your income above the
-'repayment threshold' (currently £2,274 per month for Plan 2 loans). If
+['repayment threshold'](https://www.gov.uk/repaying-your-student-loan/what-you-pay)
+(currently £2,274 per month for Plan 2 loans). If
 you earn below the threshold for your loan you make no payments at all.
 If you move abroad, you will still need to make repayments, but the
-threshold changes depending on the country you move to.
+threshold changes depending on the country you move to, as per
+[the table on the government website](https://www.gov.uk/government/publications/overseas-earnings-thresholds-for-plan-2-student-loans).
 
 This means that future repayments will never become unaffordable, no
 matter your circumstances. If your income drops, your payments drop, or

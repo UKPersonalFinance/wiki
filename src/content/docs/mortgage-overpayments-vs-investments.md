@@ -147,6 +147,11 @@ considering:
 
 _Spreadsheet available at: [https://docs.google.com/spreadsheets/d/1dXM_XboaNauv0ag_V3HxSyRXAy2Jjt86p75-0qxFv-M/](https://docs.google.com/spreadsheets/d/1dXM_XboaNauv0ag_V3HxSyRXAy2Jjt86p75-0qxFv-M/)_
 
+There are also online calculators available to make similar calculations:
+
+- [HL Regular Investing Calculator](https://www.hl.co.uk/tools/calculators/regular-investing-calculator)
+- [MoneySavingExpert Mortgage Overpayment Calculator](https://www.moneysavingexpert.com/mortgages/mortgage-overpayment-calculator/) (enter your expected investment return as savings interest)
+
 As you can see:
 
 - Overpaying the mortgage saves tens of thousands of pounds and ends the

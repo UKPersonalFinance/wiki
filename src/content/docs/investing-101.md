@@ -85,7 +85,7 @@ access to your money.
 
 For a more detailed examination of volatility and what it means for your
 investments see [this Monevator
-post](https://monevator.com/what-is-volatility/).
+post](https://monevator.com/volatility-inflation-and-asset-class-returns/).
 
 Investors hope to be rewarded for taking additional risks by receiving
 greater returns over the longer term.

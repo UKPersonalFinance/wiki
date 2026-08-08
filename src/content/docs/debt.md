@@ -78,7 +78,7 @@ advisors like StepChange. You can use one of these tools:
 
 - Some debts may be [eligible for a refund](https://debtcamel.co.uk/refunds-catalogue-credit-card/) – always worth checking.
 - [Are you entitled to any benefits you're not getting?](https://benefits-calculator.turn2us.org.uk/)
-- Money Saving Expert's debt help page has a list of possible grants and
+- [Money Saving Expert's debt help page](https://www.moneysavingexpert.com/loans/debt-help-plan/) has a list of possible grants and
   refunds you may be able to claim.
 
 ### Calculate your debt payoff schedule
@@ -125,7 +125,7 @@ These companies advertise on TV and social media. Stay away.
 
 You can also learn more about debt solutions at:
 
-- DebtCamel.co.uk – this site can't be recommended enough. It is
+- [DebtCamel.co.uk](https://debtcamel.co.uk/) – this site can't be recommended enough. It is
   accurate, thorough and approachable.
 - [MoneySavingExpert: Debt Help](https://www.moneysavingexpert.com/loans/debt-help-plan/#step3)
 - [MoneyHelper: Dealing with Debt](https://www.moneyhelper.org.uk/en/money-troubles/dealing-with-debt)

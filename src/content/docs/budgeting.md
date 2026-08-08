@@ -173,7 +173,7 @@ Apps available are:
   connect multiple bank accounts)
 - **[Emma](https://emma-app.com/)** (Free basic tier supports 2 bank accounts, £5/month and
   £10/month paid tiers permit more accounts and custom category names)
-- **LifeStage Money** (formerly Moneyhub) (6 month free trial, £15/year) –
+- **[LifeStage Money](https://wpsadvisory.com/money-management/lifestage_money/)** (formerly Moneyhub) (6 month free trial, £15/year) –
   Targeted at advanced users, boasts the largest selection of banks and
   institutions to import from.
 - **[MoneyWiz](https://www.wiz.money/)** ($50/year, iOS and macOS only)
