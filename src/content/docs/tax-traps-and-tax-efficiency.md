@@ -586,7 +586,6 @@ VCTs invest in groups of small unlisted companies and are a very high-risk
 investment with a significant risk of capital loss. They also usually have high fees,
 and are 'active investments' (see [investing 101](/investing-101/#what-are-passive-and-active-investing-).
 
-
 ## Do I need to complete a Self Assessment?
 
 The old rule that anyone earning over £100,000, and later £150,000, had to
