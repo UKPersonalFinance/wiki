@@ -6,7 +6,7 @@ This is the source code of the [UKPersonalFinance Wiki](https://ukpersonal.finan
 >
 > If proposing changes, we ask that you engage with us on [Discord](https://discord.gg/kaetMg8) first - ask to join the wiki channel, our primary communication channel. The bulk of contributors are not GitHub-natives.
 
-Pages are [Markdown](https://www.markdownguide.org/basic-syntax/) files in [src/content/docs](src/content/docs), images are in [src/assets](src/assets). Each page has a frontmatter block at the top:
+Pages are [Markdown](https://www.markdownguide.org/basic-syntax/) files in [src/content/docs](src/content/docs), images are in [src/assets](src/assets). A few pages are `.mdx` instead of `.md`, which lets them use Javascript components inline, but you can mostly treat them the same as Markdown for normal edits. Each page has a frontmatter block at the top:
 
 ```md
 ---
