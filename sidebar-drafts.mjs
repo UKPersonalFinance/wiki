@@ -8,6 +8,10 @@ const docsDir = path.join(
 );
 
 export function getDraftSidebarGroup() {
+  const showDrafts =
+    process.argv.includes("dev") || process.argv.includes("staging");
+  if (!showDrafts) return [];
+
   const items = fs
     .readdirSync(docsDir)
     .filter((file) => /\.mdx?$/.test(file))
@@ -22,5 +26,5 @@ export function getDraftSidebarGroup() {
       return { label: slug, slug };
     });
 
-  return { label: "Drafts", items };
+  return [{ label: "DRAFTS", items }];
 }

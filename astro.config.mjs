@@ -22,7 +22,7 @@ export default defineConfig({
         "A starting point for your financial planning journey in 8 steps. The UKPF Flowchart from Reddit's /r/ukpersonalfinance",
       sidebar: [
         // Show draft pages in staging/dev
-        ...(process.argv.includes("dev") ? [getDraftSidebarGroup()] : []),
+        ...getDraftSidebarGroup(),
         {
           label: "✨ Follow the Flowchart ✨",
           items: [
