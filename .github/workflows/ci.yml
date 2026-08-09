@@ -22,7 +22,7 @@ jobs:
         with:
           name: dist-production
           path: dist
-          retention-days: 1
+          retention-days: 90
 
   pre-commit:
     runs-on: ubuntu-latest

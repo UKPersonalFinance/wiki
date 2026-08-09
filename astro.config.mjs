@@ -7,6 +7,7 @@ import { remarkHeadingId } from "remark-custom-heading-id";
 import { unified } from "@astrojs/markdown-remark";
 import starlightLinksValidator from "starlight-links-validator";
 import starWarp from "@inox-tools/star-warp";
+import { getDraftSidebarGroup } from "./sidebar-drafts.mjs";
 
 // https://astro.build/config
 export default defineConfig({
@@ -20,6 +21,8 @@ export default defineConfig({
       description:
         "A starting point for your financial planning journey in 8 steps. The UKPF Flowchart from Reddit's /r/ukpersonalfinance",
       sidebar: [
+        // Show draft pages in staging/dev
+        ...getDraftSidebarGroup(),
         {
           label: "✨ Follow the Flowchart ✨",
           items: [
