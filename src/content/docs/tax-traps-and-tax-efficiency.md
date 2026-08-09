@@ -418,14 +418,11 @@ their money away for at least 5 years.
 They offer 30% income tax relief, as well as tax-free dividends, and CGT
 holdover on reinvestment.
 
-<<<<<<< HEAD
-=======
 They are invested in groups of small unlisted companies and are considered a
 very high-risk investment with a significant risk of capital loss. You can
 read more about them
 [here](https://www.gov.uk/government/statistics/venture-capital-trusts-statistics-introductory-note/venture-capital-trusts-introduction-to-national-and-official-statistics).
 
->>>>>>> parent of e679a45 (Updated page with Claude to make current for current tax year (2026/27))
 ## Do I need to complete a Self Assessment?
 
 If you enter either of these tax traps you may be required to complete a
