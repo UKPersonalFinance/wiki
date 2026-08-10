@@ -3,9 +3,8 @@
   "configVersion": 1,
   "workspaces": {
     "": {
-      "name": "irregular-ice",
+      "name": "ukpf-wiki",
       "dependencies": {
-        "@astrojs/check": "^0.9.10",
         "@astrojs/markdown-remark": "7.2.2",
         "@astrojs/mdx": "^7.0.5",
         "@astrojs/sitemap": "^3.7.3",
@@ -13,14 +12,15 @@
         "@inox-tools/star-warp": "^2.0.0",
         "astro": "7.2.0",
         "remark-custom-heading-id": "^2.0.0",
-        "sharp": "^0.35.3",
-        "typescript": "6.0.3",
       },
       "devDependencies": {
+        "@astrojs/check": "^0.9.10",
         "markdownlint-cli2": "0.23.2",
         "prettier": "3.9.6",
         "prettier-plugin-astro": "0.14.1",
+        "sharp": "^0.35.3",
         "starlight-links-validator": "^0.25.2",
+        "typescript": "6.0.3",
         "wrangler": "^4.119.0",
       },
     },
