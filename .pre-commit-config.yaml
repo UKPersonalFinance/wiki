@@ -24,6 +24,12 @@ repos:
           - prettier@3.9.6
           - prettier-plugin-astro
 
+  - repo: https://github.com/DavidAnson/markdownlint-cli2
+    rev: v0.23.2
+    hooks:
+      - id: markdownlint-cli2
+        files: \.(md|mdx)$
+
   - repo: https://github.com/gitleaks/gitleaks
     rev: v8.30.1
     hooks:
