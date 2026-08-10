@@ -1,6 +1,6 @@
 ---
 title: Financial Advice
-description: How to find and vet a financial adviser in the UK.
+description: How to find, and vet a financial adviser in the UK.
 ---
 
 Have you got to the point where you would prefer to pay for professional
