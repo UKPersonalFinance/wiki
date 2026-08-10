@@ -35,7 +35,7 @@ jobs:
           EOF
       - name: Compute release tag
         id: release
-        run: echo "tag=$(date +%Y-%m-%d)-$(git rev-parse --short HEAD)" >> "$GITHUB_OUTPUT"
+        run: echo "tag=$(git show -s --format=%cd --date=format:%Y-%m-%d HEAD)-$(git rev-parse --short HEAD)" >> "$GITHUB_OUTPUT"
       - name: Deploy to Cloudflare Workers (staging)
         uses: cloudflare/wrangler-action@v4
         with:
@@ -73,7 +73,7 @@ jobs:
           run-id: ${{ github.event.workflow_run.id }}
       - name: Compute release tag
         id: release
-        run: echo "tag=$(date +%Y-%m-%d)-$(git rev-parse --short HEAD)" >> "$GITHUB_OUTPUT"
+        run: echo "tag=$(git show -s --format=%cd --date=format:%Y-%m-%d HEAD)-$(git rev-parse --short HEAD)" >> "$GITHUB_OUTPUT"
       - name: Deploy to Cloudflare Workers (production)
         uses: cloudflare/wrangler-action@v4
         with:
