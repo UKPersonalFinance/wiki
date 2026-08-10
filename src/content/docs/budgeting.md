@@ -18,7 +18,7 @@ monthly average on. This can be because they're spread out across multiple
 transactions (food, going out) or because they happen very infrequently
 (vehicle maintenance, holidays).
 
-You can't rely on assumptions of how much you think you spend on these
+You shouldn't rely on assumptions of how much you think you spend on these
 things – this will not be accurate. Instead you must check your actual
 transaction history. There are a few ways of doing this, described below.
 
