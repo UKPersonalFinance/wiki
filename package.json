@@ -21,6 +21,8 @@
     "typescript": "6.0.3"
   },
   "devDependencies": {
+    "prettier": "3.9.6",
+    "prettier-plugin-astro": "^0.14.1",
     "starlight-links-validator": "^0.25.2",
     "wrangler": "^4.119.0"
   }
