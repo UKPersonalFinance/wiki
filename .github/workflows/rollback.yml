@@ -1,0 +1,93 @@
+name: Rollback
+
+on:
+  workflow_dispatch:
+    inputs:
+      tag:
+        description: Release tag to roll back to, e.g. 2026-08-10-a1b2c3d
+        required: true
+        type: string
+      environment:
+        description: Environment to roll back
+        required: true
+        type: choice
+        default: production
+        options:
+          - production
+          - staging
+
+permissions:
+  contents: read
+
+jobs:
+  rollback:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    concurrency:
+      group: deploy-${{ inputs.environment }}
+      cancel-in-progress: false
+    environment:
+      name: ${{ inputs.environment }}
+      url: ${{ inputs.environment == 'production' && 'https://new.ukpersonal.finance' || 'https://staging.ukpersonal.finance' }}
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+      - uses: ./.github/actions/setup
+
+      - name: Validate tag
+        id: tag
+        env:
+          TAG: ${{ inputs.tag }}
+        run: |
+          case "$TAG" in
+            [0-9][0-9][0-9][0-9]-[0-9][0-9]-[0-9][0-9]-*) ;;
+            *)
+              echo "::error::'$TAG' is not a release tag (expected YYYY-MM-DD-<short sha>)"
+              exit 1
+              ;;
+          esac
+          if [ -n "$(printf '%s' "$TAG" | tr -d '0-9a-f-')" ]; then
+            echo "::error::'$TAG' contains unexpected characters"
+            exit 1
+          fi
+          echo "value=$TAG" >> "$GITHUB_OUTPUT"
+
+      # versions deploy only shifts traffic between uploaded versions, but wrangler
+      # still resolves the assets directory from config while parsing it.
+      - run: mkdir -p dist
+
+      - name: List deployable versions
+        uses: cloudflare/wrangler-action@ebbaa1584979971c8614a24965b4405ff95890e0 # v4.0.0
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          command: versions list --env ${{ inputs.environment }}
+
+      - name: Roll back to tag
+        uses: cloudflare/wrangler-action@ebbaa1584979971c8614a24965b4405ff95890e0 # v4.0.0
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          command: versions deploy --env ${{ inputs.environment }} --version-tag ${{ steps.tag.outputs.value }} --percentage 100 --yes --message "Rollback to ${{ steps.tag.outputs.value }}"
+
+      - name: Verify the rollback is live
+        env:
+          TAG: ${{ steps.tag.outputs.value }}
+          URL: ${{ inputs.environment == 'production' && 'https://new.ukpersonal.finance/' || 'https://staging.ukpersonal.finance/' }}
+          CURL_AUTH: ${{ inputs.environment == 'staging' && '-u ci:flowchart' || '' }}
+        run: |
+          for attempt in $(seq 1 10); do
+            # shellcheck disable=SC2086
+            body="$(curl -fsS $CURL_AUTH "$URL" || true)"
+            case "$body" in
+              *"$TAG"*)
+                echo "$URL is serving $TAG"
+                exit 0
+                ;;
+            esac
+            echo "attempt $attempt: $TAG not live yet"
+            sleep 10
+          done
+          echo "::error::$URL did not serve $TAG within timeout"
+          exit 1

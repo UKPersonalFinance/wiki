@@ -13,21 +13,40 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 15
     steps:
-      - uses: actions/checkout@v7
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
       - uses: ./.github/actions/setup
       - run: bunx astro check
+      - name: Compute release tag
+        id: release
+        run: |
+          echo "tag=$(git show -s --format=%cd --date=format:%Y-%m-%d HEAD)-$(git rev-parse --short HEAD)" >> "$GITHUB_OUTPUT"
       - run: bun run build
-      - uses: actions/upload-artifact@v7
+        env:
+          PUBLIC_RELEASE_TAG: ${{ steps.release.outputs.tag }}
+      - uses: actions/upload-artifact@043fb46d1a93c77aae656e7c1c64a875d1fc6a0a # v7.0.1
         if: github.event_name == 'push'
         with:
           name: dist-production
           path: dist
+          retention-days: 90
+      - name: Upload release tag
+        if: github.event_name == 'push'
+        run: echo "${{ steps.release.outputs.tag }}" > release-tag.txt
+      - uses: actions/upload-artifact@043fb46d1a93c77aae656e7c1c64a875d1fc6a0a # v7.0.1
+        if: github.event_name == 'push'
+        with:
+          name: release-tag
+          path: release-tag.txt
           retention-days: 90
 
   pre-commit:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
-      - uses: actions/checkout@v7
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
       - uses: ./.github/actions/setup
       - run: prek run --all-files

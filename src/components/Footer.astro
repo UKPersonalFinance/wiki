@@ -1,5 +1,5 @@
 ---
-
+const releaseTag = import.meta.env.PUBLIC_RELEASE_TAG;
 ---
 
 <footer class="sl-flex">
@@ -9,6 +9,8 @@
     <a href="/this-wiki-is-not-advice/">This wiki is not financial advice</a>
     <span aria-hidden="true">/</span>
     <a href="/privacy-policy/">Privacy Policy</a>
+    <span aria-hidden="true">/</span>
+    <span>Version: {releaseTag ?? "dev"}</span>
   </div>
 </footer>
 
