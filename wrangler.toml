@@ -10,7 +10,7 @@ name = "ukpf-wiki-staging"
 main = "worker/index.ts"
 workers_dev = true
 routes = [
-  { pattern = "staging.ukpersonal.finance", custom_domain = true }
+  { pattern = "staging.ukpersonal.finance", custom_domain = true },
 ]
 
 [env.staging.assets]
@@ -22,7 +22,7 @@ run_worker_first = true
 [env.production]
 name = "ukpf-wiki-production"
 routes = [
-  { pattern = "new.ukpersonal.finance", custom_domain = true }
+  { pattern = "new.ukpersonal.finance", custom_domain = true },
 ]
 
 [env.production.assets]

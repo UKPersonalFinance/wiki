@@ -30,6 +30,12 @@ repos:
       - id: markdownlint-cli2
         files: \.(md|mdx)$
 
+  - repo: https://github.com/ComPWA/mirrors-taplo
+    rev: v0.9.3
+    hooks:
+      - id: taplo-format
+        entry: taplo format --check
+
   - repo: https://github.com/gitleaks/gitleaks
     rev: v8.30.1
     hooks:
