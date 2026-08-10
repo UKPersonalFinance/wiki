@@ -27,11 +27,11 @@ lint:
 
 # Format code with Prettier
 format:
-    mise exec -- prettier --write .
+    bunx prettier --write .
 
 # Lint markdown content
 mdlint:
-    mise exec -- markdownlint-cli2 "src/**/*.md" "src/**/*.mdx"
+    bunx markdownlint-cli2 "src/**/*.md" "src/**/*.mdx"
 
 # Check for broken links (requires a production build)
 linkcheck: build
