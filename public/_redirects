@@ -45,19 +45,13 @@
 /pension-planning /retirement-planning/ 301
 
 # --- Old wp_redirects table entries ---
-/problem-debt/ /debt/#If_you_cant_afford_your_debt_get_help_from_a_debt_charity 301
-/problem-debt /debt/#If_you_cant_afford_your_debt_get_help_from_a_debt_charity 301
+/problem-debt/ /debt/#if-you-cant-afford-your-debt-get-help-from-a-debt-charity- 301
+/problem-debt /debt/#if-you-cant-afford-your-debt-get-help-from-a-debt-charity- 301
 /tax-efficiency-for-high-earners/ /tax-traps-and-tax-efficiency/ 301
 /tax-efficiency-for-high-earners /tax-traps-and-tax-efficiency/ 301
 
 # --- New rules for content reorganised/renamed during migration ---
 /all-pages/ / 301
 /all-pages / 301
-/temporary-page/ /pensions/ 301
-/temporary-page /pensions/ 301
-/test-flowchart/ /flowchart/ 301
-/test-flowchart /flowchart/ 301
 /welcome/ / 301
 /welcome / 301
-/%f0%9f%9b%8d%ef%b8%8f-buy-now-pay-later-bnpl/ /buy-now-pay-later-bnpl/ 301
-/%f0%9f%9b%8d%ef%b8%8f-buy-now-pay-later-bnpl /buy-now-pay-later-bnpl/ 301
