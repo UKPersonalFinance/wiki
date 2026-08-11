@@ -121,9 +121,9 @@ This is a very expensive way to borrow. The loan will have a high interest rate,
 
 ## Payday loans
 
-::::danger
+:::danger
 Payday loans offer money quick but at an extremely high cost. We recommend you avoid them if you possibly can - you are better off not paying a bill than taking a payday loan to afford it.
-::::
+:::
 
 Interest rates on payday loans are sky-high. Borrowing £100 on a credit card for one month would cost you between £0 and £2 in interest, but a payday lender will charge around £25.
 
