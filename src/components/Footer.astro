@@ -9,16 +9,15 @@ const releaseTag = import.meta.env.PUBLIC_RELEASE_TAG;
     <a href="/this-wiki-is-not-advice/">This wiki is not financial advice</a>
     <span aria-hidden="true">/</span>
     <a href="/privacy-policy/">Privacy Policy</a>
-    <span aria-hidden="true">/</span>
-    <span>Version: {releaseTag ?? "dev"}</span>
   </div>
+  <div class="version">Version: {releaseTag ?? "dev"}</div>
 </footer>
 
 <style>
   @layer starlight.core {
     footer {
       flex-direction: column;
-      gap: 1.5rem;
+      gap: 0;
     }
   }
   .site-footer {
@@ -37,5 +36,11 @@ const releaseTag = import.meta.env.PUBLIC_RELEASE_TAG;
   }
   .site-footer a:hover {
     color: var(--sl-color-white);
+  }
+  .version {
+    margin-top: 0.5rem;
+    font-size: 0.65rem;
+    color: var(--sl-color-gray-4);
+    text-align: center;
   }
 </style>
