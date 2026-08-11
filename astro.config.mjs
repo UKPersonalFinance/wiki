@@ -11,7 +11,7 @@ import { getDraftSidebarGroup } from "./sidebar-drafts.mjs";
 
 // https://astro.build/config
 export default defineConfig({
-  site: "https://new.ukpersonal.finance",
+  site: "https://ukpersonal.finance",
   markdown: {
     processor: unified({ remarkPlugins: [remarkHeadingId] }),
   },

@@ -5,7 +5,7 @@ head:
   - tag: meta
     attrs:
       property: og:image
-      content: https://new.ukpersonal.finance/social/wisdom-of-the-ancients.png
+      content: https://ukpersonal.finance/social/wisdom-of-the-ancients.png
 ---
 
 (older flowcharts)

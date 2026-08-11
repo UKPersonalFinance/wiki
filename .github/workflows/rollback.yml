@@ -28,7 +28,7 @@ jobs:
       cancel-in-progress: false
     environment:
       name: ${{ inputs.environment }}
-      url: ${{ inputs.environment == 'production' && 'https://new.ukpersonal.finance' || 'https://staging.ukpersonal.finance' }}
+      url: ${{ inputs.environment == 'production' && 'https://ukpersonal.finance' || 'https://staging.ukpersonal.finance' }}
     steps:
       - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
         with:
@@ -74,7 +74,7 @@ jobs:
       - name: Verify the rollback is live
         env:
           TAG: ${{ steps.tag.outputs.value }}
-          URL: ${{ inputs.environment == 'production' && 'https://new.ukpersonal.finance/' || 'https://staging.ukpersonal.finance/' }}
+          URL: ${{ inputs.environment == 'production' && 'https://ukpersonal.finance/' || 'https://staging.ukpersonal.finance/' }}
           CURL_AUTH: ${{ inputs.environment == 'staging' && '-u ci:flowchart' || '' }}
         run: |
           for attempt in $(seq 1 10); do

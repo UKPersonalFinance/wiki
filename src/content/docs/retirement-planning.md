@@ -5,7 +5,7 @@ head:
   - tag: meta
     attrs:
       property: og:image
-      content: https://new.ukpersonal.finance/social/retirement-planning.png
+      content: https://ukpersonal.finance/social/retirement-planning.png
 ---
 
 In the previous pension stage on the flowchart you made sure that you

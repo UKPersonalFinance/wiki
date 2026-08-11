@@ -5,7 +5,7 @@ head:
   - tag: meta
     attrs:
       property: og:image
-      content: https://new.ukpersonal.finance/social/pensions.png
+      content: https://ukpersonal.finance/social/pensions.png
 ---
 
 This page provides a very high level overview of how pensions work. It's a

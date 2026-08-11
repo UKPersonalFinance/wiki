@@ -5,7 +5,7 @@ head:
   - tag: meta
     attrs:
       property: og:image
-      content: https://new.ukpersonal.finance/social/mortgage-overpayments-vs-investments.png
+      content: https://ukpersonal.finance/social/mortgage-overpayments-vs-investments.png
 ---
 
 If you have savings available, is it better to overpay your mortgage, or
