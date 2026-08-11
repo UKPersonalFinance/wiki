@@ -5,7 +5,7 @@ head:
   - tag: meta
     attrs:
       property: og:image
-      content: https://new.ukpersonal.finance/social/recommended-resources.png
+      content: https://ukpersonal.finance/social/recommended-resources.png
 ---
 
 ![Recommended Resources](../../assets/images/recommended-resources-hero.png)

@@ -22,7 +22,7 @@ run_worker_first = true
 [env.production]
 name = "ukpf-wiki-production"
 routes = [
-  { pattern = "new.ukpersonal.finance", custom_domain = true },
+  { pattern = "ukpersonal.finance", custom_domain = true },
 ]
 
 [env.production.assets]

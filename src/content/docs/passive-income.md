@@ -5,7 +5,7 @@ head:
   - tag: meta
     attrs:
       property: og:image
-      content: https://new.ukpersonal.finance/social/passive-income.png
+      content: https://ukpersonal.finance/social/passive-income.png
 ---
 
 Whether you're thinking about what to do with your savings or your time,
