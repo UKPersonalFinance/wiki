@@ -93,10 +93,10 @@ Below is a list of common funds and ETFs.
 
 | Fund                                                                                                                  | Type | [OCF (fees)](#fees) | Index                                                                                                                                                        |
 | --------------------------------------------------------------------------------------------------------------------- | ---- | ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| [iShares MSCI ACWI UCITS ETF](https://www.trustnet.com/factsheets/O/0ib3/ishares-msci-acwi-ucits-etf/)                | ETF  | 0.20%               | MSCI All Country World Index [(factsheet)](https://www.msci.com/indexes/index/892400)                                                                        |
+| [iShares MSCI ACWI UCITS ETF](https://www.justetf.com/uk/etf-profile.html?isin=IE00B6R52259)                | ETF  | 0.20%               | MSCI All Country World Index [(factsheet)](https://www.msci.com/indexes/index/892400)                                                                        |
 | [Vanguard FTSE Global All Cap (Acc)](https://www.trustnet.com/factsheets/o/ngly/vanguard-ftse-global-all-cap-index)   | Fund | 0.23%               | FTSE Global All Cap Index [(pdf factsheet)](https://research.ftserussell.com/Analytics/Factsheets/Home/DownloadSingleIssue?issueName=GEISLMS&isManual=False) |
 | [HSBC FTSE All-World Index (Acc)](https://www.trustnet.com/factsheets/o/kldq/hsbc-ftse-all-world-index)               | Fund | 0.13%               | FTSE All-World Index [(pdf factsheet)](https://research.ftserussell.com/Analytics/FactSheets/Home/DownloadSingleIssue?issueName=AWORLDS&isManual=False)      |
-| [Vanguard FTSE All-World UCITS ETF](https://www.trustnet.com/factsheets/e/g1xc/vanguard-ftse-all-world-ucits-etf-gbp) | ETF  | 0.19%               | FTSE All-World Index [(pdf factsheet)](https://research.ftserussell.com/Analytics/FactSheets/Home/DownloadSingleIssue?issueName=AWORLDS&isManual=False)      |
+| [Vanguard FTSE All-World UCITS ETF](https://www.justetf.com/uk/etf-profile.html?isin=IE00BK5BQT80) | ETF  | 0.14%               | FTSE All-World Index [(pdf factsheet)](https://research.ftserussell.com/Analytics/FactSheets/Home/DownloadSingleIssue?issueName=AWORLDS&isManual=False)      |
 
 ### Sharia investing
 
@@ -105,6 +105,8 @@ The Bogleheads wiki has a [useful list of Sharia-compliant funds](https://www.bo
 ### More funds
 
 You can view [a list of global index trackers at trustnet](https://www2.trustnet.com/passive-funds/global-equities.html).
+
+You can also view [a list of global index tracker ETFs at justetf](https://www.justetf.com/uk/how-to/invest-worldwide.html#etfs)
 
 Monevator have [lists of index funds for different regions.](https://monevator.com/low-cost-index-trackers/)
 
