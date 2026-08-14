@@ -140,7 +140,7 @@ They have a different set of rules, and most people won't come across them excep
 
 ### Very occasionally, 7 is 14
 
-There is a very rare occasion where the "7 year rule" could look back up to 14 years. This would only happen if a sizeable Chargeable Lifetime Transfer was given 7 years before a 'failed Potentially Exempt Transfer', and could really only happen as part of a gifting strategy under tax advice from a professional. [An article on this topic can be found here](https://www.taxinsider.co.uk/iht-and-the-seven-year-rule-or-is-it-years-ta).
+There is a very rare occasion where the "7 year rule" could look back up to 14 years. This would only happen if a sizeable Chargeable Lifetime Transfer was given 7 years before a 'failed Potentially Exempt Transfer', and could really only happen as part of a gifting strategy under tax advice from a professional. [An article on this topic can be found here](https://www.taxinsider.co.uk/tax-articles/iht-and-the-seven-year-rule-or-is-it-years-ta).
 
 ## Further resources
 
