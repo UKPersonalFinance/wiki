@@ -28,3 +28,13 @@ routes = [
 [env.production.assets]
 directory = "./dist"
 not_found_handling = "404-page"
+
+[env.flowchart]
+name = "ukpf-flowchart"
+routes = [
+  { pattern = "flowchart-test.ukpersonal.finance", custom_domain = true },
+]
+
+[env.flowchart.assets]
+directory = "./flowchart"
+not_found_handling = "404-page"
