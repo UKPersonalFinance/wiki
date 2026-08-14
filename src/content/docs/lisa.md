@@ -33,7 +33,7 @@ LISAs can be opened by anyone aged between 18 and 39 (the cut off is the day bef
 
 To use your LISA to buy a house:
 
-- You must be a first time buyer (as per [these eligibility rules](https://www.helptobuy.gov.uk/documents/2015/12/eligibility-of-ftbs.pdf))
+- You must be a first time buyer (as per [these eligibility rules](https://www.gov.uk/lifetime-isa/withdrawing-money-from-your-lifetime-isa))
 - The property you're buying must be in the UK and worth under £450,000
 - You must be purchasing the property to live in (not rent out)
 - Your LISA needs to have been open at least 12 months
