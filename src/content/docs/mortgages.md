@@ -109,7 +109,7 @@ To buy a property for £225,000 when your max borrowing is £180,000, you would 
 There are schemes available to help boost your deposit. Some examples are:
 
 - [LISA](/lisa/): This savings account boosts first-time-buyer deposit savings by 25%, up to a total £1000 for every year of saving. The main limitations are that you must be a first-time-buyer and the house purchase price must be less than £450,000.
-- [Shared ownership](https://www.helptobuy.gov.uk/shared-ownership/): this involves part-buying and part-renting from a local authority or housing association.
+- [Shared ownership](https://www.gov.uk/shared-ownership-scheme): this involves part-buying and part-renting from a local authority or housing association.
 - [Government 5% mortgage guarantee scheme](https://www.moneysavingexpert.com/mortgages/new-mortgage-scheme-for-5-deposit/): This is a scheme between the government and lenders, but should improve the availability of mortgages for people with 5% deposits.
 
 ### Putting it all together
@@ -201,7 +201,7 @@ MoneyHelper have a [simple calculator](https://tools.moneyhelper.org.uk/en/mortg
 
 We have [a model spreadsheet](https://docs.google.com/spreadsheets/d/1dXM_XboaNauv0ag_V3HxSyRXAy2Jjt86p75-0qxFv-M/edit#gid=558520207) which you can use or adapt.
 
-MoneySavingExpert user Locoblade has written an [extremely thorough Excel template](http://www.locostfireblade.co.uk/spreadsheet/Index.html) if you want a more in depth version.
+MoneySavingExpert user Locoblade has written an [extremely thorough Excel template](http://spreadsheet.locostfireblade.co.uk/?i=2) if you want a more in depth version.
 
 ## Comparing mortgage deals
 
