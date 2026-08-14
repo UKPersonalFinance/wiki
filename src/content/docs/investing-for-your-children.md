@@ -69,6 +69,8 @@ When the child turns 16, they are given administrative control over the JISA, bu
 
 As such, you should consider how much money you would like to give your child access to at 18. Whilst we all hope that we will teach our children to be sensible with money, we also hear many stories of 18 year olds spending their JISAs quickly with little to show for it! If you are saving with the intention of this being a nest egg to help with a house deposit, you may wish to consider saving in your own name instead.
 
+[Moneysavingexpert](https://www.moneysavingexpert.com/savings/junior-isa/) maintain a current page comparing the full range of JISA products, including both Cash and Stocks & Shares JISAs.
+
 ### Your own ISA (or pension)
 
 > **Suitable for:**  
