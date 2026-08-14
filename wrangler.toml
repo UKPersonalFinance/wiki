@@ -32,7 +32,7 @@ not_found_handling = "404-page"
 [env.flowchart]
 name = "ukpf-flowchart"
 routes = [
-  { pattern = "flowchart-test.ukpersonal.finance", custom_domain = true },
+  { pattern = "flowchart.ukpersonal.finance", custom_domain = true },
 ]
 
 [env.flowchart.assets]
