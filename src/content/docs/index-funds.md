@@ -10,7 +10,7 @@ An index is a collection of companies put together by an index provider.
 The purpose of the index could be anything from 'a representative sample
 of the global stock market' to 'the 500 largest companies in the US' to
 'global e-sports' or 'Chinese mining'. There is an index for just about
-everything; bonds, stocks, property, cryptocurrencies, even [onions](https://fred.stlouisfed.org/series/WPU01130216)!
+everything; bonds, stocks, property, cryptocurrencies, even [onions](https://fred.stlouisfed.org/graph/?g=1XSEW)!
 
 However in general when people talk about investing in 'index funds',
 they mean funds which track a diversified, global index. (Not onions).
