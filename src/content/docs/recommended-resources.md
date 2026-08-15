@@ -159,8 +159,8 @@ You may also be interested in…
   curriculums. It is available for free download and covers topics such as
   spending and saving, borrowing, debt, insurance, student finance and future
   planning
-- **[The Richest Man in Babylon – George S. Clason](http://thediamondsmine.com/files/Ebooks/Clason-RichestManInBabylon.pdf)**:
-  First written in 1926 (original version linked as PDF), with various
+- **[The Richest Man in Babylon – George S. Clason](https://www.globalgreyebooks.com/book-page/richest-man-in-babylon-ebook.html)**:
+  First written in 1926 (original version linked which is out of copyright), with various
   re-issues and updates available in print form. Very sound basic financial
   advice written as compelling parables from the age of Babylon. Still
   accessible and helpful reading today.
