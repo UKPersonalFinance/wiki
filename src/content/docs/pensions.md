@@ -62,7 +62,7 @@ claimed.
 
 - Which: [Tax relief on pension contributions explained](https://www.which.co.uk/money/pensions-and-retirement/personal-pensions/contributing-to-a-private-pension-explained/tax-relief-on-pension-contributions-explained-a27f53z7qg3f)
 - Our wiki: [Pension, ISA or LISA – which is best?](/isa-vs-lisa-vs-pension/)
-- Pensions Advisory Service: [Tax relief and contributions](https://www.pensionsadvisoryservice.org.uk/about-pensions/saving-into-a-pension/pensions-and-tax/tax-relief-and-contributions)
+- Moneyhelper: [Tax relief and contributions](https://www.moneyhelper.org.uk/en/pensions-and-retirement/tax-and-pensions/tax-relief-and-your-pension)
 
 ### National Insurance and Salary Sacrifice {#salary-sacrifice}
 
@@ -78,7 +78,7 @@ into your pension too.
 
 - [Salary Sacrifice Calculator](https://goodcalculators.com/salary-sacrifice-calculator/)
 - [Salary & Take Home Pay calculator](https://www.thesalarycalculator.co.uk/salary.php)
-- Pensions Advisory Service: [Salary sacrifice](https://www.pensionsadvisoryservice.org.uk/about-pensions/saving-into-a-pension/salary-sacrifice)
+- Moneyhelper: [Salary sacrifice](https://www.moneyhelper.org.uk/en/pensions-and-retirement/building-your-retirement-pot/salary-sacrifice-and-your-pension)
 - MoneyHelper: [Workplace pension contribution calculator](https://www.moneyhelper.org.uk/en/pensions-and-retirement/auto-enrolment/use-our-workplace-pension-calculator)
 
 ## The magic of compound growth 🪄 {#compound-growth}
@@ -295,7 +295,7 @@ before you decide'. For example:
 If you earn £25,000 per year and you auto-enroll in a pension where you pay
 5% with a 3% employer match (the legal minimum), you will pay £78.16 into
 your pension per month and your employer will pay £46.90. This is
-calculated using your '[qualifying earnings](https://www.thepensionsregulator.gov.uk/en/employers/new-employers/im-an-employer-who-has-to-provide-a-pension/declare-your-compliance/ongoing-duties-for-employers-/earnings-thresholds)', which is your gross salary
+calculated using your '[qualifying earnings](https://www.thepensionsregulator.gov.uk/en/employers/new-employers/im-an-employer-who-has-to-provide-a-pension/declare-your-compliance/ongoing-duties-for-employers/earnings-thresholds)', which is your gross salary
 minus £6,240 (this number can change each tax year):
 
 - Your qualifying earnings are: £25,000 – £6,240 = £18,760
