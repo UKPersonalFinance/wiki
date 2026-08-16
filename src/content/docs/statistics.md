@@ -83,7 +83,7 @@ Provisional](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earni
 
 _Source: [ONS ASHE Table 25.7a](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours/datasets/earningsandhoursworkedallemployeesashetable25).
 For Northern Ireland please see [NISRA's report on their Annual Survey
-of Hours and Earnings](https://www.nisra.gov.uk/statistics/labour-market-and-social-welfare/annual-survey-hours-and-earnings).
+of Hours and Earnings](https://www.nisra.gov.uk/statistics/work-pay-and-benefits/annual-survey-hours-and-earnings).
 Unfortunately they have not published percentiles._
 
 ## Household income before and after taxes
