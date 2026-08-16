@@ -12,7 +12,7 @@ withdraw the money.
 
 There are multiple different **types** of ISAs available. The most relevant ones are usually:
 
-- **Stocks & Shares ISAs****(for investments)
+- **Stocks & Shares ISAs** (for investments)
 - **Cash ISAs** (like bank savings accounts)
 - **Lifetime ISAs** (for first time homebuyers and/or retirement savings - these can be Cash or Stocks & Shares)
 
