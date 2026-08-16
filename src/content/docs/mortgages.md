@@ -211,7 +211,7 @@ There are online tools which will do a quick comparison for you.
 
 Note that these calculators generally focus on which deal costs you the least _in total_ over the fixed period. However, it's often preferable to calculate which deal costs you least *in fees and interest*over the fixed period. You might not mind paying a little more per month if a larger share is going towards the principal, improving your long term financial position.
 
-There don't seem to be online calculators available which do this. We have a [quick and easy spreadsheet](https://docs.google.com/spreadsheets/d/1dXM_XboaNauv0ag_V3HxSyRXAy2Jjt86p75-0qxFv-M#gid=1990449055) you can use to compare two fixes. If you fancy a more thorough and complex version, we recommend [this one from Locoblade on the MSE forums](http://www.locostfireblade.co.uk/spreadsheet/Index.html). Or ask your broker to provide these numbers.
+There don't seem to be online calculators available which do this. We have a [quick and easy spreadsheet](https://docs.google.com/spreadsheets/d/1dXM_XboaNauv0ag_V3HxSyRXAy2Jjt86p75-0qxFv-M#gid=1990449055) you can use to compare two fixes. If you fancy a more thorough and complex version, we recommend [this one from Locoblade on the MSE forums](http://spreadsheet.locostfireblade.co.uk). Or ask your broker to provide these numbers.
 
 ## Mortgage brokers / advisors
 
