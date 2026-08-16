@@ -165,7 +165,7 @@ Wondering why the London wealth number seems low? See [Section 4,
 'Regional Inequalities' in the (very readable!) associated
 bulletin](https://www.ons.gov.uk/peoplepopulationandcommunity/personalandhouseholdfinances/incomeandwealth/bulletins/distributionofindividualtotalwealthbycharacteristicingreatbritain/april2018tomarch2020#regional-inequalities).
 Unfortunately [no data is available for Northern
-Ireland](https://www.nisra.gov.uk/statistics/uk-national-wellbeing-measures-northern-ireland-data/personal-finance).
+Ireland](https://www.nisra.gov.uk/statistics/people-and-communities).
 
 ## Pensions
 
