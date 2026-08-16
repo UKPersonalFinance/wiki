@@ -1,3 +1,5 @@
 accept = "100..=103,200..=299,403"
 
-exclude = []
+exclude = [
+  "^https://fred\\.stlouisfed\\.org/", #  Seems to have some broken HTTP2 implementation, works fine in real browsers
+]
