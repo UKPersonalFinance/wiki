@@ -71,7 +71,7 @@ advisors like StepChange. You can use one of these tools:
   form to organise your income, expenses, debt and savings information
 - [debtadvicefoundation.org](https://www.debtadvicefoundation.org/debt-tools/debt-analyser/)
   – a downloadable spreadsheet to do the same
-- [nationaldebtline.org](https://tools.nationaldebtline.org/yourbudget/) –
+- [nationaldebtline.org](https://nationaldebtline.org/get-help/my-money-steps/) –
   a more detailed online form
 
 ### Double check you haven't missed anything
