@@ -54,7 +54,7 @@ jobs:
           issue-number: ${{ steps.existing-issue.outputs.number }}
           title: Link Checker Report
           content-filepath: ./lychee/out.md
-          labels: report, automated issue
+          labels: automated issue
       - name: Close report issue if links are fixed
         if: steps.lychee.outputs.exit_code == 0
         env:
