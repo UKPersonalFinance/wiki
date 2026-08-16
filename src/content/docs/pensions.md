@@ -254,7 +254,7 @@ find out exactly what you have. To find the name of the provider:
 - See MoneyHelper's [page on lost pensions](https://www.moneyhelper.org.uk/en/pensions-and-retirement/pension-problems/tracing-and-finding-lost-pensions)
   for more organisations and services which can help
 - The UK Government is launching a [Pensions Dashboard](https://www.which.co.uk/news/article/pensions-dashboard-five-things-you-need-to-know-aY1lX7H54aej)
-  in 2026. Your old pensions should show up there when it's available.
+  in the 2027-2028 financial year. Your old pensions should show up there when it's available.
 
 ## Frequently Asked Questions ℹ️
 
