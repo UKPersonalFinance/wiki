@@ -81,11 +81,11 @@ The market cap of the S&P Emerging BMI index is:
 
 [mean market cap] × [number of constituents]
 
-From the Index Characteristics table on page 3 of [the factsheet](https://us.spindices.com/idsenhancedfactsheet/file.pdf?calcFrequency=M&force_download=true&hostIdentifier=48190c8c-42c4-46af-8d1a-0cd5db894797&indexId=5457901), we see that the mean market cap is $3,766.26 million and there are 3044 constituents, so the market cap is
+From the Index Characteristics table on page 3 of [the factsheet](www.spglobal.com/spdji/en/idsenhancedfactsheet/file.pdf?calcFrequency=M&hostIdentifier=48190c8c-42c4-46af-8d1a-0cd5db894797&languageId=1&indexId=5457913), we see that the mean market cap is $3,766.26 million and there are 3044 constituents, so the market cap is
 
 $3,766.26 million × 3044 = $11,464,495.44 million
 
-Doing the same calculation for the S&P Global BMI index via [its factsheet](https://us.spindices.com/idsenhancedfactsheet/file.pdf?calcFrequency=M&force_download=true&hostIdentifier=48190c8c-42c4-46af-8d1a-0cd5db894797&indexId=5457913) is
+Doing the same calculation for the S&P Global BMI index via [its factsheet](www.spglobal.com/spdji/en/idsenhancedfactsheet/file.pdf?calcFrequency=M&hostIdentifier=48190c8c-42c4-46af-8d1a-0cd5db894797&languageId=1&indexId=5457913) is
 
 $5337.32 million × 11603 = $61,928,923.96 million
 
