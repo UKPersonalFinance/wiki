@@ -84,7 +84,7 @@ Be aware that in the event of your death these savings may be subject to [inheri
 
 Similarly, if you ever need to claim means-tested benefits, savings in your name that you intended for your child will be treated the same as savings you intended for yourself.
 
-### How do I keep the money separate if it's in my name?
+#### How do I keep the money separate if it's in my name?
 
 If you are saving for your own financial plans and your children in your own name, but want to keep a strict division between your saving and theirs for housekeeping purposes, you can do so in a few ways:
 
@@ -107,7 +107,7 @@ The simplest thing is to either save in your own name (paying any applicable tax
 
 If you are considering setting up a trust, you should speak to a private client solicitor and/or a [financial planner](/financial-advice/) to fully understand the tax and legal implications, as well as the administrative costs. Expect total costs to be in the thousands of pounds.
 
-## What if I just don't tell them about their JISA until they're old enough to use it responsibly?
+### What if I just don't tell them about their JISA until they're old enough to use it responsibly?
 
 The bank will contact your child about their JISA when they turn 16. It's not legal to intercept this and continue running their JISA yourself (just as it would not be for them to do to you). Again, money in a JISA belongs to your child and you should not contribute more to a JISA than you want them to have full access to when they reach the age of 18.
 
