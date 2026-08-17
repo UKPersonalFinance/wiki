@@ -1,4 +1,4 @@
-This is the source code for the [UKPersonalFinance Wiki](https://ukpersonal.finance), the wiki for [r/UKPersonalFinance](https://reddit.com/r/ukpersonalfinance).
+This is the source code for the [UKPersonalFinance Wiki](https://ukpersonal.finance), the wiki for [r/UKPersonalFinance](https://reddit.com/r/ukpersonalfinance)
 
 ## Editing Content
 
