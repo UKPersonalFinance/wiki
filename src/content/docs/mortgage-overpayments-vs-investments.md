@@ -122,6 +122,16 @@ for other goals.
 This needs to be given proper consideration against a potentially more
 financially "optimal" solution.
 
+### Your mortgage lender might handle the overpayments in an unexpected way 🤯
+
+Mortgage overpayments can be handled in different ways, depending on your lender and the terms of the mortgage. Most fixed-rate mortgages have limits to overpayments before charging early repayment fees (typically 10% of the remaining balance each year), and if you have multiple loan accounts within one mortgage, each one may carry a different limit. 
+
+Your lender may use the overpayments to reduce the monthly payments, rather than the term of the mortgage. This doesn't result in the interest savings that most overpayment calculators assume.
+
+Your lender may also record your overpayments within an "overpayment account", and offset that against the mortgage accounts, and make it harder to track the true amount outstanding.
+
+Some lenders (but not all!) will allow underpayments or payment holidays offset by overpayments you have already made. These arrangements are generally discretionary and it can be dangerous to rely on them in case they're subsequently removed.
+
 ## Example illustrations 🧮
 
 The table below illustrates a 30 year, £200,000 mortgage with a 2%
