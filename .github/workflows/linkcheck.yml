@@ -48,6 +48,7 @@ jobs:
             --search 'in:title "Link Checker Report"' --json number --jq '.[0].number')
           echo "number=$number" >> "$GITHUB_OUTPUT"
       - name: Create issue from report
+        id: create-issue
         if: steps.lychee.outputs.exit_code != 0
         uses: peter-evans/create-issue-from-file@fca9117c27cdc29c6c4db3b86c48e4115a786710 # v6.0.0
         with:
@@ -55,6 +56,13 @@ jobs:
           title: Link Checker Report
           content-filepath: ./lychee/out.md
           labels: automated issue
+      - name: Set issue type to Bug
+        if: steps.lychee.outputs.exit_code != 0
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh api "repos/$GITHUB_REPOSITORY/issues/${{ steps.create-issue.outputs.issue-number }}" \
+            --method PATCH -f type=Bug
       - name: Close report issue if links are fixed
         if: steps.lychee.outputs.exit_code == 0
         env:
