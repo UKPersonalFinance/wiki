@@ -124,7 +124,7 @@ financially "optimal" solution.
 
 ### Your mortgage lender might handle the overpayments in an unexpected way 🤯
 
-Mortgage overpayments can be handled in different ways, depending on your lender and the terms of the mortgage. Most fixed-rate mortgages have limits to overpayments before charging early repayment fees (typically 10% of the remaining balance each year), and if you have multiple loan accounts within one mortgage, each one may carry a different limit. 
+Mortgage overpayments can be handled in different ways, depending on your lender and the terms of the mortgage. Most fixed-rate mortgages have limits to overpayments before charging early repayment fees (typically 10% of the remaining balance each year), and if you have multiple loan accounts within one mortgage, each one may carry a different limit.
 
 Your lender may use the overpayments to reduce the monthly payments, rather than the term of the mortgage. This doesn't result in the interest savings that most overpayment calculators assume.
 
