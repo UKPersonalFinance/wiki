@@ -23,7 +23,7 @@ The wiki page files live in [src/content/docs](src/content/docs). Look for the p
 
 Press the pencil in the top right. You will now be prompted to 'fork' the repository: 
 
-![contributing-fork](src/assets/contributing/contributing-fork.png)
+![contributing-fork](readme-assets/contributing-fork.png)
 
 A fork is like a personal copy of the wiki, that you can edit as much as you like. Press the green button to create one.
 
@@ -31,29 +31,29 @@ Make your changes to the page. Wiki pages are written in [Markdown](https://www.
 
 To save your work, press the green 'Commit changes' button in the top right:
 
-![contributing-commit](src/assets/contributing/contributing-commit.png)
+![contributing-commit](readme-assets/contributing-commit.png)
 
 You'll be prompted for a commit message. Write a short description of your update, then press the green 'Commit changes' button:
 
-![contributing-commit-message](src/assets/contributing/contributing-commit-message.png)
+![contributing-commit-message](readme-assets/contributing-commit-message.png)
 
 Now go to Pull Requests in the navigation bar. It will look like:
 
-![contributing-prs-welcome](src/assets/contributing/contributing-prs-wecome.png)
+![contributing-prs-welcome](readme-assets/contributing-pr-welcome.png)
 
 Press the green 'New Pull Request' button. You will now be taken to a preview of your Pull Request. It will show your commit (or commits, if you 'saved' multiple times), and a list of changes that have been made. 
 
-![contributing-pr-confirm](src/assets/contributing/contributing-pr-confirm.png)
+![contributing-pr-confirm](readme-assets/contributing-pr-confirm.png)
 
 Press the green button, and you will get to this screen: 
 
-![contributing-pr-open](src/assets/contributing/contributing-pr-open.png)
+![contributing-pr-open](readme-assets/contributing-pr-open.png)
 
 You can just press the green button again. You don't need to add a description, although you're welcome to add some comments here if you want. 
 
 You will now (finally!) be sent to your Pull Request:
 
-![contributing-pr-staging](src/assets/contributing/contributing-pr-staging.png)
+![contributing-pr-staging](readme-assets/contributing-pr-staging.png)
 
 Give github a minute and you should receive a reply from the **github-actions** bot, which builds a temporary version of the wiki with your changes included, so you can check everything worked correctly.
 
