@@ -41,7 +41,7 @@ export default defineConfig({
             { label: "Living Costs", slug: "living-costs" },
             { label: "Should I Buy This?", slug: "spending" },
             {
-              label: "Helping family and friends",
+              label: "Helping Family and Friends",
               slug: "helping-family-and-friends",
             },
             { label: "Savings Accounts", slug: "savings" },
@@ -52,7 +52,7 @@ export default defineConfig({
         {
           label: "Borrowing",
           items: [
-            { label: "Emergency help", slug: "emergency-help" },
+            { label: "Emergency Help", slug: "emergency-help" },
             { label: "Debt Repayment", slug: "debt" },
             { label: "Credit Ratings", slug: "credit-ratings" },
             { label: "Credit Cards", slug: "credit-cards" },
