@@ -145,8 +145,7 @@ since 1950, investing in equities has produced an annual after-inflation
 return of 5.2%. This is not a guaranteed or consistent annual return, but
 rather an average for long term investors.
 
-Plan 1 interest rates are currently at 4.5% and Plan 2 interest rates are
-currently 6.5%. However they could go up or down each year. At these
+You can find current interest rates [at gov.uk](https://www.gov.uk/repaying-your-student-loan/what-you-pay) - this can be a good starting point for comparison. However they could go up or down each year. At these
 rates, choosing between overpaying and investing is really a matter of
 personal preference and individual circumstance.
 
