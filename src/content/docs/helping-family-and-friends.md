@@ -1,5 +1,5 @@
 ---
-title: Helping family and friends
+title: Helping Family and Friends
 description: Why helping others manage money is different to managing your own.
 ---
 
