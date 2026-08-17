@@ -1,5 +1,5 @@
 ---
-title: Emergency help
+title: Emergency Help
 description: Where to get help if you need money quickly for essentials.
 ---
 
