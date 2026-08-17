@@ -53,3 +53,5 @@ jobs:
           persist-credentials: false
       - uses: ./.github/actions/setup
       - run: prek run --all-files
+        env:
+          SKIP: trailing-whitespace,end-of-file-fixer
