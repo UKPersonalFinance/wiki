@@ -65,5 +65,5 @@ It's better to make one update at a time. Don't bundle unrelated updates togethe
 
 ## Creating new pages, updating the sidebar, adding images, etc
 
-For more info on this kind of stuff, see the [readme](readme.md). 
+For more info on this kind of stuff, see the [readme](README.md). 
 
