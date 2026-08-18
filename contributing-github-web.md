@@ -10,14 +10,15 @@ Your email address is visible by default but can be hidden - set this up by goin
 
 ## Making your first update
 
-This guide will walk you through making a small update, just to demonstrate the process and get everything set up. You are welcome to follow this guide purely for practice, your changes don't have to go live.
+This guide will walk you through making a small update, just to demonstrate the process and get everything set up. You are welcome to follow this guide purely for practice and setup, your changes don't have to go live. 
 
 There are a lot of screens to click through, that's because github allows for much more complicated setups than we're using. Don't be intimidated:
 
 1. If in doubt press the green button
 2. You can't cause any problems on the live wiki so no stress
+3. Subsequent changes will be simpler
 
-## Editing a wiki page
+### Editing a wiki page
 
 The wiki page files live in [src/content/docs](src/content/docs). Look for the page you want to edit, and click on it to open it.
 
@@ -63,14 +64,23 @@ When you're happy with it, go to [Discord](https://discord.gg/kaetMg8) to tell u
 
 It's better to make one update at a time. Don't bundle unrelated updates together in the same Pull Request, or if any of them end up requiring discussion the whole PR can end up waiting. It is possible to have multiple PRs for multiple separate changes, but I didn't want to go into that in this basic guide.
 
-## Making changes in future
+## Making subsequent updates
 
-Now that you have your 'fork', you will not be prompted to create one for any future changes. 
+Now that you have your 'fork', you will not be prompted to create one again for any future changes. 
 
 Instead, when you press the Edit button, you will now see this: 
 
-![contributing-pr-staging](readme-assets/contributing-pr-new-branch.png)
+![contributing-commit-2nd](readme-assets/contributing-commit-2nd.png)
 
+Press 'Commit' to save your changes, and write your commit message: 
+
+![contributing-commit-message-2nd](readme-assets/contributing-commit-message-2nd.png)
+
+When you press 'Propose Changes', you will immediately be sent to a preview of your PR: 
+
+![contributing-pr-confirm-2nd](readme-assets/contributing-pr-confirm-2nd.png)
+
+When you press 'Create Pull Request', a PR will be created and the **github-actions** bot will build the wiki for you. 
 
 ## Creating new pages, updating the sidebar, adding images, etc
 
