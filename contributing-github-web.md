@@ -8,9 +8,9 @@ Your username will be public. We suggest picking a username based on your reddit
 
 Your email address is visible by default but can be hidden - set this up by going to https://github.com/settings/emails and ticking "Keep my email address private").
 
-## Making changes
+## Making your first update
 
-This guide will walk you through making a small update, just to demonstrate the process. You are welcome to follow this guide purely for practice, your changes don't have to go live.
+This guide will walk you through making a small update, just to demonstrate the process and get everything set up. You are welcome to follow this guide purely for practice, your changes don't have to go live.
 
 There are a lot of screens to click through, that's because github allows for much more complicated setups than we're using. Don't be intimidated:
 
@@ -62,6 +62,15 @@ If you want to make edits you can go back to your file, edit it, and commit your
 When you're happy with it, go to [Discord](https://discord.gg/kaetMg8) to tell us about it. We can then 'merge' it - accept your pull request to incorporate your changes into the live version.
 
 It's better to make one update at a time. Don't bundle unrelated updates together in the same Pull Request, or if any of them end up requiring discussion the whole PR can end up waiting. It is possible to have multiple PRs for multiple separate changes, but I didn't want to go into that in this basic guide.
+
+## Making changes in future
+
+Now that you have your 'fork', you will not be prompted to create one for any future changes. 
+
+Instead, when you press the Edit button, you will now see this: 
+
+![contributing-pr-staging](readme-assets/contributing-pr-new-branch.png)
+
 
 ## Creating new pages, updating the sidebar, adding images, etc
 
