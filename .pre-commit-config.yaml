@@ -33,6 +33,7 @@ repos:
         entry: bunx prettier --check --ignore-unknown
         language: system
         types: [file]
+        exclude: \.(md|mdx)$
 
       - id: markdownlint-cli2
         name: markdownlint-cli2

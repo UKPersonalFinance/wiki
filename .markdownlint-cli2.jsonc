@@ -1,16 +1,24 @@
 {
   "config": {
     "MD001": false, // heading levels inside Starlight's card-layout HTML don't increment linearly
+    "MD009": false, // trailing whitespace isn't worth blocking on
     "MD010": false, // JSX component props (e.g. LinkCard) are tab-indented by convention
+    "MD012": false, // multiple consecutive blank lines aren't worth blocking on
     "MD013": false, // long lines are fine in prose
+    "MD027": false, // multiple spaces after blockquote symbol aren't worth blocking on
     "MD025": false, // same card-layout HTML also has more than one top-level heading
     "MD026": false, // some headings intentionally end in "!"
+    "MD030": false, // spaces after list markers aren't worth blocking on
     "MD033": false, // inline HTML is used in some pages
     "MD034": false, // some bare URLs remain in existing prose
     "MD036": false, // bold text is used as a pseudo-heading in several pages
+    "MD037": false, // spaces inside emphasis markers aren't worth blocking on
+    "MD038": false, // spaces inside code span elements aren't worth blocking on
+    "MD039": false, // spaces inside link text aren't worth blocking on
     "MD040": false, // some fenced code blocks don't specify a language
     "MD041": false, // Starlight pages set their title via frontmatter, not an H1
     "MD045": false, // some existing images don't have alt text
+    "MD047": false, // trailing newline at end of file isn't worth blocking on
     "MD049": false, // prettier normalises emphasis to underscores and isn't configurable
     "MD051": false, // Starlight's {#custom-id} heading syntax isn't recognised, causing false positives
     "MD059": false, // some existing links use non-descriptive text like "here"
