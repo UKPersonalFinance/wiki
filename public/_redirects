@@ -45,8 +45,8 @@
 /pension-planning /retirement-planning/ 301
 
 # --- Old wp_redirects table entries ---
-/problem-debt/ /debt/#if-you-cant-afford-your-debt-get-help-from-a-debt-charity- 301
-/problem-debt /debt/#if-you-cant-afford-your-debt-get-help-from-a-debt-charity- 301
+/problem-debt/ /debt/#problem-debt 301
+/problem-debt /debt/#problem-debt 301
 /tax-efficiency-for-high-earners/ /tax-traps-and-tax-efficiency/ 301
 /tax-efficiency-for-high-earners /tax-traps-and-tax-efficiency/ 301
 
