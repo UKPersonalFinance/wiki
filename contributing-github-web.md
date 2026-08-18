@@ -50,7 +50,7 @@ Press the green button, and you will get to this screen:
 
 ![contributing-pr-open](readme-assets/contributing-pr-open.png)
 
-You can just press the green button again. You don't need to add a description, although you're welcome to add some comments here if you want.
+You can just press the green button again. You don't need to add a description, although you're welcome to add some comments here if you want, such as explaining why you made the update or linking to an [Issue](https://github.com/UKPersonalFinance/wiki/issues).
 
 You will now (finally!) be sent to your Pull Request:
 
@@ -68,7 +68,7 @@ Click on that, and navigate to your files from there.
 
 When you're happy with your proposed changes, go to [Discord](https://discord.gg/kaetMg8) to tell us about it. We can then 'merge' it - accept your pull request to incorporate your changes into the live version.
 
-It's better to make one update at a time. Don't bundle unrelated updates together in the same Pull Request, or if any of them end up requiring discussion the whole PR can end up waiting. It is possible to have multiple PRs for multiple separate changes, but I didn't want to go into that in this basic guide.
+It's better to make one update at a time. Don't bundle unrelated updates together in the same Pull Request, or if any of them end up requiring discussion the whole PR can end up waiting. 
 
 ## Making subsequent updates
 
@@ -86,12 +86,10 @@ When you press 'Propose Changes', you will immediately be sent to a preview of y
 
 ![contributing-pr-confirm-2nd](readme-assets/contributing-pr-confirm-2nd.png)
 
-When you press 'Create Pull Request', a PR will be created and the **github-actions** bot will build the wiki for you. 
-
 The rest is the same as above: 
 
-* To make further edits, click on the name of the branch at the top of the PR, navigate to the file and edit it
-* This will automatically update your PR, and the preview site in the bot comment
+* When you press 'Create Pull Request', a PR will be created and the **github-actions** bot will build the wiki preview for you 
+* To make further edits, click on the name of the branch at the top of the PR, navigate to the relevant file, edit it and commit your changes. This will automatically update your PR, and the preview site in the bot comment
 * Badger people on discord when it's ready 
 
 ## Creating new pages, updating the sidebar, adding images, etc
