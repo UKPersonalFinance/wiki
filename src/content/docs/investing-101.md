@@ -174,9 +174,13 @@ If you're not sure what type of account to use, see our page on [ISA vs
 LISA vs Pension](/isa-vs-lisa-vs-pension/)
 for detailed calculations.
 
-## Who should I open an account with?
+## How do I open these accounts?
 
-See our page on [which broker to
+In theory, you can buy investments directly with fund managers, but the minimum investment amounts tend to be in the hundred thousands or millions.
+
+So in practice you need to use an investment platform (sometimes referred to as investment broker). These platforms deal with the administration and custody of the funds and accounts that you open, and charge a fee to do so. The fees vary significantly, as do the features and types of account on offer. 
+
+For more details on investment platforms/brokers, see our page on [which broker to
 use](/which-broker-should-i-use/).
 
 ## Where can I learn more about investing?
