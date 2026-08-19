@@ -176,9 +176,9 @@ for detailed calculations.
 
 ## How do I open these accounts?
 
-You need to use an investment broker (sometimes referred to as investment platform). These platforms deal with the administration and custody of the funds and accounts that you open, and charge a fee to do so. The fees vary significantly, as do the features and types of account on offer.
+You need to use an investment broker (also referred to as an investment platform). These platforms deal with the administration and custody of the funds and accounts that you open, and charge a fee to do so. The fees vary significantly, as do the features and types of account on offer.
 
-For more details on investment platforms/brokers, see our page on [which broker to
+For more details on investment brokers/platforms, see our page on [which broker to
 use](/which-broker-should-i-use/).
 
 ## Where can I learn more about investing?
