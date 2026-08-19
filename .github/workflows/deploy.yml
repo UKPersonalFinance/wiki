@@ -124,6 +124,7 @@ jobs:
       - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
         with:
           ref: ${{ needs.prepare.outputs.ref }}
+          fetch-depth: 0
       - uses: ./.github/actions/setup
       - run: bun run build
         if: github.event_name == 'workflow_dispatch'
@@ -136,9 +137,38 @@ jobs:
           path: dist
           github-token: ${{ secrets.GITHUB_TOKEN }}
           run-id: ${{ github.event.workflow_run.id }}
+      - name: Compare dist hash to last release
+        id: hashcheck
+        env:
+          EVENT_NAME: ${{ github.event_name }}
+        run: |
+          cp -r dist dist-hashcheck
+          find dist-hashcheck -name '*.html' -print0 |
+            xargs -0 sed -i -E 's#(class="version">Version: )[^<]*#\1#'
+          hash="$(find dist-hashcheck -type f -print0 | sort -z | xargs -0 sha256sum | sha256sum | cut -d' ' -f1)"
+          rm -rf dist-hashcheck
+          echo "hash=$hash" >> "$GITHUB_OUTPUT"
+
+          last_tag="$(git for-each-ref --sort=-creatordate --format='%(refname:short)' refs/tags | head -n1)"
+          last_hash="$(git for-each-ref --format='%(contents)' "refs/tags/$last_tag" 2>/dev/null | sed -n 's/^dist-hash: //p')"
+          echo "Current dist hash: $hash (last release $last_tag: ${last_hash:-none})"
+
+          if [ "$EVENT_NAME" = "workflow_dispatch" ]; then
+            skip=false
+          elif [ -n "$last_hash" ] && [ "$hash" = "$last_hash" ]; then
+            skip=true
+          else
+            skip=false
+          fi
+          echo "skip=$skip" >> "$GITHUB_OUTPUT"
+          if [ "$skip" = "true" ]; then
+            echo "### Skipping production deploy — dist unchanged since $last_tag" >> "$GITHUB_STEP_SUMMARY"
+          fi
       - name: Tag release
+        if: steps.hashcheck.outputs.skip != 'true'
         env:
           TAG: ${{ needs.prepare.outputs.tag }}
+          DIST_HASH: ${{ steps.hashcheck.outputs.hash }}
         run: |
           existing="$(git ls-remote --tags origin |
             awk -v t="refs/tags/$TAG" '$2 == t "^{}" { peeled = $1 } $2 == t { plain = $1 } END { print (peeled ? peeled : plain) }')"
@@ -152,9 +182,10 @@ jobs:
           fi
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git tag -a "$TAG" -m "Release $TAG"
+          git tag -a "$TAG" -m "Release $TAG" -m "dist-hash: $DIST_HASH"
           git push origin "refs/tags/$TAG"
       - name: Deploy to Cloudflare Workers (production)
+        if: steps.hashcheck.outputs.skip != 'true'
         uses: cloudflare/wrangler-action@ebbaa1584979971c8614a24965b4405ff95890e0 # v4.0.0
         with:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
