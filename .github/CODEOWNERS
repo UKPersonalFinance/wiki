@@ -1,3 +1,5 @@
-*                  @TheRealWhoop
-/src/content/docs/ @UKPersonalFinance/moderators
-/flowchart/        @UKPersonalFinance/moderators
+* @TheRealWhoop
+/src/assets/ @UKPersonalFinance/moderators
+/src/content/ @UKPersonalFinance/moderators
+/src/styles/ @UKPersonalFinance/moderators
+/flowchart/ @UKPersonalFinance/moderators
