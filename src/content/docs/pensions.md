@@ -405,7 +405,7 @@ eligible to join, but will have to opt-in. Speak to your employer.
 If you're self-employed you will need to arrange your own pension scheme.
 This is a higher priority than it would be otherwise.
 
-### I'm moving abroad, should I bother continuing with my pension? :globe_with_meridian:
+### I'm moving abroad, should I bother continuing with my pension?
 
 The advantages of pensions still apply; free money from your employer and 
 tax relief, planning on moving abroad does not change this. 
