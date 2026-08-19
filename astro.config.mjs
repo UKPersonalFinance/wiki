@@ -76,7 +76,6 @@ export default defineConfig({
             { label: "Buy-To-Let", slug: "buy-to-let" },
             { label: "Fees", slug: "fees" },
             { label: "Financial Advice", slug: "financial-advice" },
-            { label: "UK Funds Q&A", slug: "uk-funds-faq" },
           ],
         },
         {
