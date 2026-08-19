@@ -178,7 +178,7 @@ for detailed calculations.
 
 In theory, you can buy investments directly with fund managers, but the minimum investment amounts tend to be in the hundred thousands or millions.
 
-So in practice you need to use an investment platform (sometimes referred to as investment broker). These platforms deal with the administration and custody of the funds and accounts that you open, and charge a fee to do so. The fees vary significantly, as do the features and types of account on offer. 
+So in practice you need to use an investment platform (sometimes referred to as investment broker). These platforms deal with the administration and custody of the funds and accounts that you open, and charge a fee to do so. The fees vary significantly, as do the features and types of account on offer.
 
 For more details on investment platforms/brokers, see our page on [which broker to
 use](/which-broker-should-i-use/).
