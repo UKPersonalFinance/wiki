@@ -38,11 +38,7 @@ You'll be prompted for a commit message. Write a short description of your updat
 
 ![contributing-commit-message](readme-assets/contributing-commit-message.png)
 
-Now go to Pull Requests in the navigation bar. It will look like:
-
-![contributing-prs-welcome](readme-assets/contributing-pr-welcome.png)
-
-Press the green 'New Pull Request' button. You will now be taken to a preview of your Pull Request. It will show your commit (or commits, if you 'saved' multiple times), and a list of changes that have been made.
+You will now be taken to a preview of your Pull Request. It will show your commit (or commits, if you 'saved' multiple times), and a list of changes that have been made.
 
 ![contributing-pr-confirm](readme-assets/contributing-pr-confirm.png)
 
