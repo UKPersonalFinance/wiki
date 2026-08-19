@@ -28,16 +28,23 @@ jobs:
     outputs:
       tag: ${{ steps.release.outputs.tag }}
       ref: ${{ steps.release.outputs.ref }}
+      should_deploy: ${{ steps.should_deploy.outputs.deploy }}
     steps:
       - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
-        if: github.event_name == 'workflow_dispatch'
         with:
           ref: ${{ inputs.ref || github.sha }}
+          fetch-depth: 0
           persist-credentials: false
       - uses: actions/download-artifact@3e5f45b2cfb9172054b4087a40e8e0b5a5461e7c # v8.0.1
         if: github.event_name != 'workflow_dispatch'
         with:
           name: release-tag
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          run-id: ${{ github.event.workflow_run.id }}
+      - uses: actions/download-artifact@3e5f45b2cfb9172054b4087a40e8e0b5a5461e7c # v8.0.1
+        if: github.event_name != 'workflow_dispatch'
+        with:
+          name: dist-hash
           github-token: ${{ secrets.GITHUB_TOKEN }}
           run-id: ${{ github.event.workflow_run.id }}
       - name: Resolve release tag and ref
@@ -57,6 +64,25 @@ jobs:
             echo "tag=$tag"
             echo "ref=$ref"
           } >> "$GITHUB_OUTPUT"
+      - name: Determine whether dist changed since last release
+        id: should_deploy
+        env:
+          EVENT_NAME: ${{ github.event_name }}
+        run: |
+          if [ "$EVENT_NAME" = "workflow_dispatch" ]; then
+            echo "deploy=true" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          hash="$(cat dist-hash.txt)"
+          last_tag="$(git for-each-ref --sort=-creatordate --format='%(refname:short)' refs/tags | head -n1)"
+          last_hash="$(git for-each-ref --format='%(contents)' "refs/tags/$last_tag" 2>/dev/null | sed -n 's/^dist-hash: //p')"
+          echo "Current dist hash: $hash (last release $last_tag: ${last_hash:-none})"
+          if [ -n "$last_hash" ] && [ "$hash" = "$last_hash" ]; then
+            echo "deploy=false" >> "$GITHUB_OUTPUT"
+            echo "### Skipping production deploy — dist unchanged since $last_tag" >> "$GITHUB_STEP_SUMMARY"
+          else
+            echo "deploy=true" >> "$GITHUB_OUTPUT"
+          fi
 
   deploy-staging:
     needs: prepare
@@ -109,6 +135,7 @@ jobs:
 
   deploy-production:
     needs: [prepare, deploy-staging]
+    if: needs.prepare.outputs.should_deploy == 'true'
     runs-on: ubuntu-latest
     timeout-minutes: 15
     permissions:
@@ -137,10 +164,8 @@ jobs:
           path: dist
           github-token: ${{ secrets.GITHUB_TOKEN }}
           run-id: ${{ github.event.workflow_run.id }}
-      - name: Compare dist hash to last release
-        id: hashcheck
-        env:
-          EVENT_NAME: ${{ github.event_name }}
+      - name: Compute dist hash
+        id: hash
         run: |
           cp -r dist dist-hashcheck
           find dist-hashcheck -name '*.html' -print0 |
@@ -148,27 +173,10 @@ jobs:
           hash="$(find dist-hashcheck -type f -print0 | sort -z | xargs -0 sha256sum | sha256sum | cut -d' ' -f1)"
           rm -rf dist-hashcheck
           echo "hash=$hash" >> "$GITHUB_OUTPUT"
-
-          last_tag="$(git for-each-ref --sort=-creatordate --format='%(refname:short)' refs/tags | head -n1)"
-          last_hash="$(git for-each-ref --format='%(contents)' "refs/tags/$last_tag" 2>/dev/null | sed -n 's/^dist-hash: //p')"
-          echo "Current dist hash: $hash (last release $last_tag: ${last_hash:-none})"
-
-          if [ "$EVENT_NAME" = "workflow_dispatch" ]; then
-            skip=false
-          elif [ -n "$last_hash" ] && [ "$hash" = "$last_hash" ]; then
-            skip=true
-          else
-            skip=false
-          fi
-          echo "skip=$skip" >> "$GITHUB_OUTPUT"
-          if [ "$skip" = "true" ]; then
-            echo "### Skipping production deploy — dist unchanged since $last_tag" >> "$GITHUB_STEP_SUMMARY"
-          fi
       - name: Tag release
-        if: steps.hashcheck.outputs.skip != 'true'
         env:
           TAG: ${{ needs.prepare.outputs.tag }}
-          DIST_HASH: ${{ steps.hashcheck.outputs.hash }}
+          DIST_HASH: ${{ steps.hash.outputs.hash }}
         run: |
           existing="$(git ls-remote --tags origin |
             awk -v t="refs/tags/$TAG" '$2 == t "^{}" { peeled = $1 } $2 == t { plain = $1 } END { print (peeled ? peeled : plain) }')"
@@ -185,7 +193,6 @@ jobs:
           git tag -a "$TAG" -m "Release $TAG" -m "dist-hash: $DIST_HASH"
           git push origin "refs/tags/$TAG"
       - name: Deploy to Cloudflare Workers (production)
-        if: steps.hashcheck.outputs.skip != 'true'
         uses: cloudflare/wrangler-action@ebbaa1584979971c8614a24965b4405ff95890e0 # v4.0.0
         with:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}

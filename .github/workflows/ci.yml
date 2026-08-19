@@ -43,6 +43,20 @@ jobs:
           name: release-tag
           path: release-tag.txt
           retention-days: 90
+      - name: Compute dist hash
+        if: github.event_name == 'push'
+        run: |
+          cp -r dist dist-hashcheck
+          find dist-hashcheck -name '*.html' -print0 |
+            xargs -0 sed -i -E 's#(class="version">Version: )[^<]*#\1#'
+          find dist-hashcheck -type f -print0 | sort -z | xargs -0 sha256sum | sha256sum | cut -d' ' -f1 > dist-hash.txt
+          rm -rf dist-hashcheck
+      - uses: actions/upload-artifact@043fb46d1a93c77aae656e7c1c64a875d1fc6a0a # v7.0.1
+        if: github.event_name == 'push'
+        with:
+          name: dist-hash
+          path: dist-hash.txt
+          retention-days: 90
 
   pre-commit:
     runs-on: ubuntu-latest
