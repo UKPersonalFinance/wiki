@@ -405,6 +405,21 @@ eligible to join, but will have to opt-in. Speak to your employer.
 If you're self-employed you will need to arrange your own pension scheme.
 This is a higher priority than it would be otherwise.
 
+### I'm moving abroad, should I bother continuing with my pension?
+
+The advantages of pensions still apply; free money from your employer and 
+tax relief, planning on moving abroad does not change this. 
+The money in your pension is still yours, wherever in the world you move to,
+so don't throw away your opportunity to invest in a pension. 
+You can keep it in the UK and withdraw from it later in life, 
+a number of providers offer "expat SIPPs" for this purpose.
+
+It is potentially possible to transfer your pension overseas to a 
+[Qualifying Recognised Overseas Pension Scheme](https://www.gov.uk/guidance/check-the-recognised-overseas-pension-schemes-notification-list) 
+but [seek professional advice](https://ukpersonal.finance/financial-advice/), there are risks of scams. 
+Be wary of companies offering the opportunity to withdraw your pension now, 
+[no reputable company will do it](https://ukpersonal.finance/scams/#pension-unlocking-schemes).
+
 ### I'm in a Defined Benefit pension scheme 🦄 {#defined-benefit}
 
 Lucky you! Just don't opt out and you're good to go.
