@@ -15,7 +15,7 @@
     "@astrojs/sitemap": "^3.7.3",
     "@astrojs/starlight": "^0.41.7",
     "@inox-tools/star-warp": "^2.0.0",
-    "astro": "7.2.0",
+    "astro": "7.2.2",
     "remark-custom-heading-id": "^2.0.0"
   },
   "devDependencies": {
