@@ -15,7 +15,7 @@
     "@astrojs/sitemap": "^3.7.3",
     "@astrojs/starlight": "^0.41.7",
     "@inox-tools/star-warp": "^2.0.0",
-    "astro": "7.2.0",
+    "astro": "7.2.2",
     "remark-custom-heading-id": "^2.0.0"
   },
   "devDependencies": {
@@ -24,8 +24,8 @@
     "prettier": "3.9.6",
     "prettier-plugin-astro": "0.14.1",
     "sharp": "^0.35.3",
-    "starlight-links-validator": "^0.25.2",
+    "starlight-links-validator": "^0.25.3",
     "typescript": "6.0.3",
-    "wrangler": "^4.119.0"
+    "wrangler": "^4.123.0"
   }
 }
