@@ -84,9 +84,13 @@ This usually resolves itself over the rest of the tax year through paying a redu
 
 ### I receive "benefits in kind" at work. How are they taxed?
 
-You may have joined a workplace Private Medical Insurance (PMI) scheme, or receive other perks on top of your salary. Whilst your employer may cover the costs of these, HMRC consider it to be a form of income, and will apply income tax to the amount. This is usually done via a P11d notice, received in June or July the following tax year, and adjustments are usually made to your tax code to cover it.
+You may have joined a workplace Private Medical Insurance (PMI) scheme, or receive other perks on top of your salary. Whilst your employer may cover the costs of these, HMRC consider it to be a form of income, and will apply income tax to the amount. This is usually done via a P11D notice, received in June or July the following tax year, and adjustments are usually made to your tax code to cover it.
 
-Let's say the cost of your membership in a PMI scheme is £100 / month to your employer - HMRC add that to your salary, and tax the "benefit in kind". They assume you have £1,200 additional income. If you are a basic-rate taxpayer, this will result in £240 more tax for the year, and £480 more if you're a higher-rate taxpayer.
+Let's say the cost of your membership in a PMI scheme is £100 / month to your employer - HMRC add that to your salary, and tax the "benefit in kind". They assume you have £1,200 additional income. If you are a basic-rate taxpayer, this will result in £240 more tax for the year, and £480 more if you're a higher-rate taxpayer. Assuming your tax code is 1257L, it would be reduced to 1137L to represent the additional tax.
+
+Since a P11D notice is often issued mid-year, your tax code might be further reduced to recover the tax owed in earlier months. This means that your month-to-month take home pay might vary.
+
+Instead, some employers will deduct the tax owed for "benefit in kind" directly from your payslip. If this is the case, your tax code generally will not need to be adjusted.
 
 This assumed additional income also impacts your 'Net Adjusted Income', which can have an effect on entitlement to Child Benefit and reduction of tax allowances for high-earners.
 
