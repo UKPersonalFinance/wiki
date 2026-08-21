@@ -36,7 +36,8 @@ party and that additional validation is required. Victim of Impersonation warnin
 
 :::note 
 Protective Registration and Victim of Impersonation markers are fraud-prevention measures,
-not an accusation of fraud. :::
+not an accusation of fraud. 
+:::
 
 ### Fraud marker
 
