@@ -20,7 +20,7 @@ involved in fraudulent activity.
 
 You can voluntarily register for Cifas **Protective Registration** if you are concerned that your
 personal details are at risk of identity fraud. There are countless examples in the history of 
-[r/UKPersonalFinance](www.reddit.com/r/UKPersonalFinance) of family members fraudulently taking out
+[r/UKPersonalFinance](https://www.reddit.com/r/UKPersonalFinance) of family members fraudulently taking out
 credit cards without the knowledge of the person named and running up hidden debts; Protective Registration
 can help reduce this risk. [For a small fee](https://www.cifas.org.uk/pr), it places a warning against 
 your details in the database for **2 years**. When a Cifas member sees your details being used to
