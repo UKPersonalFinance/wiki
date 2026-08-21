@@ -1,5 +1,5 @@
 ---
-title: Cifas markers
+title: Cifas Markers
 description: Understanding Fraud Prevention markers.
 draft: true
 ---
@@ -34,7 +34,8 @@ to use your identity fraudulently. It tells other Cifas members that you are the
 party and that additional validation is required. Victim of Impersonation warnings 
 [remain in place for **13 months**](https://www.cifas.org.uk/services/identity-protection/victim-of-impersonation).
 
-:::note Protective Registration and Victim of Impersonation markers are fraud-prevention measures,
+:::note 
+Protective Registration and Victim of Impersonation markers are fraud-prevention measures,
 not an accusation of fraud. :::
 
 ### Fraud marker
