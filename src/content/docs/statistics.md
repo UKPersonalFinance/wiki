@@ -94,16 +94,16 @@ Note these figures are per household, not per individual.
 
 | Percentile                                                                                          | 5th    | 25th   | 45th   | 55th   | 75th   | 95th    |
 | --------------------------------------------------------------------------------------------------- | ------ | ------ | ------ | ------ | ------ | ------- |
-| Gross income (wages, self employment, investment income, Universal Credit, child benefit, PIP, etc) | 16,094 | 36,610 | 51,379 | 59,637 | 80,043 | 212,363 |
-| Disposable income (after income tax, NI, council tax, student loans)                                | 13,562 | 31,230 | 41,778 | 47,549 | 61,832 | 138,577 |
+| Gross income (wages, self employment, investment income, Universal Credit, child benefit, PIP, etc) | 19,914 | 43,049 | 61,994 | 67,511 | 93,282 | 199,318 |
+| Disposable income (after income tax, NI, council tax, student loans)                                | 15,962 | 35,916 | 49,917 | 54,129 | 71,327 | 134,254 |
 
 _Source: [ONS Table 18, Average household incomes, taxes and benefits of
-non-retired individuals by decile and quintile group, 2021/22](https://www.ons.gov.uk/peoplepopulationandcommunity/personalandhouseholdfinances/incomeandwealth/datasets/householddisposableincomeandinequality)._
+non-retired individuals by decile group, 2023/24](https://www.ons.gov.uk/peoplepopulationandcommunity/personalandhouseholdfinances/incomeandwealth/datasets/householddisposableincomeandinequality)._
 
 The full report contains much more information such as the types of
 direct income and state benefits which make up the total income, and
-the taxes breakdown. There is also an associated [bulletin with some
-analysis and graphs](https://www.ons.gov.uk/peoplepopulationandcommunity/personalandhouseholdfinances/incomeandwealth/bulletins/householddisposableincomeandinequality/financialyearending2022),
+the taxes breakdown. There is also an associated [bulletin (2024) with some
+analysis and graphs](https://www.ons.gov.uk/peoplepopulationandcommunity/personalandhouseholdfinances/incomeandwealth/bulletins/householddisposableincomeandinequality/financialyearending2024),
 and [definitions of terms used](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours/methodologies/aguidetosourcesofdataonearningsandincome).
 
 ## Wealth
