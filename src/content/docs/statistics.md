@@ -40,8 +40,8 @@ explanation of how they work](https://www.bls.gov/oes/oes_perc.htm).
 
 ## Individual income
 
-The tables below are taken from the [2023 Annual Survey for Hours and
-Earnings (ASHE)](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours/bulletins/annualsurveyofhoursandearnings/2023).
+The tables below are taken from the [2025 Annual Survey for Hours and
+Earnings (ASHE)](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours/bulletins/annualsurveyofhoursandearnings/2025).
 The full data set contains many more tables, such as information on
 income and hours worked by industry, gender, ethnic group, parents'
 employment and educational status, household composition, and more.
@@ -51,17 +51,17 @@ see [this guide](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/e
 ### Annual pay for full-time employees by age
 
 | Age           | 10th   | 25th   | 50th (Median) | 75th   | 90th   |
-| ------------- | ------ | ------ | ------------- | ------ | ------ |
-| 18-21         | 13,790 | 17,596 | 22,001        | 25,904 | 31,195 |
-| 22-29         | 21,417 | 25,239 | 31,200        | 39,483 | 50,000 |
-| 30-39         | 23,784 | 29,500 | 38,961        | 51,984 | 70,383 |
-| 40-49         | 24,343 | 30,585 | 42,154        | 57,409 | 81,790 |
-| 50-59         | 23,360 | 28,908 | 39,699        | 55,323 | 79,795 |
-| 60+           | 22,162 | 26,308 | 35,000        | 48,595 | 70,087 |
-| All employees | 22,763 | 27,986 | 37,430        | 51,391 | 72,150 |
+|---------------|--------|--------|---------------|--------|--------|
+| 18-21         | 14,617 | 19,105 | 23,596        | 27,571 | 32,939 |
+| 22-29         | 22,758 | 26,429 | 32,347        | 40,850 | 52,197 |
+| 30-39         | 25,041 | 30,717 | 40,668        | 54,620 | 75,041 |
+| 40-49         | 25,338 | 31,858 | 44,244        | 60,919 | 88,658 |
+| 50-59         | 24,757 | 30,283 | 41,866        | 58,409 | 85,226 |
+| 60            | 23,318 | 27,944 | 36,467        | 50,572 | 74,677 |
+| All employees | 23,990 | 29,262 | 39,039        | 54,009 | 76,903 |
 
 _Source: [ONS ASHE Table 6.7a, Annual pay – Gross (£) for full-time
-employee jobs, United Kingdom, 2024
+employee jobs, United Kingdom, 2025
 Provisional](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours/datasets/agegroupashetable6)._
 
 ### Annual pay for full-time employees by region
