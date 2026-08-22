@@ -122,15 +122,17 @@ for other goals.
 This needs to be given proper consideration against a potentially more
 financially "optimal" solution.
 
-### Your mortgage lender might handle the overpayments in an unexpected way 🤯
+### You might have a choice to reduce the term or reduce the monthly payment ⚖️
 
-Mortgage overpayments can be handled in different ways, depending on your lender and the terms of the mortgage. Most fixed-rate mortgages have limits to overpayments before charging early repayment fees (typically 10% of the remaining balance each year), and if you have multiple loan accounts within one mortgage, each one may carry a different limit.
+Your mortgage lender will either use your overpayments to reduce the term, or the expected monthly payment. You may get a choice which. There are pros and cons to both approaches:
+- Reducing the expected monthly payment increases flexibility at the cost of potentially paying more interest overall, but this can be managed by continuing an 'overpayment' to the original payment amount.
+- Reducing the term has the opposite effect - it will reduce the potential interest payable, but has less flexibility if your circumstances change in the future.
 
-Your lender may use the overpayments to reduce the monthly payments, rather than the term of the mortgage. This doesn't result in the interest savings that most overpayment calculators assume.
+Additionally, some lenders build an 'overpayment account', and if you took a 'payment holiday' or were unable to pay your mortgage for a period of time, the payments would be taken from this 'account' before you were placed in arrears. These types of overpayment accounts are by no means the default, and you should check your mortgage terms before taking any decisions.
 
-Your lender may also record your overpayments within an "overpayment account", and offset that against the mortgage accounts, and make it harder to track the true amount outstanding.
+### The amount you repay may be limited 🛑
 
-Some lenders (but not all!) will allow underpayments or payment holidays offset by overpayments you have already made. These arrangements are generally discretionary and it can be dangerous to rely on them in case they're subsequently removed.
+Most fixed-rate mortgages have limits to overpayments before charging early repayment fees (for example, 10% of the remaining balance each year), and if you have multiple loan accounts within one mortgage, each one may carry a different limit. Check that you won't find yourself paying unexpected fees if you do overpay.
 
 ## Example illustrations 🧮
 
