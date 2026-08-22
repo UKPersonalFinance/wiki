@@ -40,8 +40,8 @@ explanation of how they work](https://www.bls.gov/oes/oes_perc.htm).
 
 ## Individual income
 
-The tables below are taken from the [2023 Annual Survey for Hours and
-Earnings (ASHE)](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours/bulletins/annualsurveyofhoursandearnings/2023).
+The tables below are taken from the [2025 Annual Survey for Hours and
+Earnings (ASHE)](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours/bulletins/annualsurveyofhoursandearnings/2025).
 The full data set contains many more tables, such as information on
 income and hours worked by industry, gender, ethnic group, parents'
 employment and educational status, household composition, and more.
@@ -51,37 +51,37 @@ see [this guide](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/e
 ### Annual pay for full-time employees by age
 
 | Age           | 10th   | 25th   | 50th (Median) | 75th   | 90th   |
-| ------------- | ------ | ------ | ------------- | ------ | ------ |
-| 18-21         | 13,790 | 17,596 | 22,001        | 25,904 | 31,195 |
-| 22-29         | 21,417 | 25,239 | 31,200        | 39,483 | 50,000 |
-| 30-39         | 23,784 | 29,500 | 38,961        | 51,984 | 70,383 |
-| 40-49         | 24,343 | 30,585 | 42,154        | 57,409 | 81,790 |
-| 50-59         | 23,360 | 28,908 | 39,699        | 55,323 | 79,795 |
-| 60+           | 22,162 | 26,308 | 35,000        | 48,595 | 70,087 |
-| All employees | 22,763 | 27,986 | 37,430        | 51,391 | 72,150 |
+|---------------|--------|--------|---------------|--------|--------|
+| 18-21         | 14,617 | 19,105 | 23,596        | 27,571 | 32,939 |
+| 22-29         | 22,758 | 26,429 | 32,347        | 40,850 | 52,197 |
+| 30-39         | 25,041 | 30,717 | 40,668        | 54,620 | 75,041 |
+| 40-49         | 25,338 | 31,858 | 44,244        | 60,919 | 88,658 |
+| 50-59         | 24,757 | 30,283 | 41,866        | 58,409 | 85,226 |
+| 60            | 23,318 | 27,944 | 36,467        | 50,572 | 74,677 |
+| All employees | 23,990 | 29,262 | 39,039        | 54,009 | 76,903 |
 
 _Source: [ONS ASHE Table 6.7a, Annual pay – Gross (£) for full-time
-employee jobs, United Kingdom, 2024
+employee jobs, United Kingdom, 2025
 Provisional](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours/datasets/agegroupashetable6)._
 
 ### Annual pay for full-time employees by region
 
-| Region                   | 10th   | 25th   | 50th (Median) | 75th   | 90th    |
-| ------------------------ | ------ | ------ | ------------- | ------ | ------- |
-| North East               | 21,635 | 25,609 | 32,960        | 44,724 | 59,640  |
-| North West               | 22,137 | 26,729 | 35,170        | 48,284 | 65,572  |
-| Yorkshire and The Humber | 22,103 | 26,505 | 34,401        | 46,618 | 62,733  |
-| East Midlands            | 21,931 | 26,216 | 33,973        | 45,777 | 61,599  |
-| West Midlands            | 22,035 | 26,585 | 34,938        | 47,717 | 63,713  |
-| East                     | 22,451 | 27,904 | 36,949        | 50,409 | 70,052  |
-| London                   | 26,121 | 34,365 | 47,455        | 69,054 | 105,146 |
-| South East               | 23,310 | 29,047 | 39,038        | 53,597 | 74,189  |
-| South West               | 22,269 | 26,916 | 35,634        | 47,012 | 63,735  |
-| Wales                    | 21,923 | 26,340 | 34,303        | 45,470 | 57,750  |
-| Scotland                 | 23,680 | 28,682 | 38,315        | 50,275 | 66,995  |
-| United Kingdom           | 22,763 | 27,986 | 37,430        | 51,391 | 72,150  |
+|  Region                    |  10th    |  25th    |  50th (Median)  |  75th    |  90th     |
+|----------------------------|----------|----------|-----------------|----------|-----------|
+|  North East                | 23,284   | 27,082   | 34,403          | 46,220   | 61,420    |
+|  North West                | 23,400   | 27,992   | 37,361          | 51,167   | 70,142    |
+|  Yorkshire and The Humber  | 23,397   | 27,690   | 35,682          | 48,430   | 65,286    |
+|  East Midlands             | 23,135   | 27,413   | 35,600          | 48,196   | 63,883    |
+|  West Midlands             | 23,279   | 27,951   | 37,064          | 50,611   | 68,285    |
+|  East                      | 23,694   | 29,110   | 38,597          | 52,984   | 74,962    |
+|  London                    | 27,418   | 35,424   | 49,692          | 73,667   | 115,775   |
+|  South East                | 24,138   | 29,704   | 39,983          | 55,000   | 77,370    |
+|  South West                | 23,936   | 28,631   | 37,195          | 50,000   | 68,482    |
+|  Wales                     | 23,621   | 27,865   | 35,796          | 47,569   | 60,628    |
+|  Scotland                  | 24,591   | 29,635   | 39,719          | 52,500   | 71,307    |
+|  United Kingdom            | 23,990   | 29,262   | 39,039          | 54,009   | 76,903    |
 
-_Source: [ONS ASHE Table 25.7a](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours/datasets/earningsandhoursworkedallemployeesashetable25).
+_Source: [ONS ASHE Table 25.7a, 2025 Provisional](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours/datasets/regionbypublicandprivatesectorashetable25).
 For Northern Ireland please see [NISRA's report on their Annual Survey
 of Hours and Earnings](https://www.nisra.gov.uk/statistics/work-pay-and-benefits/annual-survey-hours-and-earnings).
 Unfortunately they have not published percentiles._
@@ -94,27 +94,26 @@ Note these figures are per household, not per individual.
 
 | Percentile                                                                                          | 5th    | 25th   | 45th   | 55th   | 75th   | 95th    |
 | --------------------------------------------------------------------------------------------------- | ------ | ------ | ------ | ------ | ------ | ------- |
-| Gross income (wages, self employment, investment income, Universal Credit, child benefit, PIP, etc) | 16,094 | 36,610 | 51,379 | 59,637 | 80,043 | 212,363 |
-| Disposable income (after income tax, NI, council tax, student loans)                                | 13,562 | 31,230 | 41,778 | 47,549 | 61,832 | 138,577 |
+| Gross income (wages, self employment, investment income, Universal Credit, child benefit, PIP, etc) | 19,914 | 43,049 | 61,994 | 67,511 | 93,282 | 199,318 |
+| Disposable income (after income tax, NI, council tax, student loans)                                | 15,962 | 35,916 | 49,917 | 54,129 | 71,327 | 134,254 |
 
 _Source: [ONS Table 18, Average household incomes, taxes and benefits of
-non-retired individuals by decile and quintile group, 2021/22](https://www.ons.gov.uk/peoplepopulationandcommunity/personalandhouseholdfinances/incomeandwealth/datasets/householddisposableincomeandinequality)._
+non-retired individuals by decile group, 2023/24](https://www.ons.gov.uk/peoplepopulationandcommunity/personalandhouseholdfinances/incomeandwealth/datasets/householddisposableincomeandinequality)._
 
 The full report contains much more information such as the types of
 direct income and state benefits which make up the total income, and
-the taxes breakdown. There is also an associated [bulletin with some
-analysis and graphs](https://www.ons.gov.uk/peoplepopulationandcommunity/personalandhouseholdfinances/incomeandwealth/bulletins/householddisposableincomeandinequality/financialyearending2022),
+the taxes breakdown. There is also an associated [bulletin (2024) with some
+analysis and graphs](https://www.ons.gov.uk/peoplepopulationandcommunity/personalandhouseholdfinances/incomeandwealth/bulletins/householddisposableincomeandinequality/financialyearending2024),
 and [definitions of terms used](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours/methodologies/aguidetosourcesofdataonearningsandincome).
 
 ## Wealth
 
-The tables below come from the [Wealth and Assets survey 2018-2020](https://www.ons.gov.uk/peoplepopulationandcommunity/personalandhouseholdfinances/incomeandwealth/bulletins/distributionofindividualtotalwealthbycharacteristicingreatbritain/april2018tomarch2020).
+> [!WARNING]
+> The wealth tables below come from the [Wealth and Assets survey 2018-2020](https://www.ons.gov.uk/peoplepopulationandcommunity/personalandhouseholdfinances/incomeandwealth/bulletins/distributionofindividualtotalwealthbycharacteristicingreatbritain/april2018tomarch2020). As such, the results of this survey are outdated.
 
-**Important note**: the numbers below include much more than what you
-have in the bank! The definition of 'wealth' used here is: the value of
-all financial assets held (including vehicles, household possessions, as
-well as savings, investments, pensions, property) minus all financial
-liabilities such as credit cards and loans.
+:::note
+The numbers below include much more than what you have in the bank! The definition of 'wealth' used here is the value of all financial assets held (including vehicles, household possessions, savings, investments, pensions and property) minus all financial liabilities such as credit cards and loans.
+:::
 
 ### Average total individual wealth by age
 
@@ -173,15 +172,15 @@ Ireland](https://www.nisra.gov.uk/statistics/people-and-communities).
 
 | Age   | 25th percentile | 50th (median) | 75th percentile |
 | ----- | --------------- | ------------- | --------------- |
-| 16-24 | £1,000          | £2,700        | £9,200          |
-| 25-34 | £2,500          | £9,300        | £28,000         |
-| 35-44 | £6,500          | £30,000       | £96,300         |
-| 45-54 | £18,100         | £75,500       | £226,300        |
-| 55-64 | £28,000         | £107,300      | £291,300        |
-| 65+   | £24,000         | £81,100       | £200,000        |
+| 16-24 | £1,500          | £5,500        | £16,100         |
+| 25-34 | £4,800          | £18,800       | £50,500         |
+| 35-44 | £12,000         | £39,500       | £100,000        |
+| 45-54 | £21,600         | £76,600       | £186,900        |
+| 55-64 | £30,000         | £96,500       | £240,900        |
+| 65+   | £24,500         | £74,800       | £200,000        |
 
 _Source: [ONS Table 6.8, individuals with wealth in pensions not yet in
-payment, Great Britain, April 2018 to March 2020, all pension types](https://www.ons.gov.uk/peoplepopulationandcommunity/personalandhouseholdfinances/incomeandwealth/datasets/pensionwealthwealthingreatbritain)._
+payment, Great Britain, April 2020 to March 2022, all pension types](https://www.ons.gov.uk/peoplepopulationandcommunity/personalandhouseholdfinances/incomeandwealth/datasets/pensionwealthwealthingreatbritain)._
 
 [Saving for retirement in Great Britain: April 2018 to March 2020
 bulletin](https://www.ons.gov.uk/peoplepopulationandcommunity/personalandhouseholdfinances/incomeandwealth/bulletins/pensionwealthingreatbritain/april2018tomarch2020).
@@ -191,24 +190,48 @@ employee contributions, ethnic group, household type and more.
 ### Employer pension contributions
 
 The table below shows what percentage of employees currently enrolled in
-Defined Contribution pension schemes receive each bracket of employer
+**Defined Contribution** pension schemes receive each bracket of employer
 contribution. This excludes employees in Defined Benefit schemes (such
 as in much of the public sector) or no pension scheme. The minimum
 employer contribution under auto-enrolment is 3%.
 
+:::note
+The following table is based on percentage of *Qualifying Earnings*, the portion of an
+employee’s earnings between the government-set lower and upper limits used 
+to calculate minimum workplace pension contributions, and not full pay.
+:::
+
 | Employer contribution to DC scheme | % of employees receiving this |
 | ---------------------------------- | ----------------------------- |
-| Zero                               | 1%                            |
-| Under 4%                           | 49%                           |
-| 4% to <8%                          | 29%                           |
-| 8% to <10%                         | 7%                            |
-| 10% to <12%                        | 5%                            |
-| 12% to <15%                        | 4%                            |
-| 15% to <20%                        | 2%                            |
-| 20% and over                       | 3%                            |
+| Zero                               | *zero*                        |
+| Under 4%                           | 41.2%                         |
+| 4% to <8%                          | 21.2%                         |
+| 8% to <10%                         | 6.6%                          |
+| 10% to <12%                        | 6.0%                          |
+| 12% to <15%                        | 7.2%                          |
+| 15% to <20%                        | 7.2%                          |
+| 20% and over                       | 10.8%                         |
 
-_Source: [ONS ASHE Table P9.1, Employer Contributions, United Kingdom,
-2021](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/workplacepensions/datasets/annualsurveyofhoursandearningspensiontablesemployercontributionbandsbyagegroupandbypensiontypep9)._
+_Source: [ONS ASHE Table P9, Employer Pension Contribution Bands (Percentage of Qualifying Earnings), United Kingdom,
+2024 Provisional](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/workplacepensions/datasets/annualsurveyofhoursandearningspensiontablesemployercontributionbandsbyagegroupandbypensiontypep9)._
+
+:::note
+The following table is based on percentage of full pay
+:::
+
+| Employer contribution to DC scheme | % of employees receiving this |
+| ---------------------------------- | ----------------------------- |
+| Zero                               | *suppressed based on quality* |
+| Under 4%                           | 49.6%                         |
+| 4% to <8%                          | 22.8%                         |
+| 8% to <10%                         | 8.0%                          |
+| 10% to <12%                        | 6.0%                          |
+| 12% to <15%                        | 6.1%                          |
+| 15% to <20%                        | 3.4%                          |
+| 20% and over                       | 4.0%                          |
+
+_Source: [ONS ASHE Table P9, Employer Pension Contribution Bands (Percentage of Full Pay), United Kingdom,
+2024 Provisional](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/workplacepensions/datasets/annualsurveyofhoursandearningspensiontablesemployercontributionbandsbyagegroupandbypensiontypep9)._
 
 ## Find out more
 
