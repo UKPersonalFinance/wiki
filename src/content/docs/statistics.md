@@ -66,22 +66,22 @@ Provisional](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earni
 
 ### Annual pay for full-time employees by region
 
-| Region                   | 10th   | 25th   | 50th (Median) | 75th   | 90th    |
-| ------------------------ | ------ | ------ | ------------- | ------ | ------- |
-| North East               | 21,635 | 25,609 | 32,960        | 44,724 | 59,640  |
-| North West               | 22,137 | 26,729 | 35,170        | 48,284 | 65,572  |
-| Yorkshire and The Humber | 22,103 | 26,505 | 34,401        | 46,618 | 62,733  |
-| East Midlands            | 21,931 | 26,216 | 33,973        | 45,777 | 61,599  |
-| West Midlands            | 22,035 | 26,585 | 34,938        | 47,717 | 63,713  |
-| East                     | 22,451 | 27,904 | 36,949        | 50,409 | 70,052  |
-| London                   | 26,121 | 34,365 | 47,455        | 69,054 | 105,146 |
-| South East               | 23,310 | 29,047 | 39,038        | 53,597 | 74,189  |
-| South West               | 22,269 | 26,916 | 35,634        | 47,012 | 63,735  |
-| Wales                    | 21,923 | 26,340 | 34,303        | 45,470 | 57,750  |
-| Scotland                 | 23,680 | 28,682 | 38,315        | 50,275 | 66,995  |
-| United Kingdom           | 22,763 | 27,986 | 37,430        | 51,391 | 72,150  |
+|  Region                    |  10th    |  25th    |  50th (Median)  |  75th    |  90th     |
+|----------------------------|----------|----------|-----------------|----------|-----------|
+|  North East                | 23,284   | 27,082   | 34,403          | 46,220   | 61,420    |
+|  North West                | 23,400   | 27,992   | 37,361          | 51,167   | 70,142    |
+|  Yorkshire and The Humber  | 23,397   | 27,690   | 35,682          | 48,430   | 65,286    |
+|  East Midlands             | 23,135   | 27,413   | 35,600          | 48,196   | 63,883    |
+|  West Midlands             | 23,279   | 27,951   | 37,064          | 50,611   | 68,285    |
+|  East                      | 23,694   | 29,110   | 38,597          | 52,984   | 74,962    |
+|  London                    | 27,418   | 35,424   | 49,692          | 73,667   | 115,775   |
+|  South East                | 24,138   | 29,704   | 39,983          | 55,000   | 77,370    |
+|  South West                | 23,936   | 28,631   | 37,195          | 50,000   | 68,482    |
+|  Wales                     | 23,621   | 27,865   | 35,796          | 47,569   | 60,628    |
+|  Scotland                  | 24,591   | 29,635   | 39,719          | 52,500   | 71,307    |
+|  United Kingdom            | 23,990   | 29,262   | 39,039          | 54,009   | 76,903    |
 
-_Source: [ONS ASHE Table 25.7a](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours/datasets/earningsandhoursworkedallemployeesashetable25).
+_Source: [ONS ASHE Table 25.7a, 2025 Provisional](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours/datasets/regionbypublicandprivatesectorashetable25).
 For Northern Ireland please see [NISRA's report on their Annual Survey
 of Hours and Earnings](https://www.nisra.gov.uk/statistics/work-pay-and-benefits/annual-survey-hours-and-earnings).
 Unfortunately they have not published percentiles._
