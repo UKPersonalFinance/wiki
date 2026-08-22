@@ -190,24 +190,48 @@ employee contributions, ethnic group, household type and more.
 ### Employer pension contributions
 
 The table below shows what percentage of employees currently enrolled in
-Defined Contribution pension schemes receive each bracket of employer
+**Defined Contribution** pension schemes receive each bracket of employer
 contribution. This excludes employees in Defined Benefit schemes (such
 as in much of the public sector) or no pension scheme. The minimum
 employer contribution under auto-enrolment is 3%.
 
+:::note
+The following table is based on percentage of *Qualifying Earnings*, the portion of an
+employee’s earnings between the government-set lower and upper limits used 
+to calculate minimum workplace pension contributions, and not full pay.
+:::
+
 | Employer contribution to DC scheme | % of employees receiving this |
 | ---------------------------------- | ----------------------------- |
-| Zero                               | 1%                            |
-| Under 4%                           | 49%                           |
-| 4% to <8%                          | 29%                           |
-| 8% to <10%                         | 7%                            |
-| 10% to <12%                        | 5%                            |
-| 12% to <15%                        | 4%                            |
-| 15% to <20%                        | 2%                            |
-| 20% and over                       | 3%                            |
+| Zero                               | *zero*                        |
+| Under 4%                           | 41.2%                         |
+| 4% to <8%                          | 21.2%                         |
+| 8% to <10%                         | 6.6%                          |
+| 10% to <12%                        | 6.0%                          |
+| 12% to <15%                        | 7.2%                          |
+| 15% to <20%                        | 7.2%                          |
+| 20% and over                       | 10.8%                         |
 
-_Source: [ONS ASHE Table P9.1, Employer Contributions, United Kingdom,
-2021](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/workplacepensions/datasets/annualsurveyofhoursandearningspensiontablesemployercontributionbandsbyagegroupandbypensiontypep9)._
+_Source: [ONS ASHE Table P9, Employer Pension Contribution Bands (Percentage of Qualifying Earnings), United Kingdom,
+2024 Provisional](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/workplacepensions/datasets/annualsurveyofhoursandearningspensiontablesemployercontributionbandsbyagegroupandbypensiontypep9)._
+
+:::note
+The following table is based on percentage of full pay
+:::
+
+| Employer contribution to DC scheme | % of employees receiving this |
+| ---------------------------------- | ----------------------------- |
+| Zero                               | *suppressed based on quality* |
+| Under 4%                           | 49.6%                         |
+| 4% to <8%                          | 22.8%                         |
+| 8% to <10%                         | 8.0%                          |
+| 10% to <12%                        | 6.0%                          |
+| 12% to <15%                        | 6.1%                          |
+| 15% to <20%                        | 3.4%                          |
+| 20% and over                       | 4.0%                          |
+
+_Source: [ONS ASHE Table P9, Employer Pension Contribution Bands (Percentage of Full Pay), United Kingdom,
+2024 Provisional](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/workplacepensions/datasets/annualsurveyofhoursandearningspensiontablesemployercontributionbandsbyagegroupandbypensiontypep9)._
 
 ## Find out more
 
