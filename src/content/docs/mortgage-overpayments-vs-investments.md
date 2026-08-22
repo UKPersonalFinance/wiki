@@ -122,6 +122,19 @@ for other goals.
 This needs to be given proper consideration against a potentially more
 financially "optimal" solution.
 
+### You might have a choice to reduce the term or reduce the monthly payment ⚖️
+
+Your mortgage lender will either use your overpayments to reduce the term, or the expected monthly payment. You may get a choice which. There are pros and cons to both approaches:
+
+- Reducing the expected monthly payment increases flexibility at the cost of potentially paying more interest overall, but this can be managed by continuing an 'overpayment' to the original payment amount.
+- Reducing the term has the opposite effect - it will reduce the potential interest payable, but has less flexibility if your circumstances change in the future.
+
+Additionally, some lenders build an 'overpayment account', and if you took a 'payment holiday' or were unable to pay your mortgage for a period of time, the payments would be taken from this 'account' before you were placed in arrears. These types of overpayment accounts are by no means the default, and you should check your mortgage terms before taking any decisions.
+
+### The amount you repay may be limited 🛑
+
+Most fixed-rate mortgages have limits to overpayments before charging early repayment fees (for example, 10% of the remaining balance each year), and if you have multiple loan accounts within one mortgage, each one may carry a different limit. Check that you won't find yourself paying unexpected fees if you do overpay.
+
 ## Example illustrations 🧮
 
 The table below illustrates a 30 year, £200,000 mortgage with a 2%
