@@ -107,8 +107,8 @@ analysis and graphs](https://www.ons.gov.uk/peoplepopulationandcommunity/persona
 and [definitions of terms used](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours/methodologies/aguidetosourcesofdataonearningsandincome).
 
 ## Wealth
-:::note
-The tables below come from the [Wealth and Assets survey 2018-2020](https://www.ons.gov.uk/peoplepopulationandcommunity/personalandhouseholdfinances/incomeandwealth/bulletins/distributionofindividualtotalwealthbycharacteristicingreatbritain/april2018tomarch2020). As such, the results of this survey are outdated.
+:::warning
+The wealth tables below come from the [Wealth and Assets survey 2018-2020](https://www.ons.gov.uk/peoplepopulationandcommunity/personalandhouseholdfinances/incomeandwealth/bulletins/distributionofindividualtotalwealthbycharacteristicingreatbritain/april2018tomarch2020). As such, the results of this survey are outdated.
 :::
 
 :::note
