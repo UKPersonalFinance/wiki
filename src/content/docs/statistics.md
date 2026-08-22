@@ -172,15 +172,15 @@ Ireland](https://www.nisra.gov.uk/statistics/people-and-communities).
 
 | Age   | 25th percentile | 50th (median) | 75th percentile |
 | ----- | --------------- | ------------- | --------------- |
-| 16-24 | £1,000          | £2,700        | £9,200          |
-| 25-34 | £2,500          | £9,300        | £28,000         |
-| 35-44 | £6,500          | £30,000       | £96,300         |
-| 45-54 | £18,100         | £75,500       | £226,300        |
-| 55-64 | £28,000         | £107,300      | £291,300        |
-| 65+   | £24,000         | £81,100       | £200,000        |
+| 16-24 | £1,500          | £5,500        | £16,100         |
+| 25-34 | £4,800          | £18,800       | £50,500         |
+| 35-44 | £12,000         | £39,500       | £100,000        |
+| 45-54 | £21,600         | £76,600       | £186,900        |
+| 55-64 | £30,000         | £96,500       | £240,900        |
+| 65+   | £24,500         | £74,800       | £200,000        |
 
 _Source: [ONS Table 6.8, individuals with wealth in pensions not yet in
-payment, Great Britain, April 2018 to March 2020, all pension types](https://www.ons.gov.uk/peoplepopulationandcommunity/personalandhouseholdfinances/incomeandwealth/datasets/pensionwealthwealthingreatbritain)._
+payment, Great Britain, April 2020 to March 2022, all pension types](https://www.ons.gov.uk/peoplepopulationandcommunity/personalandhouseholdfinances/incomeandwealth/datasets/pensionwealthwealthingreatbritain)._
 
 [Saving for retirement in Great Britain: April 2018 to March 2020
 bulletin](https://www.ons.gov.uk/peoplepopulationandcommunity/personalandhouseholdfinances/incomeandwealth/bulletins/pensionwealthingreatbritain/april2018tomarch2020).
