@@ -107,9 +107,8 @@ analysis and graphs](https://www.ons.gov.uk/peoplepopulationandcommunity/persona
 and [definitions of terms used](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours/methodologies/aguidetosourcesofdataonearningsandincome).
 
 ## Wealth
-:::warning
-The wealth tables below come from the [Wealth and Assets survey 2018-2020](https://www.ons.gov.uk/peoplepopulationandcommunity/personalandhouseholdfinances/incomeandwealth/bulletins/distributionofindividualtotalwealthbycharacteristicingreatbritain/april2018tomarch2020). As such, the results of this survey are outdated.
-:::
+> [!WARNING]
+> The wealth tables below come from the [Wealth and Assets survey 2018-2020](https://www.ons.gov.uk/peoplepopulationandcommunity/personalandhouseholdfinances/incomeandwealth/bulletins/distributionofindividualtotalwealthbycharacteristicingreatbritain/april2018tomarch2020). As such, the results of this survey are outdated.
 
 :::note
 The numbers below include much more than what you have in the bank! The definition of 'wealth' used here is the value of all financial assets held (including vehicles, household possessions, savings, investments, pensions and property) minus all financial liabilities such as credit cards and loans.
