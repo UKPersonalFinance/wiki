@@ -125,6 +125,7 @@ financially "optimal" solution.
 ### You might have a choice to reduce the term or reduce the monthly payment ⚖️
 
 Your mortgage lender will either use your overpayments to reduce the term, or the expected monthly payment. You may get a choice which. There are pros and cons to both approaches:
+
 - Reducing the expected monthly payment increases flexibility at the cost of potentially paying more interest overall, but this can be managed by continuing an 'overpayment' to the original payment amount.
 - Reducing the term has the opposite effect - it will reduce the potential interest payable, but has less flexibility if your circumstances change in the future.
 
