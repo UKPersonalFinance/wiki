@@ -48,7 +48,7 @@ You may be wondering what a budget of e.g. £20,000 or £50,000 will actually co
 
 Because it is very hard to intuitively understand what £20,000 is likely to be 'worth' at some far point in the future, retirement planning tools work in 'today's money'. So when you plan a budget of £20,000 or £50,000, what that means is 'a budget that will have around the same purchasing power as £... has today'. The actual numbers in your bank account in 2060 will be different, but you don't need to worry about what they will be. You can use the ones that are current and familiar to you.
 
-This is done is by accounting for inflation within the estimates for your pension growth. For example, if you assume inflation averages 2.5% year on year, that means 2.5% of your investment growth is used up just keeping up with inflation. Only growth above inflation is 'real' growth.
+This is done by accounting for inflation within the estimates for your pension growth. For example, if you assume inflation averages 2.5% year on year, that means 2.5% of your investment growth is used up just keeping up with inflation. Only growth above inflation is 'real' growth.
 
 If you use a 'real' (after inflation) growth % in your calculations, you can treat the resulting numbers as in 'today's money'.
 
