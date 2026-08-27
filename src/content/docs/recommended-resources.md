@@ -8,8 +8,6 @@ head:
       content: https://ukpersonal.finance/social/recommended-resources.png
 ---
 
-![Recommended Resources](../../assets/images/recommended-resources-hero.png)
-
 There's always more to learn, and we have picked some of the best websites,
 books, podcasts and videos below.
 
@@ -38,8 +36,8 @@ Lessons for Beginners](https://monevator.com/tag/investing-lessons/).
 
 :::caution[️YouTube warning]
 Like most social media sites, when it comes to financial content YouTube is
-plagued with [scams, bogus get-rich-quick
-schemes](/scams/), and misinformation – be careful
+plagued with [scams](/scams/), [bogus get-rich-quick
+schemes](/passive-income/) and misinformation – be careful
 when searching for things to watch. However there is also some great quality
 content available. We have some recommendations below.
 :::
