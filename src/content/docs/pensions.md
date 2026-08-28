@@ -416,9 +416,9 @@ a number of providers offer "expat SIPPs" for this purpose.
 
 It is potentially possible to transfer your pension overseas to a
 [Qualifying Recognised Overseas Pension Scheme](https://www.gov.uk/guidance/check-the-recognised-overseas-pension-schemes-notification-list)
-but [seek professional advice](https://ukpersonal.finance/financial-advice/), there are risks of scams.
+but [seek professional advice](/financial-advice/), there are risks of scams.
 Be wary of companies offering the opportunity to withdraw your pension now,
-[no reputable company will do it](https://ukpersonal.finance/scams/#pension-unlocking-schemes).
+[no reputable company will do it](/scams/#pension-unlocking-schemes).
 
 ### I'm in a Defined Benefit pension scheme 🦄 {#defined-benefit}
 
