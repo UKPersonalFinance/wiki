@@ -83,7 +83,7 @@ Remember, this guide is focusing on the throwaway short term accounts. The next 
 **Resources**
 
 - [Foundation - Best Bank Accounts Comparison](https://www.moneysavingexpert.com/banking/compare-best-bank-accounts)
-- [Bank Account Savings Calculator](https://www.bankaccountsavings.co.uk/calculator)
+- [Bank Account Savings Calculator](https://www.bankaccountsavings.co.uk)
 - [Direct Debit Qualifiers](https://littledebits.co.uk/)
 
 **Overview**
@@ -96,7 +96,7 @@ I would advise on creating an account and benefit ecosystem that is tailored for
 
 - 1 Cashback Account for bills – if you manage the bills it makes sense to get an account that gives you cashback on them. I chose the Santander 123 account as my bills account because in addition it gives me cashback on my Santander mortgage as well as interest, even if that has gone down.
 - 1 Packaged Account for insurance and benefits useful to you – if there is a bank account which has multiple benefits you are likely to use at a reasonable cost go for it. I travel a lot, like a good smartphone, have a car and am kitting out a house, so the premium travel + phone insurance, breakdown cover and extended warranty of the [Nationwide Flexplus](https://www.nationwide.co.uk/products/current-accounts/flexplus/features-and-benefits) is ideal
-- 1+ Higher Interest Accounts with or without additional benefits – these accounts are useful places to park your cash for the highest interest if you still wish for your cash to remain accessible. Whether this is your sole focus or only an option, you may wish to use the [Bank Account Savings Calculator](https://www.bankaccountsavings.co.uk/calculator) and by plugging in the amount you have available select the optimum accounts to max interest in a current account or regular saver. Bear in mind that some of these might also have additional benefits worth considering, such as the [Lloyds Club account](https://www.lloydsbank.com/current-accounts/all-accounts/club-lloyds.asp) which gives 6 cinema tickets, a magazine subscription or Gourmet Society membership.
+- 1+ Higher Interest Accounts with or without additional benefits – these accounts are useful places to park your cash for the highest interest if you still wish for your cash to remain accessible. Whether this is your sole focus or only an option, you may wish to use the [Bank Account Savings Calculator](https://www.bankaccountsavings.co.uk) and by plugging in the amount you have available select the optimum accounts to max interest in a current account or regular saver. Bear in mind that some of these might also have additional benefits worth considering, such as the [Lloyds Club account](https://www.lloydsbank.com/current-accounts/all-accounts/club-lloyds.asp) which gives 6 cinema tickets, a magazine subscription or Gourmet Society membership.
 - Any other accounts that gives a net positive benefit or ongoing bonuses whilst being manageable and that you can remain eligible for just for jumping through their hoops – for instance if you have a Barclays account and add [Barclays Blue Rewards](https://www.barclays.co.uk/PersonalBanking/P1242689794073) for the £4 a month, or [Halifax Rewards](https://www.halifax.co.uk/bankaccounts/current-accounts/reward-current-account/) for £3 a month. I have both.
 
 **Eligibility Criteria**
