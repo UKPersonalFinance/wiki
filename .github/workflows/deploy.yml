@@ -169,7 +169,7 @@ jobs:
         run: |
           cp -r dist dist-hashcheck
           find dist-hashcheck -name '*.html' -print0 |
-            xargs -0 sed -i -E 's#(class="version">Version: )[^<]*#\1#'
+            xargs -0 sed -i -E 's#(class="version[^"]*">Version: )[^<]*#\1#'
           hash="$(find dist-hashcheck -type f -print0 | sort -z | xargs -0 sha256sum | sha256sum | cut -d' ' -f1)"
           rm -rf dist-hashcheck
           echo "hash=$hash" >> "$GITHUB_OUTPUT"
