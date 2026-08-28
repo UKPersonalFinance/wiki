@@ -124,8 +124,8 @@ Obviously, with bigger investments and longer terms, the difference in
 after-costs returns increases.
 
 Now, Vanguard and the others invest money in fundamentally different
-ways. (Most) Vanguard funds are [passive index trackers](http://www.investopedia.com/terms/p/passiveinvesting.asp), whereas the
-others are [active managers](http://www.investopedia.com/terms/a/activeinvesting.asp) who claim to have the skill to outperform
+ways. (Most) Vanguard funds are [passive index trackers](https://www.investopedia.com/terms/p/passiveinvesting.asp), whereas the
+others are [active managers](https://www.investopedia.com/terms/a/activeinvesting.asp) who claim to have the skill to outperform
 investment markets, thus in theory commanding (and justifying) those
 additional fees.
 
@@ -139,7 +139,7 @@ If you already hold investments, ask your provider.
 
 ### Brokers and platforms
 
-If you are considering investing, Monevator have a [comparison table](http://monevator.com/compare-uk-cheapest-online-brokers/) of
+If you are considering investing, Monevator have a [comparison table](https://monevator.com/compare-uk-cheapest-online-brokers/) of
 platforms. Most fund costs are equivalent between brokers, so as a DIY
 investor the key decision is finding a low-cost broker that meets your
 needs.

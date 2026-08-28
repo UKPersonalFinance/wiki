@@ -143,7 +143,7 @@ cash into different envelopes labelled for a specific purpose e.g. food,
 bills, clothing, etc. It's a popular system which is very effective for
 both over- and under-spenders.
 
-**[YNAB](http://www.youneedabudget.com/)** (34 day free trial, $109/year) – The original (and arguably best)
+**[YNAB](https://www.youneedabudget.com/)** (34 day free trial, $109/year) – The original (and arguably best)
 digital envelope budgeting software. Commonly recommended, loved by its
 users and has a friendly and encouraging [subreddit](https://reddit.com/r/ynab/). It can automatically
 connect to UK banks to import your transactions. However, it is pricey

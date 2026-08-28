@@ -24,7 +24,7 @@ While on paper it looks like it would be great to stay invested in the market wh
 
 This has been extensively studied and written about. Check out our [recommended resources](/recommended-resources/) for some book-length explanations. For a shorter introduction on why market timing is **A Bad Idea**, see [this blog article on Bogleheads](https://web.archive.org/web/20190220214022/https://www.bogleheads.org/blog/bogleheads-principles-never-try-to-time-the-market/).
 
-If that doesn't convince you, maybe one of these pithy quotes will: [The Smartest Things Ever Said About Market Timing](http://www.cbsnews.com/news/the-smartest-things-ever-said-about-market-timing/) from CBS.
+If that doesn't convince you, maybe one of these pithy quotes will: [The Smartest Things Ever Said About Market Timing](https://www.cbsnews.com/news/the-smartest-things-ever-said-about-market-timing/) from CBS.
 
 Note that these principles don't only apply to active or day traders looking to make money off short term fluctuations in prices, but also to long term investors who might be tempted to hold off investing and wait for the bottom of a crash before entering the market.
 
@@ -74,7 +74,7 @@ Note that there are some important additional considerations around your LTV and
 
 When there is global political uncertainty we often see questions asking when the right time to exchange money to/from USD/CAD/EUR etc.
 
-Martin Lewis (of Moneysavingexpert fame) wrote a [great blog post about how to make these decisions.](http://blog.moneysavingexpert.com/2016/06/14/the-eu-referendums-hit-the-pound-should-you-buy-euros-and-other-holiday-currency-now-for-the-summer-2/) This post was written before Brexit but the points are all still valid.
+Martin Lewis (of Moneysavingexpert fame) wrote a [great blog post about how to make these decisions.](https://blog.moneysavingexpert.com/2016/06/14/the-eu-referendums-hit-the-pound-should-you-buy-euros-and-other-holiday-currency-now-for-the-summer-2/) This post was written before Brexit but the points are all still valid.
 
 Regular poster /u/pflurklurk summarised the issues concisely:
 
@@ -100,7 +100,7 @@ Forex (or 'FX') trading means buying and selling currencies in an attempt to mak
 
 Forex trading is heavily advertised on platforms like Instagram and YouTube. Unfortunately these 'get rich quick' schemes are invariably some form of [scam](/scams/) - whether they make money off selling people their online courses, or by getting victims to pay into a scam investment scheme.
 
-- [Why Forex (Foreign Currency Trading) Is Useless and Dangerous for Most Investors](http://www.obliviousinvestor.com/why-forex-foreign-currency-trading-is-useless-and-dangerous-for-most-investors/)
+- [Why Forex (Foreign Currency Trading) Is Useless and Dangerous for Most Investors](https://www.obliviousinvestor.com/why-forex-foreign-currency-trading-is-useless-and-dangerous-for-most-investors/)
 - [How to spot a forex (FX) trading scam](https://www.lovemoney.com/news/78126/spot-forex-fx-trading-scam-real-fake-currency)
 
 ## Crypto 🪙

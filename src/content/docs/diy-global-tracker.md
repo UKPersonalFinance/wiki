@@ -7,7 +7,7 @@ description: How to build your own global equity tracker from regional index fun
 This article was originally written a few years ago, when low-cost world index trackers were not widely available. The complexity of running your own DIY global tracker is now likely not worth the much smaller fee saving.
 :::
 
-You may have read threads in the subreddit, or other sources such as [Monevator](http://monevator.com/) or Tim Hale's Smarter Investing, about passive investing and decided that the best thing for you to invest your money in is a global equity tracker.
+You may have read threads in the subreddit, or other sources such as [Monevator](https://monevator.com/) or Tim Hale's Smarter Investing, about passive investing and decided that the best thing for you to invest your money in is a global equity tracker.
 
 That's easy, since there are funds out there that do exactly that, and they are the best path for 99% of investors. [You can read about them here](/index-funds/). The following article shows a much more complex approach which might save a small amount of money for those with over £100k of investments.
 
@@ -32,7 +32,7 @@ Despite the hassles of the DIY approach, the savings add up to thousands of poun
 
 ## Determining global sector weightings
 
-You've taken the plunge and decided to build your own global tracker! The first step is the hardest: determining the global sector weightings. To complicate matters, there are three companies ([MSCI Inc.](https://www.msci.com/world), [S&P Dow Jones](https://www.spglobal.com/spdji/en/), and [FTSE Russell](http://www.ftserussell.com/)) that deal in indices and they all have their own unique methodologies for determining what is included in a particular index, but that's for another post! We won't worry about the fine details too much as the weightings turn out to be very similar, to within 2% or 3% of each other. You can also use [the allocation that Vanguard publish](https://www.vanguardinvestor.co.uk/investments/vanguard-ftse-global-all-cap-index-fund-gbp-income-shares/portfolio-data).
+You've taken the plunge and decided to build your own global tracker! The first step is the hardest: determining the global sector weightings. To complicate matters, there are three companies ([MSCI Inc.](https://www.msci.com/world), [S&P Dow Jones](https://www.spglobal.com/spdji/en/), and [FTSE Russell](https://www.ftserussell.com/)) that deal in indices and they all have their own unique methodologies for determining what is included in a particular index, but that's for another post! We won't worry about the fine details too much as the weightings turn out to be very similar, to within 2% or 3% of each other. You can also use [the allocation that Vanguard publish](https://www.vanguardinvestor.co.uk/investments/vanguard-ftse-global-all-cap-index-fund-gbp-income-shares/portfolio-data).
 
 We also need to decide how granular our investment strategy is going to be. The simplest option is to buy two funds only, such as:
 
@@ -95,7 +95,7 @@ So the emerging markets as a percentage of the global market is
 
 That suggests an allocation of 18% or so is suitable for emerging markets, according to the S&P indices.
 
-Let's look at the FTSE Russell indices now. Thankfully they give us the market cap directly, so that's one less calculation! In fact, the FTSE Russell All-World Index's factsheet helpfully includes the data for Emerging Markets in its Index Characteristics table so we don't need to look for the factsheet of the FTSE Emerging Market index! In the Index Characteristics table on page 3 of the FTSE Russell All-World Index [factsheet](http://www.ftse.com/Analytics/FactSheets/Home/DownloadSingleIssue/GAE?issueName=AWORLDS), the market cap of the global index is $40,310,065 million while the market cap of the emerging markets index is $3,696,279 million. So our calculation is
+Let's look at the FTSE Russell indices now. Thankfully they give us the market cap directly, so that's one less calculation! In fact, the FTSE Russell All-World Index's factsheet helpfully includes the data for Emerging Markets in its Index Characteristics table so we don't need to look for the factsheet of the FTSE Emerging Market index! In the Index Characteristics table on page 3 of the FTSE Russell All-World Index [factsheet](https://www.ftse.com/Analytics/FactSheets/Home/DownloadSingleIssue/GAE?issueName=AWORLDS), the market cap of the global index is $40,310,065 million while the market cap of the emerging markets index is $3,696,279 million. So our calculation is
 
 (3,696,279 ÷ 40,310,065) × 100% = 9.17%
 
@@ -157,6 +157,6 @@ You could also add in some bonds or REITs to diversify if you want. This guide c
 
 Assuming that you rebalance at most once a year, you should check the global weightings before rebalancing so that you can rebalance to the current global weightings instead of the global weightings that were current at the time you created your portfolio.
 
-Finally, don't forget to invest in the cheapest funds/ETFs and the cheapest brokers for your investment habits! Do some research on the cheapest funds/ETFs and look at [Monevator's list of cheapest brokers](http://monevator.com/compare-uk-cheapest-online-brokers/) to determine which broker is best for you.
+Finally, don't forget to invest in the cheapest funds/ETFs and the cheapest brokers for your investment habits! Do some research on the cheapest funds/ETFs and look at [Monevator's list of cheapest brokers](https://monevator.com/compare-uk-cheapest-online-brokers/) to determine which broker is best for you.
 
 Happy investing!

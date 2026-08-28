@@ -162,7 +162,7 @@ You may also be interested in…
   re-issues and updates available in print form. Very sound basic financial
   advice written as compelling parables from the age of Babylon. Still
   accessible and helpful reading today.
-- **[Berkshire Hathaway's annual shareholder letters – Warren Buffett](http://www.berkshirehathaway.com/letters/letters.html)**:
+- **[Berkshire Hathaway's annual shareholder letters – Warren Buffett](https://www.berkshirehathaway.com/letters/letters.html)**:
   A series of essays over the years from the world's most successful
   investor. Makes interesting reading!
 

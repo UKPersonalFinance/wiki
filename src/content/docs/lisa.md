@@ -110,5 +110,5 @@ If you have savings in both a H2B ISA and a LISA, you cannot get both bonuses du
 ## Other resources 📚 {#other-resources}
 
 - The [government guide to LISAs](https://lifetimeisa.campaign.gov.uk/)
-- The [MoneySavingExpert guide to LISAs](http://www.moneysavingexpert.com/savings/lifetime-ISAs) and their [guide to H2B ISAs](https://www.moneysavingexpert.com/savings/help-to-buy-isa/)
+- The [MoneySavingExpert guide to LISAs](https://www.moneysavingexpert.com/savings/lifetime-ISAs) and their [guide to H2B ISAs](https://www.moneysavingexpert.com/savings/help-to-buy-isa/)
 - The [Treasury technical note on LISA design](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/553333/Lifetime_ISA_technical_note_September_2016_update.pdf).

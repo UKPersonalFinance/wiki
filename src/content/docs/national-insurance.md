@@ -17,9 +17,9 @@ After the Second World War, the Welfare State was established - which piggybacke
 
 Sidestepping the politics of it all, the primary enactments relating to National Insurance are:
 
-- the [Social Security Contributions and Benefits Act 1992](http://www.legislation.gov.uk/ukpga/1992/4/pdfs/ukpga_19920004_300617_en.pdf),
-- the [Social Security Administration Act 1992](http://www.legislation.gov.uk/ukpga/1992/5/pdfs/ukpga_19920005_310817_en.pdf), and,
-- [The Social Security (Contributions) Regulations 2001](http://www.legislation.gov.uk/uksi/2001/1004/pdfs/uksi_20011004_300617_en.pdf)
+- the [Social Security Contributions and Benefits Act 1992](https://www.legislation.gov.uk/ukpga/1992/4/pdfs/ukpga_19920004_300617_en.pdf),
+- the [Social Security Administration Act 1992](https://www.legislation.gov.uk/ukpga/1992/5/pdfs/ukpga_19920005_310817_en.pdf), and,
+- [The Social Security (Contributions) Regulations 2001](https://www.legislation.gov.uk/uksi/2001/1004/pdfs/uksi_20011004_300617_en.pdf)
 
 All have been amended countless times.
 
@@ -47,7 +47,7 @@ The account was called "the Account of Her Majesty's Exchequer" at the Bank of E
 
 For any money to be paid out of the Consolidated Fund, requires Parliamentary approval - for which this country fought civil war over.
 
-That occurs in the form of annual Appropriation Acts - such as, [Supply and Appropriation (Main Estimates) Act 2017](http://www.legislation.gov.uk/ukpga/2017/31/contents/enacted/data.htm).
+That occurs in the form of annual Appropriation Acts - such as, [Supply and Appropriation (Main Estimates) Act 2017](https://www.legislation.gov.uk/ukpga/2017/31/contents/enacted/data.htm).
 
 However, absent from those Acts are money that goes into, e.g. the DWP to pay benefits specifed from the SSCBA 1992.
 

@@ -81,7 +81,7 @@ Never pay for your credit reports! You do not need to pay for any of the
 credit reference agencies' expensive credit scoring products – you have a
 legal right to access your reports free-of-charge. If you've paid for
 Experian's "CreditExpert" service, you may have been mis-sold. See
-[Money Saving Expert](http://www.moneysavingexpert.com/reclaim/experian-creditexpert-reclaiming)
+[Money Saving Expert](https://www.moneysavingexpert.com/reclaim/experian-creditexpert-reclaiming)
 for further details.
 
 Even small errors on your files at the three credit reference agencies –
