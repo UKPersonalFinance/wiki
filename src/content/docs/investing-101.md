@@ -49,7 +49,7 @@ retirement using cash savings. Investing your money allows your savings to
 grow faster than inflation.
 
 Since 1900, investing in equities for a long term has produced an annual,
-after-inflation return of 4.9% (see [page 93, 'Long-term asset returns'](https://am.jpmorgan.com/gb/en/asset-management/adv/insights/market-insights/guide-to-the-markets/)).
+after-inflation return of 5.1% (see [page 93, 'Long-term asset returns'](https://am.jpmorgan.com/gb/en/asset-management/adv/insights/market-insights/guide-to-the-markets/)).
 However over the short-term the values can fluctuate wildly – for example,
 global stock markets fell by over 20% in a single month between February
 and March 2020 as the COVID pandemic hit. For this reason it is incredibly
