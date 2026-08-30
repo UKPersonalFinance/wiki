@@ -25,7 +25,7 @@ To report and pay your tax, you will need to file a self assessment tax return. 
 It is your responsibility to keep good records and be aware of any tax that is owed. 
 :::
 
-#### Income tax
+### Income tax
 
 Income tax is charged on both interest and dividends, but is very rarely taken at source, and so needs to be settled with HMRC separately, either via Self Assessment Tax Return or via your tax code, if HMRC allow that option.
 
