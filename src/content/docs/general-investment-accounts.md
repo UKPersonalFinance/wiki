@@ -7,6 +7,10 @@ draft: true
 
 A General Investment Account (GIA) (also known as taxable investment accounts and unwrapped investment accounts) is an account run by an investment [broker/platform](which-broker-should-i-use/) for you to buy and sell shares and funds. Capital gains within the account are subject to capital gains tax, and dividends and interest are subject to income tax.
 
+Unlike an ISA or a pension it isn't a 'tax wrapper', it's simply an account holding investments in your own name, so ordinary tax rules apply. Capital gains within the account are subject to capital gains tax, and dividends and interest are subject to income tax.
+
+Because there's no wrapper, there's no contribution limit. A GIA can also be held jointly with someone else, which an ISA or a pension can't.
+
 ## Why use one?
 
 GIAs are generally used when contribution limits have been reached on more tax-advantaged accounts (like [ISAs](/isa/) and [pensions](/pensions/)), or when pension contributions are still possible, but the timeline of the investment doesn't match.
