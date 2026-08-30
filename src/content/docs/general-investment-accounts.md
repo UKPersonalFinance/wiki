@@ -4,8 +4,6 @@ description: What general investment accounts are, how they work, and how they'r
 draft: true
 ---
 
-If you've used your ISA allowance, but still have money left to invest, you may be considering using a GIA (a taxable investment account). These have no limits on your contributions, but are subject to tax. 
-
 ## Should you use a GIA?
 
 If you have ISA allowance left, you should use that first. 
@@ -16,8 +14,8 @@ Also seriously consider using a pension. (link/elaborate more)
 
 Two taxes are applicable when investing in a GIA:
 
-* Dividends and interest are subject to income tax
-* Capital gains within the account are subject to capital gains tax
+- Dividends and interest are subject to income tax
+- Capital gains within the account are subject to capital gains tax
 
 To report and pay your tax, you will need to file a self assessment tax return. (Or can you use the real time capital gains + something else for income tax?)
 
