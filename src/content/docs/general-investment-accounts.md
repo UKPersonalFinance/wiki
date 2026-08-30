@@ -169,6 +169,12 @@ It is also not always possible to buy 'fractional shares' of an ETF, unless the 
 
 Outside of the issues of overseas funds, the decision generally comes down to relative cost and administrative convenience.
 
+:::caution
+One quirk of many ETFs is that the funds operate in USD, even if they're UK-domiciled. This means that dividends from distributing funds may be paid in USD, and may trigger a foreign exchange charge from your broker to convert back to GBP.
+
+Most ETFs will contain the currency they use in the title of the fund, i.e. VWRL "Vanguard FTSE All-World UCITS ETF (USD) Distributing"
+:::
+
 ### Overseas shares held directly
 
 Whilst not the focus of this wiki, it should be noted that shares in overseas companies held directly are taxed on the same basis as UK shares, but the country the company is in may deduct withholding tax before the dividend reaches you. 
@@ -183,7 +189,7 @@ Shares priced in a foreign currency also have to be pooled in sterling, converti
 
 Transferring the same funds or shares to a new platform without selling them, usually described as an in specie or stock transfer, isn't a disposal. This means that the Section 104 pool shouldn't be affected. However, the new platform won't have the cost history, so it needs to be kept separately.
 
-Transferring by selling everything and rebuying on the other side, which is sometimes offered as the faster option, is a disposal of the entire holding. It can produce a large and completely avoidable tax bill, as well as leaving the money out of the market while it moves.
+Transferring by selling everything and rebuying at the new broker, which is sometimes offered as the faster option, is a disposal of the entire holding. It can produce a large and completely avoidable tax bill, as well as leaving the money out of the market while it moves.
 
 ### Transfers between spouses and civil partners
 
