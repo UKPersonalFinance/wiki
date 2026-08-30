@@ -4,6 +4,8 @@ description: What general investment accounts are, how they work, and how they'r
 draft: true
 ---
 
+If you've used your ISA allowance, but still have money left to invest, you may be considering using a GIA (a taxable investment account). These have no limits on your contributions or withdrawals, but your investments are subject to tax. 
+
 ## Should you use a GIA?
 
 If you have ISA allowance left, you should use that first. 
