@@ -76,11 +76,9 @@ These technology platforms are different to [online investment brokers](/which-b
 
 If you bought an unsuitable investment with an online investment broker, it would be on an _execution only basis_. Basically, you would be responsible, and have no right to complain about it. In contrast, if you felt that the investments recommended by a robo-adviser were unsuitable, you would have a right to complain about them.
 
-```
-Fees: Robo-advisers tend not to charge an upfront fee, and instead charge a percentage of your invested funds each year, for ongoing use of their service.
-
-Wealth required: any money available to invest. Typically designed to be accessible to all.
-```
+> **Fees:** Robo-advisers tend not to charge an upfront fee, and instead charge a percentage of your invested funds each year, for ongoing use of their service.
+> 
+> **Wealth required:** any money available to invest. Typically designed to be accessible to all.
 
 ### Transactional adviser/broker
 
@@ -90,11 +88,9 @@ There are other examples of transactional advice. You may want to ensure your fa
 
 Another example would be taking transactional-only advice from a traditional financial adviser (see below), or stockbroker.
 
-```
-Fees: Transactional advisers may charge you a direct fee, and may also receive a fee or commission from a mortgage lender or life insurance provider. To assess the value, make sure you consider the total cost, including any commissions paid.
-
-Wealth required: N/A as typically insurance or mortgage related.
-```
+> **Fees:** Transactional advisers may charge you a direct fee, and may also receive a fee or commission from a mortgage lender or life insurance provider. To assess the value, make sure you consider the total cost, including any commissions paid.
+> 
+> **Wealth required:** N/A as typically insurance or mortgage related.
 
 ### "Traditional" financial adviser/wealth manager
 
@@ -104,13 +100,11 @@ These firms may be small and '**independent**', or part of larger networks where
 
 Services involve matching products to your personal circumstances, needs and objectives, and providing ongoing review of these products for an ongoing fee.
 
-```
-Fees: Traditional financial advisers generally charge fees as a percentage of invested assets. They may include fixed or minimum initial fees, and ongoing fees. There are many variations on specific fee styles, though.
-
-A typical fee structure might look like: Initial fee of 2% of invested assets subject to a minimum fee of £2,000, and an ongoing fee of 0.75% of invested assets.
-
-Wealth required: Usually >£50,000 in investable assets (though the banks tend to have lower minimums).
-```
+> **Fees:** Traditional financial advisers generally charge fees as a percentage of invested assets. They may include fixed or minimum initial fees, and ongoing fees. There are many variations on specific fee styles, though.
+> 
+> A typical fee structure might look like: Initial fee of 2% of invested assets subject to a minimum fee of £2,000, and an ongoing fee of 0.75% of invested assets.
+> 
+> **Wealth required:** Usually >£50,000 in investable assets (though the banks tend to have lower minimums).
 
 ### Financial planner
 
@@ -122,11 +116,9 @@ The author of this article is a qualified and practicing financial planner (with
 
 It can be hard to distinguish between financial planners and financial advisers. Financial planners often offer traditional financial advice/wealth management alongside their planning services, and many "traditional" financial advisers will also describe their services as "financial planning". While "financial adviser" is a protected term, financial planner isn't, and so the label is often misused.
 
-```
-Fees: There are many different fee models for financial planners, ranging from percentage fees, to fixed fees, to hourly charging, to subscription fees.
-
-Wealth required: Typically >£200,000 in invested/investable assets. For planners focused on young professionals, often no wealth minimums but aimed at those with earnings of >£100,000/year.
-```
+> **Fees:** There are many different fee models for financial planners, ranging from percentage fees, to fixed fees, to hourly charging, to subscription fees.
+> 
+> **Wealth required:** Typically >£200,000 in invested/investable assets. For planners focused on young professionals, often no wealth minimums but aimed at those with earnings of >£100,000/year.
 
 ## How to find an adviser
 
