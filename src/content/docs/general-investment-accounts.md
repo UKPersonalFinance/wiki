@@ -1,3 +1,9 @@
+---
+title: General Investment Accounts
+description: What general investment accounts are, how they work, and how they're taxed
+draft: true
+---
+
 ## What is a General Investment Account?
 
 A General Investment Account (GIA) (also known as taxable investment accounts and unwrapped investment accounts) is an account run by an investment [broker/platform](which-broker-should-i-use/) for you to buy and sell shares and funds. Capital gains within the account are subject to capital gains tax, and dividends and interest are subject to income tax.
