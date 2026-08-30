@@ -4,31 +4,28 @@ description: What general investment accounts are, how they work, and how they'r
 draft: true
 ---
 
-## What is a General Investment Account?
+If you've used your ISA allowance, but still have money left to invest, you may be considering using a GIA (a taxable investment account). These have no limits on your contributions, but are subject to tax. 
 
-A General Investment Account (GIA) (also known as taxable investment accounts and unwrapped investment accounts) is an account run by an investment [broker/platform](which-broker-should-i-use/) for you to buy and sell shares and funds. Capital gains within the account are subject to capital gains tax, and dividends and interest are subject to income tax.
+## Should you use a GIA?
 
-Unlike an ISA or a pension it isn't a 'tax wrapper', it's simply an account holding investments in your own name, so ordinary tax rules apply. Capital gains within the account are subject to capital gains tax, and dividends and interest are subject to income tax.
+If you have ISA allowance left, you should use that first. 
 
-Because there's no wrapper, there's no contribution limit. A GIA can also be held jointly with someone else, which an ISA or a pension can't.
-
-## Why use one?
-
-GIAs are generally used when contribution limits have been reached on more tax-advantaged accounts (like [ISAs](/isa/) and [pensions](/pensions/)), or when pension contributions are still possible, but the timeline of the investment doesn't match. They're also the only option for investing money jointly, or for holding an investment that isn't eligible for an ISA.
-
-## What can I buy within a GIA?
-
-You can generally buy any funds or shares that would be available in other accounts on the broker of your choice. There are more things to look out for though, for example where an investment fund is 'domiciled', and whether it accumulates or distributes income. These are dealt with further down the page.
+Also seriously consider using a pension. (link/elaborate more)
 
 ## How does the tax work?
 
-It's best to think about a GIA like a bank account - you're not taxed just for having one, or on the funds contained within it, but only on the income (and capital gains in the case of GIAs).
+Two taxes are applicable when investing in a GIA:
 
-### Jointly held accounts
+* Dividends and interest are subject to income tax
+* Capital gains within the account are subject to capital gains tax
 
-All of the below holds true for jointly held accounts, but each party is responsible for a share of any income or capital gain, and can set their own allowances against that share.
+To report and pay your tax, you will need to file a self assessment tax return. (Or can you use the real time capital gains + something else for income tax?)
 
-### Income tax
+:::caution
+It is your responsibility to keep good records and be aware of any tax that is owed. 
+:::
+
+#### Income tax
 
 Income tax is charged on both interest and dividends, but is very rarely taken at source, and so needs to be settled with HMRC separately, either via Self Assessment Tax Return or via your tax code, if HMRC allow that option.
 
@@ -50,10 +47,6 @@ A consolidated tax certificate shows what was actually paid to you. It doesn't u
 
 ### Capital gains tax
 
-CGT is chargeable on the sale of funds or shares within a GIA, at the point the sale happens, and generally paid via self assessment tax return, or directly to HMRC using the ['Real Time Capital Gains Tax Service'](https://www.gov.uk/report-and-pay-your-capital-gains-tax/if-you-have-other-capital-gains-to-report)
-
-#### Working out the gain
-
 To work out what CGT is due, you need to work out the effective purchase price of the share or fund which is sold. If you have bought it at different prices (for example, with regular investments), you need to establish a ['Section 104 holding'](https://www.gov.uk/government/publications/shares-and-capital-gains-tax-hs284-self-assessment-helpsheet/hs284-shares-and-capital-gains-tax-2024) value, which pools the total cost of everything you hold in that investment. Selling part of the holding uses up a proportional share of that pooled cost.
 
 The gain is then what you sold the units for, less the pooled cost of the units sold, less the costs of buying and selling them such as dealing commission and stamp duty.
@@ -63,7 +56,7 @@ Two easily missable elements can adjust the pooled cost while you hold the inves
 - Accumulations inside accumulation units, and excess reportable income from overseas funds, are added to the pool, because income tax has already been paid on them. 
 - Equalisation, which is the part of the first distribution after a purchase that is really a return of your own capital rather than income, is taken off the pool.
 
-#### Allowances and losses
+#### CGT allowances and losses
 
 Every UK resident individual has an [annual exempt amount](https://www.gov.uk/capital-gains-tax/rates), often called the CGT allowance, which is deducted from gains before tax is calculated. Capital losses can also be set against gains.
 
@@ -71,19 +64,13 @@ A loss has to be claimed before it can be used. It must be notified to HMRC with
 
 The order in which losses are used is important. Losses made in the same tax year must be set against that year's gains in full, even where that wastes the annual exempt amount. Losses brought forward from earlier years are used only to bring gains down to the annual exempt amount, and any remainder stays carried forward.
 
-#### Reporting and paying
-
-Most investors have a [CGT allowance](https://www.gov.uk/capital-gains-tax/rates), which can be deducted from the gain before tax is calculated. In addition, you can offset losses from current and previous years against gains. You can effectively offset losses from any time in the past, and losses within the last four years don't need registering with HMRC. If you have losses that you haven't offset against gains which are coming up to four years old, [they need to be registered](https://www.gov.uk/capital-gains-tax/losses) to be able to set them against future gains.
-
 CGT calculations for GIAs can get complicated. There are online calculators like [CGTCalculator](https://www.cgtcalculator.com/) which can help, but if you're struggling you may prefer to pay an accountant to complete the calculations for you.
 
 :::caution
 Brokers are under no obligation to help you complete CGT calculations. The onus is on the individual to keep good records and be aware of any tax that is owed. 
 :::
 
-## Things to look out for with GIAs
-
-### Bed and breakfast rule and same day rule
+#### Bed and breakfast rule and same day rule
 
 [The 'bed and breakfast' rule](https://www.gov.uk/government/publications/shares-and-capital-gains-tax-hs284-self-assessment-helpsheet/hs284-shares-and-capital-gains-tax-2024#how-you-work-out-the-gain-under-the-bed-and-breakfasting-rule) is in place to stop people creating  a gain or a loss while keeping the same investment, for example by selling just enough to use up the annual exempt amount and buying straight back in.
 
@@ -100,11 +87,13 @@ What counts as the same asset? [It's complicated](https://www.gov.uk/hmrc-intern
 
 Moving between share classes of the same fund, for instance from an accumulation class to an income class, or from an old expensive class to a cheaper one, is usually treated as a reorganisation, which isn't a disposal for CGT, so no gain arises and the pooled cost carries across. More information can be found in this [detailed guide by Fidelity](https://adviserservices.fidelity.co.uk/media/fnw/guides/taxing-calculations-capital-gains-tax.pdf).
 
-### Bed and ISA
+#### Bed and ISA
 
 The term 'Bed and ISA' was derived from the above rule, and is sometimes referred to by brokers or online guides. The process is just to sell enough of an asset to fund an ISA contribution, and rebuy the asset within the ISA. 
 
 There is no same-day or 30 day rule to worry about, because investments held within an ISA are treated separately from the same investments held outside one. The sale of the asset may crystallise a gain or loss, and there may dealing costs or spreads to pay, but once re-bought within the ISA any future gains or income will be tax-free.
+
+## Choosing funds within a GIA
 
 ### Accumulating vs Distributing funds
 
@@ -168,7 +157,7 @@ Excess reportable income is added to the Section 104 pooled cost. Income tax has
 This is not an issue where overseas funds are held inside an ISA or a pension, where the income isn't taxable to begin with.
 :::
 
-### Mutual funds (OEICs) or ETFs in a GIA
+### Mutual funds (OEICs) or ETFs
 
 ETFs and OEICs are broadly equivalent when holding inside a GIA. The main differences relate to how brokers charge for the purchase of different types of funds, and the fact that many LSE-floated ETFs are actually domiciled in Ireland, leading to the ERI issues highlighted above. 
 
@@ -192,6 +181,8 @@ Where foreign tax has been deducted, foreign tax credit relief can usually be cl
 
 Shares priced in a foreign currency also have to be pooled in sterling, converting each purchase and each sale at the rate on the day it happened, so exchange rate changes can impact the relative gain and loss.
 
+## Other stuff
+
 ### Moving a GIA between brokers
 
 Transferring the same funds or shares to a new platform without selling them, usually described as an in specie or stock transfer, isn't a disposal. This means that the Section 104 pool shouldn't be affected. However, the new platform won't have the cost history, so it needs to be kept separately.
@@ -206,13 +197,17 @@ In practice, this gives a married couple two annual exempt amounts, and an asset
 
 The bed and breakfast rule only applies where the same person buys back, so one partner selling and the other buying the same investment in their own account isn't caught by it.
 
+### Jointly held accounts
+
+All of the below holds true for jointly held accounts, but each party is responsible for a share of any income or capital gain, and can set their own allowances against that share.
+
 ### Investments that don't attract CGT
 
 Gilts and qualifying corporate bonds are exempt from capital gains tax, so a gain on selling them isn't taxable and a loss on them isn't allowable. The interest is still taxable as income in the normal way. That makes their treatment in a GIA quite different from shares and index funds.
 
 ## How GIA income affects other things
 
-Because there's no wrapper, dividends and interest from a GIA count as income for a number of other purposes. They form part of total income for the tapering of the personal allowance, for the High Income Child Benefit Charge, and, where a tax return is filed, for student loan repayments once unearned income passes the relevant threshold. This is in direct contrast to ISAs and pensions.
+Dividends and interest from a GIA count as income for a number of other purposes. They form part of total income for the tapering of the personal allowance, for the High Income Child Benefit Charge, and, where a tax return is filed, for student loan repayments once unearned income passes the relevant threshold. This is in direct contrast to ISAs and pensions.
 
 Income from a GIA can also trigger the need to fill out a tax return where one hasn't been needed in the past. HMRC's [check if you need to send a Self Assessment tax return](https://www.gov.uk/check-if-you-need-tax-return) tool sets out the current tests.
 
