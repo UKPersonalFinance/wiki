@@ -21,6 +21,7 @@ It's best to think about a GIA like a bank account - you're not taxed just for h
 ### Jointly held accounts
 
 All of the below holds true for jointly held accounts, but each party is responsible for a share of any income or capital gain, and can set their own allowances against that share.
+
 ### Income tax
 
 Income tax is charged on both interest and dividends, but is very rarely taken at source, and so needs to be settled with HMRC separately, either via Self Assessment Tax Return or via your tax code, if HMRC allow that option.
