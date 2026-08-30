@@ -43,13 +43,37 @@ Most investors have a [CGT allowance](https://www.gov.uk/capital-gains-tax/rates
 
 CGT calculations for GIAs can get complicated. There are online calculators like [CGTCalculator](https://www.cgtcalculator.com/) which can help, but if you're struggling you may prefer to pay an accountant to complete the calculations for you.
 
-:::warning
+:::caution
 Brokers are under no obligation to help you complete CGT calculations. The onus is on the individual to keep good records and be aware of any tax that is owed. 
 :::
 
 ## Things to look out for with GIAs
 
-### Bed and breakfast rules
+### Bed and breakfast rule
 
-HMRC
+[The 'bed and breakfast' rule](https://www.gov.uk/government/publications/shares-and-capital-gains-tax-hs284-self-assessment-helpsheet/hs284-shares-and-capital-gains-tax-2024#how-you-work-out-the-gain-under-the-bed-and-breakfasting-rule) is in place to stop people creating false gains or losses by selling an asset and immediately buying it back. As a result, if the same asset is repurchased within 30 days of sale, the transactions are ignored for CGT purposes, and it's assumed the sale never happened.
+
+What counts as the same asset? [It's complicated](https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg51560#IDATR33F). Selling an ACC version of a fund and buying an INC version would be considered the same asset, as would selling one unit type and buying another. However, selling an index fund provided by ABC Funds Co, and buying a fund tracking that same index from XYZ Funds PLC, should **not** trigger bed and breakfast rules.
+
+### Bed and ISA
+
+The term 'Bed and ISA' was derived from the above rule, and is sometimes referred to by brokers or online guides. The process is just to sell enough of an asset to fund an ISA contribution, and rebuy the asset within the ISA. There is no special treatment, or HMRC rule to be wary of. The sale of the asset may crystallise a gain, but once bought within the ISA any future gains or income will be tax-free.
+
+### Accumulating vs Distributing funds
+
+A common question related to GIAs is whether the accumulating or distributing (also known as ACC or INC) version of funds or ETFs should be used.
+
+ACC funds simplify the reinvestment of dividends, and may reduce costs if your broker charges for reinvestment. However, keeping track of purchase values can get very complicated! In simple terms, each time an ACC fund adds the reinvested dividend to the value, you would need to keep track of that as a new purchase, and distinguish it from the growth of the rest of the fund. This needs repeating any time dividends are paid.
+
+In practice, it makes sense to use distributing (INC) funds wherever possible, to save you a headache down the line when calculating capital gains.
+
+### Overseas funds
+
+Consolidated tax certificates separate UK and overseas income for reporting purposes. This can cause some confusion, particularly if you invest in global index funds (as this wiki assumes). 
+
+The important takeaway is that 'overseas' doesn't mean where the dividends came from in the first place. Instead, it refers to where the fund itself is listed. Notably, Vanguard has a number of UK-accessible funds registered in Dublin, which can lead to these boxes having numbers in them.
+
+There is little practical difference to the tax implications, just more complexity when completing a tax return.
+
+
 
