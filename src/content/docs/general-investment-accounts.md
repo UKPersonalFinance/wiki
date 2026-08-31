@@ -16,16 +16,18 @@ Also seriously consider using a pension. (link/elaborate more)
 
 Two taxes are applicable when investing in a GIA:
 
-- Dividends and interest are subject to income tax
-- Capital gains within the account are subject to capital gains tax
+- **Income tax** on dividends and interest 
+- **Capital Gains Tax** on capital gains
 
-To report and pay your tax, you will need to file a self assessment tax return. (Or can you use the real time capital gains + something else for income tax?)
+To report and pay your tax, you will need to file a self assessment tax return. (Or can you use the real time capital gains thingy for cgt + something else for income tax?)
+
+Some technical details about your investment choices ([ETF vs OEIC](index-funds/#fund_vs_etf), [Acc vs Inc](index-funds/#acc-vs-inc), what country a fund is 'domiciled' in, exactly when you buy and sell) will have an impact on how you report your tax. This can get fiddly so we have written a guide!
 
 :::caution
 It is your responsibility to keep good records and be aware of any tax that is owed. 
 :::
 
-### Income tax
+### Income tax on interest
 
 Income tax is charged on both interest and dividends, but is very rarely taken at source, and so needs to be settled with HMRC separately, either via Self Assessment Tax Return or via your tax code, if HMRC allow that option.
 
