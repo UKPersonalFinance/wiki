@@ -8,9 +8,9 @@ If you've used your ISA allowance, but still have money left to invest, you may 
 
 ## Should you use a GIA?
 
-If you have (ISA)[/isa/] allowance left, you should use that first. 
+If you have [ISA](/isa/) allowance left, you should use that first. 
 
-You should then think about whether a (pension)[/pensions/] contribution is a better plan. The main reason to use a GIA over a pension is when there's a decent chance you'll need the money before the 'normal minimum pension age' (currently 57).
+You should then think about whether a [pension](/pensions/) contribution is a better plan. The main reason to use a GIA over a pension is when there's a decent chance you'll need the money before the 'normal minimum pension age' (currently 57).
 
 ## How does the tax work?
 
@@ -75,6 +75,7 @@ Two easily missable elements can adjust the pooled cost while you hold the inves
 
 - Accumulations inside accumulation units, and excess reportable income from overseas funds, are added to the pool, because income tax has already been paid on them. 
 - Equalisation, which is the part of the first distribution after a purchase that is really a return of your own capital rather than income, is taken off the pool.
+
 :::
 
 #### CGT allowances and losses
