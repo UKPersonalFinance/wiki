@@ -8,18 +8,18 @@ If you've used your ISA allowance, but still have money left to invest, you may 
 
 ## Should you use a GIA?
 
-If you have ISA allowance left, you should use that first. 
+If you have (ISA)[/isa/] allowance left, you should use that first. 
 
-Also seriously consider using a pension. (link/elaborate more)
+You should then think about whether a (pension)[/pensions/] contribution is a better plan. The main reason to use a GIA over a pension is when there's a decent chance you'll need the money before the 'normal minimum pension age' (currently 57).
 
 ## How does the tax work?
 
-Two taxes are applicable when investing in a GIA:
+Two taxes are relevant when investing in a GIA:
 
 - **Income tax** on dividends and interest 
 - **Capital Gains Tax** on capital gains
 
-To report and pay your tax, you will need to file a self assessment tax return. (Or can you use the real time capital gains thingy for cgt + something else for income tax?)
+To report and pay your tax, you either need to file a self assessment tax return, or in simple cases HMRC may let you offset income tax against your tax code, and there is a real time capital gains tax reporting service offered for CGT as an alternative to self assessment.
 
 Some technical details about your investment choices ([ETF vs OEIC](index-funds/#fund_vs_etf), [Acc vs Inc](index-funds/#acc-vs-inc), what country a fund is 'domiciled' in, exactly when you buy and sell) will have an impact on how you report your tax. This can get fiddly so we have written a guide!
 
@@ -27,36 +27,55 @@ Some technical details about your investment choices ([ETF vs OEIC](index-funds/
 It is your responsibility to keep good records and be aware of any tax that is owed. 
 :::
 
-### Income tax on interest
+### Income tax on interest and dividends
 
 Income tax is charged on both interest and dividends, but is very rarely taken at source, and so needs to be settled with HMRC separately, either via Self Assessment Tax Return or via your tax code, if HMRC allow that option.
 
-Interest received from interest-bearing investments (typically bond funds, and from any cash sitting uninvested in the account) is charged at your usual income tax rate, after any earned income but before dividends. Part of it may fall within the starting rate for savings or the [personal savings allowance](/savings/).
+Interest received from investments (typically bond funds, gilts, and any cash sitting uninvested in the account) is charged at your usual income tax rate, after any earned income but before dividends. Part of it may fall within the starting rate for savings or the [personal savings allowance](/savings/).
 
 Dividends received from funds or shares are taxed at the [current dividend rates](https://www.gov.uk/tax-on-dividends), after the dividend allowance has been taken off. Dividends are calculated for tax after earned income and savings/investment interest.
 
 :::note
-The personal savings allowance and the dividend allowance are nil rate bands rather than true allowances. The income still counts towards your total income for the year and still uses up part of a tax band, so it can push other income into a higher band, start to reduce your personal allowance, or take you over a threshold such as the High Income Child Benefit Charge. See our [tax traps page](/tax-traps-and-tax-efficiency/) for more information.
+The personal savings allowance and the dividend allowance are nil rate bands rather than _true_ allowances. Any income within them still counts towards your total income for the year and  uses up part of a tax band, so it can push other income into a higher band, start to reduce your personal allowance, or take you over a threshold such as the High Income Child Benefit Charge. See our [tax traps page](/tax-traps-and-tax-efficiency/) for more information.
 :::
 
 You should receive a 'consolidated tax certificate' from your broker each year, in time for you to file a tax return, which shows all dividends and interest received in the previous tax year, split between UK and overseas income, and whether any tax was taken at source.
 
-Income tax is chargeable whether the income is reinvested within the funds or paid out, so buying ACC funds doesn't avoid the need to report/pay any tax due.
+A consolidated tax certificate shows what was actually paid to you. It doesn't usually include excess reportable income from overseas funds (see below), and on some platforms it doesn't include the accumulations paid inside accumulation units either. Both are described further down this page.
 
-:::caution
-A consolidated tax certificate shows what was actually paid to you. It doesn't usually include excess reportable income from overseas funds, which is taxable even though nothing reaches your account, and on some platforms it doesn't include the accumulations paid inside accumulation units either. Both are described further down this page.
-:::
+Income tax is chargeable whether the income is reinvested within the funds or paid out, so buying ACC funds doesn't avoid the need to report/pay any tax due.
 
 ### Capital gains tax
 
-To work out what CGT is due, you need to work out the effective purchase price of the share or fund which is sold. If you have bought it at different prices (for example, with regular investments), you need to establish a ['Section 104 holding'](https://www.gov.uk/government/publications/shares-and-capital-gains-tax-hs284-self-assessment-helpsheet/hs284-shares-and-capital-gains-tax-2024) value, which pools the total cost of everything you hold in that investment. Selling part of the holding uses up a proportional share of that pooled cost.
+In simple terms, capital gains tax is a charge on the sale price of an investment, take away the purchase price and any associated costs. If you have made multiple purchases and sales of the same investment fund, you need to work out the effective purchase price, also known as a Section 104 holding.
 
-The gain is then what you sold the units for, less the pooled cost of the units sold, less the costs of buying and selling them such as dealing commission and stamp duty.
+#### Section 104 holding 
 
+A ['Section 104 holding'](https://www.gov.uk/government/publications/shares-and-capital-gains-tax-hs284-self-assessment-helpsheet/hs284-shares-and-capital-gains-tax-2024) pools the total cost of everything you hold in an investment. Selling part of the holding uses up a proportional share of that pooled cost.
+
+The following table is an example of three purchases of the same investment fund.
+
+| Date       | Units | Cost per unit | Cost       |
+|------------|-------|---------------|------------|
+| 01/01/2021 | 250   | £52           | £13,000    |
+| 03/05/2023 | 830   | £85           | £70,550    |
+| 05/02/2025 | 1200  | £92           | £110,400   |
+| Totals     | 2280  |               | £193,950   |
+
+The  section 104 holding is the the total cost divided by the total units ( £193,950 / 2,280 = £85.07 ), which gives the effective purchase cost.
+
+If a sale was made on 01/05/2026 of 1,000 units, at a unit price of £105, for a total sale price of £105,000, the section 104 purchase value would be £85,070 (£85.07 * 1,000 units).
+
+The gain is what you sold the units for, less the pooled cost of the units sold, less the costs of buying and selling them such as dealing commission and stamp duty.
+
+In this example, where  no commissions or stamp duties were due, the gain would be £19,930 (£105,000 - £85,070).
+
+:::caution
 Two easily missable elements can adjust the pooled cost while you hold the investment:
 
 - Accumulations inside accumulation units, and excess reportable income from overseas funds, are added to the pool, because income tax has already been paid on them. 
 - Equalisation, which is the part of the first distribution after a purchase that is really a return of your own capital rather than income, is taken off the pool.
+:::
 
 #### CGT allowances and losses
 
@@ -68,9 +87,7 @@ The order in which losses are used is important. Losses made in the same tax yea
 
 CGT calculations for GIAs can get complicated. There are online calculators like [CGTCalculator](https://www.cgtcalculator.com/) which can help, but if you're struggling you may prefer to pay an accountant to complete the calculations for you.
 
-:::caution
 Brokers are under no obligation to help you complete CGT calculations. The onus is on the individual to keep good records and be aware of any tax that is owed. 
-:::
 
 #### Bed and breakfast rule and same day rule
 
@@ -81,7 +98,7 @@ Sales of an asset are first matched against the same asset bought on the same da
 Where the 30-day matching applies, the gain is worked out against the price paid on the repurchase rather than against the pooled cost, which usually leaves very little gain or loss. The sale is still deemed to have happened, and still needs including in the calculation.
 
 :::caution
-This can catch regular investors by accident. If you have a monthly direct debit into a fund and you sell some of that fund, next month's automatic purchase is matched against the sale, and the gain you meant to realise largely disappears. This can be managed by making sure more than 30 days is left after any sale of the assets before making any more regular investments, by (for example) pausing a standing order or direct debit.
+This can catch regular investments by accident! If you are automatically buying a fund by direct debit every 30 days, and sell some of the fund whilst the regular investments continue, some of the sale amount will be matched to the next regular investment by the bed and breakfast rule. This can lead to different outcomes than expected, and needs to be watched out for. To avoid the need to account for this, you can pause the regular investments until 30 days has passed from the sale date.
 :::
 
 What counts as the same asset? [It's complicated](https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg51560#IDATR33F). When it comes to index funds, different funds from different providers are not the same asset, even if they invest in the same index. For example, selling Vanguard FTSE All-World Index ETF and buying Invesco FTSE All-World Index ETF on the same day does not count as the same asset, despite tracking an identical index.
