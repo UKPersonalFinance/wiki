@@ -12,7 +12,7 @@ If you've used your ISA allowance, but still have money left to invest, you may 
 
 If you have [ISA](/isa/) allowance left, you should use that first. 
 
-You should then think about whether a [pension](/pensions/) contribution is a better plan. The main reason to use a GIA over a pension is if you expect to need to the money before the 'normal minimum pension age' (currently 57).
+You should then think about whether a [pension](/pensions/) contribution is a better plan. The main reason to use a GIA over a pension is if you expect to need the money before the 'normal minimum pension age' (currently 57).
 
 ## What taxes do you need to pay?
 
