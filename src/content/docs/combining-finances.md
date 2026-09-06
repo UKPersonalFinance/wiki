@@ -4,7 +4,7 @@ description: How couples can decide whether and how to combine their finances.
 draft: true
 ---
 
-If you are in a committed long-term relationship you may be considering combining your finances, especially if you have regular joint expenses such as living together.
+If you are in a committed long-term relationship you may be considering combining your finances, especially if you have regular joint expenses, such as living together.
 
 There are a wide variety of ways couples handle their finances together. There is no single 'right' solution. **The important thing is that you are both happy that the setup is fair and will work for your circumstances.**
 
@@ -29,7 +29,7 @@ What are your short-term and long-term [financial goals](/goals/)?
 
 This might just be paying your bills and rent each month, with a little extra put aside for a holiday or Christmas. You may also be thinking about longer-term goals, such as saving for a deposit on a house, for a wedding, for parental leave, taking a year off work to retrain, retiring, etc.
 
-- How certain are your goals? How flexible are you on when you need them by or how much do you need to have saved?
+- How certain are your goals? How flexible are you on when you need them by or how much you need to have saved?
 - How much can you afford to put aside each month for your goals?
 - Are all your goals shared equally as a couple or are some of them personal?
 - Do you want to track your progress towards these goals? Which of you will be responsible for this tracking?
@@ -91,13 +91,13 @@ This means that you will likely still need to keep track of how much each of you
 
 ### How this changes if you have children
 
-There is often an expectation for one member of the household to take the lead on childcare. This might mean leaving work entirely, or working reduced hours to reduce reliance on third-party childcare.
+There is often an expectation that one member of the household will take the lead on childcare. This might mean leaving work entirely, or working reduced hours to reduce reliance on third-party childcare.
 
 It generally helps to think of the household as a partnership, where the non-financial contribution, such as childcare and home management, counts for as much as the financial one.
 
 ## Married or co-habiting partners?
 
-The nuances of these decisions change depending on your marital status, for two reasons.
+The nuances of these decisions change depending on your marital status, for two reasons:
 
 ### 1. Married couples have legal rights to 'joint' finances in divorce, co-habiting couples don't
 
@@ -154,7 +154,7 @@ If you don't want a joint account, services like [Splitwise](https://www.splitwi
 
 ## Joint savings/investments
 
-It is worth noting that even when sharing a current account, most savings accounts are in individual names rather than joint. Pensions and ISAs especially cannot be held as a couple, only an individual.
+It is worth noting that even when sharing a current account, most savings accounts are in individual names rather than joint. Pensions and ISAs especially cannot be held as a couple, only as an individual.
 
 How you divide savings between you may depend on your tax brackets, marital status, and how much of your [ISA allowances](/isa/) you've each used. It is helpful if each party has at least some savings in their name in case of emergency, for instance if one party is incapacitated or dies.
 
