@@ -179,7 +179,7 @@ If you do not currently own a property and you intend to buy one as a couple you
 - What will you do if one of you is out of work for a period of time? Will you obtain insurance to cover this risk, or accept picking up the shortfall?
 - The risks of having joint accounts apply to joint mortgages as well, so if one of you has poor credit this may affect the financial prospects of the joint mortgage-holder.
 
-As with any sharing of finances, what matters most is that both parties involved are happy with the situation and consider it fair. It is not for others to dictate and you simply need to decide what you are each comfortable with.
+As with any sharing of finances, what matters most is that both parties involved are happy with the situation and consider it fair. It is not for others to dictate and you simply need to decide what you are each comfortable with. We recommend you seek legal advice before making any decisions.
 
 ## Seek professional advice
 
