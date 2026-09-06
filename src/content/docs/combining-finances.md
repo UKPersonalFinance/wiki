@@ -1,7 +1,6 @@
 ---
 title: Combining Finances
 description: How couples can decide whether and how to combine their finances.
-draft: true
 ---
 
 If you are in a committed long-term relationship you may be considering combining your finances, especially if you have regular joint expenses, such as living together.
