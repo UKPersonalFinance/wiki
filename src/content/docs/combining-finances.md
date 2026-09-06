@@ -57,7 +57,7 @@ But you may also want to consider whether it will include:
 
 ### How will you split the costs of shared expenses?
 
-**50/50**
+#### 50/50
 
 For some the most 'fair' way to split costs is 50:50, with each contributing the same amount to joint expenses.
 
@@ -65,7 +65,7 @@ This is often the default choice early in a relationship, when you first decide 
 
 If there is a significant income disparity, splitting costs 50/50 requires limiting your joint spending to the amount the lower-income partner can comfortably match.
 
-**Proportionate to income**
+#### Proportionate to income
 
 Where there is income disparity some prefer to split expenses proportionate to their income. For example, if one of you earns £2000 per month and the other £3000 per month, you could split expenses at that ratio, so person A pays 40% of all costs and person B pays 60%.
 
@@ -77,7 +77,7 @@ There can be some debate on how you define 'pay' using this approach. For exampl
 
 Remember this is not a science and you can just pick whatever proportion makes sense to you both.
 
-**Being responsible for different bills/expenses**
+#### Being responsible for different bills/expenses
 
 Sometimes one method of 'simplifying' joint expenses is to divide them up between you, so you are each responsible for different things. For example, one of you may pay for rent/mortgage whilst the other pays the utilities (this can especially make sense if one of you already rents or owns a property that the other moves into). Or if one of you earns much more than the other, you may share basic expenses but the higher earning partner pays for all date nights and holidays - or you could alternate who pays, with the person paying choosing activities that fit their budget.
 
