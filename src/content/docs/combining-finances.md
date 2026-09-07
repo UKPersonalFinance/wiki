@@ -200,7 +200,7 @@ There are two main risk areas - abuse via financial control, and financial infid
 
 Financial abuse is a serious issue, and can form part of an otherwise abusive relationship or stand in isolation. It can range from preventing a partner from being able to earn their own money and therefore have financial independence from the abuser, to forcibly obtaining credit cards or loans in a partner's name, or to controlling spending patterns.
 
-See our page on [financial abuse and getting help](/financial-abuse-and-getting-help/), or [Moneyhelper's thorough guide on spotting financial abuse and leaving a financially abusive relationship safely](https://www.moneyhelper.org.uk/en/family-and-care/talk-money/financial-abuse-spotting-the-signs-and-leaving-safely).
+See [Moneyhelper's thorough guide on spotting financial abuse and leaving a financially abusive relationship safely](https://www.moneyhelper.org.uk/en/family-and-care/talk-money/financial-abuse-spotting-the-signs-and-leaving-safely).
 
 ### Financial Infidelity
 
