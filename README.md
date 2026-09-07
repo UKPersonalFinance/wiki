@@ -26,6 +26,13 @@ Once your pull request is merged by a [moderator](https://github.com/orgs/UKPers
 
 If any of this is unclear, hop on [Discord](https://discord.gg/kaetMg8) and we'd be happy to help.
 
+### Want to contribute but have no github experience?
+
+1. Join the [Discord](https://discord.gg/kaetMg8) first and let the mods know you want to contribute.
+2. Find the page you want to edit in [src/content/docs](src/content/docs) (skip this step if you're creating a new page) and hit the "copy" icon at the top of the page (which reads "copy raw file" if you highlight it)
+3. Head to [The Stackedit website](https://stackedit.io/app#) and paste the page into the left-hand side of the editor. This website will allow you to edit on the left, and show you how it will look on the right.
+4. Once you've made the changes, or created the page that you would like us to include, copy the left-hand side of the stackedit page, and paste it into a message in the #wiki-corner channel of the Discord.
+
 ### Markdown Extras
 
 The site runs Starlight which offers a few extra extensions to Markdown which you can find [here](https://starlight.astro.build/guides/authoring-content/), we mostly make use of "asides".
