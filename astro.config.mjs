@@ -44,6 +44,7 @@ export default defineConfig({
               label: "Helping Family and Friends",
               slug: "helping-family-and-friends",
             },
+            { label: "Combining Finances", slug: "combining-finances" },
             { label: "Savings Accounts", slug: "savings" },
             { label: "Insurance", slug: "insurance" },
             { label: "Scams", slug: "scams" },
