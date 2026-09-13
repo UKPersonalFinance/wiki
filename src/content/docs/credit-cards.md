@@ -169,7 +169,11 @@ Always use an eligibility checker, such as:
 - [https://www.moneysavingexpert.com/eligibility/credit-cards/search/](https://www.moneysavingexpert.com/eligibility/credit-cards/search/)
 - [https://www.clearscore.com/credit-cards](https://www.clearscore.com/credit-cards)
 
-## Types of cards
+## Types of cards and market leading offerings {#types-of-cards}
+
+:::note
+Click the hyperlinks for MoneySavingExpert's current list of top offerings for the relevant card type
+:::
 
 **[Cashback / Rewards](https://www.moneysavingexpert.com/credit-cards/best-credit-card-rewards/)**: Some credit card providers offer a small amount of your purchases back either as cash or points. This is typically works out up to 0.5% for most cards, and up to 1% for American Express.
 
