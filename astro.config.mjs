@@ -1,5 +1,5 @@
 // @ts-check
-import { defineConfig } from "astro/config";
+import { defineConfig, fontProviders } from "astro/config";
 import starlight from "@astrojs/starlight";
 import mdx from "@astrojs/mdx";
 import sitemap from "@astrojs/sitemap";
@@ -12,6 +12,26 @@ import { getDraftSidebarGroup } from "./sidebar-drafts.mjs";
 // https://astro.build/config
 export default defineConfig({
   site: "https://ukpersonal.finance",
+  fonts: [
+    {
+      provider: fontProviders.google(),
+      name: "Roboto",
+      cssVariable: "--font-roboto",
+      weights: [500, 700],
+      styles: ["normal"],
+    },
+    {
+      provider: fontProviders.google(),
+      name: "Source Serif 4",
+      cssVariable: "--font-serif",
+      weights: [400, 600, 900],
+      styles: ["normal"],
+      fallbacks: ["serif"],
+      options: {
+        experimental: { variableAxis: { opsz: [["8", "60"]] } },
+      },
+    },
+  ],
   markdown: {
     processor: unified({ remarkPlugins: [remarkHeadingId] }),
   },
@@ -170,6 +190,7 @@ export default defineConfig({
       ],
       components: {
         Footer: "./src/components/Footer.astro",
+        Head: "./src/components/Head.astro",
       },
       social: [
         {
