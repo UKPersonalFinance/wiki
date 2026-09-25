@@ -185,6 +185,6 @@ export default defineConfig({
       ],
     }),
     mdx(),
-    sitemap(),
+    sitemap({ filter: (page) => !/\/(search|warp)\/$/.test(page) }),
   ],
 });
