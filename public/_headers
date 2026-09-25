@@ -2,3 +2,6 @@
   X-Content-Type-Options: nosniff
   Strict-Transport-Security: max-age=31536000
   Referrer-Policy: strict-origin-when-cross-origin
+
+/llms.txt
+  X-Robots-Tag: noindex

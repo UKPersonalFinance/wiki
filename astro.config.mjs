@@ -172,6 +172,15 @@ export default defineConfig({
           attrs: { rel: "sitemap", href: "/sitemap-index.xml" },
         },
         {
+          tag: "link",
+          attrs: {
+            rel: "alternate",
+            type: "text/plain",
+            title: "LLM index",
+            href: "/llms.txt",
+          },
+        },
+        {
           tag: "script",
           attrs: {
             src: "https://www.googletagmanager.com/gtag/js?id=G-TYXK2X3WJT",
