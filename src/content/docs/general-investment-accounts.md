@@ -1,11 +1,12 @@
 
+
 ---
 title: General Investment Accounts 
 description: What general investment accounts are, how they work, and how they're taxed 
 draft: true
 ---
 
-If you've used your ISA allowance, but still have money left to invest, you may be considering using a GIA (a taxable investment account). These have no limits on your contributions or withdrawals, but your investments are subject to tax.
+If you've used your ISA allowance, but still have money left to invest, you may be considering using a General Investment Account or 'GIA'. These have no limits on your contributions or withdrawals, but your investments are subject to tax.
 
 Tax not only takes a bite of your investment returns, but also adds an admin burden to track and report. 
 
@@ -15,23 +16,24 @@ This page is intended to help you get started navigating taxable investments. We
 
 If you have [ISA](/isa/) allowance left, you should use that first.
 
-You should then think about whether a [pension](/pensions/) contribution is a better plan. A pension will generally be more tax efficient than a GIA, as well as less admin. The main reason to use a GIA over a pension is if you expect to need the money before the ['normal minimum pension age'](pensions/#access-age), and you have no ISA allowance remaining.
+You should then think about whether a [pension](/pensions/) contribution is a better plan. A pension will generally be significantly more tax efficient than a GIA, as well as less admin. The main reason to use a GIA over a pension is if you expect to need the money before the ['normal minimum pension age'](pensions/#access-age), and you have no ISA allowance remaining. 
 
-You may use a GIA for a short period of time (for example while transferring a lump sum into your ISA over a number of years), or for longer (for example if you are able to use your entire ISA allowance out of income). 
+You may need use a GIA for a limited period of time, for example while transferring a [lump sum](/lump-sum) into your ISA that requires multiple years' allowances. Or you may hold one for the long term, for example if you are able to use your entire ISA allowance each year out of income. 
+
 
 ## Why is investing in a GIA less tax efficient and more admin than using an ISA or pension?
 
 Unlike an ISA or pension, when investing in a taxable investment account, your investments are liable for:
 
-*   **Capital Gains Tax** on capital gains
+*   **Capital Gains Tax** on the increase in value of your investments
 
 *   **Income tax** on dividends and interest    
 
-Note that paying tax on your investments will never leave you worse off than if you had not invested. (Although you can certainly be worse off than if you'd made the same investments in an ISA or pension). 
+Note that paying tax on your investments will never leave you worse off than if you had not invested. Although you can certainly be worse off than if you'd made the same investments in an ISA or pension! 
 
 HMRC will not automatically calculate the amounts you owe the way they do for [PAYE income](/income-tax/) or [savings interest](/savings/#how-do-i-pay-tax-on-savings-interest). You have to report the details of your investments to HMRC yourself to calculate how much you owe and pay it.
 
-This can get fiddly, and it's intimidating to get to grips with. It is worth doing your research in advance of investing, as some technical details about your investment choices (e.g. [ETF vs OEIC](index-funds/#fund_vs_etf), [Acc vs Inc](index-funds/#acc-vs-inc), the dates and amounts of your trades) which you don't have to worry about in an ISA or pension will have an impact on your tax affairs when using a GIA. We'll do our best to walk you through it! 
+This can get fiddly, and it's intimidating to get to grips with. It is worth taking the time to do your research in advance of investing, as some technical details about your investment choices which you don't have to worry about in an ISA or pension will have an impact on your tax affairs when using a GIA. We'll do our best to walk you through it! 
 
 
 ## Capital gains tax
@@ -42,11 +44,13 @@ Every UK resident individual has a [Capital Gains tax-free allowance](https://ww
 
 ### CGT and losses
 
-Capital losses can also be set against gains. For example, if one investment gained £4,000 and another lost £1,750, your total capital gains for the year would be £2,250, which is within the £3,000 allowance.
+Capital losses are against gains. For example, if you sold one investment with a gain of £4,000, and another with a loss of £1,750, your capital gains for the year would be £2,250. In this situation, your gains are within the £3,000 CGT allowance and there is no tax to pay.
 
-You can also carry forward 'unused' losses from previous years to reduce your CGT bill in future years. To carry forward losses, you have to register them with HMRC. This is usually done via self assessment.
+If you have a net loss (your losses exceed your gains, not just bringing them below the allowance), you can 'carry forward' the loss to offset against gains in future years. 
 
-See
+To carry forward losses, you have to register them with HMRC within 4 years of the loss. This is usually done via self assessment.
+
+For more information, see:
 
 *   [https://www.gov.uk/capital-gains-tax/losses](https://www.gov.uk/capital-gains-tax/losses)
     
@@ -140,9 +144,9 @@ You get a £500 dividend allowance per year. The rate of tax paid for dividends 
 
 ### Effect of income from investments
 
-Note that while you may not owe any income tax for dividends and interest earned if they are within your dividend allowance and personal savings allowance, these allowances are 'nil rate bands' rather than _true_ allowances. Income within them is taxed at 0%, but it still counts towards your total income for the year and uses up part of a tax band,
+Note that while you may not owe any income tax for dividends and interest earned if they are within your dividend allowance and personal savings allowance, these allowances are 'nil rate bands' rather than _true_ allowances. Income within them is taxed at 0%, but it still counts towards your total income for the year and uses up part of a tax band.
 
-This means it can push other income (e.g. from your employer) into a higher band, starting to reduce your personal allowance, or taking you over a threshold such as the High Income Child Benefit Charge. See our [tax traps page](/tax-traps-and-tax-efficiency/) for more information.
+This means it can push other income (e.g. from your employer) into a higher band, start to reduce your personal allowance, or take you over a threshold such as the High Income Child Benefit Charge. See our [tax traps page](/tax-traps-and-tax-efficiency/) for more information.
 
 ## Reporting your CGT and income tax
 
