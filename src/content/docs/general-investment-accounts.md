@@ -166,6 +166,17 @@ What happens in practice if these records aren't kept is either a headache and a
 
 The onus is on the individual to keep good records and be aware of any tax that is owed. There are online calculators like [CGTCalculator](https://www.cgtcalculator.com/) which can help, but if you're struggling you may prefer to pay an accountant to complete the calculations for you.
 
+#### Example of a single-fund record table
+
+| # | Date | Transaction | Cash | Pool units | Pool cost | Gain |
+|---|---|---|---|---|---|---|
+| 1 | 01/05/2024 | Buy 1,000 at £10.00 | £10,000 paid | 1,000 | £10,000 | |
+| 2 | 28/02/2025 | Accumulation 30p per unit, of which 12p equalisation | None | 1,000 | £10,180 | |
+| 3 | 15/05/2025 | Buy 500 at £11.00 | £5,500 paid | 1,500 | £15,680 | |
+| 4 | 10/09/2025 | Sell 600 at £12.00 | £7,200 received | 1,500 | £15,680 | £120 |
+| 5 | 25/09/2025 | Buy 600 at £11.80 | £7,080 paid | 1,500 | £15,680 | |
+| 6 | 15/12/2025 | Sell 900 at £12.50 | £11,250 received | 600 | £6,272 | £1,842 |
+
 ## Choosing funds within a GIA
 
 In contrast to pensions or ISAs, where the choice between accumulating or distributing funds, ETF or OEICs, and onshore or offshore funds is largely academic, these choices have bigger impacts when investing in a GIA.
@@ -190,7 +201,11 @@ A number of the funds and ETFs commonly used by UK investors, including some of 
 
 There are a few implications of this.
 
-`todo: 'you can skip reading this next section if you will only buy UK domiciled funds' or something along those lines`
+::: note
+
+You can skip this section completely if you only invest in UK-domiciled funds, such as OEICs 
+
+:::
 
 #### 1\. Tax return complexity
 
