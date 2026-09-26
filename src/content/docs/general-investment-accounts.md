@@ -7,30 +7,31 @@ draft: true
 
 If you've used your ISA allowance, but still have money left to invest, you may be considering using a GIA (a taxable investment account). These have no limits on your contributions or withdrawals, but your investments are subject to tax.
 
-Tax not only takes a bite of your investment returns, but also an admin burden to track and report. 
+Tax not only takes a bite of your investment returns, but also adds an admin burden to track and report. 
 
-This page is intended to help you get started navigating this. We hope it helps, but do remember it is **your responsibility** to keep good records and be aware of any tax that is owed.
+This page is intended to help you get started navigating taxable investments. We hope it helps, but do remember it is **your responsibility** to keep good records and be aware of any tax that is owed.
 
 ## Should you use a GIA?
 
 If you have [ISA](/isa/) allowance left, you should use that first.
 
-You should then think about whether a [pension](/pensions/) contribution is a better plan. The main reason to use a GIA over a pension is if you expect to need the money before the 'normal minimum pension age', and you have no ISA allowance remaining.
+You should then think about whether a [pension](/pensions/) contribution is a better plan. A pension will generally be more tax efficient than a GIA, as well as less admin. The main reason to use a GIA over a pension is if you expect to need the money before the ['normal minimum pension age'](pensions/#access-age), and you have no ISA allowance remaining.
 
-You may use a GIA for a short period of time (for example while transferring a lump sum into your ISA over a number of years), or for longer (for example if you are able to use your entire ISA allowance out of income).
+You may use a GIA for a short period of time (for example while transferring a lump sum into your ISA over a number of years), or for longer (for example if you are able to use your entire ISA allowance out of income). 
 
 ## Why is investing in a GIA less tax efficient and more admin than using an ISA or pension?
 
 Unlike an ISA or pension, when investing in a taxable investment account, your investments are liable for:
 
-*   **Income tax** on dividends and interest
-    
 *   **Capital Gains Tax** on capital gains
-    
+
+*   **Income tax** on dividends and interest    
+
+Note that paying tax on your investments will never leave you worse off than if you had not invested. (Although you can certainly be worse off than if you'd made the same investments in an ISA or pension). 
 
 HMRC will not automatically calculate the amounts you owe the way they do for [PAYE income](/income-tax/) or [savings interest](/savings/#how-do-i-pay-tax-on-savings-interest). You have to report the details of your investments to HMRC yourself to calculate how much you owe and pay it.
 
-This can get fiddly, and it's intimidating to get to grips with. Some technical details about your investment choices ([ETF vs OEIC](index-funds/#fund_vs_etf), [Acc vs Inc](index-funds/#acc-vs-inc), the dates and amounts of your trades) which you don't have to worry about in an ISA or pension will have an impact on your tax affairs when using a GIA.
+This can get fiddly, and it's intimidating to get to grips with. It is worth doing your research in advance of investing, as some technical details about your investment choices (e.g. [ETF vs OEIC](index-funds/#fund_vs_etf), [Acc vs Inc](index-funds/#acc-vs-inc), the dates and amounts of your trades) which you don't have to worry about in an ISA or pension will have an impact on your tax affairs when using a GIA. We'll do our best to walk you through it! 
 
 
 ## Capital gains tax
@@ -65,12 +66,10 @@ If you have made multiple purchases and sales of the same investment, your CGT w
 
 Two easily missable elements can adjust the pooled cost while you hold the investment:
 
-*   Income which has 'accumulated' inside accumulation/ACC units, and excess reportable income from overseas funds, are added to the pool, because income tax has already been paid on them.
+*   Income which has 'accumulated' inside accumulation/ACC units, and excess reportable income from overseas funds, are added to the pool, because income tax has already been paid on them. We explain accumulation units and excess reportable income in [this later section](#choosing-funds-within-a-gia).
     
-*   Equalisation, which is the part of the first distribution after a purchase that is really a return of your own capital rather than income, is taken off the pool.
+*   Equalisation, which is the part of the first distribution after a purchase that is really a return of your own capital rather than income, is taken off the pool. See [Aberdeen Techzone - Equalisation payments](https://techzone.aberdeenadviser.com/investment/oeic-unt-trust/guide-taxation-of-collectives#equalisation-payments). 
     
-
-Both of these are explained further down this page.
 :::
 
 ### 'Bed and breakfast': the same day and 30 day rules
@@ -88,7 +87,12 @@ Note the sale and repurchase still happened, and will be included in your CGT ca
 *   [https://adviserservices.fidelity.co.uk/media/fnw/guides/taxing-calculations-capital-gains-tax.pdf](https://adviserservices.fidelity.co.uk/media/fnw/guides/taxing-calculations-capital-gains-tax.pdf)
     
 
-:::caution This can catch regular investments by accident! If you are automatically buying a fund by direct debit each month, and sell some of the fund whilst the regular investments continue, some of the sale amount will be matched to the next regular investment by the bed and breakfast rule. :::
+
+:::caution
+
+This can catch regular investments by accident! If you are automatically buying a fund by direct debit each month, and sell some of the fund whilst the regular investments continue, some of the sale amount will be matched to the next regular investment by the bed and breakfast rule. 
+
+:::
 
 ### 'Bed and breakfast next door': switching to a similar investment
 
@@ -103,7 +107,7 @@ For more information on this see:
 *   [https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg51560#IDATR33F](https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg51560#IDATR33F)
     
 
-### 'Bed and ISA'
+### 'Bed and ISA': moving investments to your ISA
 
 The term 'Bed and ISA' was derived from 'Bed and Breakfast', and is sometimes referred to by brokers or online guides. It simply means to sell assets in your GIA and re-buy them within your ISA.
 
@@ -126,7 +130,7 @@ For more information on this see:
 
 Interest received from investments (typically bond funds, gilts, and any cash sitting uninvested in the account) is charged at your usual income tax rate, after any earned income but before dividends. For more information on this, see [Aberdeen Techzone - Order of Taxation](https://techzone.aberdeenadviser.com/personal-taxation/inc-tax/intro-guide-income-tax#the-order-of-taxing-income). 
 
-Part or all of this income might fall within the [starting rate for savings](https://www.moneysavingexpert.com/savings/tax-free-savings/) or the [personal savings allowance](/savings/).
+Part or all of this income might fall within your [personal savings allowance](/savings/), or the [starting rate for savings](https://www.moneysavingexpert.com/savings/tax-free-savings/).
 
 ### Income tax on dividends
 
@@ -156,7 +160,7 @@ Keeping records for GIA sales and purchases is much more important than ISAs and
 
 **CGT**: The simplest approach is to use a spreadsheet, which captures the date of transaction, number of units, and total cost of each purchase and sale, including any dealing charges and stamp duty (if applicable) paid.
 
-If [ERI](#3-excess-reportable-income) or equalisation applies `todo: add link - do we need one?`, this also needs adding as a separate line item.
+If [ERI](#3-excess-reportable-income) or [equalisation](https://techzone.aberdeenadviser.com/investment/oeic-unt-trust/guide-taxation-of-collectives#tax-on-income) applies, this also needs adding as a separate line item.
 
 What happens in practice if these records aren't kept is either a headache and a lot of backfilling when it comes to selling the investments, or more often the assumption that the acquisition cost was effectively zero, the result being that too much CGT is paid due to poor record-keeping.
 
@@ -164,7 +168,7 @@ The onus is on the individual to keep good records and be aware of any tax that 
 
 ## Choosing funds within a GIA
 
-In contrast to pensions or ISAs, where the choice between accumulating, distributing, onshore, offshore, ETF or OEICs is largely academic and generally decided by fees or availability, these choices have bigger impacts when investing in a GIA.
+In contrast to pensions or ISAs, where the choice between accumulating or distributing funds, ETF or OEICs, and onshore or offshore funds is largely academic, these choices have bigger impacts when investing in a GIA.
 
 ### Accumulating vs Distributing funds
 
@@ -220,7 +224,11 @@ In order to fully determine ERI, you need to acces the fund manager's own websit
 
 Excess reportable income is added to the Section 104 pooled cost. Income tax has been paid on money that wasn't received.
 
-:::note This is not an issue where overseas funds are held inside an ISA or a pension, where the income isn't taxable to begin with. :::
+:::note 
+
+This is not an issue where overseas funds are held inside an ISA or a pension, where the income isn't taxable to begin with. 
+
+:::
 
 ### Mutual funds (OEICs) or ETFs
 
@@ -259,4 +267,3 @@ The bed and breakfast rule only applies where the same person buys back, so one 
 GIAs can be held as joint accounts, unlike ISAs or pensions.
 
 All of the tax information holds true for jointly held accounts, but each party is responsible for a share of any income or capital gain, and can set their own allowances against that share.
-
