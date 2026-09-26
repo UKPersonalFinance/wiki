@@ -1,3 +1,4 @@
+
 ---
 title: General Investment Accounts 
 description: What general investment accounts are, how they work, and how they're taxed 
@@ -6,7 +7,9 @@ draft: true
 
 If you've used your ISA allowance, but still have money left to invest, you may be considering using a GIA (a taxable investment account). These have no limits on your contributions or withdrawals, but your investments are subject to tax.
 
-Tax not only takes a bite of your investment returns, but adds a hefty admin burden to track and report. This page is intended to help you get started.
+Tax not only takes a bite of your investment returns, but also an admin burden to track and report. 
+
+This page is intended to help you get started navigating this. We hope it helps, but do remember it is **your responsibility** to keep good records and be aware of any tax that is owed.
 
 ## Should you use a GIA?
 
@@ -14,7 +17,7 @@ If you have [ISA](/isa/) allowance left, you should use that first.
 
 You should then think about whether a [pension](/pensions/) contribution is a better plan. The main reason to use a GIA over a pension is if you expect to need the money before the 'normal minimum pension age', and you have no ISA allowance remaining.
 
-You may use a GIA for a short period of time (for example if transferring a lump sum into your ISA over a number of years), or for longer (for example if you are able to use your entire ISA allowance out of income).
+You may use a GIA for a short period of time (for example while transferring a lump sum into your ISA over a number of years), or for longer (for example if you are able to use your entire ISA allowance out of income).
 
 ## Why is investing in a GIA less tax efficient and more admin than using an ISA or pension?
 
@@ -29,7 +32,6 @@ HMRC will not automatically calculate the amounts you owe the way they do for [P
 
 This can get fiddly, and it's intimidating to get to grips with. Some technical details about your investment choices ([ETF vs OEIC](index-funds/#fund_vs_etf), [Acc vs Inc](index-funds/#acc-vs-inc), the dates and amounts of your trades) which you don't have to worry about in an ISA or pension will have an impact on your tax affairs when using a GIA.
 
-This page is intended to help you get started navigating this. We hope it helps, but do remember it is **your responsibility** to keep good records and be aware of any tax that is owed.
 
 ## Capital gains tax
 
@@ -39,7 +41,7 @@ Every UK resident individual has a [Capital Gains tax-free allowance](https://ww
 
 ### CGT and losses
 
-Capital losses can also be set against gains. For example, if one investment gained £4,000 and another lost £1,750, your total capital gains for the year is only £2,250, which is within the £3,000 allowance.
+Capital losses can also be set against gains. For example, if one investment gained £4,000 and another lost £1,750, your total capital gains for the year would be £2,250, which is within the £3,000 allowance.
 
 You can also carry forward 'unused' losses from previous years to reduce your CGT bill in future years. To carry forward losses, you have to register them with HMRC. This is usually done via self assessment.
 
@@ -69,9 +71,6 @@ Two easily missable elements can adjust the pooled cost while you hold the inves
     
 
 Both of these are explained further down this page.
-
-`todo: question, would it be possible to put this content later down the page, and just link to it from here? it's just we haven't introduced these concepts yet and now they're being applied as though already understood - Just added line to say that`
-
 :::
 
 ### 'Bed and breakfast': the same day and 30 day rules
@@ -91,6 +90,8 @@ Note the sale and repurchase still happened, and will be included in your CGT ca
 
 :::caution This can catch regular investments by accident! If you are automatically buying a fund by direct debit each month, and sell some of the fund whilst the regular investments continue, some of the sale amount will be matched to the next regular investment by the bed and breakfast rule. :::
 
+### 'Bed and breakfast next door': switching to a similar investment
+
 If you wish to crystallise your CGT gains/losses but don't want to wait 30 days before reinvesting, you can re-invest into a **different fund** - one that is similar enough to meet your investing needs, but does not count as the same asset for the 30 day matching rule.
 
 Working out what counts as the same investment can get complicated in some cases, but when it comes to index funds, different funds from different providers are **not** the same asset, even if they invest in the same index. For example, selling Vanguard FTSE All-World Index ETF and buying Invesco FTSE All-World Index ETF on the same day does not count as the same asset, despite tracking an identical index.
@@ -102,7 +103,7 @@ For more information on this see:
 *   [https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg51560#IDATR33F](https://www.gov.uk/hmrc-internal-manuals/capital-gains-manual/cg51560#IDATR33F)
     
 
-### Bed and ISA
+### 'Bed and ISA'
 
 The term 'Bed and ISA' was derived from 'Bed and Breakfast', and is sometimes referred to by brokers or online guides. It simply means to sell assets in your GIA and re-buy them within your ISA.
 
@@ -123,27 +124,29 @@ For more information on this see:
 
 ### Income tax on interest
 
-Interest received from investments (typically bond funds, gilts, and any cash sitting uninvested in the account) is charged at your usual income tax rate, after any earned income but before dividends. For more information on this, see [Aberdeen Techzone - Order of Taxation](https://techzone.aberdeenadviser.com/personal-taxation/inc-tax/intro-guide-income-tax#the-order-of-taxing-income)). Part or all of this income might fall within the starting rate for savings or the [personal savings allowance](/savings/).
+Interest received from investments (typically bond funds, gilts, and any cash sitting uninvested in the account) is charged at your usual income tax rate, after any earned income but before dividends. For more information on this, see [Aberdeen Techzone - Order of Taxation](https://techzone.aberdeenadviser.com/personal-taxation/inc-tax/intro-guide-income-tax#the-order-of-taxing-income). 
+
+Part or all of this income might fall within the [starting rate for savings](https://www.moneysavingexpert.com/savings/tax-free-savings/) or the [personal savings allowance](/savings/).
 
 ### Income tax on dividends
 
 Dividends received from funds or shares (including dividends reinvested in Acc funds) are subject to income tax.
 
-You get a £500 dividend allowance per year. The rate of tax paid for dividends above the allowance depends on your income tax rate. [https://www.gov.uk/tax-on-dividends](https://www.gov.uk/tax-on-dividends) .
+You get a £500 dividend allowance per year. The rate of tax paid for dividends above the allowance depends on your income tax rate. See [https://www.gov.uk/tax-on-dividends](https://www.gov.uk/tax-on-dividends). 
 
 ### Effect of income from investments
 
-Note that while you may not owe any income tax for dividends and interest earned if they are within your dividend allowance and personal savings allowances, these allowances are 'nil rate bands' rather than _true_ allowances. Income within them is taxed at 0%, but it still counts towards your total income for the year and uses up part of a tax band,
+Note that while you may not owe any income tax for dividends and interest earned if they are within your dividend allowance and personal savings allowance, these allowances are 'nil rate bands' rather than _true_ allowances. Income within them is taxed at 0%, but it still counts towards your total income for the year and uses up part of a tax band,
 
-This means it can push other income (e.g. from your employer) into a higher band, start to reduce your personal allowance, or take you over a threshold such as the High Income Child Benefit Charge. See our [tax traps page](/tax-traps-and-tax-efficiency/) for more information.
-
-This is in direct contrast to ISAs and pensions. In an ISA, no income tax is ever charged, and in a pension, income tax is only charged when taxable withdrawals are taken from the pension, and not charged on capital growth or income within the pension.
+This means it can push other income (e.g. from your employer) into a higher band, starting to reduce your personal allowance, or taking you over a threshold such as the High Income Child Benefit Charge. See our [tax traps page](/tax-traps-and-tax-efficiency/) for more information.
 
 ## Reporting your CGT and income tax
 
 To report and pay your tax, you usually need to file a [Self Assessment tax return](https://www.gov.uk/browse/tax/self-assessment).
 
-In some cases, you may be able to use the [‘real time’ Capital Gains Tax service](https://www.gov.uk/report-and-pay-your-capital-gains-tax/if-you-have-other-capital-gains-to-report) to report your CGT, and contact HMRC separately to adjust your tax code for income tax. This is a new service without many details. If you're unsure whether you need to submit a Self Assessment, [HMRC's has a tool to check](https://www.gov.uk/check-if-you-need-tax-return).
+In some cases, you may be able to use the [‘real time’ Capital Gains Tax service](https://www.gov.uk/report-and-pay-your-capital-gains-tax/if-you-have-other-capital-gains-to-report) to report your CGT, and contact HMRC separately to adjust your tax code for income tax. This is a new service without many details, so we don't yet have a guide. 
+
+If you're unsure whether you need to submit a Self Assessment, [HMRC's has a tool to check](https://www.gov.uk/check-if-you-need-tax-return).
 
 ### Keeping records
 
@@ -153,7 +156,7 @@ Keeping records for GIA sales and purchases is much more important than ISAs and
 
 **CGT**: The simplest approach is to use a spreadsheet, which captures the date of transaction, number of units, and total cost of each purchase and sale, including any dealing charges and stamp duty (if applicable) paid.
 
-If ERI or equalisation applies `todo: add link - do we need one?`, this also needs adding as a separate line item.
+If [ERI](#3-excess-reportable-income) or equalisation applies `todo: add link - do we need one?`, this also needs adding as a separate line item.
 
 What happens in practice if these records aren't kept is either a headache and a lot of backfilling when it comes to selling the investments, or more often the assumption that the acquisition cost was effectively zero, the result being that too much CGT is paid due to poor record-keeping.
 
@@ -161,7 +164,7 @@ The onus is on the individual to keep good records and be aware of any tax that 
 
 ## Choosing funds within a GIA
 
-In contrast to pensions or ISAs, where the choice between onshore, offshore, accumulating, distributing, ETF or OEICs is largely academic and generally decided by fees or availability, these choices have bigger impacts when investing in a GIA.
+In contrast to pensions or ISAs, where the choice between accumulating, distributing, onshore, offshore, ETF or OEICs is largely academic and generally decided by fees or availability, these choices have bigger impacts when investing in a GIA.
 
 ### Accumulating vs Distributing funds
 
@@ -173,7 +176,7 @@ Also, as the dividends reinvested in an accumulation fund are subject to income 
 
 Distributing units avoid this problem, because the income is paid out, and if you reinvest you increase the number of units held rather than the value of the units.
 
-In practice, when investing in a GIA it makes sense to use distributing ('INC') funds wherever possible, to save you a headache down the line when calculating capital gains.
+In practice, when investing in a GIA it makes sense to use distributing ('Inc') funds wherever possible, to save you a headache down the line when calculating capital gains.
 
 ### UK funds and overseas funds
 
@@ -183,7 +186,7 @@ A number of the funds and ETFs commonly used by UK investors, including some of 
 
 There are a few implications of this.
 
-`todo: is it at all at all possible that the following sections could be a link instead of in-page information - I vote we keep it. We could make them collapsible and have some sort of "into the weeds" warning at the top?`
+`todo: 'you can skip reading this next section if you will only buy UK domiciled funds' or something along those lines`
 
 #### 1\. Tax return complexity
 
@@ -225,12 +228,6 @@ ETFs and OEICs are broadly equivalent when holding inside a GIA. The main differ
 
 Outside of the issues of overseas funds, the decision generally comes down to relative cost and administrative convenience.
 
-:::caution One quirk of many ETFs is that the funds operate in USD, even if they're UK-domiciled. This means that dividends from distributing funds may be paid in USD, and may trigger a foreign exchange charge from your broker to convert back to GBP.
-
-Most ETFs will contain the currency they use in the title of the fund, i.e. VWRL "Vanguard FTSE All-World UCITS ETF (USD) Distributing"
-
-`todo: is this GIA specific? If not I'd like to move it to the relevant section of the index funds page- Yep, you're right, we could move it.` :::
-
 ### Overseas shares held directly
 
 Whilst investing in individual companies is not the focus of this wiki, it should be noted that shares in overseas companies held directly are taxed on the same basis as UK shares, but the country the company is in may deduct withholding tax before the dividend reaches you.
@@ -262,4 +259,4 @@ The bed and breakfast rule only applies where the same person buys back, so one 
 GIAs can be held as joint accounts, unlike ISAs or pensions.
 
 All of the tax information holds true for jointly held accounts, but each party is responsible for a share of any income or capital gain, and can set their own allowances against that share.
-```
+
