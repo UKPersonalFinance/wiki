@@ -201,7 +201,7 @@ A number of the funds and ETFs commonly used by UK investors, including some of 
 
 There are a few implications of this.
 
-::: note
+:::note
 
 You can skip this section completely if you only invest in UK-domiciled funds, such as OEICs 
 
