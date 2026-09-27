@@ -10,11 +10,11 @@ If you've used your ISA allowance, but still have money left to invest, you may 
 
 Tax not only takes a bite of your investment returns, but also adds an admin burden to track and report. 
 
-This page is intended to help you get started navigating taxable investments. We hope it helps, but do remember it is **your responsibility** to keep good records and be aware of any tax that is owed. 
+This page is intended to help you get started navigating taxable investments, if they are right for you. 
 
 ## Should you use a GIA?
 
-If you have [ISA](/isa/) allowance left, you should use that first.
+If you have [ISA](/isa/) allowance available, you should use that first.
 
 You should then think about whether a [pension](/pensions/) contribution is a better plan. A pension will generally be significantly more tax efficient than a GIA, as well as less admin. The main reason to use a GIA over a pension is if you expect to need the money before the ['normal minimum pension age'](pensions/#access-age), and you have no ISA allowance remaining. 
 
@@ -64,7 +64,7 @@ Capital losses are set against gains in the same year. For example, if last year
 
 If you have a net loss (your losses exceed your gains, not just bringing them below the allowance), you can 'carry forward' the unused amount to reduce your tax bill in future years. For example, if last year you sold one investment with a gain of £4,000, and another with a loss of £10,000, that means £6,000 of your losses were not able to be 'used' this year. This unused loss can be reported to HMRC and used to offset gains in future years. 
 
-Losses from previous years can be used to reduce your gain to the CGT allowance. For example, you could use £1,000 of your £6,000 losses to reduce a future £4,000 CGT gain to £3,000, then carry forward the remaining £5,000 for use in future years. 
+Losses from previous years can be used to reduce your gain to just the CGT allowance. For example, you could use £1,000 of your £6,000 losses to reduce a future £4,000 CGT gain to £3,000, then carry forward the remaining £5,000 for use in future years. 
 
 To carry forward losses, you have to register them with HMRC within 4 years of the loss. This is usually done via self assessment. Once registered, there is no deadline by which to use them. 
 
@@ -78,17 +78,9 @@ For more information, see:
 ### Section 104 pool
 
 If you have made multiple purchases and sales of the same investment, your CGT won't be as simple as the examples above, which had one purchase price and one sell price for each investment. You therefore need to work out the effective purchase price, also known as a Section 104 holding. For more information on this, see
-
-*   [https://www.cgttracker.com/guide/section-104-pool](https://www.cgttracker.com/guide/section-104-pool)
     
 *   [https://www.gov.uk/government/publications/shares-and-capital-gains-tax-hs284-self-assessment-helpsheet/hs284-shares-and-capital-gains-tax-2024](https://www.gov.uk/government/publications/shares-and-capital-gains-tax-hs284-self-assessment-helpsheet/hs284-shares-and-capital-gains-tax-2024)
     
-
-:::caution
-    
-When you invest in a fund which pays dividends (whether Acc or Inc), part of the first distribution after your purchase is treated as a return of your own capital rather than income. This is known as Equalisation. The equalisation amount can be taken off the pool, to reduce your cost basis, but is easily missed! See [Aberdeen Techzone - Equalisation payments](https://techzone.aberdeenadviser.com/investment/oeic-unt-trust/guide-taxation-of-collectives#equalisation-payments), and [our example table below](#example-of-a-single-fund-record-table). 
-    
-:::
 
 ### 'Bed and breakfast': the same day and 30 day rules
 
@@ -152,7 +144,14 @@ Part or all of this income might fall within your [personal savings allowance](/
 
 Dividends received from funds or shares (including dividends reinvested in Acc funds) are subject to income tax.
 
-You get a £500 dividend allowance per year. The rate of tax paid for dividends above the allowance depends on your income tax rate. See [https://www.gov.uk/tax-on-dividends](https://www.gov.uk/tax-on-dividends). 
+You get a £500 dividend allowance per year. The rate of tax paid for dividends above the allowance depends on your income tax rate. See [https://www.gov.uk/tax-on-dividends](https://www.gov.uk/tax-on-dividends).
+
+Note that when you buy a fund that pays dividends (whether Acc or Inc), part of the _first_ distribution after your purchase is treated as a 'return of your own capital' (known as an 'Equalisation' payment), rather than income. 
+
+For example, if a fund pays dividends every quarter, and you invest one month before a payment, you will receive the full dividend payment even though you were not invested for the full amount of time. Only 1/3rd of that payment is income, and the other 2/3rds is treated as a 'return of your own capital' or Equalisation. For more information see [Aberdeen Techzone - Equalisation payments](https://techzone.aberdeenadviser.com/investment/oeic-unt-trust/guide-taxation-of-collectives#equalisation-payments).
+
+**Note:** the equalisation amount can be taken off the s104 pool, to reduce your cost basis. See [our example table below](#example-of-a-single-fund-record-table)
+
 
 ### Effect of income from investments
 
@@ -188,13 +187,15 @@ For these reasons, when investing in a GIA it makes sense to use distributing ('
 
 The main difference is that OEICs are always 'domiciled' (legally established) in the UK, while ETFs are domiciled overseas, generally in Ireland or Luxembourg. 
 
-Where a fund is domiciled has a number of implications when investing in a GIA. 
+A fund's domicile is different from where the fund is listed, or what currency it's priced in. For example, an Irish-domiciled ETF bought in sterling on the London Stock Exchange is still an overseas fund. 
 
-A fund's domicile is different from where the fund is listed, or what currency it's priced in. For example, an Irish-domiciled ETF bought in sterling on the London Stock Exchange is still an overseas fund. It also isn't about where the underlying investments are. Conversely, a UK-domiciled OEIC holding global shares pays UK dividends, because HMRC treat the fund as the source of the dividend, not the underlying investments. 
+It also isn't about where the underlying investments are. A UK-domiciled OEIC holding global shares pays UK dividends, because HMRC treat the fund as the source of the dividend, not the underlying investments. 
+
+Investing in an overseas fund has a number of implications when investing in a GIA. 
 
 :::note
 
-You can skip this section if you only invest in UK-domiciled OEIC funds. 
+You can skip this section if you only invest in OEIC funds, as these are UK-domiciled. 
 
 If you are planning to invest in ETFs (or have already!), read these next three sections to understand your reporting obligations.
 
@@ -302,3 +303,4 @@ The bed and breakfast rule only applies where the same person buys back, so one 
 GIAs can be held as joint accounts, unlike ISAs or pensions.
 
 All of the tax information holds true for jointly held accounts, but each party is responsible for a share of any income or capital gain, and can set their own allowances against that share.
+
