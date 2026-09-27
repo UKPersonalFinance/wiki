@@ -64,7 +64,7 @@ Capital losses are set against gains in the same year. For example, if last year
 
 If you have a net loss (your losses exceed your gains, not just bringing them below the allowance), you can 'carry forward' the unused amount to reduce your tax bill in future years. For example, if last year you sold one investment with a gain of £4,000, and another with a loss of £10,000, that means £6,000 of your losses were not able to be 'used' this year. This unused loss can be reported to HMRC and used to offset gains in future years. 
 
-Losses from previous years can be used to reduce your gain to just the CGT allowance. For example, you could use £1,000 of your £6,000 losses to reduce a future £4,000 CGT gain to £3,000, then carry forward the remaining £5,000 for use in future years. 
+Losses from previous years can be used to reduce your gain to just the CGT allowance. For example, you could use £1,000 of your £6,000 losses to reduce a future £4,000 CGT gain to £3,000, then carry forward the remaining £5,000 for use in future years.
 
 To carry forward losses, you have to register them with HMRC within 4 years of the loss. This is usually done via self assessment. Once registered, there is no deadline by which to use them. 
 
@@ -136,7 +136,9 @@ For more information on this see:
 
 ### Income tax on interest
 
-Interest received from investments (typically bond funds, gilts, and any cash sitting uninvested in the account) is charged at your usual income tax rate, after any earned income but before dividends. For more information on this, see [Aberdeen Techzone - Order of Taxation](https://techzone.aberdeenadviser.com/personal-taxation/inc-tax/intro-guide-income-tax#the-order-of-taxing-income). 
+Interest received from investments (typically bond funds, gilts, and any cash sitting uninvested in the account) is charged at your usual income tax rate.
+
+This is calculated after any earned income but before dividends. For more information on this, see [Aberdeen Techzone - Order of Taxation](https://techzone.aberdeenadviser.com/personal-taxation/inc-tax/intro-guide-income-tax#the-order-of-taxing-income). 
 
 Part or all of this income might fall within your [personal savings allowance](/savings/), or the [starting rate for savings](https://www.moneysavingexpert.com/savings/tax-free-savings/).
 
@@ -153,7 +155,7 @@ For example, if a fund pays dividends every quarter, and you invest one month be
 **Note:** the equalisation amount can be taken off the s104 pool, to reduce your cost basis. See [our example table below](#example-of-a-single-fund-record-table)
 
 
-### Effect of income from investments
+### Income from investments counts towards your Adjusted Net Income
 
 Note that while you may not owe any income tax for dividends and interest earned if they are within your dividend allowance and personal savings allowance, these allowances are 'nil rate bands' rather than _true_ allowances. Income within them is taxed at 0%, but it still counts towards your total income for the year and uses up part of a tax band.
 
@@ -187,17 +189,17 @@ For these reasons, when investing in a GIA it makes sense to use distributing ('
 
 The main difference is that OEICs are always 'domiciled' (legally established) in the UK, while ETFs are domiciled overseas, generally in Ireland or Luxembourg. 
 
-A fund's domicile is different from where the fund is listed, or what currency it's priced in. For example, an Irish-domiciled ETF bought in sterling on the London Stock Exchange is still an overseas fund. 
+Investing in an overseas fund has a number of implications when investing in a GIA. 
+
+Note a fund's domicile is different from where the fund is listed, or what currency it's priced in. For example, an Irish-domiciled ETF bought in sterling on the London Stock Exchange is still an overseas fund. 
 
 It also isn't about where the underlying investments are. A UK-domiciled OEIC holding global shares pays UK dividends, because HMRC treat the fund as the source of the dividend, not the underlying investments. 
 
-Investing in an overseas fund has a number of implications when investing in a GIA. 
-
 :::note
 
-You can skip this section if you only invest in OEIC funds, as these are UK-domiciled. 
+You can skip the rest of this section if you only invest in OEIC funds, as these are UK-domiciled. 
 
-If you are planning to invest in ETFs (or have already!), read these next three sections to understand your reporting obligations.
+If you are planning to invest in ETFs (or have already!), read the following subsections to understand your reporting obligations.
 
 :::
 
@@ -259,7 +261,7 @@ Keeping records for GIA sales and purchases is much more important than ISAs and
 
 **Income tax:** You should receive a 'consolidated tax certificate' from your broker each year, in time for you to file a tax return, which shows all dividends and interest received in the previous tax year, split between UK and overseas income, and whether any tax was taken at source. 
 
-Note this doesn't usually include [Excess Reportable Income from ETFs](#3-excess-reportable-income), and on some platforms it doesn't include the [accumulations paid inside accumulation units](#accumulating-vs-distributing-funds) either. (You can avoid worrying about these by investing in distributing OEICs). 
+Note this doesn't usually include [Excess Reportable Income from ETFs](#3-excess-reportable-income), and on some platforms it doesn't include the [accumulations paid inside accumulation units](#accumulating-vs-distributing-funds) either. (You can avoid needing to look these up separately by investing in distributing OEICs). 
 
 **CGT**: As CGT is only owed when you sell, it can be easy to forget to keep records as you go along. But you will need them! 
 
