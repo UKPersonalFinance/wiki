@@ -10,7 +10,7 @@ If you've used your ISA allowance, but still have money left to invest, you may 
 
 Tax not only takes a bite of your investment returns, but also adds an admin burden to track and report. 
 
-This page is intended to help you get started navigating taxable investments. We hope it helps, but do remember it is **your responsibility** to keep good records and be aware of any tax that is owed.
+This page is intended to help you get started navigating taxable investments. We hope it helps, but do remember it is **your responsibility** to keep good records and be aware of any tax that is owed. 
 
 ## Should you use a GIA?
 
@@ -21,7 +21,7 @@ You should then think about whether a [pension](/pensions/) contribution is a be
 You may need use a GIA for a limited period of time, for example while transferring a [lump sum](/lump-sum) into your ISA that requires multiple years' allowances. Or you may hold one for the long term, for example if you are able to use your entire ISA allowance each year out of income. 
 
 
-## Why is investing in a GIA less tax efficient and more admin than using an ISA or pension?
+## Why is investing in a GIA less tax efficient than using an ISA or pension?
 
 Unlike an ISA or pension, when investing in a taxable investment account, your investments are liable for:
 
@@ -31,24 +31,42 @@ Unlike an ISA or pension, when investing in a taxable investment account, your i
 
 Note that paying tax on your investments will never leave you worse off than if you had not invested. Although you can certainly be worse off than if you'd made the same investments in an ISA or pension! 
 
-HMRC will not automatically calculate the amounts you owe the way they do for [PAYE income](/income-tax/) or [savings interest](/savings/#how-do-i-pay-tax-on-savings-interest). You have to report the details of your investments to HMRC yourself to calculate how much you owe and pay it.
+## Why is investing in a GIA more admin than using an ISA or pension?
 
-This can get fiddly, and it's intimidating to get to grips with. It is worth taking the time to do your research in advance of investing, as some technical details about your investment choices which you don't have to worry about in an ISA or pension will have an impact on your tax affairs when using a GIA. We'll do our best to walk you through it! 
+When investing in a GIA it is up to you to organise your investments in a tax efficient way, such as making sure to use your Capital Gains Tax allowance each year. 
+
+HMRC will not automatically calculate the tax you owe as a result of your GIA investments the way they do for [PAYE income](/income-tax/) or [savings interest](/savings/#how-do-i-pay-tax-on-savings-interest). You must [keep your own records](#keeping-records) of your investing activities, and report them to HMRC yourself to calculate how much you owe. 
+
+This can all get fiddly, and it's intimidating to get to grips with, which is why we have written this page to help guide you through. 
+
+Due to the nature of this topic this wiki page is by necessity rather long. We'll do our best to highlight ways to keep your affairs simple and efficient as we go along. 
+
+If you are considering opening a GIA, it is worth taking the time to read and research in advance of opening an account and investing, as some technical details about your investment choices which you don't have to worry about in an ISA or pension will have an impact on your tax affairs when using a GIA. 
+
+You also have the option of paying an accountant to prepare your returns for you. But it is very possible to DIY this - especially if you are starting now and can set things up in a simple way from the start.
 
 
-## Capital gains tax
+## Capital Gains Tax
 
 In simple terms, capital gains tax is a charge on the sale price of an investment, after taking away the purchase price and any associated costs. For example, if you bought an investment at £5,000 and later sold it at £9,000, that is a gain of £4,000.
 
+CGT only applies when you sell your investment. The fluctuations in value while you are holding an investment are not relevant, only the prices at which you bought and sold. 
+
+### Your CGT allowance
+
 Every UK resident individual has a [Capital Gains tax-free allowance](https://www.gov.uk/capital-gains-tax/allowances) of £3,000 per year. For capital gains above £3,000, you pay CGT at [rates determined by your income tax bracket](https://www.gov.uk/capital-gains-tax/rates).
+
+This allowance is use it or lose it. You cannot use previous years' allowances. 
 
 ### CGT and losses
 
-Capital losses are against gains. For example, if you sold one investment with a gain of £4,000, and another with a loss of £1,750, your capital gains for the year would be £2,250. In this situation, your gains are within the £3,000 CGT allowance and there is no tax to pay.
+Capital losses are set against gains in the same year. For example, if last year you sold one investment with a gain of £4,000, and another with a loss of £1,750, your capital gains for the year would be £2,250. In this situation, your gains are within the £3,000 CGT allowance and there is no tax to pay.
 
-If you have a net loss (your losses exceed your gains, not just bringing them below the allowance), you can 'carry forward' the loss to offset against gains in future years. 
+If you have a net loss (your losses exceed your gains, not just bringing them below the allowance), you can 'carry forward' the unused amount to reduce your tax bill in future years. For example, if last year you sold one investment with a gain of £4,000, and another with a loss of £10,000, that means £6,000 of your losses were not able to be 'used' this year. This unused loss can be reported to HMRC and used to offset gains in future years. 
 
-To carry forward losses, you have to register them with HMRC within 4 years of the loss. This is usually done via self assessment.
+Losses from previous years can be used to reduce your gain to the CGT allowance. For example, you could use £1,000 of your £6,000 losses to reduce a future £4,000 CGT gain to £3,000, then carry forward the remaining £5,000 for use in future years. 
+
+To carry forward losses, you have to register them with HMRC within 4 years of the loss. This is usually done via self assessment. Once registered, there is no deadline by which to use them. 
 
 For more information, see:
 
@@ -67,12 +85,8 @@ If you have made multiple purchases and sales of the same investment, your CGT w
     
 
 :::caution
-
-Two easily missable elements can adjust the pooled cost while you hold the investment:
-
-*   Income which has 'accumulated' inside accumulation/ACC units, and excess reportable income from overseas funds, are added to the pool, because income tax has already been paid on them. We explain accumulation units and excess reportable income in [this later section](#choosing-funds-within-a-gia).
     
-*   Equalisation, which is the part of the first distribution after a purchase that is really a return of your own capital rather than income, is taken off the pool. See [Aberdeen Techzone - Equalisation payments](https://techzone.aberdeenadviser.com/investment/oeic-unt-trust/guide-taxation-of-collectives#equalisation-payments). 
+When you invest in a fund which pays dividends (whether Acc or Inc), part of the first distribution after your purchase is treated as a return of your own capital rather than income. This is known as Equalisation. The equalisation amount can be taken off the pool, to reduce your cost basis, but is easily missed! See [Aberdeen Techzone - Equalisation payments](https://techzone.aberdeenadviser.com/investment/oeic-unt-trust/guide-taxation-of-collectives#equalisation-payments), and [our example table below](#example-of-a-single-fund-record-table). 
     
 :::
 
@@ -89,8 +103,6 @@ Note the sale and repurchase still happened, and will be included in your CGT ca
 *   [https://techzone.aberdeenadviser.com/public/personal-taxation/Practical-G-Share-match](https://techzone.aberdeenadviser.com/public/personal-taxation/Practical-G-Share-match)
     
 *   [https://adviserservices.fidelity.co.uk/media/fnw/guides/taxing-calculations-capital-gains-tax.pdf](https://adviserservices.fidelity.co.uk/media/fnw/guides/taxing-calculations-capital-gains-tax.pdf)
-    
-
 
 :::caution
 
@@ -148,66 +160,43 @@ Note that while you may not owe any income tax for dividends and interest earned
 
 This means it can push other income (e.g. from your employer) into a higher band, start to reduce your personal allowance, or take you over a threshold such as the High Income Child Benefit Charge. See our [tax traps page](/tax-traps-and-tax-efficiency/) for more information.
 
-## Reporting your CGT and income tax
-
-To report and pay your tax, you usually need to file a [Self Assessment tax return](https://www.gov.uk/browse/tax/self-assessment).
-
-In some cases, you may be able to use the [‘real time’ Capital Gains Tax service](https://www.gov.uk/report-and-pay-your-capital-gains-tax/if-you-have-other-capital-gains-to-report) to report your CGT, and contact HMRC separately to adjust your tax code for income tax. This is a new service without many details, so we don't yet have a guide. 
-
-If you're unsure whether you need to submit a Self Assessment, [HMRC's has a tool to check](https://www.gov.uk/check-if-you-need-tax-return).
-
-### Keeping records
-
-Keeping records for GIA sales and purchases is much more important than ISAs and pensions.
-
-**Income tax:** you should receive a 'consolidated tax certificate' from your broker each year, in time for you to file a tax return, which shows all dividends and interest received in the previous tax year, split between UK and overseas income, and whether any tax was taken at source. Note this doesn't usually include excess reportable income from overseas funds (see below), and on some platforms it doesn't include the accumulations paid inside accumulation units either. Both are described further down this page.
-
-**CGT**: The simplest approach is to use a spreadsheet, which captures the date of transaction, number of units, and total cost of each purchase and sale, including any dealing charges and stamp duty (if applicable) paid.
-
-If [ERI](#3-excess-reportable-income) or [equalisation](https://techzone.aberdeenadviser.com/investment/oeic-unt-trust/guide-taxation-of-collectives#tax-on-income) applies, this also needs adding as a separate line item.
-
-What happens in practice if these records aren't kept is either a headache and a lot of backfilling when it comes to selling the investments, or more often the assumption that the acquisition cost was effectively zero, the result being that too much CGT is paid due to poor record-keeping.
-
-The onus is on the individual to keep good records and be aware of any tax that is owed. There are online calculators like [CGTCalculator](https://www.cgtcalculator.com/) which can help, but if you're struggling you may prefer to pay an accountant to complete the calculations for you.
-
-#### Example of a single-fund record table
-
-| # | Date | Transaction | Cash | Pool units | Pool cost | Gain |
-|---|---|---|---|---|---|---|
-| 1 | 01/05/2024 | Buy 1,000 at £10.00 | £10,000 paid | 1,000 | £10,000 | |
-| 2 | 28/02/2025 | Accumulation 30p per unit, of which 12p equalisation | None | 1,000 | £10,180 | |
-| 3 | 15/05/2025 | Buy 500 at £11.00 | £5,500 paid | 1,500 | £15,680 | |
-| 4 | 10/09/2025 | Sell 600 at £12.00 | £7,200 received | 1,500 | £15,680 | £120 |
-| 5 | 25/09/2025 | Buy 600 at £11.80 | £7,080 paid | 1,500 | £15,680 | |
-| 6 | 15/12/2025 | Sell 900 at £12.50 | £11,250 received | 600 | £6,272 | £1,842 |
 
 ## Choosing funds within a GIA
 
-In contrast to pensions or ISAs, where the choice between accumulating or distributing funds, ETF or OEICs, and onshore or offshore funds is largely academic, these choices have bigger impacts when investing in a GIA.
-
-### Accumulating vs Distributing funds
-
-Distributing funds pay out dividends as income, while accumulation funds use those dividends to buy more of the assets within the fund and increase the value of the fund units. This accumulation is [convenient in an ISA or pension](index-funds/#acc-vs-inc) as it saves you effort (and potentially fees) in re-investing the dividends,
-
-However, dividend income is **still taxable** whether it is automatically reinvested or distributed, so when investing in a GIA, having dividends rolled into the fund value makes tracking your tax liabilities harder.
-
-Also, as the dividends reinvested in an accumulation fund are subject to income tax, this has to be added to the Section 104 pooled cost, otherwise the same money is taxed a second time as a capital gain when the holding is sold. In order to keep track of this, you need to find and record the accumulation figure every time a distribution is paid, often several times a year, for as long as the fund is held.
-
-Distributing units avoid this problem, because the income is paid out, and if you reinvest you increase the number of units held rather than the value of the units.
-
-In practice, when investing in a GIA it makes sense to use distributing ('Inc') funds wherever possible, to save you a headache down the line when calculating capital gains.
-
-### UK funds and overseas funds
-
-Where a fund is domiciled, meaning where it is legally established, can be important for your GIA. This is different from where the fund is listed, or what currency it's priced in. For example, an Irish-domiciled ETF bought in sterling on the London Stock Exchange is still an overseas fund. It also isn't about where the underlying investments are. A UK-domiciled fund holding global shares pays UK dividends, because HMRC treat the fund as the source of the dividend, not the underlying investments.
-
-A number of the funds and ETFs commonly used by UK investors, including some of Vanguard's exchange traded funds, are domiciled in Dublin rather than the UK.
-
-There are a few implications of this.
+When investing in pensions or ISAs, choosing between an accumulating or distributing fund, or an ETF or OEIC, largely comes down to personal preference and/or broker fees. When investing in a GIA these technical choices can have impacts on your tax affairs.
 
 :::note
 
-You can skip this section completely if you only invest in UK-domiciled funds, such as OEICs 
+If your priority is ease of tax reporting, the simplest answer is to buy **distributing OEIC funds**.
+
+If you want to learn more about why, or if you want to invest in ETFs or accumulating funds, read on! 
+:::
+
+### Accumulating vs Distributing funds
+
+Distributing funds pay out dividends as income, while accumulation funds use those dividends to buy more of the assets within the fund and increase the value of the fund units. This accumulation is [convenient in an ISA or pension](index-funds/#acc-vs-inc) as it saves you effort (and potentially fees) in re-investing the dividends.
+
+However, dividend income is **still taxable** whether it is automatically reinvested or distributed, so when investing in a GIA, having dividends rolled into the fund value makes tracking your tax liabilities harder.
+
+Also, as the dividends reinvested in an accumulation fund are subject to income tax, this has to be added to the Section 104 pooled cost, otherwise the same money is taxed a second time as a capital gain when the holding is sold. In order to keep track of this, you need to find and record the accumulation figure every time a distribution is paid, often several times a year, for as long as the fund is held. This information is not always provided by your broker, you will need to go to the fund provider's websites to look it up. 
+
+Distributing units avoid this problem, because the income is paid out, and if you reinvest you increase the number of units held rather than the value of the units.
+
+For these reasons, when investing in a GIA it makes sense to use distributing ('Inc') funds wherever possible, to save you a headache down the line when calculating capital gains.
+
+### Mutual funds (OEICs) or ETFs
+
+The main difference is that OEICs are always 'domiciled' (legally established) in the UK, while ETFs are domiciled overseas, generally in Ireland or Luxembourg. 
+
+Where a fund is domiciled has a number of implications when investing in a GIA. 
+
+A fund's domicile is different from where the fund is listed, or what currency it's priced in. For example, an Irish-domiciled ETF bought in sterling on the London Stock Exchange is still an overseas fund. It also isn't about where the underlying investments are. Conversely, a UK-domiciled OEIC holding global shares pays UK dividends, because HMRC treat the fund as the source of the dividend, not the underlying investments. 
+
+:::note
+
+You can skip this section if you only invest in UK-domiciled OEIC funds. 
+
+If you are planning to invest in ETFs (or have already!), read these next three sections to understand your reporting obligations.
 
 :::
 
@@ -243,17 +232,6 @@ In order to fully determine ERI, you need to acces the fund manager's own websit
 
 Excess reportable income is added to the Section 104 pooled cost. Income tax has been paid on money that wasn't received.
 
-:::note 
-
-This is not an issue where overseas funds are held inside an ISA or a pension, where the income isn't taxable to begin with. 
-
-:::
-
-### Mutual funds (OEICs) or ETFs
-
-ETFs and OEICs are broadly equivalent when holding inside a GIA. The main differences relate to how brokers charge for the purchase of different types of funds, and the fact that many LSE-floated ETFs are actually domiciled in Ireland, leading to the ERI issues highlighted above.
-
-Outside of the issues of overseas funds, the decision generally comes down to relative cost and administrative convenience.
 
 ### Overseas shares held directly
 
@@ -264,6 +242,44 @@ For US shares the rate is 15% where a W-8BEN form is in place with your broker, 
 Where foreign tax has been deducted, foreign tax credit relief can usually be claimed on a tax return, limited to the lowest of the foreign tax paid, the rate the relevant treaty allows, and the UK tax due on that income.
 
 Shares priced in a foreign currency also have to be pooled in sterling, converting each purchase and each sale at the rate on the day it happened, so exchange rate changes can impact the relative gain and loss.
+
+
+## Reporting your CGT and income tax
+
+To report and pay your tax, you usually need to file a [Self Assessment tax return](https://www.gov.uk/browse/tax/self-assessment).
+
+In some cases, you may be able to use the [‘real time’ Capital Gains Tax service](https://www.gov.uk/report-and-pay-your-capital-gains-tax/if-you-have-other-capital-gains-to-report) to report your CGT, and contact HMRC separately to adjust your tax code for income tax. This is a new service without many details, so we don't yet have a guide. 
+
+If you're unsure whether you need to submit a Self Assessment, [HMRC's has a tool to check](https://www.gov.uk/check-if-you-need-tax-return).
+
+### Keeping records
+
+Keeping records for GIA sales and purchases is much more important than ISAs and pensions.
+
+**Income tax:** You should receive a 'consolidated tax certificate' from your broker each year, in time for you to file a tax return, which shows all dividends and interest received in the previous tax year, split between UK and overseas income, and whether any tax was taken at source. 
+
+Note this doesn't usually include [Excess Reportable Income from ETFs](#3-excess-reportable-income), and on some platforms it doesn't include the [accumulations paid inside accumulation units](#accumulating-vs-distributing-funds) either. (You can avoid worrying about these by investing in distributing OEICs). 
+
+**CGT**: As CGT is only owed when you sell, it can be easy to forget to keep records as you go along. But you will need them! 
+
+If you don't keep your own records, when it comes to selling you will either have a headache finding and backfilling the missing information on your older transactions, or potentially you will need to list your buying cost as zero, resulting in too much CGT paid due to poor record-keeping.
+
+The simplest approach is to use a spreadsheet to record each transaction: the date, number of units, and total cost of each purchase and sale, including any dealing charges and stamp duty (if applicable) paid.
+
+If [ERI](#3-excess-reportable-income) or [equalisation](https://techzone.aberdeenadviser.com/investment/oeic-unt-trust/guide-taxation-of-collectives#tax-on-income) applies, this also needs adding as a separate line item.
+
+#### Example of a single-fund record table
+
+| # | Date | Transaction | Cash | Pool units | Pool cost | Gain |
+|---|---|---|---|---|---|---|
+| 1 | 01/05/2024 | Buy 1,000 at £10.00 | £10,000 paid | 1,000 | £10,000 | |
+| 2 | 28/02/2025 | Accumulation 30p per unit, of which 12p equalisation | None | 1,000 | £10,180 | |
+| 3 | 15/05/2025 | Buy 500 at £11.00 | £5,500 paid | 1,500 | £15,680 | |
+| 4 | 10/09/2025 | Sell 600 at £12.00 | £7,200 received | 1,500 | £15,680 | £120 |
+| 5 | 25/09/2025 | Buy 600 at £11.80 | £7,080 paid | 1,500 | £15,680 | |
+| 6 | 15/12/2025 | Sell 900 at £12.50 | £11,250 received | 600 | £6,272 | £1,842 |
+
+To calculate how much CGT you owe from these transactions, you can use an online calculator like [CGTCalculator](https://www.cgtcalculator.com/). But if you're struggling you may prefer to pay an accountant to complete the calculations for you.
 
 ## Other things to consider
 
