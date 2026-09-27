@@ -29,7 +29,9 @@ Unlike an ISA or pension, when investing in a taxable investment account, your i
 
 *   **Income tax** on dividends and interest    
 
-Note that paying tax on your investments will never leave you worse off than if you had not invested. Although you can certainly be worse off than if you'd made the same investments in an ISA or pension! 
+Note that paying tax on your investment returns will never leave you worse off than if you had not invested at all. That said, you can certainly be worse off than if you'd made the same investments tax-free in an ISA or pension! 
+
+When comparing investing in a GIA to [risk-free savings](/savings/) or [mortgage overpayments](/mortgage-overpayments-vs-investments/), you should take tax into account and use post-tax returns, as you would with [taxable savings](savings/#how-to-calculate-a-post-tax-return-rate).  
 
 ## Why is investing in a GIA more admin than using an ISA or pension?
 
