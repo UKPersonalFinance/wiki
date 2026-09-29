@@ -1,16 +1,17 @@
 
 
+
 ---
 title: General Investment Accounts 
 description: What general investment accounts are, how they work, and how they're taxed 
 draft: true
 ---
 
-If you've used your ISA allowance, but still have money left to invest, you may be considering using a General Investment Account or 'GIA'. These have no limits on your contributions or withdrawals, but your investments are subject to tax.
+If you've used your ISA allowance, but still have money left to invest, you may be considering using a General Investment Account ('GIA'). These have no limits on your contributions or withdrawals, but your investments are subject to tax.
 
 Tax not only takes a bite of your investment returns, but also adds an admin burden to track and report. 
 
-This page is intended to help you get started navigating taxable investments, if they are right for you. 
+This page is intended to help you get started navigating taxable investments, if you decide they're right for you. 
 
 ## Should you use a GIA?
 
@@ -29,7 +30,7 @@ Unlike an ISA or pension, when investing in a taxable investment account, your i
 
 *   **Income tax** on dividends and interest    
 
-Note that paying tax on your investment returns will never leave you worse off than if you had not invested at all. That said, you can certainly be worse off than if you'd made the same investments tax-free in an ISA or pension! 
+Note that paying tax on your investment returns will never leave you worse off than if you had not invested at all. That said, you can certainly be worse off than if you'd made the same investments in a tax-efficient account like an ISA or pension! 
 
 When comparing investing in a GIA to [risk-free savings](/savings/) or [mortgage overpayments](/mortgage-overpayments-vs-investments/), you should take tax into account and use post-tax returns, as you would with [taxable savings](savings/#how-to-calculate-a-post-tax-return-rate).  
 
@@ -41,11 +42,9 @@ HMRC will not automatically calculate the tax you owe as a result of your GIA in
 
 This can all get fiddly, and it's intimidating to get to grips with, which is why we have written this page to help guide you through. 
 
-Due to the nature of this topic this wiki page is by necessity rather long. We'll do our best to highlight ways to keep your affairs simple and efficient as we go along. 
+Due to the nature of this topic, this wiki page is by necessity on the longer side. But if you are considering opening a GIA, it is worth taking the time to read thoroughly before you open your GIA and begin investing, as some technical details about your investment choices (e.g. what type of funds you choose, or how often you buy and sell) which you don't have to worry about in an ISA or pension will have an impact on your tax affairs when using a GIA. 
 
-If you are considering opening a GIA, it is worth taking the time to read and research in advance of opening an account and investing, as some technical details about your investment choices which you don't have to worry about in an ISA or pension will have an impact on your tax affairs when using a GIA. 
-
-You also have the option of paying an accountant to prepare your returns for you. But it is very possible to DIY this - especially if you are starting now and can set things up in a simple way from the start.
+You also have the option of paying an accountant to prepare your returns for you. But it is very possible to DIY this - especially if you set your investments (and spreadsheets) up with this goal in mind from the start. Throughout this page we'll highlight ways you can keep your your investments tax-efficient and simple to administer. 
 
 
 ## Capital Gains Tax
@@ -66,7 +65,7 @@ Capital losses are set against gains in the same year. For example, if last year
 
 If you have a net loss (your losses exceed your gains, not just bringing them below the allowance), you can 'carry forward' the unused amount to reduce your tax bill in future years. For example, if last year you sold one investment with a gain of £4,000, and another with a loss of £10,000, that means £6,000 of your losses were not able to be 'used' this year. This unused loss can be reported to HMRC and used to offset gains in future years. 
 
-Losses from previous years can be used to reduce your gain to just the CGT allowance. For example, you could use £1,000 of your £6,000 losses to reduce a future £4,000 CGT gain to £3,000, then carry forward the remaining £5,000 for use in future years.
+Losses from previous years can be used to reduce your gain to just the CGT allowance. For example, if the following year you had a CGT gain of £4,000, you could use £1,000 of your £6,000 losses to reduce your gain to £3,000, then carry forward the remaining £5,000 for use in future years.
 
 To carry forward losses, you have to register them with HMRC within 4 years of the loss. This is usually done via self assessment. Once registered, there is no deadline by which to use them. 
 
@@ -79,8 +78,13 @@ For more information, see:
 
 ### Section 104 pool
 
-If you have made multiple purchases and sales of the same investment, your CGT won't be as simple as the examples above, which had one purchase price and one sell price for each investment. You therefore need to work out the effective purchase price, also known as a Section 104 holding. For more information on this, see
-    
+If you have made multiple purchases and sales of the same investment, your CGT won't be as simple as the examples above, which had one purchase price and one sell price for each investment. 
+
+If you buy into an investment fund at different prices and different amounts over the years, what do you put as the 'buy' price when you come to sell? 
+
+To calculate this you need to work out the effective purchase price, also known as a Section 104 holding. For more information on this, see
+
+*   [Our example table below](#example-of-a-single-fund-record-table)   
 *   [https://www.gov.uk/government/publications/shares-and-capital-gains-tax-hs284-self-assessment-helpsheet/hs284-shares-and-capital-gains-tax-2024](https://www.gov.uk/government/publications/shares-and-capital-gains-tax-hs284-self-assessment-helpsheet/hs284-shares-and-capital-gains-tax-2024)
     
 
@@ -88,7 +92,7 @@ If you have made multiple purchases and sales of the same investment, your CGT w
 
 [The 'bed and breakfast' rule](https://www.gov.uk/government/publications/shares-and-capital-gains-tax-hs284-self-assessment-helpsheet/hs284-shares-and-capital-gains-tax-2024#how-you-work-out-the-gain-under-the-bed-and-breakfasting-rule) is in place to stop people creating a gain or a loss while keeping the same investment. For example, by selling just enough to use up the annual £3,000 allowance then buying straight back in to continue their investment.
 
-When you repurchase the same investment on the same day or within 30 days, the full gain built up over the total time that the shares were owned is not crystallised. When these same shares are disposed of in future, the **original acquisition cost** will be used to calculate the gain, rather than the repurchase cost.
+When you repurchase the same investment on the same day or within 30 days, the full gain built up over the total time that the shares were owned is not crystallised. When these same shares are disposed of in future, the **original acquisition cost** will be used to calculate the gain, rather than the repurchase cost. 
 
 Note the sale and repurchase still happened, and will be included in your CGT calculations. See links below for more info and worked examples:
 
@@ -136,6 +140,19 @@ For more information on this see:
 
 ## Income tax
 
+### Income tax on dividends
+
+Dividends received from funds or shares (including dividends reinvested in Acc funds) are subject to income tax.
+
+You get a £500 dividend allowance per year. The rate of tax paid for dividends above the allowance depends on your income tax rate. See [https://www.gov.uk/tax-on-dividends](https://www.gov.uk/tax-on-dividends).
+
+Note that when you buy a fund that pays dividends (whether Acc or Inc), part of the _first_ distribution after your purchase is treated as a 'return of your own capital', known as an 'Equalisation' payment, rather than income. 
+
+For example, if a fund pays dividends every quarter, and you invest one month before a payment, you will receive the full dividend payment even though you were not invested for the full amount of time. Only 1/3rd of that payment is income, and the other 2/3rds is treated as a 'return of your own capital' or Equalisation. For more information see [Aberdeen Techzone - Equalisation payments](https://techzone.aberdeenadviser.com/investment/oeic-unt-trust/guide-taxation-of-collectives#equalisation-payments).
+
+**Note:** the equalisation amount can be taken off the s104 pool, to reduce your cost basis. See [our example table below](#example-of-a-single-fund-record-table)
+
+
 ### Income tax on interest
 
 Interest received from investments (typically bond funds, gilts, and any cash sitting uninvested in the account) is charged at your usual income tax rate.
@@ -143,19 +160,6 @@ Interest received from investments (typically bond funds, gilts, and any cash si
 This is calculated after any earned income but before dividends. For more information on this, see [Aberdeen Techzone - Order of Taxation](https://techzone.aberdeenadviser.com/personal-taxation/inc-tax/intro-guide-income-tax#the-order-of-taxing-income). 
 
 Part or all of this income might fall within your [personal savings allowance](/savings/), or the [starting rate for savings](https://www.moneysavingexpert.com/savings/tax-free-savings/).
-
-### Income tax on dividends
-
-Dividends received from funds or shares (including dividends reinvested in Acc funds) are subject to income tax.
-
-You get a £500 dividend allowance per year. The rate of tax paid for dividends above the allowance depends on your income tax rate. See [https://www.gov.uk/tax-on-dividends](https://www.gov.uk/tax-on-dividends).
-
-Note that when you buy a fund that pays dividends (whether Acc or Inc), part of the _first_ distribution after your purchase is treated as a 'return of your own capital' (known as an 'Equalisation' payment), rather than income. 
-
-For example, if a fund pays dividends every quarter, and you invest one month before a payment, you will receive the full dividend payment even though you were not invested for the full amount of time. Only 1/3rd of that payment is income, and the other 2/3rds is treated as a 'return of your own capital' or Equalisation. For more information see [Aberdeen Techzone - Equalisation payments](https://techzone.aberdeenadviser.com/investment/oeic-unt-trust/guide-taxation-of-collectives#equalisation-payments).
-
-**Note:** the equalisation amount can be taken off the s104 pool, to reduce your cost basis. See [our example table below](#example-of-a-single-fund-record-table)
-
 
 ### Income from investments counts towards your Adjusted Net Income
 
@@ -170,7 +174,7 @@ When investing in pensions or ISAs, choosing between an accumulating or distribu
 
 :::note
 
-If your priority is ease of tax reporting, the simplest answer is to buy **distributing OEIC funds**.
+If your priority is simplicity of tax reporting, the simplest answer is to buy **distributing OEIC funds**.
 
 If you want to learn more about why, or if you want to invest in ETFs or accumulating funds, read on! 
 :::
