@@ -22,7 +22,7 @@ You should then think about whether a [pension](/pensions/) contribution is a be
 You may need use a GIA for a limited period of time, for example while transferring a [lump sum](/lump-sum) into your ISA that requires multiple years' allowances. Or you may hold one for the long term, for example if you are able to use your entire ISA allowance each year out of income. 
 
 
-## Why is investing in a GIA less tax efficient than using an ISA or pension?
+### Why is investing in a GIA less tax efficient than using an ISA or pension?
 
 Unlike an ISA or pension, when investing in a taxable investment account, your investments are liable for:
 
@@ -34,7 +34,7 @@ Note that paying tax on your investment returns will never leave you worse off t
 
 When comparing investing in a GIA to [risk-free savings](/savings/) or [mortgage overpayments](/mortgage-overpayments-vs-investments/), you should take tax into account and use post-tax returns, as you would with [taxable savings](savings/#how-to-calculate-a-post-tax-return-rate).  
 
-## Why is investing in a GIA more admin than using an ISA or pension?
+### Why is investing in a GIA more admin than using an ISA or pension?
 
 When investing in a GIA it is up to you to organise your investments in a tax efficient way, such as making sure to use your Capital Gains Tax allowance each year. 
 
@@ -165,7 +165,7 @@ Part or all of this income might fall within your [personal savings allowance](/
 
 Note that while you may not owe any income tax for dividends and interest earned if they are within your dividend allowance and personal savings allowance, these allowances are 'nil rate bands' rather than _true_ allowances. Income within them is taxed at 0%, but it still counts towards your total income for the year and uses up part of a tax band.
 
-This means it can push other income (e.g. from your employer) into a higher band, start to reduce your personal allowance, or take you over a threshold such as the High Income Child Benefit Charge. See our [tax traps page](/tax-traps-and-tax-efficiency/) for more information.
+This means it can push your overall income into a higher band, for example reducing or removing your personal savings allowance, reducing your personal allowance, or pushing you over a threshold such as the High Income Child Benefit Charge. See our [tax traps page](/tax-traps-and-tax-efficiency/) for more information.
 
 
 ## Choosing funds within a GIA
@@ -185,7 +185,9 @@ Distributing funds pay out dividends as income, while accumulation funds use tho
 
 However, dividend income is **still taxable** whether it is automatically reinvested or distributed, so when investing in a GIA, having dividends rolled into the fund value makes tracking your tax liabilities harder.
 
-Also, as the dividends reinvested in an accumulation fund are subject to income tax, this has to be added to the Section 104 pooled cost, otherwise the same money is taxed a second time as a capital gain when the holding is sold. In order to keep track of this, you need to find and record the accumulation figure every time a distribution is paid, often several times a year, for as long as the fund is held. This information is not always provided by your broker, you will need to go to the fund provider's websites to look it up. 
+Also, as the dividends reinvested in an accumulation fund are subject to income tax, this has to be added to the Section 104 pooled cost, otherwise the same money is taxed a second time as a capital gain when the holding is sold. 
+
+In order to keep track of these, you need to find and record the accumulation figure every time a distribution is paid, often several times a year, for as long as the fund is held. This information is not always provided by your broker, you will need to go to the fund provider's websites to look it up. 
 
 Distributing units avoid this problem, because the income is paid out, and if you reinvest you increase the number of units held rather than the value of the units.
 
