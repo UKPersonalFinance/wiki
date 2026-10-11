@@ -10,7 +10,7 @@ export const GET: APIRoute = async ({ site }) => {
 
   const sections = await Promise.all(
     pages.map(async (page) => {
-      const url = new URL(`/${page.id}/`, site);
+      const url = new URL(page.id === "index" ? "/" : `/${page.id}/`, site);
       const { headings } = await render(page);
       const lines = headings
         .filter(({ depth }) => depth >= 2 && depth <= 3)
