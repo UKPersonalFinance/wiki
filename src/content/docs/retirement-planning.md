@@ -1,3 +1,4 @@
+
 ---
 title: Retirement Planning
 description: Working out how much you need to save for a comfortable retirement.
@@ -36,11 +37,11 @@ Bringing all of these together will allow you to create a workable plan.
 
 The ideal way to come up with a budget for retirement is to create a budget based on costs. For example, you can take your [current expenses](/budgeting/) as a baseline, then make any planned adjustments, such as excluding mortgage payments and commuting costs, and adding more budget for leisure and health expenses.
 
-You don't have to make a final decision on a specific budget, it's fine to come up with a range of options to look into.
+You don’t have to make a final decision on a specific budget, it’s fine to come up with a range of options to look into.
 
-If you are young and retirement is a long way off, you likely won't be able to create a budget based on costs, as there will be all sorts of things you don't yet know - where you'll live, whether you'll have children and/or a spouse, what kind of lifestyle you'll want, and so on. In this case, you will need to use rough estimates for now, and refine as you get closer to retirement.
+If you are young and retirement is a long way off, you likely won't be able to create a budget based on costs, as there will be all sorts of things you don't yet know - where you'll live, whether you'll have children and/or a spouse, what kind of lifestyle you'll want, and so on. In this case, you will need to use very rough estimates for now, and refine as you get closer to retirement. 
 
-You can also reference the [Retirement Living Standards](https://www.retirementlivingstandards.org.uk/).
+You can also reference the [Retirement Living Standards](https://www.retirementlivingstandards.org.uk/). 
 
 ### What about inflation?
 
@@ -52,15 +53,15 @@ This is done by accounting for inflation within the estimates for your pension g
 
 If you use a 'real' (after inflation) growth % in your calculations, you can treat the resulting numbers as in 'today's money'.
 
-This approach is standard in most calculators you can find online, as well as pension statements sent by product providers. When they estimate you will have a total pot worth £x, or income of £x, you do **not** need to try to discount this by inflation, or to increase your desired budget by inflation.
+This approach is standard in the retirement calculators you can find online, as well as pension statements sent by product providers. When they estimate you will have a total pot worth £x, or income of £x, you do **not** need to try to discount this by inflation, or to increase your desired budget by inflation.
 
 ### What about large, infrequent expenses?
 
-When thinking about how much income you need, you may prefer to have one budget for regular living costs, and a separate budget for large, one-off expenses such as mortgage payoff, a new roof fund, or gifts for children's university/weddings/home deposit.
+When thinking about how much income you need, you may prefer to have one budget for regular living costs, and a separate budget for large, one-off expenses such as mortgage payoff, a new roof fund, or gifts for children's university/weddings/home deposit. 
 
 For example, if you calculate that your desired budget without a mortgage would be £30,000/year, and you will owe £40,000 on your mortgage when you retire, you can consider £40,000 of your savings fenced off for mortgage payoff, rather than accounting for mortgage payments in your desired annual budget.
 
-For more regular but still infrequent expenses, such as replacing a car, you can "capitalise" the cost for each year. Let's say you expect to spend £20,000 changing cars every 5 years in retirement - divide the cost by the number of years, and add (20,000 / 5) = £4,000 to each year's expenses.
+For more regular but still infrequent expenses, such as replacing a car, you can "capitalise" the cost for each year. Let's say you expect to spend £20,000 changing cars every 5 years in retirement - divide the cost by the number of years, and add (£20,000 / 5) = £4,000 to each year's expenses.
 
 ## Your currently expected retirement income
 
@@ -91,7 +92,7 @@ To estimate how much **income** this pot could provide at your target retirement
 
 Note that these calculators tend to make relatively cautious assumptions (see [section on assumptions below](#assumptions)). They would rather suggest you should save more, than have you end up with not enough.
 
-If you want more control over all the calculations, you can also build your own model in Excel. Lars Kroijer, the author of 'Investing Demystified', has a [short video series](https://www.youtube.com/playlist?list=PLXy71rkGuCjXLg9N8zowwUpXCYfBcMJFK) on this topic.
+If you want more control over all the calculations, you can also build your own model in Excel. Lars Kroijer, the author of 'Investing Demystified', has a [short video series](https://www.youtube.com/playlist?list=PLXy71rkGuCjXLg9N8zowwUpXCYfBcMJFK) on this topic.
 
 ### Defined Benefit pensions
 
@@ -121,7 +122,23 @@ Note:
 - 25% of your pension is tax free (although there is a limit to this which comes into play if your pension is over £1m)
 - You do not pay National Insurance on pension withdrawals, even if you are under state pension age
 
-## Adjusting your pension contributions
+## Your planned retirement age
+
+When estimating your retirement income, you will quickly notice that the age at which you plan to retire makes a **huge** difference to the amount of retirement income you can expect.
+
+This is because of the triple impact for each earlier year:
+
+1. One year less of contributions
+2. One year less of investment growth
+3. One year more of withdrawals
+
+These impacts all compound with each year earlier you decide to retire, and makes your desired retirement age one of the most important decisions for you to think about.
+
+This applies to DB pensions as well as DC. Retiring early means the scheme pays out a guaranteed income for more years, while you pay in for fewer years. For this reason, taking your pension early will have a significant impact on the amount of income you can expect.
+
+This is known as an 'actuarial reduction', and is designed so that on average, members of the scheme receive the same total benefit relative to their number of years in the scheme. It is not a 'penalty' designed to discourage employees from retiring early!
+
+## Adjusting your plans
 
 If the calculations above have uncovered a shortfall between the retirement income you are currently on track for and the income you will want/need at your target retirement age, you will need to make some adjustments:
 
@@ -131,13 +148,11 @@ If the calculations above have uncovered a shortfall between the retirement inco
 
 The calculators you used above should help you work out how much of each will be necessary to make the numbers add up.
 
-## Reviewing over time
-
-We've mentioned a few times on this page that you'll have more information the closer to retirement you get. That applies to your desired retirement budget, how long you want to work for, how much you have earned and saved over your career, how your investments have performed, any changes the government may make to state pension or tax bands/rate, and so on.
+### Reviewing over time
 
 It's unavoidable that the further away you are from retirement, the harder it is to plan with any accuracy. The problem with this is that the _closer_ to retirement you are, the harder it will be to **make up any shortfall** in your savings.
 
-For this reason, you can't wait until everything is decided to start planning and saving. We'd also suggest erring on the side of caution in your assumptions, and reviewing your plan regularly. This needs to happen less frequently when you're younger (perhaps every few years, or following major changes like a new job or home), but as you approach retirement this should be reviewed annually. This will give you a chance to adjust as things change, and allow your plans to become more and more concrete over time.
+For this reason, while it's difficult to plan your retirement when it's decades away, you also can't wait until everything is decided to start planning and saving. We'd also suggest erring on the side of caution in your assumptions, and reviewing your plan regularly. This needs to happen less frequently when you're younger (perhaps every few years, or following major changes such as getting a new job or buying a home), but as you approach retirement this should be reviewed annually. This will give you a chance to adjust as things change, and allow your plans to become more and more concrete over time.
 
 ## Risks to consider
 
@@ -145,9 +160,9 @@ For this reason, you can't wait until everything is decided to start planning an
 
 If you are just starting out in your career, you may be wondering whether it's really necessary to scrape together £100/month of additional pension contribution now, or if it can wait until until you're earning more (and/or have completed other goals such as buying a home), when you expect to more easily afford a larger amount.
 
-Most calculators will allow you to select whether you intend to maintain your current pension contributions until retirement, or increase them over time. Toggling this setting will show that this choice can have a huge impact. It is certainly worth increasing your pension contributions as your pay increases or affordability improves.
+Most calculators will allow you to select whether you intend to maintain your current pension contributions until retirement, or increase them over time. Toggling this setting will demonstrate that this choice can have a huge impact. It is certainly worth increasing your pension contributions as your pay increases or affordability improves.
 
-We would however caution against relying on future pay rises to entirely fund your retirement. You may end up pursuing better work/life balance over higher pay, or finding that increased pay is taken up by increased costs. Ideally you should aim to fund at least a basic acceptable retirement from your current income.
+We would however caution against relying on hoped for future pay rises to entirely fund your retirement. You may end up pursuing a better work/life balance over higher pay, or finding that increased pay is taken up by increased costs. Ideally you should aim to fund at least a basic acceptable retirement from your current pension contributions. 
 
 Another common reason we hear for putting off increasing pension contributions is concentrating on mortgage payoff. Please see our [mortgage overpayments vs investments](/mortgage-overpayments-vs-investments/) page for an explanation of why this isn't always as good an idea as it may seem. Although the page focuses on ISA contributions as a comparison, the logic still stands for pensions (and more so with the extra tax relief!).
 
@@ -167,7 +182,7 @@ There are other potential risks around changes to rules. Large pension pots (typ
 
 ### Sequence of returns {#SORR}
 
-Bad years have a much higher impact on your retirement savings as you approach your target age, as you have less time for your investments to recover. A handful of "bad" early years in retirement can also have a disproportionate effect on your retirement over the long-term.
+Periods of low or negative investment returns have a much higher impact on your retirement savings as you approach your target age, as you have less time for your investments to recover. A handful of "bad" early years into retirement can also have a disproportionate effect on your retirement savings over the long-term.
 
 This is best demonstrated with a comparison table or chart, for example see the illustration in [this blog post from Baillie Gifford](https://www.bailliegifford.com/en/uk/individual-investors/insights/ic-article/2025-q2-monthly-income-sequencing-risk-10055461/).
 
@@ -197,17 +212,17 @@ A properly qualified financial planner (see the [advice section below](#advice))
 
 ## Notes on parameters/assumptions used for calculations {#assumptions}
 
-The most important thing to remember is that the parameters you use in your calculations will not directly determine your results - it will only affect **your planning** (how much you decide to save, and ultimately when you decide to retire).
-
-It can be tempting to put optimistic numbers in your calculations. For example, 'if I put investment growth at 8% real returns, I'm already on track for a great retirement, and I believe with a high risk portfolio I can achieve this rate'. But it's important to bear in mind that these assumptions are just that, and that you will need to include possible worse outcomes in your planning.
+The most important thing to remember is that the parameters you use in your calculations will not directly determine your results - they will only affect **your planning** (how much you decide to save, and ultimately when you decide to retire). 
 
 ### Investment returns
 
-Adjusting your assumptions of investment returns will make a big difference to your overall results. This is especially true if you are young with decades to go before retirement.
+Adjusting your assumptions of investment returns will make a huge difference to your predicted results. This is especially true if you are young with decades to go before retirement. 
+
+It can be tempting to use optimistic numbers in your calculations. For example, _'if I put investment growth at 8% real returns, I'm already on track for a great retirement, and I believe with a high risk portfolio I can achieve this rate'_. But it's important to bear in mind that these assumptions are just that, and that you will need to include possible worse outcomes in your planning.
 
 So what's the 'right' number to use? Unfortunately, there's no easy answer, which is why calculators generally provide a range.
 
-In our [investing 101](/investing-101/) page, we discussed that since 1900, investing in equities for a long term has produced an annual, after-inflation return of 4.9% (see [page 93, ‘Long-term asset returns’](https://am.jpmorgan.com/gb/en/asset-management/adv/insights/market-insights/guide-to-the-markets/)).
+In our [investing 101](/investing-101/) page, we discussed that since 1900, investing in equities for a long term has produced an annual, after-inflation return of 5.1% (see [page 93, ‘Long-term asset returns’](https://am.jpmorgan.com/gb/en/asset-management/adv/insights/market-insights/guide-to-the-markets/)).
 
 The caveats:
 
@@ -215,21 +230,15 @@ The caveats:
 - Index returns are gross of any costs (i.e. fund fees, platform charges, any tax paid)
 - This average is for equities only. As you approach retirement, you will likely need to reduce the risk level of your investments (see '[sequence of returns risk](#SORR)' above). De risking typically involves introducing bonds as an alternative to equities, which will reduce average returns (in exchange for reducing the risk of disasters).
 
-## Withdrawal strategies & safe withdrawal rates {#SWR}
-
-### Background
-
-Prior to 2015, there were relatively few options when it came to pension withdrawals in the UK. The default approach was to give your pension savings to an insurance company in exchange for a guaranteed income for as long as you lived, and little or no capital value on death. These products are known as annuities, and effectively seek to behave like final salary pensions.
-
-In 2011 the rules on alternatives were relaxed, and then relaxed further in 2015, and almost overnight the default approach become "flexible income withdrawals" (FCA data showed that annuities accounted for 90% of pension transactions in 2014, and just 9% of pension transactions in 2015).
-
-There are lots of potential benefits to flexible access to pensions, but the risk is moved entirely to you, the planholder, rather than being borne by an insurance company. The main risk is running out of money prematurely.
-
 ### Safe Withdrawal Rates
 
-A 'safe withdrawal rate' refers to how much income you can safely take per year (generally increasing with inflation) and have a very low risk of running out. Note that using a 'safe withdrawal rate' does not necessarily mean you preserve the initial capital, just that you have a very low risk of running out within your lifetime.
+In 2015, following a series of changes to pension access rules, the default approach to taking income from your pension in the UK switched from spending your pension balance to buy an 'annuity' (which provides a guaranteed income for life, similar to a DB pension) to 'flexible income withdrawal' (in which you keep your savings invested, and withdraw amounts that you choose over time). 
 
-Methods for calculating 'safe withdrawal rates' have been argued about for as long as the concept has existed, and estimates range from about 2.5% to 4.5%. This is actually a very wide range. To withdraw £15,000 at 4.5% would require you to have £350k invested, at 2.5% you would need £600k!
+There are lots of benefits to flexible access to pensions, but it comes with a risk of running out of money prematurely. This risk is entirely on you, the planholder, to manage. 
+
+How much of your retirement savings you can safely take as income per year (increasing with inflation, and with a very low risk of running out during your lifetime) is known as a 'safe withdrawal rate' or SWR. Note that using a 'safe withdrawal rate' does not necessarily mean you preserve the initial capital, just that you have a very low risk of running out within your lifetime.
+
+Methods for calculating 'safe withdrawal rates' have been argued about for as long as the concept has existed, and estimates range from about 2.5% to 4.5%. This is actually a very wide range. To withdraw an income of £15,000 at 4.5% would require you to have £350k invested, at 2.5% you would need £600k!
 
 So which number should you use? Again, discussing this would easily be a page in itself. Some strategies to consider about include:
 
@@ -239,21 +248,6 @@ So which number should you use? Again, discussing this would easily be a page in
 - Seek help from a [professional financial planner](/financial-advice/) with expertise in building variable models. Terms you want to ask about are "monte carlo forecasting", "bootstrapping/backtesting" or "stochastic modelling".
 - If you want to learn more yourself, consider some specialist resources such as [Beyond the 4% Rule by Abraham Okusanya](https://www.amazon.co.uk/Beyond-4-Rule-retirement-portfolios/dp/1985721643), or by searching for and learning more about withdrawal strategies such as Bengen's 4% fixed rule, Guyton-Klinger guardrails, or the Boglehead Variable Percentage Withdrawal Approach.
 
-## Retirement age
-
-When estimating your retirement income, you will quickly notice that the age at which you plan to retire makes a **huge** difference to the amount of retirement income you can expect.
-
-This is because of the triple impact for each earlier year:
-
-1. One year less of contributions
-2. One year less of investment growth
-3. One year more of withdrawals
-
-These impacts all compound with each year earlier you decide to retire, and makes your desired retirement age one of the most important decisions for you to think about.
-
-This applies to DB pensions as well as DC. Retiring early means the scheme pays out a guaranteed income for more years, while you pay in for fewer years. For this reason, taking your pension early will have a significant impact on the amount of income you can expect.
-
-This is known as an 'actuarial reduction', and is designed so that on average, members of the scheme receive the same total benefit relative to their number of years in the scheme. It is not a 'penalty' designed to discourage employees from retiring early!
 
 ## Related topics
 
@@ -263,11 +257,7 @@ This page is intended to help plan how much to save for retirement. If you are c
 
 Government-backed service [PensionWise](https://www.moneyhelper.org.uk/en/pensions-and-retirement/pension-wise) offer one free pension guidance appointment to over-50s.
 
-You can also consider paying someone for advice on this if you're not confident DIYing your drawdown strategy.
-
-### Getting professional advice {#advice}
-
-See our page on [financial advice](/financial-advice/) for more info on getting professional advice.
+You can also consider paying someone for advice on this if you're not confident DIYing your drawdown strategy. See our page on [financial advice](/financial-advice/) for more info on getting professional advice.
 
 If you are looking for a professional cash-flow forecast, look for advisers and planners that offer this service specifically, particularly those who hold the _Certified Financial Planner_ qualification.
 
