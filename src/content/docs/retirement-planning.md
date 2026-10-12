@@ -251,7 +251,7 @@ So which number should you use? Again, discussing this would easily be a page in
 
 ## Related topics
 
-### Planning drawdown
+### Planning drawdown {#advice}
 
 This page is intended to help plan how much to save for retirement. If you are close enough to retirement to start thinking about your drawdown strategy, you'll encounter a whole new set of questions and terminology: drawdown, crystallisation, UFPLS, annuities... these are all beyond the scope of this page.
 
