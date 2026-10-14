@@ -106,6 +106,7 @@ export default defineConfig({
             { label: "ISAs", slug: "isa" },
             { label: "Lifetime ISAs (LISAs)", slug: "lisa" },
             { label: "Pensions", slug: "pensions" },
+            { label: "General Investment Accounts", slug: "general-investment-accounts" },
             { label: "Retirement Planning", slug: "retirement-planning" },
             { label: "ISA vs LISA vs Pension", slug: "isa-vs-lisa-vs-pension" },
             {
