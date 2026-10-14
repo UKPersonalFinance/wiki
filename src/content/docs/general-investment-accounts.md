@@ -111,7 +111,7 @@ This can catch regular investments by accident! If you are automatically buying 
 
 If you wish to crystallise your CGT gains/losses but don't want to wait 30 days before reinvesting, you can re-invest into a **different fund** - one that is similar enough to meet your investing needs, but does not count as the same asset for the 30 day matching rule.
 
-Working out what counts as the same investment can get complicated in some cases, but when it comes to index funds, different funds from different providers are **not** the same asset, even if they invest in the same index. For example, selling Vanguard FTSE All-World Index ETF and buying Invesco FTSE All-World Index ETF on the same day does not count as the same asset, despite tracking an identical index.
+Working out what counts as the same investment can get complicated in some cases, but when it comes to index funds, different funds from different providers are **not** the same asset, even if they invest in the same index. For example, selling HSBC FTSE All-World Index fund and buying L&G All World Index fund on the same day does not count as the same asset, despite tracking an identical index.
 
 Moving between share classes of the same fund, for instance from an accumulation class to an income class, or from an old expensive class to a cheaper one, is usually treated as a 'reorganisation', which isn’t a disposal for CGT, so no gain arises and the pooled cost carries across.
 
@@ -135,7 +135,17 @@ Gilts and qualifying corporate bonds are exempt from capital gains tax, so a gai
 For more information on this see:
 
 *   [https://www.moneysavingexpert.com/savings/uk-gilts-lower-tax-savings/](https://www.moneysavingexpert.com/savings/uk-gilts-lower-tax-savings/)
-    
+
+### Keeping CGT as simple as possible
+
+There's no getting around the face that CGT is complicated. To keep things simple, you can follow a few guidelines:
+
+- Buy distributing funds so accumulations don't need dealing with.
+- Avoid situations where a repurchase of a fund happens within 30 days of a sale (for example, monthly contributions and an ad-hoc withdrawal in-between).
+- Consider a smaller number of purchasing transactions to reduce the burden of maintaining S104 pools and equalisation records - an annual purchase rather than 12 monthly purchases for example.
+- Move funds to tax-sheltered accounts like ISAs as soon as possible.
+
+In an extreme example, some people advocate for buying a different (distributing) world index fund each transaction. Because they are different funds, despite tracking the same index, there is no need to work out a S104 pool. The acquisition cost of each fund is just what you paid for it. 
 
 ## Income tax
 
@@ -149,7 +159,7 @@ Note that when you buy a fund that pays dividends (whether Acc or Inc), part of 
 
 For example, if a fund pays dividends every quarter, and you invest one month before a payment, you will receive the full dividend payment even though you were not invested for the full amount of time. Only 1/3rd of that payment is income, and the other 2/3rds is treated as a 'return of your own capital' or Equalisation. For more information see [Aberdeen Techzone - Equalisation payments](https://techzone.aberdeenadviser.com/investment/oeic-unt-trust/guide-taxation-of-collectives#equalisation-payments).
 
-**Note:** the equalisation amount can be taken off the s104 pool, to reduce your cost basis. See [our example table below](#example-of-a-single-fund-record-table)
+**Note:** the equalisation amount should be taken from the s104 pool, to reduce your cost basis, because it is effectively the return of cash you invested in the fund. See [our example table below](#example-of-a-single-fund-record-table)
 
 
 ### Income tax on interest
@@ -180,7 +190,7 @@ If you want to learn more about why, or if you want to invest in ETFs or accumul
 
 ### Accumulating vs Distributing funds
 
-Distributing funds pay out dividends as income, while accumulation funds use those dividends to buy more of the assets within the fund and increase the value of the fund units. This accumulation is [convenient in an ISA or pension](/index-funds/#acc-vs-inc) as it saves you effort (and potentially fees) in re-investing the dividends.
+Distributing funds pay out dividends as income, while accumulation funds use those dividends to buy more of the assets within the fund and increase the apparent capital value of the fund. This accumulation is [convenient in an ISA or pension](/index-funds/#acc-vs-inc) as it saves you effort (and potentially fees) in re-investing the dividends.
 
 However, dividend income is **still taxable** whether it is automatically reinvested or distributed, so when investing in a GIA, having dividends rolled into the fund value makes tracking your tax liabilities harder.
 
@@ -279,6 +289,8 @@ The simplest approach is to use a spreadsheet to record each transaction: the da
 If [ERI](#3-excess-reportable-income) or [equalisation](https://techzone.aberdeenadviser.com/investment/oeic-unt-trust/guide-taxation-of-collectives#tax-on-income) applies, this also needs adding as a separate line item.
 
 #### Example of a single-fund record table
+
+We have used an accumulating fund in this example to show how accumulations are dealt with - in practice it is preferable and simpler to use distributing funds.
 
 | # | Date | Transaction | Cash | Pool units | Pool cost | Gain |
 |---|---|---|---|---|---|---|
