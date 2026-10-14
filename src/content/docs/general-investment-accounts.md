@@ -16,7 +16,7 @@ This page is intended to help you get started navigating taxable investments, if
 
 If you have [ISA](/isa/) allowance available, you should use that first.
 
-You should then think about whether a [pension](/pensions/) contribution is a better plan. A pension will generally be significantly more tax efficient than a GIA, as well as less admin. The main reason to use a GIA over a pension is if you expect to need the money before the ['normal minimum pension age'](pensions/#access-age), and you have no ISA allowance remaining. 
+You should then think about whether a [pension](/pensions/) contribution is a better plan. A pension will generally be significantly more tax efficient than a GIA, as well as less admin. The main reason to use a GIA over a pension is if you expect to need the money before the ['normal minimum pension age'](/pensions/#access-age), and you have no ISA allowance remaining. 
 
 You may need use a GIA for a limited period of time, for example while transferring a [lump sum](/lump-sum) into your ISA that requires multiple years' allowances. Or you may hold one for the long term, for example if you are able to use your entire ISA allowance each year out of income. 
 
@@ -31,7 +31,7 @@ Unlike an ISA or pension, when investing in a taxable investment account, your i
 
 Note that paying tax on your investment returns will never leave you worse off than if you had not invested at all. That said, you can certainly be worse off than if you'd made the same investments in a tax-efficient account like an ISA or pension! 
 
-When comparing investing in a GIA to [risk-free savings](/savings/) or [mortgage overpayments](/mortgage-overpayments-vs-investments/), you should take tax into account and use post-tax returns, as you would with [taxable savings](savings/#how-to-calculate-a-post-tax-return-rate).  
+When comparing investing in a GIA to [risk-free savings](/savings/) or [mortgage overpayments](/mortgage-overpayments-vs-investments/), you should take tax into account and use post-tax returns, as you would with [taxable savings](/savings/#how-to-calculate-a-post-tax-return-rate).  
 
 ### Why is investing in a GIA more admin than using an ISA or pension?
 
@@ -180,7 +180,7 @@ If you want to learn more about why, or if you want to invest in ETFs or accumul
 
 ### Accumulating vs Distributing funds
 
-Distributing funds pay out dividends as income, while accumulation funds use those dividends to buy more of the assets within the fund and increase the value of the fund units. This accumulation is [convenient in an ISA or pension](index-funds/#acc-vs-inc) as it saves you effort (and potentially fees) in re-investing the dividends.
+Distributing funds pay out dividends as income, while accumulation funds use those dividends to buy more of the assets within the fund and increase the value of the fund units. This accumulation is [convenient in an ISA or pension](/index-funds/#acc-vs-inc) as it saves you effort (and potentially fees) in re-investing the dividends.
 
 However, dividend income is **still taxable** whether it is automatically reinvested or distributed, so when investing in a GIA, having dividends rolled into the fund value makes tracking your tax liabilities harder.
 
