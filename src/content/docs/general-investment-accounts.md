@@ -4,7 +4,6 @@
 ---
 title: General Investment Accounts 
 description: What general investment accounts are, how they work, and how they're taxed 
-draft: true
 ---
 
 If you've used your ISA allowance, but still have money left to invest, you may be considering using a General Investment Account ('GIA'). These have no limits on your contributions or withdrawals, but your investments are subject to tax.
@@ -26,7 +25,7 @@ You may need use a GIA for a limited period of time, for example while transferr
 
 Unlike an ISA or pension, when investing in a taxable investment account, your investments are liable for:
 
-*   **Capital Gains Tax** on the increase in value of your investments
+*   **Capital Gains Tax** on the increase in value of your investments when they're sold.
 
 *   **Income tax** on dividends and interest    
 
