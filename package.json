@@ -10,21 +10,21 @@
     "astro": "astro"
   },
   "dependencies": {
-    "@astrojs/markdown-remark": "7.3.1",
-    "@astrojs/mdx": "^8.0.2",
+    "@astrojs/markdown-remark": "7.3.2",
+    "@astrojs/mdx": "^8.0.3",
     "@astrojs/sitemap": "^3.7.4",
-    "@astrojs/starlight": "^0.42.5",
+    "@astrojs/starlight": "^0.42.6",
     "@inox-tools/star-warp": "^2.0.0",
-    "astro": "7.3.5",
+    "astro": "7.3.8",
     "remark-custom-heading-id": "^2.0.0"
   },
   "devDependencies": {
     "@astrojs/check": "^0.9.10",
-    "prettier": "3.9.9",
-    "prettier-plugin-astro": "1.1.0",
+    "prettier": "3.9.10",
+    "prettier-plugin-astro": "1.1.1",
     "sharp": "^0.35.5",
-    "starlight-links-validator": "^0.26.0",
+    "starlight-links-validator": "^0.27.0",
     "typescript": "6.0.3",
-    "wrangler": "^4.147.0"
+    "wrangler": "^4.149.0"
   }
 }
