@@ -278,7 +278,7 @@ Keeping records for GIA sales and purchases is much more important than ISAs and
 
 **Income tax:** You should receive a 'consolidated tax certificate' from your broker each year, in time for you to file a tax return, which shows all dividends and interest received in the previous tax year, split between UK and overseas income, and whether any tax was taken at source. 
 
-Note this doesn't usually include [Excess Reportable Income from ETFs](#3-excess-reportable-income), and on some platforms it doesn't include the [accumulations paid inside accumulation units](#accumulating-vs-distributing-funds) either. (You can avoid needing to look these up separately by investing in distributing OEICs). 
+Note this doesn't usually include [Excess Reportable Income from ETFs](#3-excess-reportable-income), and on some platforms it doesn't include the [accumulated dividends paid inside accumulation units](#accumulating-vs-distributing-funds) either. (You can avoid needing to look these up separately by investing in distributing OEICs). 
 
 **CGT**: As CGT is only owed when you sell, it can be easy to forget to keep records as you go along. But you will need them! 
 
