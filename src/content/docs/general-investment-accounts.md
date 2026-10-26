@@ -164,7 +164,7 @@ For example, if a fund pays dividends every quarter, and you invest one month be
 
 ### Income tax on interest
 
-Interest received from investments (typically bond funds, gilts, and any cash sitting uninvested in the account) is charged at your usual income tax rate.
+Interest received from investments (typically bond funds, money market funds (MMFs), gilts, and any cash sitting uninvested in the account) is charged at your usual income tax rate.
 
 This is calculated after any earned income but before dividends. For more information on this, see [Aberdeen Techzone - Order of Taxation](https://techzone.aberdeenadviser.com/personal-taxation/inc-tax/intro-guide-income-tax#the-order-of-taxing-income). 
 
