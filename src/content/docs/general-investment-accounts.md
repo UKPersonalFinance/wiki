@@ -25,7 +25,7 @@ You may need use a GIA for a limited period of time, for example while transferr
 
 Unlike an ISA or pension, when investing in a taxable investment account, your investments are liable for:
 
-*   **Capital Gains Tax** on the increase in value of your investments when they're sold.
+*   **Capital Gains Tax** on the increase in value of your investments when they're sold
 
 *   **Income tax** on dividends and interest    
 
