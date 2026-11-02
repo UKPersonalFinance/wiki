@@ -10,7 +10,7 @@ This wiki page outlines methods you might use to reduce your tax liability
 on your income as well as some of your responsibilities, including whether
 you need to submit a self assessment to HMRC.
 
-Figures are correct for the 2024-2025 tax year.
+Figures are correct for the 2026-2027 tax year.
 
 ## What is a 'tax trap'?
 
@@ -428,10 +428,7 @@ read more about them
 If you enter either of these tax traps you may be required to complete a
 Self Assessment Tax Return to ensure you are taxed appropriately.
 
-HMRC have a guidance page on [who should fill in a tax return](https://www.gov.uk/self-assessment-tax-returns/who-must-send-a-tax-return), with one of
-the triggers being "earnings over £100,000" (changing to £150,000 in
-2024/2025 tax year), although accountants and tax experts argue that there
-is no requirement in law to do so unless HMRC specifically request it.
+HMRC have a guidance page on [who should fill in a tax return](https://www.gov.uk/self-assessment-tax-returns/who-must-send-a-tax-return). In previous years, there was a requirement to complete a tax return if you earned over £100k (or £150k in 2023-2024). This no longer applies; however, if you are still registered as needing to complete a tax return due to this you will remain registered until you ask HMRC to stop issuing self assessments.
 
 If HMRC issues you with a notice to file, you must submit a tax return. Even
 if you think you will not owe any additional tax, failure to do so will
