@@ -10,12 +10,12 @@
     "astro": "astro"
   },
   "dependencies": {
-    "@astrojs/markdown-remark": "7.3.4",
-    "@astrojs/mdx": "^8.1.1",
+    "@astrojs/markdown-remark": "7.3.5",
+    "@astrojs/mdx": "^8.1.2",
     "@astrojs/sitemap": "^3.7.4",
-    "@astrojs/starlight": "^0.42.7",
+    "@astrojs/starlight": "^0.42.8",
     "@inox-tools/star-warp": "^2.0.0",
-    "astro": "7.4.2",
+    "astro": "7.4.4",
     "remark-custom-heading-id": "^2.0.0"
   },
   "devDependencies": {
@@ -25,6 +25,6 @@
     "sharp": "^0.35.5",
     "starlight-links-validator": "^0.27.0",
     "typescript": "6.0.3",
-    "wrangler": "^4.152.0"
+    "wrangler": "^4.156.1"
   }
 }
